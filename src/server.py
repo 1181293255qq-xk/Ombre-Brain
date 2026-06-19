@@ -3776,6 +3776,138 @@ async def api_system_status(request: Request) -> Response:
         return JSONResponse({"error": str(e)}, status_code=500)
 
 
+# ============================================================
+# Cloudflare Tunnel 管理
+# ============================================================
+
+import subprocess as _subprocess
+
+_tunnel_proc: Optional[_subprocess.Popen] = None
+
+
+def _get_tunnel_config_file() -> str:
+    return os.path.join(config["buckets_dir"], ".tunnel_config.json")
+
+
+def _load_tunnel_config() -> dict:
+    try:
+        p = _get_tunnel_config_file()
+        if os.path.exists(p):
+            with open(p, "r", encoding="utf-8") as f:
+                return _json_lib.load(f)
+    except Exception:
+        pass
+    return {}
+
+
+def _save_tunnel_config(data: dict) -> None:
+    with open(_get_tunnel_config_file(), "w", encoding="utf-8") as f:
+        _json_lib.dump(data, f, ensure_ascii=False)
+
+
+def _tunnel_running() -> bool:
+    global _tunnel_proc
+    if _tunnel_proc is None:
+        return False
+    if _tunnel_proc.poll() is not None:
+        _tunnel_proc = None
+        return False
+    return True
+
+
+def _start_tunnel(token: str) -> tuple[bool, str]:
+    global _tunnel_proc
+    if _tunnel_running():
+        return True, "already running"
+    import shutil
+    cf = shutil.which("cloudflared")
+    if not cf:
+        return False, "cloudflared 未安装，请在 Dockerfile 中添加或手动安装"
+    try:
+        _tunnel_proc = _subprocess.Popen(
+            [cf, "tunnel", "--no-autoupdate", "run", "--token", token],
+            stdout=_subprocess.DEVNULL,
+            stderr=_subprocess.DEVNULL,
+        )
+        return True, "started"
+    except Exception as e:
+        return False, str(e)
+
+
+def _stop_tunnel() -> None:
+    global _tunnel_proc
+    if _tunnel_proc is not None:
+        try:
+            _tunnel_proc.terminate()
+            _tunnel_proc.wait(timeout=5)
+        except Exception:
+            try:
+                _tunnel_proc.kill()
+            except Exception:
+                pass
+        _tunnel_proc = None
+
+
+@mcp.custom_route("/api/tunnel/status", methods=["GET"])
+async def api_tunnel_status(request: Request) -> Response:
+    from starlette.responses import JSONResponse
+    err = _require_auth(request)
+    if err:
+        return err
+    cfg = _load_tunnel_config()
+    return JSONResponse({
+        "running": _tunnel_running(),
+        "token_set": bool(cfg.get("token")),
+        "auto_start": cfg.get("auto_start", False),
+    })
+
+
+@mcp.custom_route("/api/tunnel/config", methods=["POST"])
+async def api_tunnel_config(request: Request) -> Response:
+    from starlette.responses import JSONResponse
+    err = _require_auth(request)
+    if err:
+        return err
+    try:
+        body = await request.json()
+    except Exception:
+        return JSONResponse({"error": "invalid JSON"}, status_code=400)
+    token = body.get("token", "").strip()
+    auto_start = bool(body.get("auto_start", False))
+    cfg = _load_tunnel_config()
+    if token:
+        cfg["token"] = token
+    cfg["auto_start"] = auto_start
+    _save_tunnel_config(cfg)
+    return JSONResponse({"ok": True})
+
+
+@mcp.custom_route("/api/tunnel/start", methods=["POST"])
+async def api_tunnel_start(request: Request) -> Response:
+    from starlette.responses import JSONResponse
+    err = _require_auth(request)
+    if err:
+        return err
+    cfg = _load_tunnel_config()
+    token = cfg.get("token", "").strip()
+    if not token:
+        return JSONResponse({"error": "未配置 Token，请先保存 Token"}, status_code=400)
+    ok, msg = _start_tunnel(token)
+    if not ok:
+        return JSONResponse({"error": msg}, status_code=500)
+    return JSONResponse({"ok": True, "running": True})
+
+
+@mcp.custom_route("/api/tunnel/stop", methods=["POST"])
+async def api_tunnel_stop(request: Request) -> Response:
+    from starlette.responses import JSONResponse
+    err = _require_auth(request)
+    if err:
+        return err
+    _stop_tunnel()
+    return JSONResponse({"ok": True, "running": False})
+
+
 # --- Entry point / 启动入口 ---
 if __name__ == "__main__":
     transport = config.get("transport", "stdio")
@@ -3824,7 +3956,13 @@ if __name__ == "__main__":
             async def _combined_lifespan(app):
                 async with _main_lifespan(app):
                     async with _extra_lifespan(app):
+                        # Auto-start tunnel if configured
+                        _tcfg = _load_tunnel_config()
+                        if _tcfg.get("auto_start") and _tcfg.get("token"):
+                            _ok, _msg = _start_tunnel(_tcfg["token"])
+                            logger.info(f"Tunnel auto-start: {_msg}")
                         yield
+                        _stop_tunnel()
 
             _app.router.lifespan_context = _combined_lifespan
             _app.routes.extend(_extra_app.routes)

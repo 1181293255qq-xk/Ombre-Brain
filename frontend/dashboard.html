@@ -1032,6 +1032,27 @@
       </div>
 
       <div>
+        <div style="font-weight:600;font-size:13px;margin-bottom:6px;">Cloudflare Tunnel</div>
+        <div style="font-size:12px;color:var(--text-dim);margin-bottom:10px;">配置后可从外网访问 Dashboard。在 <a href="https://one.dash.cloudflare.com" target="_blank" style="color:var(--accent)">Cloudflare Zero Trust</a> 创建 Tunnel 获取 Token。</div>
+        <div class="config-row">
+          <label>Token</label>
+          <input type="password" id="tunnel-token-input" placeholder="粘贴 Cloudflare Tunnel Token" style="flex:1;font-family:monospace;font-size:12px;" />
+        </div>
+        <div style="display:flex;align-items:center;gap:10px;margin-top:8px;flex-wrap:wrap;">
+          <label style="display:flex;align-items:center;gap:6px;font-size:12px;cursor:pointer;">
+            <input type="checkbox" id="tunnel-autostart" /> 启动时自动连接
+          </label>
+          <button class="btn-primary" onclick="saveTunnelToken()" style="padding:5px 12px;font-size:12px;">保存</button>
+          <button id="tunnel-toggle-btn" class="btn-primary" onclick="toggleTunnel()" style="padding:5px 12px;font-size:12px;">启动</button>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;margin-top:10px;">
+          <span id="tunnel-status-dot" style="width:8px;height:8px;border-radius:50%;background:var(--text-dim);display:inline-block;"></span>
+          <span id="tunnel-status-text" style="font-size:12px;color:var(--text-dim);">未运行</span>
+        </div>
+        <div id="tunnel-msg" style="margin-top:8px;font-size:12px;"></div>
+      </div>
+
+      <div>
         <div style="font-weight:600;font-size:13px;margin-bottom:6px;">退出登录</div>
         <button class="btn-danger" onclick="doLogout()" style="padding:6px 14px;font-size:12px;">退出登录</button>
       </div>
@@ -1584,6 +1605,64 @@ async function saveSecurityQuestion() {
   }
 }
 
+// --- Cloudflare Tunnel ---
+async function loadTunnelStatus() {
+  const resp = await authFetch('/api/tunnel/status');
+  if (!resp || !resp.ok) return;
+  const d = await resp.json();
+  const dot = document.getElementById('tunnel-status-dot');
+  const txt = document.getElementById('tunnel-status-text');
+  const btn = document.getElementById('tunnel-toggle-btn');
+  const cb  = document.getElementById('tunnel-autostart');
+  if (d.running) {
+    dot.style.background = 'var(--accent)';
+    txt.textContent = '运行中';
+    btn.textContent = '停止';
+  } else {
+    dot.style.background = 'var(--text-dim)';
+    txt.textContent = '未运行';
+    btn.textContent = '启动';
+  }
+  if (cb) cb.checked = d.auto_start;
+}
+
+async function saveTunnelToken() {
+  const token = document.getElementById('tunnel-token-input').value.trim();
+  const autoStart = document.getElementById('tunnel-autostart').checked;
+  const msgEl = document.getElementById('tunnel-msg');
+  if (!token) { msgEl.style.color = 'var(--negative)'; msgEl.textContent = '请输入 Token'; return; }
+  const resp = await authFetch('/api/tunnel/config', {
+    method: 'POST',
+    headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({token, auto_start: autoStart})
+  });
+  if (!resp) return;
+  if (resp.ok) {
+    msgEl.style.color = 'var(--accent)'; msgEl.textContent = 'Token 已保存';
+    document.getElementById('tunnel-token-input').value = '';
+  } else {
+    msgEl.style.color = 'var(--negative)'; msgEl.textContent = '保存失败';
+  }
+}
+
+async function toggleTunnel() {
+  const btn = document.getElementById('tunnel-toggle-btn');
+  const msgEl = document.getElementById('tunnel-msg');
+  const isRunning = btn.textContent === '停止';
+  const url = isRunning ? '/api/tunnel/stop' : '/api/tunnel/start';
+  btn.disabled = true;
+  const resp = await authFetch(url, {method: 'POST'});
+  btn.disabled = false;
+  if (!resp) return;
+  if (resp.ok) {
+    msgEl.textContent = '';
+    await loadTunnelStatus();
+  } else {
+    const d = await resp.json().catch(() => ({}));
+    msgEl.style.color = 'var(--negative)'; msgEl.textContent = d.error || '操作失败';
+  }
+}
+
 async function loadSettingsStatus() {
   const el = document.getElementById('settings-status');
   try {
@@ -1602,6 +1681,7 @@ async function loadSettingsStatus() {
   } catch(e) {
     el.textContent = '加载失败: ' + e;
   }
+  await loadTunnelStatus();
 }
 
 // #6: 环境变量面板
