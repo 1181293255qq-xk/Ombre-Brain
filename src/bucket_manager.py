@@ -1041,7 +1041,7 @@ class BucketManager:
         Normalizes activation_count over 10; capped at 1.0.
         计算触碰频率得分（0~1），以 10 次为上限归一化。
         """
-        count = float(meta.get("activation_count", 0))
+        count = float(meta.get("activation_count") or 0)
         return min(count / _TOUCH_NORMALIZE_CAP, 1.0)
 
     # ---------------------------------------------------------

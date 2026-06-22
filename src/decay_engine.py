@@ -206,7 +206,7 @@ class DecayEngine:
             importance = max(1, min(10, int(metadata.get("importance", _DEFAULT_IMPORTANCE))))
         except (TypeError, ValueError):
             importance = _DEFAULT_IMPORTANCE
-        activation_count = max(1.0, float(metadata.get("activation_count", 1)))
+        activation_count = max(1.0, float(metadata.get("activation_count") or 1))
 
         # --- Days since last activation ---
         days_since = _days_since_active(metadata, fallback_days=_DEFAULT_DAYS_FALLBACK)
@@ -303,7 +303,7 @@ class DecayEngine:
             # --- Auto-resolve: imp≤4 + >30 days old + not resolved → auto resolve ---
             # --- 自动结案：重要度≤4 + 超过30天 + 未解决 → 自动 resolve ---
             if not meta.get("resolved", False):
-                imp = int(meta.get("importance", _DEFAULT_IMPORTANCE))
+                imp = int(meta.get("importance") or _DEFAULT_IMPORTANCE)
                 # auto-resolve 路径上时间字段坏 → 按 999 天处理（加速会被结案）
                 days_since = _days_since_active(
                     meta, fallback_days=_AUTO_RESOLVE_FALLBACK_DAYS

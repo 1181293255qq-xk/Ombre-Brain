@@ -38,12 +38,12 @@ async def surface_by_importance(importance_min: int, max_tokens: int, tag_filter
         return f"记忆系统暂时无法访问: {e}"
     filtered = [
         b for b in all_buckets
-        if int(b["metadata"].get("importance", 0)) >= importance_min
-        and b["metadata"].get("type") not in ("feel", "plan", "letter")
-        and not b["metadata"].get("dont_surface", False)
-        and _bucket_has_tags(b["metadata"], tag_filter)
+        if int(b.get("metadata", {}).get("importance") or 0) >= importance_min
+        and b.get("metadata", {}).get("type") not in ("feel", "plan", "letter")
+        and not b.get("metadata", {}).get("dont_surface", False)
+        and _bucket_has_tags(b.get("metadata", {}), tag_filter)
     ]
-    filtered.sort(key=lambda b: int(b["metadata"].get("importance", 0)), reverse=True)
+    filtered.sort(key=lambda b: int(b.get("metadata", {}).get("importance") or 0), reverse=True)
     filtered = filtered[:20]
     if not filtered:
         return f"没有重要度 >= {importance_min} 的记忆。"
