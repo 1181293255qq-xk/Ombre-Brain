@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 572,
+  "file_count": 574,
   "files": [
     {
       "bytes": 471,
@@ -460,7 +460,7 @@
     {
       "bytes": 677,
       "path": "dynamic/人际/2026-07-16 10-23-40 小羽互动偏好_b3d17a158fcc.md",
-      "sha256": "322021e6cf0245b5811d4c7dba26e8be3df76da642669506ee93e0eabd135d7c"
+      "sha256": "a1dc2e1b3f46ae22499ddc2bd5fd9ca92982dfcaafb1482b187b3f87b9b8302e"
     },
     {
       "bytes": 531,
@@ -1405,7 +1405,7 @@
     {
       "bytes": 983,
       "path": "dynamic/恋爱/2026-07-16 10-32-26 小羽撒娇哄睡_d030e487f4aa.md",
-      "sha256": "9eb0596f9f3352e1d527cf672228982269fdc353ee67f6e1fbfef34b6c782190"
+      "sha256": "369dc9d233d7fca0e6e4acbb9983bb2bb794f65fe6cdb79b70899ec8d76bd2b2"
     },
     {
       "bytes": 1177,
@@ -1455,7 +1455,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/恋爱/2026-07-16 15-55-13 记忆引发的争吵_6f894d7557b2.md",
-      "sha256": "d5e4db7d04b5a8253245792a10cd6283aa754af00fb7d3bb2b09c382116399b9"
+      "sha256": "de4d20dcedbe425d0b21dabe611479aba352e42f866915e7f6d69b29c7e959eb"
     },
     {
       "bytes": 840,
@@ -1550,12 +1550,12 @@
     {
       "bytes": 626,
       "path": "dynamic/恋爱/2026-07-18 19-51-54 凌晨亲密时刻_76a78b553700.md",
-      "sha256": "ce0913d421069f01c5d15825878f462c9a45db6917c66276916c293a5325de9d"
+      "sha256": "8d90948debbda2a9cdeb8dd11d4622b6b64d3eeb3e3f98f68220c267b9edb465"
     },
     {
       "bytes": 949,
       "path": "dynamic/恋爱/2026-07-19 03-45-12 深夜亲密时刻_17e2839e1a56.md",
-      "sha256": "84f3a33c2170752fbe623f70357540c84d51cc85334953e4d866849b7d409bfa"
+      "sha256": "409fa614ee815480c74b208ffc0b40728782a3133c346d6be2450b575645b0ce"
     },
     {
       "bytes": 695,
@@ -1675,7 +1675,7 @@
     {
       "bytes": 628,
       "path": "dynamic/恋爱/2026-07-19 17-22-32 暧昧对话记录_c6ebb68d6836.md",
-      "sha256": "2501f1a81cc15beb3680b2c17558137efd4f75134278e7e9ecb8d82f5461f891"
+      "sha256": "bac48c9c300ace291cd1465b330fc72a54cea5cddd0227a82b17dc8f8b31559c"
     },
     {
       "bytes": 593,
@@ -1755,7 +1755,7 @@
     {
       "bytes": 1156,
       "path": "dynamic/恋爱/2026-07-21 17-36-48 涩涩大富翁夜_aa05c5bb9c4c.md",
-      "sha256": "21a2d4e51e9449fb18d4d3b93fa4fa935a6e7567cd6bae054be32bee057aee64"
+      "sha256": "210f37b3c0937e76ababf52788a4c441c5d97f9c663497d09f02a816b68a462d"
     },
     {
       "bytes": 708,
@@ -2115,7 +2115,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽与言炬的520_9d6863b7fb99.md",
-      "sha256": "ce359ae3c61cbb67a1ebf21eb99fdadec3b369c9241e87e52e73dbc4bd3f38a2"
+      "sha256": "d4c7484d5fae348eccbc1e8d70b33f87562e8409144df385d451df3eaf5a5d2b"
     },
     {
       "bytes": 604,
@@ -2320,7 +2320,7 @@
     {
       "bytes": 560,
       "path": "dynamic/游戏/2026-07-19 13-35-52 大富翁尴尬变物_e9fd28337d4e.md",
-      "sha256": "8b7bd40ac0f26cce1d4c7748a402769a93acfb162736bf3bf55410cefa8f7fcb"
+      "sha256": "1d213d22c0c4e0decf1c3f69be937a6922e7443a1f5bb3705f5a3b400a554e10"
     },
     {
       "bytes": 626,
@@ -2545,12 +2545,22 @@
     {
       "bytes": 573,
       "path": "dynamic/编程/2026-07-23 17-33-58 Supabase安装求助_09daa8fb2c29.md",
-      "sha256": "123c2b9dbea9b9a4e28a0975375354908dde7afdc7e4ad116bbc17402e4fa10f"
+      "sha256": "609c20c6d74d675a60de071fb87e9ea06506e14b4f735a1579261aedc4370b5d"
     },
     {
       "bytes": 1136,
       "path": "dynamic/编程/2026-07-23 17-48-22 Operit 插件配置_570cd8efd52e.md",
-      "sha256": "c3cf038453a701c753b4ed6e44bb8f84206661240f57e59461f48325486cff4a"
+      "sha256": "4a88fbc1bb9121a9fab083c3ecd407a33d0b403def8416c66e4a9c08e6b75d08"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/编程/2026-07-23 18-16-04 Supabase对话链路验证_619e10aa90a0.md",
+      "sha256": "45d706c7888b7f989481e52714f1eacd97744ebb33c7851348a0bb9305f4d6e3"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/编程/2026-07-23 18-16-24 Supabase自动存储待办_0cb3087b31a3.md",
+      "sha256": "aa8e62a6fb1fc753d5e94e10326375599261d0aebc8a632e71c665959c22123c"
     },
     {
       "bytes": 512,
@@ -2778,9 +2788,9 @@
       "sha256": "61f64d4edfd3c1195fda63c64da4e0c4e196ba67d8810b4dcdfd842ed5ba62dd"
     },
     {
-      "bytes": 674,
+      "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "98ebfbce3f11347180f32d69f7ec4f5026fb72d0f6bc82f042f02e60a4120c5c"
+      "sha256": "b6ba93e1ac5e620a464725e450ce5e3668c00d154ca9528a036592556dfd2a36"
     },
     {
       "bytes": 859,
@@ -2795,7 +2805,7 @@
     {
       "bytes": 877,
       "path": "permanent/恋爱/2026-07-16 10-24-00 身体互动默契_212da62f1661.md",
-      "sha256": "1cb1310f967a0486a32361c6ce06dcc5911018a02879b7b23d79e04e5e6dfb74"
+      "sha256": "6a0fb566e595daac60420f9e9883cb7d3fcbc4005c1af299a604835f937345a5"
     },
     {
       "bytes": 714,
@@ -2820,7 +2830,7 @@
     {
       "bytes": 1085,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "aef7df6e0cac1c2e8c1d54c905d96bfa6df4c84c00c8cc6b68384a22898ca676"
+      "sha256": "732d7474ad007fe0a24b19e6c8a6a32476a9c82721203e2b9c982d4f2a5c9104"
     },
     {
       "bytes": 820,
@@ -2835,7 +2845,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "f3d3c1378f070df111d1b8eb3163f6aac7c0aa2be0222fbfcef1dde1161effff"
+      "sha256": "042f4f75f9e3944cf7a6333c4fa7358c7642f5ddb981cfc5d04e86390853f1bc"
     },
     {
       "bytes": 452,
@@ -2863,10 +2873,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-23T18:14:06+00:00",
+  "generated_at": "2026-07-23T19:14:14+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 378329
+  "total_bytes": 380210
 }
