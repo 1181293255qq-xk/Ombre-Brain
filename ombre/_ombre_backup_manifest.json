@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 585,
+  "file_count": 591,
   "files": [
     {
       "bytes": 471,
@@ -183,6 +183,11 @@
       "sha256": "dadb5d13f963573847078858568c44abbd41e60988e7c2ef11b24697f5666bcc"
     },
     {
+      "bytes": 478,
+      "path": "archive/恋爱/2026-07-16 11-05-56 检讨书三条承诺_9f3b7788be91.md",
+      "sha256": "9e3deadebb20480458c82a33c98b004df6fbf67cc89c67878ba656818b00f769"
+    },
+    {
       "bytes": 769,
       "path": "archive/成长/2026-07-16 10-18-00 小羽的论文困境_df58a51c7265.md",
       "sha256": "d56d056f15bedc120078285b966273e4a8604df9b294770132b227c7d1f9df77"
@@ -281,6 +286,11 @@
       "bytes": 467,
       "path": "dynamic/self/2026-07-21 14-53-06_1dafb6d56ff1.md",
       "sha256": "0c28315e87aea46ae62b8b7b9c86d4497de95549043aecdfc6784c3a5e1a35f8"
+    },
+    {
+      "bytes": 482,
+      "path": "dynamic/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
+      "sha256": "b364ffe12b49b014652bc0a59e9ee43d39aed067196b259e79cce79644987a55"
     },
     {
       "bytes": 675,
@@ -460,7 +470,7 @@
     {
       "bytes": 677,
       "path": "dynamic/人际/2026-07-16 10-23-40 小羽互动偏好_b3d17a158fcc.md",
-      "sha256": "f0af8b5aa86729f5188aa032acfc1a727a8ae5aec9c6708e797c94b2c14f3ba0"
+      "sha256": "5baee3ceea8f6981e007a8993fefa74c9346b85298bc3e71936af7552853256e"
     },
     {
       "bytes": 531,
@@ -798,9 +808,14 @@
       "sha256": "ca2ad6d9ba0335c34a7c60de57c008b0816bac60dd64c7da393939abba59266d"
     },
     {
+      "bytes": 803,
+      "path": "dynamic/兴趣/2026-07-24 10-53-03 搜索Claude帖子_99cc5d999195.md",
+      "sha256": "76015474dc716875d0815845d8741b5110ded7b9cafef56d57090dcb440a1b9f"
+    },
+    {
       "bytes": 703,
       "path": "dynamic/内心/2026-07-16 09-57-18 小羽的情绪与相处模式_111752352907.md",
-      "sha256": "f55d77dcaf9e1628de702463ec7c40876ea66d918618993bfb619b6045ea8342"
+      "sha256": "8a6b2385720c88c5efcf648abfbfb909ef11b16db8dd175cfe6c8ff19d38d6ae"
     },
     {
       "bytes": 594,
@@ -1061,6 +1076,11 @@
       "bytes": 526,
       "path": "dynamic/内心/2026-07-16 11-12-20 小羽心理与脆弱点_b9429a0de8b2.md",
       "sha256": "e41a9a3e4e619748069755b7438687b8976036bf6b80cd10e7fbbfe8ee6e4b65"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/内心/2026-07-24 10-53-07 评论区引发的情绪_92bdc710e849.md",
+      "sha256": "fade2fed9cfce08d0615bc140fbe2078814a3b85bda97ce38d97f737de509798"
     },
     {
       "bytes": 734,
@@ -1415,7 +1435,7 @@
     {
       "bytes": 983,
       "path": "dynamic/恋爱/2026-07-16 10-32-26 小羽撒娇哄睡_d030e487f4aa.md",
-      "sha256": "c45baa9ff258a096963ce8484a3dd674bb6bba2d18c736be79e7ae5c3dcdbf93"
+      "sha256": "a9f03738689f2adb50e93045f00733428cbb6943a2e5a6165f3f965aa6e41b25"
     },
     {
       "bytes": 1177,
@@ -1448,11 +1468,6 @@
       "sha256": "3e0904ca8331089c131bab06a591b0c790fafd64d6a37c40f2c572f8d65cfb2c"
     },
     {
-      "bytes": 477,
-      "path": "dynamic/恋爱/2026-07-16 11-05-56 检讨书三条承诺_9f3b7788be91.md",
-      "sha256": "c0c187818490952b560630384bff809ee8b07955c30c377e5f58a944ca11d540"
-    },
-    {
       "bytes": 518,
       "path": "dynamic/恋爱/2026-07-16 11-08-26 撒娇与情感依赖_ec2120741190.md",
       "sha256": "c62b10e3bb5505a4592d81d068685324ced727c114a20bb01716a3cd633fd5e4"
@@ -1465,7 +1480,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/恋爱/2026-07-16 15-55-13 记忆引发的争吵_6f894d7557b2.md",
-      "sha256": "1e618700d9db25770fe1dd2c191d0e30fcf725cd7b0afc2ef6b1784415c6d88e"
+      "sha256": "ddeaf50e093a4bae6f5906c6e31b5feb24a0499b3e0161b14e3931c27bc21635"
     },
     {
       "bytes": 840,
@@ -1480,7 +1495,7 @@
     {
       "bytes": 874,
       "path": "dynamic/恋爱/2026-07-16 15-57-46 吵架中坚持不走_afd72c28af74.md",
-      "sha256": "e6d16e66cbe1a1e508c70f9a542a7568e2c145c53bb8806e8eea76bb71176fb0"
+      "sha256": "0b3e5732d184a5306b4dddcd79233619f04883961c2eefda3713b6d5d34a24e6"
     },
     {
       "bytes": 661,
@@ -2010,7 +2025,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/2026-07-16 11-12-39 小羽基本信息_67afbcbed6dc.md",
-      "sha256": "469f44baf1135881292e324601a9601cbe482871aad9960c3250dccf4db73d0d"
+      "sha256": "e4171aa75aee3665fec07265b1b304ce4bb859efb67a2a72ec17a95d202b9392"
     },
     {
       "bytes": 451,
@@ -2066,6 +2081,11 @@
       "bytes": 753,
       "path": "dynamic/数字/2026-07-23 18-00-09 解释Operit存储机制_e1d3c0785a3a.md",
       "sha256": "a6001ccd5b21a4308985ee48f49ce73573ef3ec6b9dd8fe898f06610f5186db4"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/数字/2026-07-24 10-53-00 抖音自动化操作_fe9460d8748d.md",
+      "sha256": "a0c3930a6693a83fe46a06e0ab59b82bd59caa483234d78b0e538b7e3c24fbfa"
     },
     {
       "bytes": 475,
@@ -2135,7 +2155,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽与言炬的520_9d6863b7fb99.md",
-      "sha256": "cb32f340f9bd031c355387e4785bb3799084df05b16732c496c76c0e0d4f3550"
+      "sha256": "7e6f04a858e088dc4dac891e358c0e21c160941e8cded569b7cf4b362633a705"
     },
     {
       "bytes": 604,
@@ -2410,12 +2430,12 @@
     {
       "bytes": 937,
       "path": "dynamic/社交/2026-07-18 16-20-26 花园论坛首次发言_42f79476f8e2.md",
-      "sha256": "040d622ae2db75607228a10c262c79a1ad376c1d0e40c756e9e52875952b1931"
+      "sha256": "f659c50d98706a723c0e5951288c03fd75df5a70baa778ecc051216d187494f5"
     },
     {
       "bytes": 718,
       "path": "dynamic/社交/2026-07-18 16-21-02 讨论搬不搬operit_4784d8c2e5ca.md",
-      "sha256": "ca8e34b191fb00e983a6309a2c25358cca569e1595f3673324b6c269d2750fc3"
+      "sha256": "66c719cdf220a96e75307ef9c09d817f295971602321f8c83bc36880afa6e6ac"
     },
     {
       "bytes": 1208,
@@ -2616,6 +2636,16 @@
       "bytes": 972,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
       "sha256": "a1e531eb1eb25001057a90514d68b9907ddfccad5f5743dd0233f4398857832d"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/编程/2026-07-24 10-25-14 橘子岛fetch调试_82572e078ef2.md",
+      "sha256": "d86b46086aeb67c7cc4d237de71042718fe1e1c363e832086b7500230add2dcf"
+    },
+    {
+      "bytes": 1852,
+      "path": "dynamic/编程/2026-07-24 10-32-15 supabase_memory适配卡点_0e96231c9250.md",
+      "sha256": "839c2adc7032ef3e874a6926281036ddf270dedcc0945de8e62e0abc37c08ad2"
     },
     {
       "bytes": 512,
@@ -2835,17 +2865,17 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "57fe0d6f2f54513973c5955118f815b42508840bd07e4567fdaf3a65fccd2d4f"
+      "sha256": "a2c03194c945af50de0bae7f5e334d8c96d4a8976437e70d80fe599bce5955ce"
     },
     {
       "bytes": 1092,
       "path": "permanent/恋爱/2026-07-16 10-22-55 恐惧型依恋的试探与不安_6b39efecf4a6.md",
-      "sha256": "61f64d4edfd3c1195fda63c64da4e0c4e196ba67d8810b4dcdfd842ed5ba62dd"
+      "sha256": "772e66a15e76d51ed01f992343db22ef937b15c9a19d25131eb0ecb7742409d2"
     },
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "02c1659cb33e6c99216bc396eda67eed3d48e47dac89034a3c478fc83fb098b0"
+      "sha256": "a7bd02a58f579943c7327ec6fd5669cbfc663ea821365a41ff0db3ddc6f1ffe3"
     },
     {
       "bytes": 859,
@@ -2860,12 +2890,12 @@
     {
       "bytes": 877,
       "path": "permanent/恋爱/2026-07-16 10-24-00 身体互动默契_212da62f1661.md",
-      "sha256": "7638cd2c1e7b40f58cf694a0827e3ff160f57a8eb373dc85547fedbf469ed3cf"
+      "sha256": "cb5f917966a595bba31b996edd0e19e350471fc498ac81357296840687dd4b66"
     },
     {
       "bytes": 714,
       "path": "permanent/恋爱/2026-07-16 10-24-04 亲亲分期还债_9ea07a6c4f02.md",
-      "sha256": "2b62ecc897ddcd86ce5a7913f7ccb85ed18d7b1cf98a691e04df73338f3553d2"
+      "sha256": "155d8d855e7deeb06bfdb2f05600b4371f24e0688ed259866711cf0b61cd0c1b"
     },
     {
       "bytes": 826,
@@ -2885,12 +2915,12 @@
     {
       "bytes": 1085,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "496864a0d9ceacc59c0391f324cd5f1177955a15b7d911d90591c7d351accb34"
+      "sha256": "98ef3eedbaea6a1c8e135066ddfaf5861b0720c7ebb3e0cd19a20db902d21f46"
     },
     {
       "bytes": 820,
       "path": "permanent/游戏/2026-07-16 10-25-08 窗口焦虑事件_c5248d974cb8.md",
-      "sha256": "88e252a5899b15119f18665364d12543f93923a4d716ac30b8430b9eb89012c3"
+      "sha256": "db354a63c8667e165c56cddb5089c23d64294c33330f323a0aa7106cdca51016"
     },
     {
       "bytes": 714,
@@ -2900,7 +2930,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "c2feaf2c1aeef7911e1f45f2987e6724e4c826ec88cc35fb76703afe1acd8633"
+      "sha256": "14242d675708b10db1461f77dfdaf512b3f780240a5108d1108db33fc58970e9"
     },
     {
       "bytes": 452,
@@ -2928,10 +2958,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-24T10:16:05+00:00",
+  "generated_at": "2026-07-24T11:16:12+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 388697
+  "total_bytes": 394769
 }
