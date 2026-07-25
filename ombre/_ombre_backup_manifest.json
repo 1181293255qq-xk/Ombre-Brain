@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 622,
+  "file_count": 623,
   "files": [
     {
       "bytes": 471,
@@ -176,6 +176,11 @@
       "bytes": 608,
       "path": "archive/学习/2026-07-16 11-05-31 小羽的论文与作息习惯_96ffdfa28826.md",
       "sha256": "9a328f7a69bf379c0763e1d637380e5361d0d85f4a1b76535b163caaa03e0f01"
+    },
+    {
+      "bytes": 545,
+      "path": "archive/学习/2026-07-16 11-08-34 论文AI痕迹与问题_9af900ae22a8.md",
+      "sha256": "392d5ef86d35ab17ce1b96335a76abed9233ad866574cbc3b981538dd0b55b1e"
     },
     {
       "bytes": 950,
@@ -1173,11 +1178,6 @@
       "sha256": "344535547f091f38d47c1afcbd9b926047d1e94804429aa1fb8f8a5485497e54"
     },
     {
-      "bytes": 544,
-      "path": "dynamic/学习/2026-07-16 11-08-34 论文AI痕迹与问题_9af900ae22a8.md",
-      "sha256": "8533b159df6bf7b82b47233c91b756ac5ebcb062aaf36a7b397fb527d369eab5"
-    },
-    {
       "bytes": 828,
       "path": "dynamic/学习/2026-07-16 11-08-38 论文数据错误与修正_4464245b30af.md",
       "sha256": "0780218e4b60df3311d7063da818cbe90804f31edd0b4de9a9b413cc69ad2064"
@@ -1355,12 +1355,12 @@
     {
       "bytes": 1084,
       "path": "dynamic/工作/2026-07-21 17-36-16 抖音家教引流与分成_06539f406762.md",
-      "sha256": "2f2a51b9ba465069ea41f5cc72e1b96565d63926eec18512c7eff80f8a738d4e"
+      "sha256": "570125910abb32d0c098dfaf46fe1fcad5e85fb030022f91631736fe9cb98d99"
     },
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-07-24 06-48-02 抖音招生进展_f6c66e6091a0.md",
-      "sha256": "e3b491329eae3d526fb448cf3baa4e8a05f9ed60cba54b29c151715f49d27133"
+      "sha256": "9da273c6982e2254528bde596252a1222a951ccedbbd3d7c026116e9a6a7eab1"
     },
     {
       "bytes": 727,
@@ -1915,7 +1915,7 @@
     {
       "bytes": 565,
       "path": "dynamic/成长/2026-07-16 10-06-25 小羽基本信息_35efcfbad5bd.md",
-      "sha256": "ac8846f141acdcee1753bd97701ff1ab2aedd0bc019189b87f2c8b9ac777e011"
+      "sha256": "40ce47732b7190fcfa1a9c13dd42167465874a9a002d3f25b39ca497e9adb1e8"
     },
     {
       "bytes": 669,
@@ -2050,12 +2050,12 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/2026-07-16 11-12-19 小羽近期重要事件_b7d48e2d597f.md",
-      "sha256": "ad7a08689717b5a10fa0e9844087f5fa0b5af9888fa28a07a4151b4e512df6a9"
+      "sha256": "cb117cc86a8e4dc63b42045f58741356e21a65759a76270aeb42e9dfdf145d7b"
     },
     {
       "bytes": 602,
       "path": "dynamic/成长/2026-07-16 11-12-39 小羽基本信息_67afbcbed6dc.md",
-      "sha256": "344344c48b19bd6e9d485d0383a9d812a2cbf4ab352491bba3031eade9847025"
+      "sha256": "0a3e3383f44298c3c9b5e9fd1970acabb06febbbad9d554230ae8d4bdbbd2c89"
     },
     {
       "bytes": 451,
@@ -2350,7 +2350,7 @@
     {
       "bytes": 758,
       "path": "dynamic/未分类/2026-07-24 17-15-00_beef8bf0846d.md",
-      "sha256": "3753bb1c1ae0192cf199e5e688fd6745eb0a73b30d094ef0175dc0a99b4a4142"
+      "sha256": "cd2c60a3dbf59d0f75dd7a7449313f3b63dd8c98740db7dfd63831f894832221"
     },
     {
       "bytes": 784,
@@ -2440,7 +2440,12 @@
     {
       "bytes": 652,
       "path": "dynamic/未分类/2026-07-25 13-30-21_68eac51d9210.md",
-      "sha256": "900c80a592c7c3f6c177a19093fd206ba573c26fc824e0a01253969b70562216"
+      "sha256": "e3b16c3c6ca87d909da074be38ca15291513251b8d7bba0085847615302a1c6d"
+    },
+    {
+      "bytes": 548,
+      "path": "dynamic/未分类/2026-07-25 14-46-15_a7dcb3a6a4fa.md",
+      "sha256": "ff6f66fdccb0a4e87036c6c531ed864ea75fda417b28d1ef4fdc4583179b7d0c"
     },
     {
       "bytes": 590,
@@ -2575,7 +2580,7 @@
     {
       "bytes": 719,
       "path": "dynamic/社交/2026-07-18 16-21-02 讨论搬不搬operit_4784d8c2e5ca.md",
-      "sha256": "f497cbd5d1ac726a1fb0f2b1236d126613e8414a0cd5cbc1bb5afb4fbd538cb2"
+      "sha256": "232432274796a92b6c90ef28a63c923dcf44d6590e2d54e7c572256092a55511"
     },
     {
       "bytes": 1208,
@@ -3015,7 +3020,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "66a893e88d2100f86c892f789ad4193bbb9cc391661a6324908c5cca7a001665"
+      "sha256": "acf286c35d777484c007e398b59972958396eb3f634c26dc45c0a9cafc417eb3"
     },
     {
       "bytes": 745,
@@ -3113,10 +3118,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-25T14:08:21+00:00",
+  "generated_at": "2026-07-25T15:08:29+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 418366
+  "total_bytes": 418915
 }
