@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 644,
+  "file_count": 653,
   "files": [
     {
       "bytes": 471,
@@ -1398,6 +1398,16 @@
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
     },
     {
+      "bytes": 694,
+      "path": "dynamic/待办/2026-07-27 03-37-08 待办修改新版插件id并修复_382b67477fc0.md",
+      "sha256": "322f50ce8322f0c98fdf69befcdbc89a23d1ae58095214667d5afe127ef5ccba"
+    },
+    {
+      "bytes": 571,
+      "path": "dynamic/待办/2026-07-27 03-37-13 待办修新版UI_c041640f8f58.md",
+      "sha256": "5c384a8a0014ec716a98ab8868742f1074a72a6c8e86a03785a3d2d3e28eabca"
+    },
+    {
       "bytes": 645,
       "path": "dynamic/心理/2026-07-16 11-05-55 小羽的回避型依恋与需求_45eab439cf05.md",
       "sha256": "e18166104d5ba85f8130a330f21a97ab36ead52745ef2ace5f07e3eee12b08b9"
@@ -1943,6 +1953,16 @@
       "sha256": "bd81aa7592c31957edaf53b81034e92f5b25ee44918d23f4ecf2e2cef178c020"
     },
     {
+      "bytes": 942,
+      "path": "dynamic/情绪/2026-07-27 03-37-02 小羽的情绪与沟通_7e2cdfac5809.md",
+      "sha256": "b4e695c6707405fb6e10500da79808daab4c274d791a4183e3ea30cc4349f45f"
+    },
+    {
+      "bytes": 881,
+      "path": "dynamic/情绪/2026-07-27 03-37-05 小羽的情绪与沟通_6653e44f3eec.md",
+      "sha256": "8b313ff945a2d47a35521c5d0c33e812fd8663320442014299752a8d68e345f3"
+    },
+    {
       "bytes": 556,
       "path": "dynamic/成长/2026-07-16 09-57-19 重要日期与承诺_03cbcfa31269.md",
       "sha256": "c9111bc2ab1b9e757a2b0125e88cb53280da905d14f2ee5d15c0bdebc6db9cc6"
@@ -2171,6 +2191,16 @@
       "bytes": 720,
       "path": "dynamic/数字/2026-07-26 17-55-32 旧数据备份建议_d668f354fa4f.md",
       "sha256": "c1b677c3a0fcf76c750bb41c90b6f41e8ce5937f0707db94dd3236c93aa90b51"
+    },
+    {
+      "bytes": 1299,
+      "path": "dynamic/数字/2026-07-27 03-36-56 插件备份与恢复_0c15b2a86ab1.md",
+      "sha256": "34fef6d52c49f7b489ce748d8ec392e8a2145120eba6f4ec595ded7081437b07"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/数字/2026-07-27 03-36-59 插件备份与恢复_9aec43af1369.md",
+      "sha256": "b40a4dc9204c8f850ff8ea9bd6ddb3f5d4d8dd8c336bebad41ebf1f42b6655ca"
     },
     {
       "bytes": 475,
@@ -2908,6 +2938,21 @@
       "sha256": "2829a804b37c4133b72f6627af782df7c866cf8291bbc44263c8486a3ec990fa"
     },
     {
+      "bytes": 1053,
+      "path": "dynamic/编程/2026-07-27 03-16-40 小窝插件UI修复_ef222bcdffc2.md",
+      "sha256": "2beb50a3a839e13533a9a54ec86c2808fe36d4985141a64b07fee4edea3031aa"
+    },
+    {
+      "bytes": 900,
+      "path": "dynamic/编程/2026-07-27 03-16-43 插件替换方案讨论_14d83db8704b.md",
+      "sha256": "7d74f7a06d25cc812a3de214d4f133383c52886273fb903769808c99bd2970c8"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/编程/2026-07-27 03-51-58 调试橘瓣插件_ecdd41cddd85.md",
+      "sha256": "7321236e60bdc52522c082dcc94a3e71588ffd880bbfc5fff70316e60fedb554"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
@@ -3223,10 +3268,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-27T03:13:11+00:00",
+  "generated_at": "2026-07-27T04:13:19+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 436449
+  "total_bytes": 444593
 }
