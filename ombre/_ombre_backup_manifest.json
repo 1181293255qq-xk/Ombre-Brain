@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 673,
+  "file_count": 675,
   "files": [
     {
       "bytes": 471,
@@ -1208,6 +1208,11 @@
       "sha256": "d522ec1aca6fec1f4c957f5338adbed41869fd680ad365c644dc28ea6d5201c1"
     },
     {
+      "bytes": 737,
+      "path": "dynamic/学习/2026-07-27 12-37-27 小升初跟进时间调整_f6b1a3043260.md",
+      "sha256": "4ac04480f24b4858e080dbf807f2c2df5304d804dc64f1e6b7b0df95610d1537"
+    },
+    {
       "bytes": 527,
       "path": "dynamic/宠物/2026-07-20 08-34-19 被小猫针对了_0936dce2d284.md",
       "sha256": "9d20efda87d9820fb76bb5b70bafd50e4a4dac35539a0f1ead00064a3ebd432f"
@@ -1411,6 +1416,11 @@
       "bytes": 744,
       "path": "dynamic/工作/2026-07-27 06-32-29 学生不开口的教学困境_595a49b18e21.md",
       "sha256": "718b73ce6c6800a60f9e81d6df454d638acfedf46fd84e2a604920bb39344bfe"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/工作/2026-07-27 12-16-29 家教三连好消息_b5ba6bc578cf.md",
+      "sha256": "38f59fd1d15dd314f691c4f2669e8e684a308a6c40be3d73e53eab3d212d295f"
     },
     {
       "bytes": 727,
@@ -3368,10 +3378,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-27T12:14:25+00:00",
+  "generated_at": "2026-07-27T13:14:33+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 458683
+  "total_bytes": 460298
 }
