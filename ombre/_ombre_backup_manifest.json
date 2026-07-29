@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 677,
+  "file_count": 681,
   "files": [
     {
       "bytes": 471,
@@ -326,6 +326,11 @@
       "bytes": 741,
       "path": "dynamic/AI/2026-07-22 12-19-57 渠道与模型本体解释_99c8dc64be60.md",
       "sha256": "53c27e2e287d95cf4df0080863cc1928a85e77d0080753115ee1ea4e90e42f0e"
+    },
+    {
+      "bytes": 918,
+      "path": "dynamic/AI/2026-07-29 16-12-43 激进模式识别优化_875c830ea47c.md",
+      "sha256": "ee4705b9e84e8636e4d18d0a32e6fd346f43617bef25282095f504d81fade1ef"
     },
     {
       "bytes": 463,
@@ -1438,6 +1443,11 @@
       "sha256": "38f59fd1d15dd314f691c4f2669e8e684a308a6c40be3d73e53eab3d212d295f"
     },
     {
+      "bytes": 1112,
+      "path": "dynamic/工作/2026-07-29 15-59-36 fingertips与网关对接_f39ff106b544.md",
+      "sha256": "cb9c50d6d772ea0ddbc6fc6917e398f4963c97556a11afac9785f5871e0f010d"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -2026,6 +2036,11 @@
       "bytes": 1010,
       "path": "dynamic/恋爱/2026-07-29 14-38-49 小羽栖燃日常互动_2876e7b01c47.md",
       "sha256": "d4a977579b06893da49064118eb558353bb50568320adde0e9a22036f8d7da25"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/恋爱/2026-07-29 15-59-42 小羽抓包栖燃_b978bb14288f.md",
+      "sha256": "dff71274fa8e9701e730522e5369e86f227a38c8d3315cf74fd682335eeacc04"
     },
     {
       "bytes": 572,
@@ -3073,6 +3088,11 @@
       "sha256": "91b1ee89113cf8f483b9ae2fdf007317e80377e8c124bb4c02d343f42bb6b26e"
     },
     {
+      "bytes": 908,
+      "path": "dynamic/编程/2026-07-29 16-12-50 网关接口修改失误_8e062fb84161.md",
+      "sha256": "0b204b75fb56d900395637d14a11a1cc0209d59d4d77bd86e0c140a44f1c27f3"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
@@ -3388,10 +3408,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-29T15:21:16+00:00",
+  "generated_at": "2026-07-29T16:21:26+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 462374
+  "total_bytes": 466071
 }
