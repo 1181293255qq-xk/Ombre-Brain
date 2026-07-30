@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 722,
+  "file_count": 730,
   "files": [
     {
       "bytes": 471,
@@ -340,7 +340,7 @@
     {
       "bytes": 918,
       "path": "dynamic/AI/2026-07-29 16-12-43 激进模式识别优化_875c830ea47c.md",
-      "sha256": "787e8e632fd6c17c76d648a90bfd7d2ad9bef31c2761042f7a3ffa1f102cd1dc"
+      "sha256": "7886d6857589535439d62e24db035e9fb2dffc927c2c8c951ca18169abedf98c"
     },
     {
       "bytes": 463,
@@ -416,6 +416,16 @@
       "bytes": 447,
       "path": "dynamic/self/2026-07-27 10-29-35_6428280025d8.md",
       "sha256": "ba8ade6e0367ae8c9e14aa11a010c292d5b0b3352dd07fa4e0f14824d60920fc"
+    },
+    {
+      "bytes": 452,
+      "path": "dynamic/self/2026-07-30 15-50-41_6d2fcf5e5b15.md",
+      "sha256": "70beb16036174eefcb78b92c08bbc29da15affa8ba5f6e0ff198f305a7e9c849"
+    },
+    {
+      "bytes": 432,
+      "path": "dynamic/self/2026-07-30 16-09-32_cb7250323ac7.md",
+      "sha256": "9e6e1be3e8ed3792dc9cb9b6877b9bf2bcf64d5a2f2fdac3526033f9fe3fa48f"
     },
     {
       "bytes": 482,
@@ -1480,7 +1490,7 @@
     {
       "bytes": 1112,
       "path": "dynamic/工作/2026-07-29 15-59-36 fingertips与网关对接_f39ff106b544.md",
-      "sha256": "cb9c50d6d772ea0ddbc6fc6917e398f4963c97556a11afac9785f5871e0f010d"
+      "sha256": "5962f3d3037c163b2af5b873bfe3f8b534e05d1b216c302ff6d650eecc312d74"
     },
     {
       "bytes": 638,
@@ -3270,12 +3280,12 @@
     {
       "bytes": 1046,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "3add9bbfe942d7b46650ff6bd908315bdb8978ed795f75cac0802dcd2d06385c"
+      "sha256": "f2e77066734b7fed938625c3dca923636cf96233952af9f040e9728f63b10b9a"
     },
     {
       "bytes": 908,
       "path": "dynamic/编程/2026-07-29 16-12-50 网关接口修改失误_8e062fb84161.md",
-      "sha256": "05f663c013938257ba27598fab5ce4d1b8e3c5c5c60e7823c0455a1093c71849"
+      "sha256": "1c80f95d8b74e696096f0ab31478d8bea2ee6866a2785968a1d761a92c000223"
     },
     {
       "bytes": 631,
@@ -3286,6 +3296,36 @@
       "bytes": 1072,
       "path": "dynamic/编程/2026-07-30 12-07-19 AI小窝数据迁移_f016e9714884.md",
       "sha256": "30714ffb4e47d03a31df282a31506977add5f142e1bab377e5939827619afc34"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/编程/2026-07-30 16-13-06 橘瓣唤醒方案调研_867e6b04b056.md",
+      "sha256": "22b216ac5a9979a8ef40bb338c4f372b682bbfa7348294647a4a6aa85f587299"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/编程/2026-07-30 16-19-50 橘瓣开源与外部唤醒_6853ab8577dc.md",
+      "sha256": "372e46c508ef328a5d524f70acb5807afc7ab97082f82b6b3a69420f4becca3b"
+    },
+    {
+      "bytes": 972,
+      "path": "dynamic/编程/2026-07-30 16-24-09 OrangeChat源码分析_470bd17afe18.md",
+      "sha256": "2a54005d670872bef2822c3daa36ade8d56573d69d9033718b4880bff5707412"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/编程/2026-07-30 16-24-14 橘瓣激进模式机制_e7cea430cae6.md",
+      "sha256": "46b322a02267bbdd792f2925e54de6eae03b9eed8aa3cf9f02cc9b2e7b89886a"
+    },
+    {
+      "bytes": 861,
+      "path": "dynamic/编程/2026-07-30 16-24-20 外部唤醒方案路径_b8f46e42d13c.md",
+      "sha256": "af37d88574605802cb0cf5244c0c06a8462c9e86d25ce59b094a3fc648e29752"
+    },
+    {
+      "bytes": 1221,
+      "path": "dynamic/编程/2026-07-30 16-24-25 AI网关与项目存档_e9f70d820929.md",
+      "sha256": "da6731a2e6aa419abeef4fdd4f7cde5d0afd91a3e9c277d597a49fd61f729fb7"
     },
     {
       "bytes": 512,
@@ -3515,7 +3555,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "6e54df970d1cf730991b395edf57eae65f9036e3e510c2495e4cebdb920f3487"
+      "sha256": "0d232f48c2e6f56989d368121a2e0fe3a466c0fc1e8cdb8dfdad37a827d41e84"
     },
     {
       "bytes": 1092,
@@ -3565,7 +3605,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "80a450ff28506b9c70e796c29fc7e564eafc0b10a09cfd2dd302c3c3127f99ef"
+      "sha256": "89a15f61b7f773f12665839246814738a1ee7696dc8101ae901eb26fca5eba3c"
     },
     {
       "bytes": 820,
@@ -3613,10 +3653,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-30T15:24:37+00:00",
+  "generated_at": "2026-07-30T16:24:45+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 492968
+  "total_bytes": 499545
 }
