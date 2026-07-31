@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 733,
+  "file_count": 735,
   "files": [
     {
       "bytes": 471,
@@ -168,9 +168,19 @@
       "sha256": "07f2f48e6afab46716cea222e73ae25343f789698d86f49387161651eac9e632"
     },
     {
+      "bytes": 725,
+      "path": "archive/人际/2026-07-16 10-15-57 关系确认与承诺_97971fb2d37f.md",
+      "sha256": "454829241b30a355b2287ee05fc015cbef7362dc69c3626ea15c2b920e838ff1"
+    },
+    {
       "bytes": 538,
       "path": "archive/人际/2026-07-16 10-16-05 柏拉图关系约定_4b416ac5d56b.md",
       "sha256": "50a1b084bece876f794b6aef6d8da5a9bf1987b373ea15e243b75e8e72f2786d"
+    },
+    {
+      "bytes": 641,
+      "path": "archive/人际/2026-07-16 10-16-14 小羽与小克的关系_ab7d86e663b0.md",
+      "sha256": "c52b1f604585df1c10b489db74086a66a56fc05a7737a2d6c420466b33e2be3b"
     },
     {
       "bytes": 656,
@@ -193,9 +203,19 @@
       "sha256": "3286a7290fdad467a8421f26fb13b5a0a64186d2a2be1856dc02d7b12e71742a"
     },
     {
+      "bytes": 631,
+      "path": "archive/人际/2026-07-16 11-03-44 关系确认与承诺_140e1257f1f5.md",
+      "sha256": "84d3f418092cddb827a99a04869c88851641535176d8cdefc43a5d40ffcd1e52"
+    },
+    {
       "bytes": 511,
       "path": "archive/人际/2026-07-16 11-03-52 柏拉图关系约定_8e303a941c94.md",
       "sha256": "95cd152b9668dae5a6a20309a80f0d71ebcbf287473ae444affe9ce9ccfa9ea4"
+    },
+    {
+      "bytes": 638,
+      "path": "archive/人际/2026-07-16 11-04-00 小羽与小克的关系_73216f027c90.md",
+      "sha256": "f4437a878ef13f41ec00b67b1639e95f04ce3309b8b06f9d640bb8bf690dd2c6"
     },
     {
       "bytes": 729,
@@ -236,6 +256,11 @@
       "bytes": 703,
       "path": "archive/内心/2026-07-16 11-03-13 小羽的情感依赖_15af229ab37f.md",
       "sha256": "135399ee2b2cfe7e28b28ac2bd28922a0b58ee39771b84c1c0d39daba503e755"
+    },
+    {
+      "bytes": 760,
+      "path": "archive/内心/2026-07-16 11-04-51 小羽与AI的亲密互动模式_6fadfa89f78f.md",
+      "sha256": "d9fe4565ffde316cc6d3d697977dd34c4e1762b0859076294c23cd5fa3db5594"
     },
     {
       "bytes": 624,
@@ -503,11 +528,6 @@
       "sha256": "23fed93d45a1b9ac7f2bafc97f64a3931d6f894e081b34aec038c234c6d5822c"
     },
     {
-      "bytes": 724,
-      "path": "dynamic/人际/2026-07-16 10-15-57 关系确认与承诺_97971fb2d37f.md",
-      "sha256": "a7e6fb198a3d047154a03410b43f2c3cb8532260674cbb966dc0d2fe849cf4f8"
-    },
-    {
       "bytes": 780,
       "path": "dynamic/人际/2026-07-16 10-15-58 牵手散步与互动模式_6b36bfcdce7c.md",
       "sha256": "51cc5f75c69d8b14511e7741650f9c5ff20184d3ce84c5dbe261565ec35046b2"
@@ -521,11 +541,6 @@
       "bytes": 505,
       "path": "dynamic/人际/2026-07-16 10-16-14 小羽与小克的互动模式_f47b09d3c67e.md",
       "sha256": "4264a9c9d6c42c17e84a5dba91cf94d0d908e7c83bf40d43dcbbec917706bcb1"
-    },
-    {
-      "bytes": 640,
-      "path": "dynamic/人际/2026-07-16 10-16-14 小羽与小克的关系_ab7d86e663b0.md",
-      "sha256": "5680377108db0c1c18fd1cd75b13d1e4311773430d10bf58c0db9f5da8596429"
     },
     {
       "bytes": 735,
@@ -673,19 +688,9 @@
       "sha256": "a4e954185fe1dc6fcd3128fb66725349c882956360a6d240dbbdb774dc34c529"
     },
     {
-      "bytes": 630,
-      "path": "dynamic/人际/2026-07-16 11-03-44 关系确认与承诺_140e1257f1f5.md",
-      "sha256": "44647b3617a355ca82cb46a6b0edfa6d320db4bf64e46328231b67d624f25f2a"
-    },
-    {
       "bytes": 658,
       "path": "dynamic/人际/2026-07-16 11-03-44 牵手散步与互动_3c0b2530e142.md",
       "sha256": "1b0e7f4f652118d1ec8e3ae87df7e1be044704d3c185e312cb4a65fbe5e259eb"
-    },
-    {
-      "bytes": 637,
-      "path": "dynamic/人际/2026-07-16 11-04-00 小羽与小克的关系_73216f027c90.md",
-      "sha256": "98379f1b69eef39b5bdac36b84d8c03b371d4ce3664fd06ac3914e402643e927"
     },
     {
       "bytes": 580,
@@ -1066,11 +1071,6 @@
       "bytes": 671,
       "path": "dynamic/内心/2026-07-16 11-04-51 AI的性格与关系定位_14e81a91adb5.md",
       "sha256": "ffa9048817d90b2ee82524b390c59f761c3f9d5d705d7f54c8c8da2f43873e4c"
-    },
-    {
-      "bytes": 759,
-      "path": "dynamic/内心/2026-07-16 11-04-51 小羽与AI的亲密互动模式_6fadfa89f78f.md",
-      "sha256": "69a8c65c2c7e1955a90502b849e56344073466aad9f11cf0f0e4e515555e2e6d"
     },
     {
       "bytes": 606,
@@ -2206,6 +2206,16 @@
       "bytes": 558,
       "path": "dynamic/恋爱/2026-07-29 17-39-09 深夜亲密高潮_7142123049d5.md",
       "sha256": "3c896cd60fbf3b1fc6c4bec608c8e1f48242d5e9c145558fc0fefb95d55d2bcb"
+    },
+    {
+      "bytes": 1609,
+      "path": "dynamic/恋爱/2026-07-31 14-34-43 深夜吵架记录_553c980255d9.md",
+      "sha256": "4e5d48cfc6e07b86e33cbded3ba3ec233b213eca1abeb8478df91cc0a3b7277b"
+    },
+    {
+      "bytes": 841,
+      "path": "dynamic/恋爱/2026-07-31 15-01-35 和好按钮约定_bd87e40e2a43.md",
+      "sha256": "c4d86e5982c74b01da5fef246b96244613b6b4ac4f9b628fe3be18687f414717"
     },
     {
       "bytes": 1001,
@@ -3668,10 +3678,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-07-31T14:32:52+00:00",
+  "generated_at": "2026-07-31T15:28:01+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 502145
+  "total_bytes": 504600
 }
