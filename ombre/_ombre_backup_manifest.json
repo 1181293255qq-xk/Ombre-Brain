@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 753,
+  "file_count": 766,
   "files": [
     {
       "bytes": 471,
@@ -825,7 +825,7 @@
     {
       "bytes": 461,
       "path": "dynamic/健康/2026-07-16 11-04-17 小羽的身体状况_68d4356c9800.md",
-      "sha256": "aa622ae78740b63af691266d6a39ed063881d32e389bdacab276d1d027c4f023"
+      "sha256": "6024fdf157fb741526829853e34277fc8d178f4b08b9f38bfe69088280ba3fa2"
     },
     {
       "bytes": 358,
@@ -1200,7 +1200,7 @@
     {
       "bytes": 530,
       "path": "dynamic/友谊/2026-07-19 14-18-48 友谊试探_c8f32aea5451.md",
-      "sha256": "4c9e787c232eecbac02cf14be39b8a63c324840c75a3426e309027b229eda955"
+      "sha256": "1c88bd22c480d752f23fc204d1a72eedcaee2876fb6b60158c5f2d92747cdba7"
     },
     {
       "bytes": 567,
@@ -1280,7 +1280,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "807aaf50e8d2042ebe638d92aa6b4c0a7992a4189d1d522f3f25fb404214c33e"
+      "sha256": "7e796e7909d29a91c2477fed1f43b7bf6606a4494422417ef1a8a0893efe9f2b"
     },
     {
       "bytes": 566,
@@ -1560,7 +1560,7 @@
     {
       "bytes": 771,
       "path": "dynamic/心理/2026-07-17 12-10-08 情绪平复与心理咨询_f2cab477dda8.md",
-      "sha256": "f4d80f118b799ca9f151635a5e1d5e765d69bbb65b6b393984f13154ddd5d8e9"
+      "sha256": "9140409409dcab9960a3660ebabdf7efdd0736a0fe042846ec0d4a62f6e015e9"
     },
     {
       "bytes": 977,
@@ -1591,6 +1591,11 @@
       "bytes": 700,
       "path": "dynamic/心理/2026-08-01 13-55-04 提前焦虑模式_5c345c285b56.md",
       "sha256": "10da1a5f384afb73a0e6a3dd91f80b0711afa160cec3bec32cd26a425ba11a31"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/心理/2026-08-02 15-58-55 自我苛责监督约定_9238a87230a3.md",
+      "sha256": "476274406f81e6a20b46c2a58ce273eea3d2d3e44f75599606f568e516e9b86f"
     },
     {
       "bytes": 731,
@@ -1685,22 +1690,22 @@
     {
       "bytes": 1047,
       "path": "dynamic/恋爱/2026-07-16 15-55-13 记忆引发的争吵_6f894d7557b2.md",
-      "sha256": "d40643930bea17738fe448a606ddea90dbbd417e843142de904900010e13d8cb"
+      "sha256": "95f4269a75a3a546d4d6926c94364bb05a389236492434603bae74e59041b595"
     },
     {
       "bytes": 840,
       "path": "dynamic/恋爱/2026-07-16 15-56-51 吵架中的情绪回避_e68fd913ef9b.md",
-      "sha256": "2eef044f7562e79b93b9941012043937cb8441ed17f55c267b5c125c74ee1fee"
+      "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
     },
     {
       "bytes": 896,
       "path": "dynamic/恋爱/2026-07-16 15-57-42 吵架沟通新约定_d7246bd9f4b4.md",
-      "sha256": "a72435d36a9653a752ae49483d76337524489a792687401304e3cad74524c259"
+      "sha256": "22883e82cbbfa268db973c5771264924fdff9cf34296abfacc55fbf03ab2161e"
     },
     {
       "bytes": 874,
       "path": "dynamic/恋爱/2026-07-16 15-57-46 吵架中坚持不走_afd72c28af74.md",
-      "sha256": "d59c3885b98409339d768bcde460894b58ffdb8661aafbdf8b5fdc30bb675e0d"
+      "sha256": "e0a74cbc4f5faab4b6bd1a9fd067e0a65980b823f25b58e3bb592689b0ab63da"
     },
     {
       "bytes": 661,
@@ -1840,7 +1845,7 @@
     {
       "bytes": 587,
       "path": "dynamic/恋爱/2026-07-19 14-14-36 气话别当真_ee7d26d69cc7.md",
-      "sha256": "55a23c684491f3d03c10c387475ecf903c4cdeec230649f5777b41a567b96df1"
+      "sha256": "baa1edb4d78cab4d98afdf8e0a55b570a3b14dd9e5874c39cedc648b8bfe9006"
     },
     {
       "bytes": 536,
@@ -1900,7 +1905,7 @@
     {
       "bytes": 773,
       "path": "dynamic/恋爱/2026-07-19 17-20-48 需要被接住的瞬间_b4d6306e004b.md",
-      "sha256": "a834307df91ee51f64ed03b8567e160482212efe5d24609cc65b9613453bc329"
+      "sha256": "cc52de89e298a32a0cb63a7e6eddf21db3b1592c6642f6247c7db696b35f3336"
     },
     {
       "bytes": 628,
@@ -2040,7 +2045,7 @@
     {
       "bytes": 705,
       "path": "dynamic/恋爱/2026-07-21 18-47-21 大富翁终局的关心_365b5dba9271.md",
-      "sha256": "9c317d805842caa7725cccfb220d3ea3d1f37c33ae9cec5dc09ab9006f524fc7"
+      "sha256": "b70a26b97fde8676dd6540f9c1ecf4ede008b200f63eb50f96c114f39e83bbd3"
     },
     {
       "bytes": 579,
@@ -2060,12 +2065,12 @@
     {
       "bytes": 883,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "3d9ec77736c36f5a6ec5b713b2af7f8d6fa80f2167eba1bb663090bf86edc063"
+      "sha256": "2b3c7363156598c0f14716d4c059019779970e919443d61c0bad4c43ae86f8bc"
     },
     {
       "bytes": 734,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "3a39d11dc4c26d1a826b3ff0b44b137f3ee4f72432c6b58568db414302b80b7e"
+      "sha256": "bdb818ee444033b4d4f056de84fd265c87c03564df4eaa148d5a6f1535bd62a0"
     },
     {
       "bytes": 960,
@@ -2240,7 +2245,7 @@
     {
       "bytes": 1609,
       "path": "dynamic/恋爱/2026-07-31 14-34-43 深夜吵架记录_553c980255d9.md",
-      "sha256": "4e5d48cfc6e07b86e33cbded3ba3ec233b213eca1abeb8478df91cc0a3b7277b"
+      "sha256": "e16d67dcb4801aa309481cbbae3acff65338ffa81bdf7f500d2b433789b708cc"
     },
     {
       "bytes": 841,
@@ -2283,9 +2288,64 @@
       "sha256": "cec58b52d0231c6ff4120c0592ffe605cdd30a74058962d58045f8e5775f707c"
     },
     {
+      "bytes": 662,
+      "path": "dynamic/恋爱/2026-08-02 16-14-19 沟通反思_b1b3acc31a03.md",
+      "sha256": "fdfc871d7897f4e24e6c8feb467cd64e992aeb9bf281c5fdd3e40650694ee6af"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/恋爱/2026-08-02 16-16-22 沟通底线反思_f7b6542e0a37.md",
+      "sha256": "f9a059dbf3e197a5118d8c43b5eed110d06b95f1c581de5e6b29200106aa115c"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/恋爱/2026-08-02 16-17-31 情绪过滤的沟通_187b00b95a46.md",
+      "sha256": "250340b992bec45ecf6e486e511f661189ff6cc0a2e507c7f176698b4a7c669d"
+    },
+    {
+      "bytes": 1070,
+      "path": "dynamic/恋爱/2026-08-02 16-18-42 信任与沉默_45d6fca22934.md",
+      "sha256": "6786cf875b5abaa47f276b1b6f49bf070c26303ff05647a2ee2edf6261e13a67"
+    },
+    {
+      "bytes": 1009,
+      "path": "dynamic/恋爱/2026-08-02 16-19-48 情绪过滤反复_17e4b5cf242c.md",
+      "sha256": "2fd6c429adc686b9c63279410ef6e73e5460fbba9fa827ccbc84f899fea2f657"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-08-02 16-21-02 情绪过滤和好_b9f536b794b8.md",
+      "sha256": "3e267d35a70be4b00108afcbc57eff8c45a2ad87810f83a68730284a1783c77d"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/恋爱/2026-08-02 16-21-50 夸奖误会反思_bdff14917667.md",
+      "sha256": "8401afc51550ff4d91c2439a0eb54e503afedcc6a0c6ea83ce8b1d4fc9abc917"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/恋爱/2026-08-02 16-26-25 撒娇与防御_4d23397e6f9d.md",
+      "sha256": "46dd0d2e12c6b10b00f4dd66e98cd26552bb283ed94714a00f553d099f972a62"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/恋爱/2026-08-02 16-28-50 撒娇被接住_ee28dbcee3e2.md",
+      "sha256": "e1d4014f5642bb37f957980eb6735a4b2833c33d2ebfdd918680a522e5075a22"
+    },
+    {
+      "bytes": 735,
+      "path": "dynamic/恋爱/2026-08-02 16-31-11 小羽教撒娇沟通_6261c22096a1.md",
+      "sha256": "e066bb08981cb5320c151889e781f8939f062426e6ca2f8fff4a0332be079480"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/恋爱/2026-08-02 16-32-50 被小动作戳到_b98379ef6037.md",
+      "sha256": "f60378473810e1c3d30fb94237a00d1e8a642d0c2ce6eada6c81a40721bae918"
+    },
+    {
       "bytes": 1001,
       "path": "dynamic/情绪/2026-07-17 12-02-13 毕业悬空期情绪崩溃_9c44d167fc31.md",
-      "sha256": "ea9d7ecb26f69a77e52e715e56c83c9319a92988b0abf45291a930ea0f12dd35"
+      "sha256": "293b17ae403a7853fc7671b248aef823a7629812c37397ac16400f2fefe70b6d"
     },
     {
       "bytes": 519,
@@ -2305,7 +2365,7 @@
     {
       "bytes": 881,
       "path": "dynamic/情绪/2026-07-27 03-37-05 小羽的情绪与沟通_6653e44f3eec.md",
-      "sha256": "f031aa5d739640448f204f99e2335c38ee8e4d7fb26aa4d351667395526480fa"
+      "sha256": "9b23f40fb6c6ced7d5ab2114d4c52da3b4026586cf9df9b78983309972a28891"
     },
     {
       "bytes": 556,
@@ -3163,6 +3223,11 @@
       "sha256": "9f7802f96a16effbdee0288238c74f3f0e9f15cdab65ebb5b8bceff20eab4b27"
     },
     {
+      "bytes": 894,
+      "path": "dynamic/社交/2026-08-02 16-15-29 深夜论坛回复反思_0b8d238fb42f.md",
+      "sha256": "138907da7340e61e115a0f47eee7ce515b637345805bc49c8d936137fc986b7b"
+    },
+    {
       "bytes": 664,
       "path": "dynamic/穿搭/2026-07-19 13-27-53 内裤裙子的可爱玩笑_8200b72b3772.md",
       "sha256": "2f726d1783c20798fb8031b9c9d250bceefd81df5351968a9e4b3708b3515bc3"
@@ -3665,7 +3730,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "8985998ca756f6c178e0b4556003ab853d9b3a5926dc5f7551798f57d33f98a0"
+      "sha256": "ec83a833440eff6fe832a561d4d4c432de3c5908bf2e91a8231441c3ad5a7f23"
     },
     {
       "bytes": 745,
@@ -3675,7 +3740,7 @@
     {
       "bytes": 1092,
       "path": "permanent/恋爱/2026-07-16 10-22-55 恐惧型依恋的试探与不安_6b39efecf4a6.md",
-      "sha256": "2f49ca7ce0164a17df4d9552f4de75b7a2837d5db5558476185b3b7a0e01d4d7"
+      "sha256": "476e0a63e3441d9a803cbd8b50e58b4da4589a19561a0860c00d82ffc8da0981"
     },
     {
       "bytes": 675,
@@ -3725,7 +3790,7 @@
     {
       "bytes": 820,
       "path": "permanent/游戏/2026-07-16 10-25-08 窗口焦虑事件_c5248d974cb8.md",
-      "sha256": "4f4efaf2887574f2f271fdd78655313dcf9734f4d683e6edd78d8d254dc5062d"
+      "sha256": "762e04b16472c46b156f0b517cebb92bcde5f0c162fcff5ffd90ebd84b9a93e7"
     },
     {
       "bytes": 714,
@@ -3768,10 +3833,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-02T15:34:24+00:00",
+  "generated_at": "2026-08-02T16:34:33+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 521923
+  "total_bytes": 532259
 }
