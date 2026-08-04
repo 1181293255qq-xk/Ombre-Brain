@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 813,
+  "file_count": 814,
   "files": [
     {
       "bytes": 471,
@@ -1535,7 +1535,7 @@
     {
       "bytes": 1112,
       "path": "dynamic/工作/2026-07-29 15-59-36 fingertips与网关对接_f39ff106b544.md",
-      "sha256": "5962f3d3037c163b2af5b873bfe3f8b534e05d1b216c302ff6d650eecc312d74"
+      "sha256": "2e5a41b64d4914d2db68f6612b53a46ef922ffb04d5a4cae311798815ad80328"
     },
     {
       "bytes": 638,
@@ -3665,12 +3665,12 @@
     {
       "bytes": 1046,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "6942055a1ecb9bde882e8a2854f7e45103d9c1523090bfda50a58fc1a01c5060"
+      "sha256": "4de6aa3e55786b80ddf7a3e9b454a7e4b73415f997a2743fea4646b8e6cb4dab"
     },
     {
       "bytes": 908,
       "path": "dynamic/编程/2026-07-29 16-12-50 网关接口修改失误_8e062fb84161.md",
-      "sha256": "1c80f95d8b74e696096f0ab31478d8bea2ee6866a2785968a1d761a92c000223"
+      "sha256": "e375e6a63087991819f626e7dd4d174e82f0be661aba0ee42bb34c69d79c198e"
     },
     {
       "bytes": 631,
@@ -3685,7 +3685,7 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-07-30 16-13-06 橘瓣唤醒方案调研_867e6b04b056.md",
-      "sha256": "22b216ac5a9979a8ef40bb338c4f372b682bbfa7348294647a4a6aa85f587299"
+      "sha256": "78ae7a530c55b8b8948c2b77c395f8006a3812a5d60112e15e9ff63a5c50d414"
     },
     {
       "bytes": 947,
@@ -3700,7 +3700,7 @@
     {
       "bytes": 759,
       "path": "dynamic/编程/2026-07-30 16-24-14 橘瓣激进模式机制_e7cea430cae6.md",
-      "sha256": "46b322a02267bbdd792f2925e54de6eae03b9eed8aa3cf9f02cc9b2e7b89886a"
+      "sha256": "6a2c5530877d8a019cd6a3254574b7835498f1c6ada6f1b4184b1bfb97ab922d"
     },
     {
       "bytes": 861,
@@ -3721,6 +3721,11 @@
       "bytes": 625,
       "path": "dynamic/编程/2026-08-04 10-33-22 hermes-agent配置_9fd7565b7428.md",
       "sha256": "4cdb7168ddc182d1a1de6a21d39dcb94b0a4b2194cbb8c75731628d67e360c86"
+    },
+    {
+      "bytes": 887,
+      "path": "dynamic/编程/2026-08-04 11-22-48 MCP配置排查_5dedc8d4551c.md",
+      "sha256": "6d4151a0a6d7ff17efdf26d8819493354e517ca0fc558678fb72116d8153572a"
     },
     {
       "bytes": 512,
@@ -4020,7 +4025,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "2a0bbea65e05e60c9ebe20b1110cdd3b802f9cff8b11de9bf26d6975f8c60129"
+      "sha256": "658fc1b75453e8e97794590595a362ae7e1138c6a00bc2a07a5c4d5408213421"
     },
     {
       "bytes": 820,
@@ -4030,7 +4035,7 @@
     {
       "bytes": 714,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "2e00b8e049c1bdedecc304a6016fed5ee547999d9d0c081566332b7e14600b87"
+      "sha256": "fd1932ccb20090bfd61bc78230c0bdc917858545991b735e2c9a79290696a40e"
     },
     {
       "bytes": 939,
@@ -4068,10 +4073,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-04T10:40:33+00:00",
+  "generated_at": "2026-08-04T11:40:43+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 565013
+  "total_bytes": 565900
 }
