@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 831,
+  "file_count": 835,
   "files": [
     {
       "bytes": 471,
@@ -1318,6 +1318,11 @@
       "sha256": "0923aa3468bce598e0ffa3e16dff24962298c7f6471b6e8c2070d7068777b259"
     },
     {
+      "bytes": 895,
+      "path": "dynamic/学习/2026-08-04 17-56-50 提示词顺序排查_bf43f1f918b6.md",
+      "sha256": "c0e2633de4bd672b34688d1e37ab813b67edb09d073ca13289f0fe1caa4399a4"
+    },
+    {
       "bytes": 527,
       "path": "dynamic/宠物/2026-07-20 08-34-19 被小猫针对了_0936dce2d284.md",
       "sha256": "9d20efda87d9820fb76bb5b70bafd50e4a4dac35539a0f1ead00064a3ebd432f"
@@ -1636,6 +1641,11 @@
       "bytes": 804,
       "path": "dynamic/工作/2026-08-04 16-21-54 讲义合作排版_5a25166f0023.md",
       "sha256": "a3547d76426bc5523b814fd6c12a2dc51d1b1270157267f87b2fcc8063aa03c8"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
+      "sha256": "4dbf88a2d4243a8cfd197b08ab9596c9255bcfe5fef12cbe7880797db95d2715"
     },
     {
       "bytes": 727,
@@ -2603,6 +2613,11 @@
       "sha256": "b99537031420c2e184f8ec00d50ff74425a4e8b773cb51d3d75f805f98a8068d"
     },
     {
+      "bytes": 915,
+      "path": "dynamic/恋爱/2026-08-04 17-59-36 前任分手回忆_426b073ccf48.md",
+      "sha256": "1b24621ae111268017b357d65fbb4c880505babb0093254ecca58ae50e36f546"
+    },
+    {
       "bytes": 1001,
       "path": "dynamic/情绪/2026-07-17 12-02-13 毕业悬空期情绪崩溃_9c44d167fc31.md",
       "sha256": "293b17ae403a7853fc7671b248aef823a7629812c37397ac16400f2fefe70b6d"
@@ -2881,6 +2896,11 @@
       "bytes": 662,
       "path": "dynamic/数字/2026-08-02 11-06-27 AI小窝时间线异常排查_ca59af073202.md",
       "sha256": "87a805b7f7e6b50f09a63da0dd333a86e48e09c46ab59db038815954d35608f9"
+    },
+    {
+      "bytes": 922,
+      "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
+      "sha256": "68648018b6bc5845578ac8a72d02c4b2a53d7a80d3a333f97cd3330b56571072"
     },
     {
       "bytes": 475,
@@ -4158,10 +4178,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-04T17:41:38+00:00",
+  "generated_at": "2026-08-04T18:41:47+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 582660
+  "total_bytes": 586298
 }
