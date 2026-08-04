@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 823,
+  "file_count": 831,
   "files": [
     {
       "bytes": 471,
@@ -401,6 +401,11 @@
       "bytes": 1029,
       "path": "dynamic/AI/2026-08-04 14-53-32 提示词顺序优化_a05e06eb9520.md",
       "sha256": "b8d4a76201c9f11fffb6da993ce38d27f42f463cce62a239447eaa15354e02b2"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/AI/2026-08-04 15-51-08 思维链配置说明_68699339ecd6.md",
+      "sha256": "4df2be77481f2f2e849676d33644d40c83c6adc22479c5ec4f8c4f128a81ef8b"
     },
     {
       "bytes": 463,
@@ -1601,6 +1606,36 @@
       "bytes": 853,
       "path": "dynamic/工作/2026-08-04 13-53-32 初二升初三女孩讲义_bf9bd4c4be3f.md",
       "sha256": "f3525079249a16256bdc09d035d6941e79d189ddbdacfe6eaa38cb628541c610"
+    },
+    {
+      "bytes": 1217,
+      "path": "dynamic/工作/2026-08-04 16-05-57 初二女生讲义调整_484064fd5824.md",
+      "sha256": "4f2a03cdcdf818c8db5728a122b65eb423d210b3210b8aaafcd94ea0cdd8ed63"
+    },
+    {
+      "bytes": 1076,
+      "path": "dynamic/工作/2026-08-04 16-06-01 小升初男孩讲义准备_3e2e33d5ca4a.md",
+      "sha256": "77c6baa39df89041d47bde7473308daec96786b2d084e7ff140df7cf33e0af7b"
+    },
+    {
+      "bytes": 967,
+      "path": "dynamic/工作/2026-08-04 16-06-05 小升初讲义修改落实_a7fc02637c77.md",
+      "sha256": "75401f2e046657779b16c313e284bfeb439bbbc2890a123f262be9c94004a211"
+    },
+    {
+      "bytes": 1233,
+      "path": "dynamic/工作/2026-08-04 16-21-43 英语讲义制作_f06a8231888c.md",
+      "sha256": "be39b966d7c85c5088da7766ddd5cbe343aeb5f66681cb30f6a319ead3d9e970"
+    },
+    {
+      "bytes": 914,
+      "path": "dynamic/工作/2026-08-04 16-21-48 英语讲义合作_9f3ce59d63fa.md",
+      "sha256": "a7b784f451dcef62a99482607b7efb3f60b7640e15ae65f7bb851e6cda80a919"
+    },
+    {
+      "bytes": 804,
+      "path": "dynamic/工作/2026-08-04 16-21-54 讲义合作排版_5a25166f0023.md",
+      "sha256": "a3547d76426bc5523b814fd6c12a2dc51d1b1270157267f87b2fcc8063aa03c8"
     },
     {
       "bytes": 727,
@@ -3813,6 +3848,11 @@
       "sha256": "d5dcbee438f713b364f606164d2b18c2647bc1b6df465639f9ba2e71105855b1"
     },
     {
+      "bytes": 881,
+      "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
+      "sha256": "89be739b4b03cccf82b8322065df6a822e686de94a1e7b85e8a5ce4be8ce8529"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/财务/2026-07-30 10-09-02 小羽攒钱日记_183a03667514.md",
       "sha256": "83c477f97f48df5d6db5bc702d81c1f0cfe0776da999da53433c6c35e87efbd5"
@@ -4118,10 +4158,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-04T15:41:19+00:00",
+  "generated_at": "2026-08-04T16:41:29+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 574781
+  "total_bytes": 582660
 }
