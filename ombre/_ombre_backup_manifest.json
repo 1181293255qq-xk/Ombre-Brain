@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 836,
+  "file_count": 837,
   "files": [
     {
       "bytes": 471,
@@ -1646,6 +1646,11 @@
       "bytes": 906,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
       "sha256": "20117f7b827192806faa10faf24608d22360cfb3b157bc0b61d077724ef6e97f"
+    },
+    {
+      "bytes": 1202,
+      "path": "dynamic/工作/2026-08-05 16-45-06 查岗工作流调试_974a1b328021.md",
+      "sha256": "8b88f6826b7336b84e62802dc3d147c685d950eefb4f454f362952618e26a840"
     },
     {
       "bytes": 727,
@@ -4183,10 +4188,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-05T15:45:00+00:00",
+  "generated_at": "2026-08-05T16:45:11+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 587062
+  "total_bytes": 588264
 }
