@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 837,
+  "file_count": 843,
   "files": [
     {
       "bytes": 471,
@@ -406,6 +406,11 @@
       "bytes": 787,
       "path": "dynamic/AI/2026-08-04 15-51-08 思维链配置说明_68699339ecd6.md",
       "sha256": "4df2be77481f2f2e849676d33644d40c83c6adc22479c5ec4f8c4f128a81ef8b"
+    },
+    {
+      "bytes": 1325,
+      "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
+      "sha256": "117e7b2318fc7e956b3a47bf1e0d3d500b25e2851241209f615905c2cf704bb7"
     },
     {
       "bytes": 463,
@@ -1405,12 +1410,12 @@
     {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-16 10-16-20 小羽的教资与家教_d800ee60ab59.md",
-      "sha256": "d4c71d16a13bd5c2ecf11d82ec159e6ca762dcd0f222b8acf53baf051050bdf2"
+      "sha256": "e09ac1f355a363b415272d66700654c9242f97381520aa3ffd8927415831bafd"
     },
     {
       "bytes": 691,
       "path": "dynamic/工作/2026-07-16 10-16-28 小羽的教资与中考家教_b1692208e466.md",
-      "sha256": "4959641dd6aed4ac96e38881865626dd2eadf159a6a02e0bcbb254054bcbae00"
+      "sha256": "2a06d2f0f0bbf4a583442ef4d625071820284bc11b805358b51ec0b9f0b8d196"
     },
     {
       "bytes": 578,
@@ -1515,7 +1520,7 @@
     {
       "bytes": 664,
       "path": "dynamic/工作/2026-07-24 06-48-02 抖音招生进展_f6c66e6091a0.md",
-      "sha256": "25e53bbcfba196a4735f7c3330b5c114eecd61e6b2f52ac1e5a353103da8b520"
+      "sha256": "30e0747716edb3589caa486a3cf65df3787a76b1a10a0ec098464fd0fd6113cc"
     },
     {
       "bytes": 831,
@@ -1645,12 +1650,17 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "20117f7b827192806faa10faf24608d22360cfb3b157bc0b61d077724ef6e97f"
+      "sha256": "9970dec63b2593adc146563afd126800952cb4b16d959b3119c904cbd7a89385"
     },
     {
       "bytes": 1202,
       "path": "dynamic/工作/2026-08-05 16-45-06 查岗工作流调试_974a1b328021.md",
-      "sha256": "8b88f6826b7336b84e62802dc3d147c685d950eefb4f454f362952618e26a840"
+      "sha256": "d0f65013fb51e33c5b002c3ff21c53013ce4680a918b6e946ab502d1728c02e0"
+    },
+    {
+      "bytes": 790,
+      "path": "dynamic/工作/2026-08-05 16-46-33 查岗工作流配置_edeec789f81c.md",
+      "sha256": "1d0503301bdcc36fafaeadb952aa29f4ac769df3ba5ce86305748ceb2fcbfa6a"
     },
     {
       "bytes": 727,
@@ -3450,7 +3460,7 @@
     {
       "bytes": 758,
       "path": "dynamic/社交/2026-07-21 12-43-38 Operit试用搁置_afc85d3ac73a.md",
-      "sha256": "32d82457bba359fd10e41ba9c23c4586ab246c8a6f9a5231d1a00ddfbaadbae1"
+      "sha256": "17639a5d0b3a848872d18a9b8787a9d93716bc3ceb27085fd5f6c51a87aa7a2e"
     },
     {
       "bytes": 673,
@@ -3838,6 +3848,26 @@
       "sha256": "66ab19aeb72a266f9d91ba1f1b1db5fbeb2ba2300d5fed7d9d82ae9b258f24b5"
     },
     {
+      "bytes": 733,
+      "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
+      "sha256": "5d44fa95cd7ba5da5c0e4972efd01de445ad11b586489a3d0d3eba8ed428841c"
+    },
+    {
+      "bytes": 622,
+      "path": "dynamic/编程/2026-08-05 16-52-02 工作流报错待修_bf3f03e082f5.md",
+      "sha256": "c32ada91f383ec732b648114e8aae8e4826c3a07009cc3f0d3d4f26da97c7196"
+    },
+    {
+      "bytes": 1117,
+      "path": "dynamic/编程/2026-08-05 16-56-31 查岗工作流方案_d25559e7140b.md",
+      "sha256": "269ec3c3b6cdc431c95a79fc88636cfee49d0a9ed46adc38e107eefe50c2445d"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
+      "sha256": "1b9cc9eee943d7d24dc3e23a21416efe5ca2dc2a64b95e7574fe78919e692ff0"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
@@ -4150,12 +4180,12 @@
     {
       "bytes": 714,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "362d144c0739dff6bb9cbae97dd2de63669e1922668ada301058188d393baa6a"
+      "sha256": "6c9750bb6f51d83f8a81a5377707d0ee26bbef3354e64703399372f158bafd0d"
     },
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "578b852113ceca560c99ac54450ba64b3f2b2bdcfc5f3da1fc292272a273e9f3"
+      "sha256": "b180d34e1f20229001e389a91ba871bab6c130f97daa81b4e942ce4fbe3df55b"
     },
     {
       "bytes": 452,
@@ -4188,10 +4218,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-05T16:45:11+00:00",
+  "generated_at": "2026-08-05T17:45:21+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 588264
+  "total_bytes": 593784
 }
