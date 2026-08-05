@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 843,
+  "file_count": 849,
   "files": [
     {
       "bytes": 471,
@@ -1661,6 +1661,16 @@
       "bytes": 790,
       "path": "dynamic/工作/2026-08-05 16-46-33 查岗工作流配置_edeec789f81c.md",
       "sha256": "1d0503301bdcc36fafaeadb952aa29f4ac769df3ba5ce86305748ceb2fcbfa6a"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/工作/2026-08-05 17-57-32 工作流bug待修_d4b56d0a19ed.md",
+      "sha256": "c9fa0feaf0cc09061e580def56665b0878dc1d660833f7cead13108efa23ce3b"
+    },
+    {
+      "bytes": 948,
+      "path": "dynamic/工作/2026-08-05 18-09-19 查岗v2跑通_a83bdba32b29.md",
+      "sha256": "ef9e0da158b9c495c62671d973cab746b35eb6424141820a6147636b6c1a13c6"
     },
     {
       "bytes": 727,
@@ -3868,6 +3878,26 @@
       "sha256": "1b9cc9eee943d7d24dc3e23a21416efe5ca2dc2a64b95e7574fe78919e692ff0"
     },
     {
+      "bytes": 836,
+      "path": "dynamic/编程/2026-08-05 17-57-15 查岗工作流调试_e68768682724.md",
+      "sha256": "d8f7fd6fae5a297261a9171bd5d812cdf90e4b315119cb64e8228819ca7f2f5d"
+    },
+    {
+      "bytes": 909,
+      "path": "dynamic/编程/2026-08-05 17-57-21 查岗v2配置调整_4e684ef0dec1.md",
+      "sha256": "e5666c1aa1b07646fc4994cd811dd94a0312158b3eed6f63d6d96066a2588f8b"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/编程/2026-08-05 17-57-26 thinking泄露事件_7bbf850b2094.md",
+      "sha256": "f59b9ae5214b5276cba8a695bc2b3c04ebb185692d0a596d115276de6748f11c"
+    },
+    {
+      "bytes": 1172,
+      "path": "dynamic/编程/2026-08-05 17-57-42 工作流调试日志_f0076dca8252.md",
+      "sha256": "89dbdf4dad3f23501bc860e9b80663db45817e2dfcbf459ea47f88b1c4be1c3f"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
@@ -4218,10 +4248,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-05T17:45:21+00:00",
+  "generated_at": "2026-08-05T18:45:31+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 593784
+  "total_bytes": 599083
 }
