@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 861,
+  "file_count": 865,
   "files": [
     {
       "bytes": 471,
@@ -411,6 +411,11 @@
       "bytes": 2793,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
       "sha256": "9257edadc8b90785ec5f4983b0a4eaa77a3d6dffc3d0015524f2dea84422c51c"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/AI/2026-08-06 12-07-19 换GLM模型_e38f64d80d65.md",
+      "sha256": "0e0769111ce5b271b1d6bd949c9a83ff5f14e801143fefebf6248e354e53f81d"
     },
     {
       "bytes": 463,
@@ -1325,12 +1330,22 @@
     {
       "bytes": 540,
       "path": "dynamic/学习/2026-08-04 09-24-19 课程作息安排_1fc4d9c83596.md",
-      "sha256": "96879660924b5ecf98dbf70e820a343acf1f82997a5789e83bccf479d10577fd"
+      "sha256": "01d265b9081de50220d9af461db98b7fb91416117ee50ef770fe387729969162"
     },
     {
       "bytes": 895,
       "path": "dynamic/学习/2026-08-04 17-56-50 提示词顺序排查_bf43f1f918b6.md",
       "sha256": "c0e2633de4bd672b34688d1e37ab813b67edb09d073ca13289f0fe1caa4399a4"
+    },
+    {
+      "bytes": 992,
+      "path": "dynamic/学习/2026-08-06 12-47-57 三种时态综合练习_a6cf8995b749.md",
+      "sha256": "b3c277fe51c8fdc88afb9d7a0e3ab50b8851c2457714b0c935b639a8539537fb"
+    },
+    {
+      "bytes": 986,
+      "path": "dynamic/学习/2026-08-06 12-48-02 小升初语法练习安排_fdf2db1882f5.md",
+      "sha256": "30c58fe3247b7f9ff2446e63180b50b031f95358915273fcb137802d4b2c0f53"
     },
     {
       "bytes": 527,
@@ -1405,7 +1420,7 @@
     {
       "bytes": 619,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "23d9ab0cfc886812135e16308a87eba8887f965a59f95355791e4f4688b0b0be"
+      "sha256": "2129e77be7f36cf042e7f14a453a2289734fa2410666584024bd0c577d48b6d1"
     },
     {
       "bytes": 682,
@@ -1420,7 +1435,7 @@
     {
       "bytes": 691,
       "path": "dynamic/工作/2026-07-16 10-16-28 小羽的教资与中考家教_b1692208e466.md",
-      "sha256": "639a8b7608a46ef49e3c080532c9e4c90455bc3d54ab73797f7076a7b6421822"
+      "sha256": "236cd82899716d8261359eaa5987def90e49baadf193e1e6edc0396af0c9ee6c"
     },
     {
       "bytes": 578,
@@ -1580,7 +1595,7 @@
     {
       "bytes": 558,
       "path": "dynamic/工作/2026-07-30 10-09-16 小升初课程安排_0de0811be3f7.md",
-      "sha256": "623329c0dd25cf57731feafad17c2b90f843e7ae6f26046695ba2c760d305310"
+      "sha256": "12c7e302712f87189625d8e9b0099113ff227fc80ac89a8595ef7cb20b66db36"
     },
     {
       "bytes": 1719,
@@ -1620,7 +1635,7 @@
     {
       "bytes": 853,
       "path": "dynamic/工作/2026-08-04 13-53-32 初二升初三女孩讲义_bf9bd4c4be3f.md",
-      "sha256": "f3525079249a16256bdc09d035d6941e79d189ddbdacfe6eaa38cb628541c610"
+      "sha256": "1efe23a9e6e719845ab6d91165ed51e00932f899c6369770b1aa9604a914888e"
     },
     {
       "bytes": 1217,
@@ -2666,6 +2681,11 @@
       "bytes": 915,
       "path": "dynamic/恋爱/2026-08-04 17-59-36 前任分手回忆_426b073ccf48.md",
       "sha256": "1b24621ae111268017b357d65fbb4c880505babb0093254ecca58ae50e36f546"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/恋爱/2026-08-06 12-07-06 核桃渣的可爱_6032eb494a99.md",
+      "sha256": "e6c26da647c208389fb2bfda39d771d74e21eea43145a45234711988a7467e45"
     },
     {
       "bytes": 1001,
@@ -3995,7 +4015,7 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "67e2a6bf95cacb8a6c13650debb0e674ed9a73e0e779b46144d4192c97e32b85"
+      "sha256": "2664f1961f93217f1131db3e2ee7feff53a2b9f799e70e95c862b3f6782f3bac"
     },
     {
       "bytes": 993,
@@ -4215,12 +4235,12 @@
     {
       "bytes": 1092,
       "path": "permanent/恋爱/2026-07-16 10-22-55 恐惧型依恋的试探与不安_6b39efecf4a6.md",
-      "sha256": "a3b75cb7b956ace71f97f713164f2c6f69a5e025c77e5bb004afbbc2ea78cbe2"
+      "sha256": "5e894735a1c359d0e1fc0fb31d2abd64430d2046760b7da6745622027f498cd6"
     },
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "342fc4c42aa302a1702ca1de094757f5c72ad34ba621aa57aca563b3b7117f8b"
+      "sha256": "2e4ad0683b6550c1d8bfa04ccb1921a30ed6192c32f0f4382b14c2ebe5819301"
     },
     {
       "bytes": 860,
@@ -4230,7 +4250,7 @@
     {
       "bytes": 1109,
       "path": "permanent/恋爱/2026-07-16 10-23-58 恋爱沟通约定_88129d1629d3.md",
-      "sha256": "8356ab0a2dc7cee2668673977e232e4516f5339984723ea5a2519d07d5e3490d"
+      "sha256": "5e0e446f0bea574aa50b703626292d00932c02ae6301da3c102c7a17c1272f6f"
     },
     {
       "bytes": 877,
@@ -4260,7 +4280,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "658fc1b75453e8e97794590595a362ae7e1138c6a00bc2a07a5c4d5408213421"
+      "sha256": "cd475ae52a76c86c1ed876d902edd9b1102cf30e8c3bda8b7d7de089062d2b5a"
     },
     {
       "bytes": 820,
@@ -4308,10 +4328,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T11:48:05+00:00",
+  "generated_at": "2026-08-06T12:48:14+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 611733
+  "total_bytes": 615045
 }
