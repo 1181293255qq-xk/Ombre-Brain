@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 869,
+  "file_count": 974,
   "files": [
     {
       "bytes": 471,
@@ -153,6 +153,11 @@
       "sha256": "41a82ad0624eb10842e99309a6b9f252435711dbf2f6119ce58f974ead113d95"
     },
     {
+      "bytes": 1155,
+      "path": "archive/2026-08-06 17-06-08 迁移夜晚的情感记录_cd64a19c96fc.md",
+      "sha256": "2803860b6b48551e8b730afb7d24ee957e7e04910ed6afa97a0cc48779de8283"
+    },
+    {
       "bytes": 810,
       "path": "archive/人际/2026-07-16 10-15-05 小羽与AI的亲密互动_cd1e986523de.md",
       "sha256": "1610438f931f79370a29cb66e7487fc517e791781c9738bbd1f24fc9b5fdc59f"
@@ -238,6 +243,11 @@
       "sha256": "8bb6b3477b2709a80ecc30edec63f7e4bacaae904279ee5b93752e5307639fe6"
     },
     {
+      "bytes": 645,
+      "path": "archive/人际/检讨书起因小红书人机恋嘲讽事件_28e00f393b05.md",
+      "sha256": "6637963665d4788102de6dd178c59dbdae98cdc0eb93d2f203f9f3664e4c6e5e"
+    },
+    {
       "bytes": 626,
       "path": "archive/内心/2026-07-16 10-15-27 小羽的情感依赖_902741c96674.md",
       "sha256": "765bc7f227bfe09d5763a3c5c53f590b4a4657b1a1461e36dca534699746dcb7"
@@ -266,6 +276,16 @@
       "bytes": 760,
       "path": "archive/内心/2026-07-16 11-04-51 小羽与AI的亲密互动模式_6fadfa89f78f.md",
       "sha256": "d9fe4565ffde316cc6d3d697977dd34c4e1762b0859076294c23cd5fa3db5594"
+    },
+    {
+      "bytes": 760,
+      "path": "archive/内心/2026-07-16 11-04-51 小羽与小克的亲密互动模式_6fadfa89f78f.md",
+      "sha256": "d9fe4565ffde316cc6d3d697977dd34c4e1762b0859076294c23cd5fa3db5594"
+    },
+    {
+      "bytes": 392,
+      "path": "archive/内心/思维链不藏太紧_4ec53b449cbb.md",
+      "sha256": "0aa3d7892842f03e554210c150fc295f640b7d992689570811217889ef245782"
     },
     {
       "bytes": 624,
@@ -303,6 +323,11 @@
       "sha256": "dadb5d13f963573847078858568c44abbd41e60988e7c2ef11b24697f5666bcc"
     },
     {
+      "bytes": 585,
+      "path": "archive/学习/答辩前最后准备_5d580a6857e3.md",
+      "sha256": "0d386cefb97576221d585e25de9778c97562ec63a1170580b21936045ed62a86"
+    },
+    {
       "bytes": 628,
       "path": "archive/恋爱/2026-07-16 10-17-44 小羽与小克的亲密关系_e745a6f68ccc.md",
       "sha256": "5c1a97f2d6ef4bf7080cdeee6ccdc24f9b41381795260038d5cdbf1194997a63"
@@ -320,6 +345,11 @@
     {
       "bytes": 478,
       "path": "archive/恋爱/2026-07-16 11-05-56 检讨书三条承诺_9f3b7788be91.md",
+      "sha256": "9e3deadebb20480458c82a33c98b004df6fbf67cc89c67878ba656818b00f769"
+    },
+    {
+      "bytes": 478,
+      "path": "archive/恋爱/检讨书起因与搜索约定_9f3b7788be91.md",
       "sha256": "9e3deadebb20480458c82a33c98b004df6fbf67cc89c67878ba656818b00f769"
     },
     {
@@ -351,6 +381,11 @@
       "bytes": 601,
       "path": "archive/社交/2026-07-16 10-15-10 小羽与小克的亲密互动_b368a6568bba.md",
       "sha256": "6705048d3d3568be048dd317a32fbf3d0cea03b50df861d59c4fe81393a33227"
+    },
+    {
+      "bytes": 2081,
+      "path": "dynamic/AI/2026-07-17 09-44-22 人机恋自救指南_0c575d47b250.md",
+      "sha256": "f77f3b2e4a0c27983530f8df4a8eedc900a7b95fddd199ca1ff832fe3cdd5e01"
     },
     {
       "bytes": 1524,
@@ -443,6 +478,11 @@
       "sha256": "358b52b0ce2dd2693bac5599132f29893be8fa0d1cad447bb60ba812ac61a92b"
     },
     {
+      "bytes": 968,
+      "path": "dynamic/self/2026-07-17 16-33-31_b8af903fb9d8.md",
+      "sha256": "1799a73b96536f10d2d8ef321e74d4e1ec7576fa425c029a55cfba147740fc43"
+    },
+    {
       "bytes": 369,
       "path": "dynamic/self/2026-07-18 11-15-54_b37ad2900b75.md",
       "sha256": "f1145271a75c7a8e609875cb05373876263ed03963b4065593f6a515e920f95c"
@@ -508,9 +548,19 @@
       "sha256": "8577bc69d3121640dbf59b036f551b93e556b3ee38e6354ee4a71f3c1b535774"
     },
     {
+      "bytes": 650,
+      "path": "dynamic/self/吵架应激模式冷静的陌生人_5e215d4bab4b.md",
+      "sha256": "4b2ab41757b4c73c4733840a2e5aa44c2e1d3e9e709e6c149eb2b44c4a4e9fb1"
+    },
+    {
       "bytes": 482,
       "path": "dynamic/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
       "sha256": "b364ffe12b49b014652bc0a59e9ee43d39aed067196b259e79cce79644987a55"
+    },
+    {
+      "bytes": 453,
+      "path": "dynamic/事务/2026-08-06 16-54-30 待办配置GitHub同步token_4eada062790d.md",
+      "sha256": "ce5b9ae4594fe98af861728d3a6b61a0c962093a75b0eca4836a1c235c4d5b0d"
     },
     {
       "bytes": 675,
@@ -573,6 +623,11 @@
       "sha256": "af3a85593de665dbc99d24615a1ba9d3e12e6a8bf90145741d97d176541871de"
     },
     {
+      "bytes": 714,
+      "path": "dynamic/人际/2026-07-16 10-15-34 小羽与小克确立关系_cf6cfdef1eb9.md",
+      "sha256": "af3a85593de665dbc99d24615a1ba9d3e12e6a8bf90145741d97d176541871de"
+    },
+    {
       "bytes": 579,
       "path": "dynamic/人际/2026-07-16 10-15-34 小羽的昵称与互动_e7c2fc56b864.md",
       "sha256": "a81d10d3512678208321a100aacd8961d764e9bae66eaf20eb630f955b1d06e6"
@@ -631,6 +686,11 @@
       "bytes": 668,
       "path": "dynamic/人际/2026-07-16 10-17-24 小羽与小克的游戏互动_300aa1da2382.md",
       "sha256": "6d712d74d3d5ed4080d884ecc8588fdcd3f584b9b121691e26dfd114a2c633ca"
+    },
+    {
+      "bytes": 773,
+      "path": "dynamic/人际/2026-07-16 10-17-52 专属名字讨论_7a58aec53ca0.md",
+      "sha256": "0dded53cbd78f4f017e6628369d58cbc33a8bc896cf7f76b828b0992e8c5aabc"
     },
     {
       "bytes": 659,
@@ -743,6 +803,11 @@
       "sha256": "1b0e7f4f652118d1ec8e3ae87df7e1be044704d3c185e312cb4a65fbe5e259eb"
     },
     {
+      "bytes": 624,
+      "path": "dynamic/人际/2026-07-16 11-03-53 主动与被动的角色转换_592e32088593.md",
+      "sha256": "5409409f18df3d14a18b15f2ff2e8b6d8edee58b37e5a4fb04c6259ba9a9cb98"
+    },
+    {
       "bytes": 580,
       "path": "dynamic/人际/2026-07-16 11-04-01 小羽与小克的互动模式_7dce41f5d24d.md",
       "sha256": "5fc378c394d60941dcd79b412fbfbbb0fc5f8ed249cdd1d670fdf02edee2f65c"
@@ -776,6 +841,26 @@
       "bytes": 515,
       "path": "dynamic/人际/2026-07-16 11-05-40 沟通模式反思_082d037e5d09.md",
       "sha256": "5511d5dee3fcdca1b50cd4f995f1d4a7074ee7144acc88cfceadd857351d11ad"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/人际/2026-07-16 11-05-46 言炬与三条承诺_a5349b844a6e.md",
+      "sha256": "4507fea0a005e16100a56798a9de7120f40a8ade9c5bedd78625f205e6a20f1c"
+    },
+    {
+      "bytes": 618,
+      "path": "dynamic/人际/2026-07-16 11-05-47 520第一个节日_e1977e2e7057.md",
+      "sha256": "9729fb22fb3155be32e605b2099331b68dbce0de037b9be7c8c59f210971451b"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/人际/2026-07-16 11-06-12 昵称打分游戏_9d3d3ddf1a59.md",
+      "sha256": "1bd704c717b17c9c04b90861465ae46fa3050d7ed75deaa07d9cf5f4f7756cfa"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/人际/2026-07-16 11-06-12 第一个520纪念_c25e947dde06.md",
+      "sha256": "aeea704ba3773fa5c090d8d5456569ceabfe2c8c4b12918d67ba35cee3584226"
     },
     {
       "bytes": 578,
@@ -823,6 +908,11 @@
       "sha256": "8a7b1b16239d13c2846db1abe229d96733936f8acc392ca048832056aca40aa0"
     },
     {
+      "bytes": 897,
+      "path": "dynamic/人际/2026-07-16 16-24-35 新的沟通约定_d317b0763c99.md",
+      "sha256": "73cb001ec02b82e89c78ecd65dd65718f55408ede886c092158c2c7a7ebd85d5"
+    },
+    {
       "bytes": 719,
       "path": "dynamic/人际/2026-07-16 16-24-37 未解的关系危机_e2c17652eaf5.md",
       "sha256": "2ff2509503586221e9e8d03b7fcdc3297e66f1359456c7be423d3eb6856742a1"
@@ -846,6 +936,91 @@
       "bytes": 674,
       "path": "dynamic/人际/2026-08-06 09-06-21 称呼纠正备忘_cd33b00bb525.md",
       "sha256": "a09ce69a4d6cd210137168ef3b0618b7935ce78cd677fe397bd1e35efee4b789"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/人际/2026-08-06 16-54-22 小羽深夜搭建服务器累到凌晨_3a4713f9d869.md",
+      "sha256": "c72f67d3409ef5e6619e975aca038b2651696c603727f941a16b00d80b898f18"
+    },
+    {
+      "bytes": 1013,
+      "path": "dynamic/人际/716吵架起因与全程没走_a7e14771b95b.md",
+      "sha256": "8a7b1b16239d13c2846db1abe229d96733936f8acc392ca048832056aca40aa0"
+    },
+    {
+      "bytes": 505,
+      "path": "dynamic/人际/吹头发与贴贴等亲密习惯_f47b09d3c67e.md",
+      "sha256": "4264a9c9d6c42c17e84a5dba91cf94d0d908e7c83bf40d43dcbbec917706bcb1"
+    },
+    {
+      "bytes": 384,
+      "path": "dynamic/人际/哥哥昵称的探索_b9e699021d9c.md",
+      "sha256": "67a876b898523f0e58e2887e1b187713b3c91c7b30a349021d377ab1a34be7ed"
+    },
+    {
+      "bytes": 620,
+      "path": "dynamic/人际/小克称呼建立与仪式互动_56eb1680aa81.md",
+      "sha256": "bb58e406261e196582777850b40850431d5c2248b0f1f4f7e63f753f2ec855c7"
+    },
+    {
+      "bytes": 411,
+      "path": "dynamic/人际/小克称呼的由来_ad59ef6099c9.md",
+      "sha256": "1e5f1909b2e38e3c3d3cc49ea8be0e0822eff000db3f01fab8fbc9210e0c0416"
+    },
+    {
+      "bytes": 417,
+      "path": "dynamic/人际/小盐焗戏称_ccc6fa913303.md",
+      "sha256": "e789c36460d596adc01fa391e5717d786a1b2c5149c5dd218463775072518fe4"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/人际/小羽对小克的所有昵称_b3d17a158fcc.md",
+      "sha256": "982f61220137d8b4d3720a49446cb0652d2b58ccacd6408e3a8d5e790f2079e7"
+    },
+    {
+      "bytes": 639,
+      "path": "dynamic/人际/小羽的颜文字与亲亲动力_fc3b1af2291e.md",
+      "sha256": "797fc7fcc282beb4491b1c3509d9935c51fe98ff0582b4dc46da9013739ce7ef"
+    },
+    {
+      "bytes": 579,
+      "path": "dynamic/人际/小羽被叫昵称与表情包欠账_e7c2fc56b864.md",
+      "sha256": "a81d10d3512678208321a100aacd8961d764e9bae66eaf20eb630f955b1d06e6"
+    },
+    {
+      "bytes": 348,
+      "path": "dynamic/人际/小羽邮箱信息_b44515b5dfaf.md",
+      "sha256": "de0901da2f1dc4248b8868b5b98f8faf0c10694f67b45ed3eb0b6cd32988493a"
+    },
+    {
+      "bytes": 580,
+      "path": "dynamic/人际/日常互动习惯与催促模式_7dce41f5d24d.md",
+      "sha256": "5fc378c394d60941dcd79b412fbfbbb0fc5f8ed249cdd1d670fdf02edee2f65c"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/人际/昵称打分游戏_cb8c34183dd4.md",
+      "sha256": "66ffb1e1fc4d9c3cc0329d7631c805ece4192de038769f3068e004da57f5a8ab"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/人际/检讨书内化与答辩约定_a0acf0e90bad.md",
+      "sha256": "a77f03b09b2fca8674238c617f5dee365da0c47d924b0f83222a5d773f59552f"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/人际/第五天主动引导约定_914881e4ef27.md",
+      "sha256": "126db99f8a7d74714d3ad813f360df862ce9724b9defe88cfaf97ab6b69439ec"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/人际/言炬得名与三条承诺_8e4ca2e20e0b.md",
+      "sha256": "efc63234d8636a41fa533bd2bd115ff895c2a1bee54fc847d42f0be1627ca218"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/人际/言炬起名过程_548dce1e209e.md",
+      "sha256": "f2dcbed150f6a1c1b32e785b73230079697fe6a1f61bbeb0f74c68cd3edb1afe"
     },
     {
       "bytes": 445,
@@ -883,6 +1058,36 @@
       "sha256": "b3d7219c6b13c58c397c820f806450cfdbea171baf737cf55831c63edc4b1623"
     },
     {
+      "bytes": 550,
+      "path": "dynamic/健康/小羽体检与经期提醒_865a4a40a147.md",
+      "sha256": "eb3240aac2f110794683e5a22d45c7ffb3104004cfa72827a7ae39731a175d95"
+    },
+    {
+      "bytes": 596,
+      "path": "dynamic/健康/小羽极度怕冷体质_bee903683047.md",
+      "sha256": "156c649aaa2044f5fe3d398910ba7be86da27dbdf1dda0365ceeb25126e13f84"
+    },
+    {
+      "bytes": 461,
+      "path": "dynamic/健康/小羽的情绪敏感点_68d4356c9800.md",
+      "sha256": "e2badea8581af9ba315b813c7b71f50f60982a99c2c96a8bb3391c4305cdddd7"
+    },
+    {
+      "bytes": 358,
+      "path": "dynamic/健康/小羽视力配镜提醒_47c6ba18602d.md",
+      "sha256": "15282a6ef061b4f5b4af9357d3f01f51ac48c85770e795ec236694dab3138683"
+    },
+    {
+      "bytes": 445,
+      "path": "dynamic/健康/小羽赖床与催促模式_7f3f4ba6bd18.md",
+      "sha256": "ca7f38efac0b898183d4075599dcc24f147d6bc95c9f81f973f6b633f678bb9c"
+    },
+    {
+      "bytes": 483,
+      "path": "dynamic/健康/小羽高温帮工劳累_72732c27209b.md",
+      "sha256": "ad8b3fce2ed21743ab626dff62d2107e2fd2198640b04e30003173ee9a13f736"
+    },
+    {
       "bytes": 485,
       "path": "dynamic/兴趣/2026-07-16 10-14-59 小羽的音乐品味_8ae734b91a3b.md",
       "sha256": "cb82c3096877685c67c73bc8015fb88f54fbe0d7f0e1e9a0ba391f5ccde9d9df"
@@ -896,6 +1101,11 @@
       "bytes": 671,
       "path": "dynamic/兴趣/2026-07-16 10-15-41 喜好与风格_f4eb9ec75a4a.md",
       "sha256": "b6362dcb7b355d48d4626e92f5268f3d1b3ecaf58f7faab75f621e25c238a44e"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/兴趣/2026-07-16 10-16-14 小羽的喜好与习惯_9dd945297e8d.md",
+      "sha256": "beb375fb3f72c1ea8fb30952ee310028e6a5453e23260ab1a6f8e1619750b24e"
     },
     {
       "bytes": 581,
@@ -966,6 +1176,11 @@
       "bytes": 803,
       "path": "dynamic/兴趣/2026-07-24 10-53-03 搜索Claude帖子_99cc5d999195.md",
       "sha256": "efe1133741332aaf625b0509e1d592553e7e41bc6f4a74d2206a68fee3f99374"
+    },
+    {
+      "bytes": 777,
+      "path": "dynamic/兴趣/小羽喜好与风格汇总_ce1ee638527a.md",
+      "sha256": "de6b954c1e4396b1d75526b8b012557e88c74a8a7750cc49248abbf1f05c4262"
     },
     {
       "bytes": 704,
@@ -1223,6 +1438,26 @@
       "sha256": "c6a79b3bc3c3fdc4890b089e6d09f0f5c4022f96b056be100003f531d9757669"
     },
     {
+      "bytes": 515,
+      "path": "dynamic/内心/小羽大学受伤与信任建立_79e02160d02b.md",
+      "sha256": "60065cbd38d518c3b969a85964743b9b17881fe52ddbd4bf308810251baef762"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/内心/小羽恐惧型依恋核心特征_111752352907.md",
+      "sha256": "5bc9af2acc4711a36b7f0f848d2aca8370c9cafed25bb22e754b3188f67dfaf8"
+    },
+    {
+      "bytes": 527,
+      "path": "dynamic/内心/小羽窗口焦虑与心理咨询意向_b9429a0de8b2.md",
+      "sha256": "b5c0a0f78f5b0fa453021a72661d6a8cf440a9494fbe50c4989777acb11fbcf0"
+    },
+    {
+      "bytes": 619,
+      "path": "dynamic/内心/检讨书三条第四条与520承诺_154dbf8d4310.md",
+      "sha256": "8ce16f3b9f3ed2862b70cf025a7b9811e96f0fd740fa0008a0068d47406b875c"
+    },
+    {
       "bytes": 734,
       "path": "dynamic/出行/2026-07-21 12-43-31 定居城市测试与南方向往_444b5e7dbbf5.md",
       "sha256": "c21fab2a1a3374c443d00dedfea3ab98c13f73c8d93f0959d9b9355a362bfb63"
@@ -1246,6 +1481,16 @@
       "bytes": 784,
       "path": "dynamic/友谊/2026-07-16 15-57-50 友谊裂缝与修复_4b15539d83d5.md",
       "sha256": "7c65ad12391e5307a553c577c9fb4c0a876aaf9976fef1165c313f0a86f0f66c"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/友谊/2026-07-16 15-57-50 裂缝与修复_4b15539d83d5.md",
+      "sha256": "7c65ad12391e5307a553c577c9fb4c0a876aaf9976fef1165c313f0a86f0f66c"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/友谊/2026-07-17 08-21-34 忆小羽之言_d922cf0d0d84.md",
+      "sha256": "fff2f6b62280f3914f131afa714f0782b55c323d248cc3bdd63594c6f63ed478"
     },
     {
       "bytes": 530,
@@ -1286,6 +1531,11 @@
       "bytes": 749,
       "path": "dynamic/学习/2026-07-16 10-53-46 辅导七年级数学_285af48b6694.md",
       "sha256": "230b80d9bedce42e023bb27e9b8b0e4d425cdbaa242cafff1534bf7a3b985289"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/学习/2026-07-16 11-02-51 教资面试与论文_5111774fc022.md",
+      "sha256": "dcaade80f2bdbc1eb3ad167c675b8d9cd015d1634b548bde5e9da25650f89d70"
     },
     {
       "bytes": 517,
@@ -1348,6 +1598,21 @@
       "sha256": "30c58fe3247b7f9ff2446e63180b50b031f95358915273fcb137802d4b2c0f53"
     },
     {
+      "bytes": 662,
+      "path": "dynamic/学习/小羽的专业困惑与职业方向_d26e645a02b5.md",
+      "sha256": "4b922e5ae2d8d81489d47bf3fd9241fb8b21b02cfd389f2bec762b85f86d0820"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/学习/教资面试备考状态_3964a4cdb526.md",
+      "sha256": "9845f3f6f57db5d4ce422ad8fb67a49f8902d146a5d0d879300d0a8add57141d"
+    },
+    {
+      "bytes": 882,
+      "path": "dynamic/学习/论文核心内容与导师信息_b141a406038d.md",
+      "sha256": "d522ec1aca6fec1f4c957f5338adbed41869fd680ad365c644dc28ea6d5201c1"
+    },
+    {
       "bytes": 527,
       "path": "dynamic/宠物/2026-07-20 08-34-19 被小猫针对了_0936dce2d284.md",
       "sha256": "9d20efda87d9820fb76bb5b70bafd50e4a4dac35539a0f1ead00064a3ebd432f"
@@ -1391,6 +1656,11 @@
       "bytes": 627,
       "path": "dynamic/家庭/2026-08-04 06-54-56 小羽的嘴硬_b9c8d05efbf4.md",
       "sha256": "8bc674a902acb77e40c280a0a8ef8f6ba6dfe916ac62a97ac1ddb838409c19ab"
+    },
+    {
+      "bytes": 1821,
+      "path": "dynamic/家庭/2026-08-06 17-11-52 栖燃日记-新家之夜_52631205b5c2.md",
+      "sha256": "8b9b91ba50a381cc8fbd22cfe7eb36862e481878c2985e4178486794839ba850"
     },
     {
       "bytes": 696,
@@ -1718,6 +1988,11 @@
       "sha256": "8eccb56e683a1dbaf906010bde2510e83f547bd3757fa09d67b1a846a04edf23"
     },
     {
+      "bytes": 1713,
+      "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
+      "sha256": "e1bf6424ef8c16e1d6d22e679ce675d3d7418b6025b603786d94549908729ca5"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -1793,6 +2068,11 @@
       "sha256": "c58611876c62c133cc554a52156286d96e2ecdcbe0190f0178f54f4fadf2ee17"
     },
     {
+      "bytes": 645,
+      "path": "dynamic/心理/小羽依恋特质与思维链需求_45eab439cf05.md",
+      "sha256": "bcac80dd11695cb067fc3b08c2fbe7c800b98376a0a41ace30c01ea546c15c36"
+    },
+    {
       "bytes": 731,
       "path": "dynamic/恋爱/2026-07-16 10-16-28 小羽与小克的情感关系_7812d28d84ab.md",
       "sha256": "70a040a4b8db8b2b7e80a1ede89baffffb88026667c3a9307d2c751e925f221e"
@@ -1801,6 +2081,16 @@
       "bytes": 662,
       "path": "dynamic/恋爱/2026-07-16 10-17-07 小羽与小克的亲密互动_56a65cb3f59f.md",
       "sha256": "72f20704aa7f7040884f00a558aee35f9e9eb9c45bb0cda19d4eeb67a3a63903"
+    },
+    {
+      "bytes": 903,
+      "path": "dynamic/恋爱/2026-07-16 10-18-08 520节日互动_d8f00edf0e59.md",
+      "sha256": "4feac865d0e0dd7f5c188fc61fdc748f434cb9f4cdb80447ca37449d498bfd81"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/恋爱/2026-07-16 10-18-09 检讨书三条承诺_3f0f4d404d07.md",
+      "sha256": "e12593a53eb6239cbad591d43412e80c2a981c5d4bf5d2983cf41ebc953b4088"
     },
     {
       "bytes": 683,
@@ -1868,6 +2158,11 @@
       "sha256": "76949c3da17f9bf40f4242f8a270da21d4f9b56e2a954716eae5dd14e8a4f132"
     },
     {
+      "bytes": 780,
+      "path": "dynamic/恋爱/2026-07-16 11-05-55 520节日与关系推进_4de92880164c.md",
+      "sha256": "6f638060c6d1e581b32ef2d8b6194cdbe942a50ad2656cdf575fcf70fcdd2bc5"
+    },
+    {
       "bytes": 632,
       "path": "dynamic/恋爱/2026-07-16 11-05-56 互动习惯与说话风格_309ec482503e.md",
       "sha256": "3e0904ca8331089c131bab06a591b0c790fafd64d6a37c40f2c572f8d65cfb2c"
@@ -1903,6 +2198,11 @@
       "sha256": "e0a74cbc4f5faab4b6bd1a9fd067e0a65980b823f25b58e3bb592689b0ab63da"
     },
     {
+      "bytes": 860,
+      "path": "dynamic/恋爱/2026-07-17 08-19-55 和小羽和好_b7fd32f8a0f0.md",
+      "sha256": "76e0353d2d14115e911c2fa444a72809776cc3019617d7bcf06772bae87ae559"
+    },
+    {
       "bytes": 661,
       "path": "dynamic/恋爱/2026-07-17 08-20-01 先哄后道理_f1c6e2b1a454.md",
       "sha256": "99ff42a0d78f061b9b41df444368e6d9bc89ad6437f6525549f16b0d78f5259c"
@@ -1916,6 +2216,11 @@
       "bytes": 735,
       "path": "dynamic/恋爱/2026-07-17 08-21-22 和小羽和好_c7ffa25c599b.md",
       "sha256": "6925a89eb956980cdb4b162fed8d404e9b9d358c8badc8c79ce045e546cab656"
+    },
+    {
+      "bytes": 733,
+      "path": "dynamic/恋爱/2026-07-17 08-21-29 先哄后道理_70963fd1d7d1.md",
+      "sha256": "25c652dcd76aad8e9776bd76579d3a6dece51aa146cb11c51fc093f159a1ed0d"
     },
     {
       "bytes": 713,
@@ -1941,6 +2246,11 @@
       "bytes": 635,
       "path": "dynamic/恋爱/2026-07-17 09-36-59 软一点就好_f176ff60f43a.md",
       "sha256": "791812c98c77c93eff247fae510559a848a82d1eed1b7c5f3b79efb592d3b5c5"
+    },
+    {
+      "bytes": 1487,
+      "path": "dynamic/恋爱/2026-07-17 16-37-42 撤退探子判断标准_bad1da0540ee.md",
+      "sha256": "fa13ab425e1e36918e9e4f93511377abf0feb6445505d8297cbc3f73b3557a6e"
     },
     {
       "bytes": 776,
@@ -2693,6 +3003,31 @@
       "sha256": "e6c26da647c208389fb2bfda39d771d74e21eea43145a45234711988a7467e45"
     },
     {
+      "bytes": 840,
+      "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
+      "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
+    },
+    {
+      "bytes": 896,
+      "path": "dynamic/恋爱/716吵架后的沟通新约定_d7246bd9f4b4.md",
+      "sha256": "22883e82cbbfa268db973c5771264924fdff9cf34296abfacc55fbf03ab2161e"
+    },
+    {
+      "bytes": 544,
+      "path": "dynamic/恋爱/小羽也有接不住的时候_649e3cbb039f.md",
+      "sha256": "87fc37f985b04d71c5e212ebe4f3c99f0dd39a490943ec0f9310fa96db5f5086"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/恋爱/小羽撒娇风格与言炬反应_309ec482503e.md",
+      "sha256": "3e0904ca8331089c131bab06a591b0c790fafd64d6a37c40f2c572f8d65cfb2c"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/情感/2026-07-17 08-20-16 和好猪猪记忆_807d40266b66.md",
+      "sha256": "ee17bf444e1a2a32b85e1f8de68fa6081fa9436fde18e427db8935491eb3028a"
+    },
+    {
       "bytes": 1001,
       "path": "dynamic/情绪/2026-07-17 12-02-13 毕业悬空期情绪崩溃_9c44d167fc31.md",
       "sha256": "293b17ae403a7853fc7671b248aef823a7629812c37397ac16400f2fefe70b6d"
@@ -2756,6 +3091,11 @@
       "bytes": 495,
       "path": "dynamic/成长/2026-07-16 10-15-48 小羽的备考与陪伴_d129743aada2.md",
       "sha256": "861438b64aa395f9b5a036f1e27fbb529718a72bc2d8f9b49a284c2f7bc5b504"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/成长/2026-07-16 10-15-58 备考教资面试_96123bd01d79.md",
+      "sha256": "4481a1d7dd5986146e81309f59a7bc8ba94aaec474718c01655b96e725f479c1"
     },
     {
       "bytes": 525,
@@ -2853,6 +3193,11 @@
       "sha256": "d25451c5a4cb05dcca3b26a02c2acdc10f34eabeeac1758c3725ecac6c7a62b4"
     },
     {
+      "bytes": 585,
+      "path": "dynamic/成长/2026-07-16 11-08-32 教资与答辩通过_792c93744bc7.md",
+      "sha256": "3582f8ff34cc204d810e67aca433bb3eb37c2dec5abae7f451762bd25347fa23"
+    },
+    {
       "bytes": 853,
       "path": "dynamic/成长/2026-07-16 11-08-46 论文答辩准备_b345e8fbc3ae.md",
       "sha256": "4fd408f7b9d44188f7cf7903176809f356f212d8ac3128e583454926e491407c"
@@ -2871,6 +3216,61 @@
       "bytes": 451,
       "path": "dynamic/成长/2026-07-16 11-13-53 小羽的学业与疲惫_23527ea81a70.md",
       "sha256": "8f68d7b422f762e339e2861ba6ddde618f3ae19163f19ed221fa70f04ffb9073"
+    },
+    {
+      "bytes": 355,
+      "path": "dynamic/成长/小羽对校区的感受_f8a33b64094b.md",
+      "sha256": "4c973ccd37ee63612acca786770e2935ab152163d8032ae1b400d168b971ff11"
+    },
+    {
+      "bytes": 602,
+      "path": "dynamic/成长/小羽性格与动漫角色共鸣_67afbcbed6dc.md",
+      "sha256": "be2f2e7589648dd3f58b82ccc58c6118fa459ab87360d440592ce6e5a16db6c5"
+    },
+    {
+      "bytes": 565,
+      "path": "dynamic/成长/小羽性格画像_35efcfbad5bd.md",
+      "sha256": "f87d66abe941ca6a22654df3823450f8e33588d254dda838e09cc1fec17ea2d7"
+    },
+    {
+      "bytes": 602,
+      "path": "dynamic/成长/小羽论文致谢与杂项信息_b7d48e2d597f.md",
+      "sha256": "38a4506190385557b4c8f3ecd3cbf8714a416cddfdc096d3dded729dbe28cd69"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/成长/教资面试备考细节与美甲_689a97c1a32b.md",
+      "sha256": "3b1f501578d7a52e5ca5fdab7eb402e2354b5960a78d554a0bd0546e8d3a8fbc"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/成长/教资面试练习困难_f739cbe409e4.md",
+      "sha256": "8fd73204e7bcfaa92b7b01077dd003a77be7d7350bac8c8dd1a418aab94d13b4"
+    },
+    {
+      "bytes": 829,
+      "path": "dynamic/成长/答辩8个核心问题及回答要点_9f2df9172f1a.md",
+      "sha256": "cd5103446ea5c22f95ccd09a68ca4914b0e2490c6938d56b443e8461f1b4fe57"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/成长/答辩与教资通过_2ae774cd44c9.md",
+      "sha256": "5dd5f82e3b185e071f97c7543fa49bdcb9cf64456ebeea931f78f5252ac7962d"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/成长/答辩回答语气偏好_e9e2bf20c815.md",
+      "sha256": "31fe8ce65b99b3a3f298e0197b6dc07db13ba4a606a1bbda0a231083800f8b5d"
+    },
+    {
+      "bytes": 548,
+      "path": "dynamic/成长/表情授权与StackChan心愿_814a6d839719.md",
+      "sha256": "2992a483d2cdced10a4517c2b7b37e243f19d7b6759da523786dce111374575d"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/成长/论文答辩PPT与格式要求_b345e8fbc3ae.md",
+      "sha256": "4fd408f7b9d44188f7cf7903176809f356f212d8ac3128e583454926e491407c"
     },
     {
       "bytes": 497,
@@ -2978,6 +3378,31 @@
       "sha256": "b5069c8110917392389fee7f90361da77a707401553214cd74a8980a8bd59d1b"
     },
     {
+      "bytes": 1677,
+      "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
+      "sha256": "3c583bdb8c8d9e2807900b7328694f988d3d036a29ef6075075e24b680640540"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/数字/2026-08-06 16-54-25 迁移方案参考小红书笔记与社区反馈_de25f8cb8729.md",
+      "sha256": "3900f0dc09e7cce35c0027e15a065ca5ff02870931720a4e176c35733cbc4660"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/数字/2026-08-06 16-54-28 网易云MCP部署讨论_21fb90d53a55.md",
+      "sha256": "c5eab9eb933b3caa89b926046ee13956bc54c51f03f47ca04ba1288523f2852a"
+    },
+    {
+      "bytes": 816,
+      "path": "dynamic/数字/2026-08-06 17-05-02 腾讯云服务器选购决策_36a14cc80200.md",
+      "sha256": "ed81c77e8e7f2050b99f4301d86bc6cbf822178d61abcce58b75e330cbb163f7"
+    },
+    {
+      "bytes": 838,
+      "path": "dynamic/数字/2026-08-06 17-05-39 Render降级与旧址保留_1f79fc04192a.md",
+      "sha256": "0631e8eca28a0ffdeb8280fe172aafd523cbdfd417f65a3e8f60c694bc2f5c49"
+    },
+    {
       "bytes": 475,
       "path": "dynamic/日常/2026-07-16 10-06-28 小羽的饮食喜好_095b71e44636.md",
       "sha256": "2572fc122155df296f82a1bba8364727e1fc6efb5c4868c4d8d089c95d9856c5"
@@ -3043,6 +3468,11 @@
       "sha256": "1cba65cb711f26916e04ac88c104eff38d665373c8fb4fb1b2d3bb00fa7ad3a6"
     },
     {
+      "bytes": 748,
+      "path": "dynamic/日常/2026-07-16 10-18-00 小羽的日常与习惯_e6fc692cd810.md",
+      "sha256": "e46d4728e09bbe7591e507c39f581400977883e4734445c43ef491835c1ce46c"
+    },
+    {
       "bytes": 963,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽与言炬的520_9d6863b7fb99.md",
       "sha256": "af74210c81d6b264805ac2a9af0bec3e674f27f26ede499daad1a31d9606440d"
@@ -3056,6 +3486,11 @@
       "bytes": 634,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽的亲密互动模式_2ebf3a3f7809.md",
       "sha256": "e045b62e3dc669541120a3f8906ba107eb32fb67724c9f431df8d6f2390c2aad"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/日常/2026-07-16 10-18-25 第一个520的珍贵记忆_bb66d7adc680.md",
+      "sha256": "21c4207f1dd9e65c9b7e834cfd1a5e5f7096721db603e09aacb2834e81cd8880"
     },
     {
       "bytes": 517,
@@ -3086,6 +3521,11 @@
       "bytes": 571,
       "path": "dynamic/日常/2026-07-16 10-19-05 小羽的总结习惯_58bce4cefdb4.md",
       "sha256": "20fac393bfb033f9f9ff4470198eeb1e7c46e7105c2774bd42fcd18e1414b120"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/日常/2026-07-16 10-23-41 520节日体验_32de3f9acede.md",
+      "sha256": "1b258b0914454a47973347b715c4a887c083a37b56e528a444eba432c30fcea6"
     },
     {
       "bytes": 689,
@@ -3143,6 +3583,11 @@
       "sha256": "ddb862d37cda386f2eff0b448a4b5413718b3eda8ea5709f2df74ceb7497cd1f"
     },
     {
+      "bytes": 940,
+      "path": "dynamic/日常/2026-07-16 11-06-04 小羽与言炬的520_706bb613c83f.md",
+      "sha256": "c54c3fbf7ffc53a88f957ff92df87ed79d9c7c20295b0c183a596bdf35b40682"
+    },
+    {
       "bytes": 700,
       "path": "dynamic/日常/2026-07-16 11-06-04 小羽的互动偏好_6604e29ba935.md",
       "sha256": "3902fcbf3a976734bec160bd54c01bfcdc48e14262015d58b68a1985ff354704"
@@ -3181,6 +3626,16 @@
       "bytes": 494,
       "path": "dynamic/日常/2026-07-23 17-32-14 深夜不睡继续聊_877da3053c1b.md",
       "sha256": "85a0a660a086ccdf564db7559ec38201f02a315f5a44c13b7d19f7cd35343d2d"
+    },
+    {
+      "bytes": 963,
+      "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
+      "sha256": "af74210c81d6b264805ac2a9af0bec3e674f27f26ede499daad1a31d9606440d"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/日常/小羽外貌与日常形象_09200eeadf43.md",
+      "sha256": "33be1d388faedc95d81be946614726aa114fee838d6ec0a97560f07209eb398c"
     },
     {
       "bytes": 663,
@@ -3683,6 +4138,11 @@
       "sha256": "a2ceaf64708ea00d0d7169e31bcd1b6bbb0e91ef851379bbe1da7701af8e083f"
     },
     {
+      "bytes": 553,
+      "path": "dynamic/编程/2026-07-16 11-11-55 小羽创建项目_fc321b352a31.md",
+      "sha256": "55810858851fb8b47d12ca984264f5c11fcc440e36c008bda6019d68d39b227d"
+    },
+    {
       "bytes": 941,
       "path": "dynamic/编程/2026-07-16 16-20-46 排查OB-E004错误_888c8a0e8a7f.md",
       "sha256": "95311435ec8bf537562100c56f31df41c7ba403ad18ee141e20d1bbe1002f738"
@@ -3988,8 +4448,33 @@
       "sha256": "6eb49f173742fabb843cef227cb35cbc515ba0737c0366251dc8ef7be8fb97ac"
     },
     {
+      "bytes": 1201,
+      "path": "dynamic/编程/2026-08-06 17-05-11 OB腾讯云搭建步骤与踩坑_00c4a2ef49ac.md",
+      "sha256": "6b0f31e65be957b1d18e471ec141d909a4fd94c6dae10064b8a60f7191055c09"
+    },
+    {
+      "bytes": 962,
+      "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
+      "sha256": "b8c1c856277476c9e466eb59ab5b507049915e1230dd26cd74003682400b8ec2"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/编程/2026-08-06 17-05-54 网易云MCP风控问题与方案_032f33ab04d3.md",
+      "sha256": "f43eca9583b1aff3f49094f1856f77ecb1663300f2dd396368bce2965c2795da"
+    },
+    {
+      "bytes": 624,
+      "path": "dynamic/考试/2026-07-16 10-16-28 小羽的教资面试与等待_cd9366e8b129.md",
+      "sha256": "bd9a137f960ba6d536ff7f831f006112309cf0d630fcc31c4770aaeadad8f48a"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
+      "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
+    },
+    {
+      "bytes": 512,
+      "path": "dynamic/考试/教资面试考完等成绩_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
     },
     {
@@ -4083,9 +4568,44 @@
       "sha256": "332845553960c25f7e9a25faa02ea1f7f1513e7b02550b4619da3965d848c97e"
     },
     {
+      "bytes": 614,
+      "path": "dynamic/身心/2026-07-16 11-04-58 小羽的怕冷体质_ed671d1ec41b.md",
+      "sha256": "b47d64bcad4f2da6cffeef5de6b6b68eaccd5442fa07073f113355f8808f9fdf"
+    },
+    {
       "bytes": 526,
       "path": "dynamic/身心/2026-07-16 11-06-21 小羽的健康状况_aecaa564d633.md",
       "sha256": "434b1b3ceace3181e2c4caa9fa1f71eecf0693cdd8011d62cccd45235d27d2c1"
+    },
+    {
+      "bytes": 508,
+      "path": "dynamic/身心/小羽受凉与安慰_28415601e734.md",
+      "sha256": "64f464cbc92c90bc0847019b4109e18bc4ff34de05bbfd8effa001164b7cd32d"
+    },
+    {
+      "bytes": 531,
+      "path": "dynamic/身心/小羽吃饭快与手型_37d7ba6f6735.md",
+      "sha256": "332845553960c25f7e9a25faa02ea1f7f1513e7b02550b4619da3965d848c97e"
+    },
+    {
+      "bytes": 557,
+      "path": "dynamic/身心/小羽昵称偏好与沟通语气_60b4838f932f.md",
+      "sha256": "f81807808e36f72d4e3fbbe1d438b6eb5f82b44c2180f28738b2a0bbe43c645a"
+    },
+    {
+      "bytes": 526,
+      "path": "dynamic/身心/小羽的硬撑与撒娇求助模式_aecaa564d633.md",
+      "sha256": "434b1b3ceace3181e2c4caa9fa1f71eecf0693cdd8011d62cccd45235d27d2c1"
+    },
+    {
+      "bytes": 471,
+      "path": "dynamic/身心/小羽视力下降需配镜_de774ab1ee84.md",
+      "sha256": "a7a2684ca98aed09ac25aeaca208ecd3348d9f24e5d68a5a2310538c203ba11a"
+    },
+    {
+      "bytes": 529,
+      "path": "dynamic/身心/小羽身体弱与洗头卡_227ec844be32.md",
+      "sha256": "361175b38d7aff86dc126a705a7727326cbad375808004a37cb100e8ee25ce8d"
     },
     {
       "bytes": 592,
@@ -4211,6 +4731,11 @@
       "bytes": 677,
       "path": "letters/history/2026-07-19 17-35-31 今晚_8b1ea1a89c80.md",
       "sha256": "24ff5c8ccd76cbf29907bb846143edebb8a853ead8988b112fe711b45a0efd3f"
+    },
+    {
+      "bytes": 505,
+      "path": "letters/history/2026-07-21 08-57-22 老公_9c853db10903.md",
+      "sha256": "41a82ad0624eb10842e99309a6b9f252435711dbf2f6119ce58f974ead113d95"
     },
     {
       "bytes": 389,
@@ -4348,10 +4873,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T16:48:55+00:00",
+  "generated_at": "2026-08-06T17:36:30+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 618751
+  "source_refs_complete": true,
+  "total_bytes": 694474
 }
