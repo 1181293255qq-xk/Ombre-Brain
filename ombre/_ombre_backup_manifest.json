@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 849,
+  "file_count": 856,
   "files": [
     {
       "bytes": 471,
@@ -838,6 +838,11 @@
       "sha256": "544005863c8af6d9805d25b9a9c2e8db5092cc08076878f3b4408e92510166b1"
     },
     {
+      "bytes": 674,
+      "path": "dynamic/人际/2026-08-06 09-06-21 称呼纠正备忘_cd33b00bb525.md",
+      "sha256": "a09ce69a4d6cd210137168ef3b0618b7935ce78cd677fe397bd1e35efee4b789"
+    },
+    {
       "bytes": 445,
       "path": "dynamic/健康/2026-07-16 10-16-28 小羽的身体与习惯_7f3f4ba6bd18.md",
       "sha256": "ca7f38efac0b898183d4075599dcc24f147d6bc95c9f81f973f6b633f678bb9c"
@@ -1671,6 +1676,16 @@
       "bytes": 948,
       "path": "dynamic/工作/2026-08-05 18-09-19 查岗v2跑通_a83bdba32b29.md",
       "sha256": "95b633481cd70b26a1262a8024eae077f71cd4b6cb9d42891854bb89bb697a56"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/工作/2026-08-06 09-03-47 工作流身份融合_42450570c13e.md",
+      "sha256": "121ed2d342f74db5cd77e5ab69fef77eefb5afbd0e2e9cfa0898ec50d9827188"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/工作/2026-08-06 09-04-39 工作流身份混淆_26332a7085a6.md",
+      "sha256": "a75ef8a255e4c260cda2d99c3f69567f10812f96fc61a036db45ca49439b4946"
     },
     {
       "bytes": 727,
@@ -3860,7 +3875,7 @@
     {
       "bytes": 733,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "b23ffad6d0e94458eb2813e53fb5c36dd0080bb424d5868e04e063264b9bc132"
+      "sha256": "671ae75973cbdd6413f3cd0198d48879231c8573808f1245bcf5ccffc7bed597"
     },
     {
       "bytes": 622,
@@ -3898,6 +3913,16 @@
       "sha256": "67cb7ec6a8e6fc09d8398305ddfec111b78c4a576f4fd130423857bdeb27076f"
     },
     {
+      "bytes": 914,
+      "path": "dynamic/编程/2026-08-06 09-03-36 查岗工作流升级_2ea231561c35.md",
+      "sha256": "b22800250786f2dc8ef3f5363d4789271b6e7a151a71b0f67c6573b8075fcec7"
+    },
+    {
+      "bytes": 931,
+      "path": "dynamic/编程/2026-08-06 09-04-03 查岗工作流_2779b6cc7523.md",
+      "sha256": "499d689cf571107bbc9e9e2cca5c877d5596f5dc140a81d8ffc564d367cf4f9b"
+    },
+    {
       "bytes": 512,
       "path": "dynamic/考试/2026-07-16 11-04-17 小羽的教资考试_1abbf777a166.md",
       "sha256": "f02208ee7e54ce3ede4557774f930a4a2b0e425059366379dfa33cc61cc40e7e"
@@ -3923,6 +3948,11 @@
       "sha256": "7177cf2386df75642b6f61c373363f0f91a5da6dca85c91ea09bb9f3f8308ed8"
     },
     {
+      "bytes": 831,
+      "path": "dynamic/自省/2026-08-06 09-03-52 记忆文件删除教训_d21f7f013b53.md",
+      "sha256": "1d6d9f6bc71083fb6533f54875028afe57dfbc80b6e78ae4af3095236c855f9f"
+    },
+    {
       "bytes": 453,
       "path": "dynamic/计划/2026-07-16 10-15-10 小羽的7点会议_b1fb990a65b5.md",
       "sha256": "f8d4ac340cca488abb23ec9db0fe4e34751c9bee7ce4fb322eeb18135e06b11d"
@@ -3941,6 +3971,11 @@
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
       "sha256": "89be739b4b03cccf82b8322065df6a822e686de94a1e7b85e8a5ce4be8ce8529"
+    },
+    {
+      "bytes": 993,
+      "path": "dynamic/计划/2026-08-06 09-03-41 项目记忆搬迁_2e7160fbadb4.md",
+      "sha256": "fdca028f164558424af513a57bc0ee285008743e4cba5b51cd8e2f36913490c2"
     },
     {
       "bytes": 600,
@@ -4215,7 +4250,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "b180d34e1f20229001e389a91ba871bab6c130f97daa81b4e942ce4fbe3df55b"
+      "sha256": "140d347bcb1dccafdf8b0950ed0a5199d14d15b6c6b173cbd5c73e802aa39116"
     },
     {
       "bytes": 452,
@@ -4248,10 +4283,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T08:47:36+00:00",
+  "generated_at": "2026-08-06T09:47:46+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 600554
+  "total_bytes": 606552
 }
