@@ -3650,7 +3650,7 @@
     {
       "bytes": 679,
       "path": "dynamic/编程/2026-07-16 10-18-50 Render重建数据恢复_532d834dfc11.md",
-      "sha256": "94e3aefccb47a01c9effccbb73476f47a41c68cc613f8381d897d8536c809f34"
+      "sha256": "4da9fc110efc1c90ef35679425390017f2cf058fcf633e70b3095d0b62a84304"
     },
     {
       "bytes": 705,
@@ -3680,7 +3680,7 @@
     {
       "bytes": 498,
       "path": "dynamic/编程/2026-07-16 11-08-26 MCP部署卡在最后一步_b80a093f5341.md",
-      "sha256": "aeb9892e3feb4ae6b1fa7b5efbc35f1e1bb68ee1430c8d4792650009af0bb366"
+      "sha256": "a2ceaf64708ea00d0d7169e31bcd1b6bbb0e91ef851379bbe1da7701af8e083f"
     },
     {
       "bytes": 941,
@@ -4300,7 +4300,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "cd475ae52a76c86c1ed876d902edd9b1102cf30e8c3bda8b7d7de089062d2b5a"
+      "sha256": "a6d700038bf011d510122a36ea99ae6f1ea036e69a924f5ce75cc7d5fbbc263a"
     },
     {
       "bytes": 820,
@@ -4308,14 +4308,14 @@
       "sha256": "32bdeeff366e51759ea08c2003dcb7a2053e9bb972db671298886bb361e17aca"
     },
     {
-      "bytes": 714,
+      "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "30103c9e688debae1cab5f00e6ccdc9f680b6d6f8ec7f314f95b7961dfc162d5"
+      "sha256": "a1e3129db93ce11b1f7d02578f65d7ae014606c2334e7cd8f40a3f3e173f4676"
     },
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "140d347bcb1dccafdf8b0950ed0a5199d14d15b6c6b173cbd5c73e802aa39116"
+      "sha256": "4a6c31e1d5abd18bd3db5d2f0a93c7922c445ee8279a746ebaaa9c5836707954"
     },
     {
       "bytes": 452,
@@ -4348,10 +4348,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T14:48:35+00:00",
+  "generated_at": "2026-08-06T15:27:27+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 618750
+  "total_bytes": 618751
 }
