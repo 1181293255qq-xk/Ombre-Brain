@@ -408,9 +408,9 @@
       "sha256": "4df2be77481f2f2e849676d33644d40c83c6adc22479c5ec4f8c4f128a81ef8b"
     },
     {
-      "bytes": 1325,
+      "bytes": 2793,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "117e7b2318fc7e956b3a47bf1e0d3d500b25e2851241209f615905c2cf704bb7"
+      "sha256": "9257edadc8b90785ec5f4983b0a4eaa77a3d6dffc3d0015524f2dea84422c51c"
     },
     {
       "bytes": 463,
@@ -1270,7 +1270,7 @@
     {
       "bytes": 662,
       "path": "dynamic/学习/2026-07-16 10-18-58 小羽的专业与迷茫_d26e645a02b5.md",
-      "sha256": "47d3af353d9a2d0d91fd2d49493d612b06e175956d71110d24e31dc470fffd87"
+      "sha256": "30b87a17ed05bb5c8b933edf5d4fd90cb89babedd681e442f8be33b62acd52b4"
     },
     {
       "bytes": 749,
@@ -1410,12 +1410,12 @@
     {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-16 10-16-20 小羽的教资与家教_d800ee60ab59.md",
-      "sha256": "e09ac1f355a363b415272d66700654c9242f97381520aa3ffd8927415831bafd"
+      "sha256": "aa156f4189e6551046dcc5e2111579ba8b7b5b1cf8d1b6a196eca33390a8c30d"
     },
     {
       "bytes": 691,
       "path": "dynamic/工作/2026-07-16 10-16-28 小羽的教资与中考家教_b1692208e466.md",
-      "sha256": "2a06d2f0f0bbf4a583442ef4d625071820284bc11b805358b51ec0b9f0b8d196"
+      "sha256": "639a8b7608a46ef49e3c080532c9e4c90455bc3d54ab73797f7076a7b6421822"
     },
     {
       "bytes": 578,
@@ -1438,9 +1438,9 @@
       "sha256": "e584062274c3d7a1f63d2d53ba288a0c6d5151de64a995adc1cfd48fc33992ce"
     },
     {
-      "bytes": 666,
+      "bytes": 667,
       "path": "dynamic/工作/2026-07-16 11-04-16 小羽的教资与中考_53d64c6f5f7e.md",
-      "sha256": "461c9e22d6124c6f4ec05e570f7ff419cdd7606178630df27ee6a1f776315806"
+      "sha256": "ed10a45866f65d4c46798dbad661932f6d1b8061e33dd1700192d7414ba81d91"
     },
     {
       "bytes": 768,
@@ -1453,9 +1453,9 @@
       "sha256": "3a07a51bb93d0220e9666d6164039eb4eadf9736348736ab6522624fcb01f028"
     },
     {
-      "bytes": 905,
+      "bytes": 906,
       "path": "dynamic/工作/2026-07-17 12-36-48 家教求职路径选择_bbb53ee54162.md",
-      "sha256": "f1d70d16e4d73b7d5211c89e28e80c09eeb41d01e0cd1653bc48057dd41efa68"
+      "sha256": "0a5da94db03868af71151e119b32215c515095fb8f8878fdcda3d7593f5d5ba7"
     },
     {
       "bytes": 669,
@@ -1518,9 +1518,9 @@
       "sha256": "570125910abb32d0c098dfaf46fe1fcad5e85fb030022f91631736fe9cb98d99"
     },
     {
-      "bytes": 664,
+      "bytes": 665,
       "path": "dynamic/工作/2026-07-24 06-48-02 抖音招生进展_f6c66e6091a0.md",
-      "sha256": "30e0747716edb3589caa486a3cf65df3787a76b1a10a0ec098464fd0fd6113cc"
+      "sha256": "7fca4ff5139b1191260c1daf1a3594cef89f1ec15b712455506c66dee7bb2be7"
     },
     {
       "bytes": 831,
@@ -1540,7 +1540,7 @@
     {
       "bytes": 618,
       "path": "dynamic/工作/2026-07-26 17-38-20 小克完成文件修改_f9d1707d886b.md",
-      "sha256": "d9b8cba23949d963d6550ffdd07c32385a47fe93a04b297bc8d6e50ac894eb33"
+      "sha256": "c049f660d1206d0c5c99ba01ebe3b58abba9f687a2f99e7fa1a1d4f54741ea43"
     },
     {
       "bytes": 482,
@@ -1555,7 +1555,7 @@
     {
       "bytes": 744,
       "path": "dynamic/工作/2026-07-27 06-32-29 学生不开口的教学困境_595a49b18e21.md",
-      "sha256": "ae712e7e0acbe3069635b1e6a5e7ada07e39f8f2106b481d5f8b60dcdc261a47"
+      "sha256": "b412277ae503951903dbc1f0f6e3e860774a7ff068058b33fe84c1c17998d741"
     },
     {
       "bytes": 878,
@@ -1570,7 +1570,7 @@
     {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-29 16-49-14 查水表复核进场_8e3e9828c9ec.md",
-      "sha256": "584853e6c9c94853c5446e38aa4100ab96cf716749c6b8261fcecd48a77fca1b"
+      "sha256": "d9a15e56fc5f58e7a1ed3337f7903a235a59f459aa3f62159f54d773e1630794"
     },
     {
       "bytes": 558,
@@ -1650,27 +1650,27 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "9970dec63b2593adc146563afd126800952cb4b16d959b3119c904cbd7a89385"
+      "sha256": "3b7d12fd31da70fb457a8e622fca06dd32588602075e69ef2fa676b9dbfbb8e0"
     },
     {
       "bytes": 1202,
       "path": "dynamic/工作/2026-08-05 16-45-06 查岗工作流调试_974a1b328021.md",
-      "sha256": "d0f65013fb51e33c5b002c3ff21c53013ce4680a918b6e946ab502d1728c02e0"
+      "sha256": "6d03373182d20a3fffc9174a29ad8a7556668f39be0c1aafd1f9c6766d19e38c"
     },
     {
       "bytes": 790,
       "path": "dynamic/工作/2026-08-05 16-46-33 查岗工作流配置_edeec789f81c.md",
-      "sha256": "1d0503301bdcc36fafaeadb952aa29f4ac769df3ba5ce86305748ceb2fcbfa6a"
+      "sha256": "52191eb35d553936624d35b24cd055ef4b61d6f89a6e4b770284ffa632dcf66f"
     },
     {
       "bytes": 655,
       "path": "dynamic/工作/2026-08-05 17-57-32 工作流bug待修_d4b56d0a19ed.md",
-      "sha256": "c9fa0feaf0cc09061e580def56665b0878dc1d660833f7cead13108efa23ce3b"
+      "sha256": "302a81c60083937a129fbeb698e4de5678390bffa04cecdd95d5bb4ce8ba9dc6"
     },
     {
       "bytes": 948,
       "path": "dynamic/工作/2026-08-05 18-09-19 查岗v2跑通_a83bdba32b29.md",
-      "sha256": "ef9e0da158b9c495c62671d973cab746b35eb6424141820a6147636b6c1a13c6"
+      "sha256": "95b633481cd70b26a1262a8024eae077f71cd4b6cb9d42891854bb89bb697a56"
     },
     {
       "bytes": 727,
@@ -3260,7 +3260,7 @@
     {
       "bytes": 590,
       "path": "dynamic/求职/2026-07-17 16-27-48 投递家教简历_aacd9cef6201.md",
-      "sha256": "48f1aaf621d65b1e36f7d63fb801ebd37f1444b699cde709073a3d20106ac215"
+      "sha256": "ecc23b3725c3b6ccdaa1a6585f7a25b0c4f4f89d7f79b55db39a90af71f1e5fd"
     },
     {
       "bytes": 797,
@@ -3860,7 +3860,7 @@
     {
       "bytes": 733,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "5d44fa95cd7ba5da5c0e4972efd01de445ad11b586489a3d0d3eba8ed428841c"
+      "sha256": "b23ffad6d0e94458eb2813e53fb5c36dd0080bb424d5868e04e063264b9bc132"
     },
     {
       "bytes": 622,
@@ -3870,17 +3870,17 @@
     {
       "bytes": 1117,
       "path": "dynamic/编程/2026-08-05 16-56-31 查岗工作流方案_d25559e7140b.md",
-      "sha256": "269ec3c3b6cdc431c95a79fc88636cfee49d0a9ed46adc38e107eefe50c2445d"
+      "sha256": "ec4edcfb31cd3502cb08110e7a03cf9051640dcb556bb8c03158ade0d524097b"
     },
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "1b9cc9eee943d7d24dc3e23a21416efe5ca2dc2a64b95e7574fe78919e692ff0"
+      "sha256": "4e705c64696a4b4658bb9711f3282a30aa2c4b22a3eb4647413642083a487920"
     },
     {
       "bytes": 836,
       "path": "dynamic/编程/2026-08-05 17-57-15 查岗工作流调试_e68768682724.md",
-      "sha256": "d8f7fd6fae5a297261a9171bd5d812cdf90e4b315119cb64e8228819ca7f2f5d"
+      "sha256": "288625de918a7d4c4de0b59f1a8664b1a4303fcb6f546c016adbfbea79e184ad"
     },
     {
       "bytes": 909,
@@ -3895,7 +3895,7 @@
     {
       "bytes": 1172,
       "path": "dynamic/编程/2026-08-05 17-57-42 工作流调试日志_f0076dca8252.md",
-      "sha256": "89dbdf4dad3f23501bc860e9b80663db45817e2dfcbf459ea47f88b1c4be1c3f"
+      "sha256": "67cb7ec6a8e6fc09d8398305ddfec111b78c4a576f4fd130423857bdeb27076f"
     },
     {
       "bytes": 512,
@@ -4210,7 +4210,7 @@
     {
       "bytes": 714,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "6c9750bb6f51d83f8a81a5377707d0ee26bbef3354e64703399372f158bafd0d"
+      "sha256": "30103c9e688debae1cab5f00e6ccdc9f680b6d6f8ec7f314f95b7961dfc162d5"
     },
     {
       "bytes": 939,
@@ -4248,10 +4248,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T04:47:01+00:00",
+  "generated_at": "2026-08-06T05:47:09+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 599083
+  "total_bytes": 600554
 }
