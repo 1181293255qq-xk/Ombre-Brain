@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 856,
+  "file_count": 858,
   "files": [
     {
       "bytes": 471,
@@ -1688,6 +1688,11 @@
       "sha256": "a75ef8a255e4c260cda2d99c3f69567f10812f96fc61a036db45ca49439b4946"
     },
     {
+      "bytes": 1051,
+      "path": "dynamic/工作/2026-08-06 10-09-34 查岗工作流v5_2a0b579577e4.md",
+      "sha256": "fb781e8fa036b74b53b490f31536015390991bd13c2eff3bdc0744843ef9dd80"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -2940,7 +2945,7 @@
     {
       "bytes": 922,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "68648018b6bc5845578ac8a72d02c4b2a53d7a80d3a333f97cd3330b56571072"
+      "sha256": "b5069c8110917392389fee7f90361da77a707401553214cd74a8980a8bd59d1b"
     },
     {
       "bytes": 475,
@@ -3665,7 +3670,7 @@
     {
       "bytes": 1235,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "afc15e11613000a5f6ee6eae9b1c92c8c9a465e1d273bea66eb77e3654bb6d2b"
+      "sha256": "71325966faffe88faa6003074b7e8d59264ac7b4edda8e51baf4d64a35bde2f6"
     },
     {
       "bytes": 647,
@@ -3710,12 +3715,12 @@
     {
       "bytes": 984,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "fc6910f945e3514b43bc1f1d8ec899764d75ce8f36f6aeaca6342a3f8b653463"
+      "sha256": "030f07de0c23f65f65ebdb2bf12aa2db3627fe1301903e4d6ca4dde665e11ab9"
     },
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "8378558b6b8b95bb55b0b3785b11300eb85e2561b76ee3883a283b730f70ee8e"
+      "sha256": "bf2f71560be9d04ad7ee2526ce74c92eebf50805cbd0a7d690aa1bf9296abdfa"
     },
     {
       "bytes": 646,
@@ -3730,7 +3735,7 @@
     {
       "bytes": 972,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "5fafaaf0847e208994a67886f9531fe745f0988474655f30c7b0551315ccb140"
+      "sha256": "464d769eb65d2b32dffb35b9e5983efed4bf307245030584a5d9b84634d453ee"
     },
     {
       "bytes": 946,
@@ -3805,7 +3810,7 @@
     {
       "bytes": 1046,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "6237a82850f314de676556377ec89cbce68ecc15142f4ec7fd60374099df8c48"
+      "sha256": "3e5bf8cd943e7adf005162a992530c28b528b2187d4dec8a547ced52d6a37be1"
     },
     {
       "bytes": 908,
@@ -3870,12 +3875,12 @@
     {
       "bytes": 763,
       "path": "dynamic/编程/2026-08-05 06-00-51 时间戳位置调试_9b0084d31355.md",
-      "sha256": "66ab19aeb72a266f9d91ba1f1b1db5fbeb2ba2300d5fed7d9d82ae9b258f24b5"
+      "sha256": "7222b1128b99f7086315d9dcc23f612c7571155d7e4051c8a1050d58f2bf3c9d"
     },
     {
-      "bytes": 733,
+      "bytes": 1639,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "671ae75973cbdd6413f3cd0198d48879231c8573808f1245bcf5ccffc7bed597"
+      "sha256": "eb2636b9c4f1fafc62c3e2d9a69555186dd6d105f0b430df6453c0446e25d6ab"
     },
     {
       "bytes": 622,
@@ -3890,7 +3895,7 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "4e705c64696a4b4658bb9711f3282a30aa2c4b22a3eb4647413642083a487920"
+      "sha256": "fad97536d03c8ef91c99064b51114bca797e8ff197fa6b3a0c8ff00fa28576c3"
     },
     {
       "bytes": 836,
@@ -3921,6 +3926,11 @@
       "bytes": 931,
       "path": "dynamic/编程/2026-08-06 09-04-03 查岗工作流_2779b6cc7523.md",
       "sha256": "499d689cf571107bbc9e9e2cca5c877d5596f5dc140a81d8ffc564d367cf4f9b"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/编程/2026-08-06 10-10-07 查岗v5流程_bba05a8c3956.md",
+      "sha256": "4525925e5e932bbaed53e56f1d256e148fe92f6b4a7d9ecaa66ede149a2d9d18"
     },
     {
       "bytes": 512,
@@ -3970,7 +3980,7 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "89be739b4b03cccf82b8322065df6a822e686de94a1e7b85e8a5ce4be8ce8529"
+      "sha256": "67e2a6bf95cacb8a6c13650debb0e674ed9a73e0e779b46144d4192c97e32b85"
     },
     {
       "bytes": 993,
@@ -4283,10 +4293,10 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-06T09:47:46+00:00",
+  "generated_at": "2026-08-06T10:47:56+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 606552
+  "total_bytes": 609536
 }
