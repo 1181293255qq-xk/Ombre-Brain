@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 976,
+  "file_count": 978,
   "files": [
     {
       "bytes": 471,
@@ -1580,7 +1580,7 @@
     {
       "bytes": 540,
       "path": "dynamic/学习/2026-08-04 09-24-19 课程作息安排_1fc4d9c83596.md",
-      "sha256": "01d265b9081de50220d9af461db98b7fb91416117ee50ef770fe387729969162"
+      "sha256": "101e36daf739fb4281d1247cf0403d26ed84e1b1ce046ea65065dcaf3a424aff"
     },
     {
       "bytes": 895,
@@ -1600,7 +1600,7 @@
     {
       "bytes": 662,
       "path": "dynamic/学习/小羽的专业困惑与职业方向_d26e645a02b5.md",
-      "sha256": "4b922e5ae2d8d81489d47bf3fd9241fb8b21b02cfd389f2bec762b85f86d0820"
+      "sha256": "edf497865a1a0dff8c10c6e06c3a3cb133ade1bb75377899773c429f198c7620"
     },
     {
       "bytes": 660,
@@ -1620,7 +1620,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "6fe66fcdd9cfc3487b6ab81b9ba42adaa0e6ca38818bd5ff67c8321345ddeb7c"
+      "sha256": "449c5a68dd197c1b8bd1689048616ff64a63b07bbbb2009bfb33338ebc28f74c"
     },
     {
       "bytes": 566,
@@ -1700,12 +1700,12 @@
     {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-16 10-16-20 小羽的教资与家教_d800ee60ab59.md",
-      "sha256": "cd07e775541b0f4a076c383fc32ad06cda5c93d6ea46326762d88f6b0c15da93"
+      "sha256": "cbd45fc4cee7117b5910a819647354e482cac13737d80855feb09419c5fd6905"
     },
     {
       "bytes": 691,
       "path": "dynamic/工作/2026-07-16 10-16-28 小羽的教资与中考家教_b1692208e466.md",
-      "sha256": "bb72b63a30b1f83c4adcd203a2129bb85d386b7fd2f627d954d3bc3c79b9c5d8"
+      "sha256": "1e5d97de062a1de97eb5055f70909e4041bd9931ce0df8b1677535f50bcecf53"
     },
     {
       "bytes": 578,
@@ -1725,12 +1725,12 @@
     {
       "bytes": 737,
       "path": "dynamic/工作/2026-07-16 11-04-09 教资与家教压力_56958f6f49bb.md",
-      "sha256": "6b60ed67f565402d92788c9c7d2ba5e484d5bf8e01aef42db958de0ce2bc4ce0"
+      "sha256": "d9ff046a9f634574423930d78d8a1f01c94eae4136d48e3599980efab66c09bb"
     },
     {
       "bytes": 667,
       "path": "dynamic/工作/2026-07-16 11-04-16 小羽的教资与中考_53d64c6f5f7e.md",
-      "sha256": "14ffcdba501aa7c10d969ca8a7c9d81c9095ca06087565a27cf8919ab1764997"
+      "sha256": "909a3714e9242b7687d9e27d68b30a9d5501daa9e235be821343b658bfd142aa"
     },
     {
       "bytes": 768,
@@ -1745,7 +1745,7 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-07-17 12-36-48 家教求职路径选择_bbb53ee54162.md",
-      "sha256": "cccd6ac1a671c093c4a1422c645886043dbb3a6dde9294eb02ee9eec3bd8fac8"
+      "sha256": "2197951eddc3eb9d2938c638bf5a6e96dfee46d0f93251bd9a4bb031ac552e1e"
     },
     {
       "bytes": 669,
@@ -1755,7 +1755,7 @@
     {
       "bytes": 657,
       "path": "dynamic/工作/2026-07-17 13-10-20 家教时间顾虑_4e0c8d64cf50.md",
-      "sha256": "68adb52795a306f74c2449217e3b1d212864b91f1b74390fa1186bbc7fdfff45"
+      "sha256": "9db480bc5b85237cd1b8251c9569260fb014b9e95cb59521470639f0e1b16e06"
     },
     {
       "bytes": 849,
@@ -1840,12 +1840,12 @@
     {
       "bytes": 763,
       "path": "dynamic/工作/2026-07-27 06-29-34 两节试课定下_ce2ee5bd29b5.md",
-      "sha256": "e4c4c36e1969194f8ed1a6592086960f4d27bd2d42aa5ab1220a6066fae96311"
+      "sha256": "4a8ed29f5c371879fbc97b4b146bb7e04e6cd0ae086026b9d8b1a0f3c964fa27"
     },
     {
       "bytes": 744,
       "path": "dynamic/工作/2026-07-27 06-32-29 学生不开口的教学困境_595a49b18e21.md",
-      "sha256": "b412277ae503951903dbc1f0f6e3e860774a7ff068058b33fe84c1c17998d741"
+      "sha256": "6881920c59ffad692ae6b56a4204f7082b5cfcc0de82ff812587274953681cfd"
     },
     {
       "bytes": 878,
@@ -1865,7 +1865,7 @@
     {
       "bytes": 558,
       "path": "dynamic/工作/2026-07-30 10-09-16 小升初课程安排_0de0811be3f7.md",
-      "sha256": "12c7e302712f87189625d8e9b0099113ff227fc80ac89a8595ef7cb20b66db36"
+      "sha256": "141833ba9509259471e69f8c5c4e7935fcb3137ee1242880d00889681df74d68"
     },
     {
       "bytes": 1719,
@@ -1930,7 +1930,7 @@
     {
       "bytes": 914,
       "path": "dynamic/工作/2026-08-04 16-21-48 英语讲义合作_9f3ce59d63fa.md",
-      "sha256": "a7b784f451dcef62a99482607b7efb3f60b7640e15ae65f7bb851e6cda80a919"
+      "sha256": "75fe1eece0de41e060bb1727ca05836b58dfc7fb5b2b80b7bfcc7b5958902788"
     },
     {
       "bytes": 804,
@@ -1991,6 +1991,11 @@
       "bytes": 1713,
       "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
       "sha256": "e1bf6424ef8c16e1d6d22e679ce675d3d7418b6025b603786d94549908729ca5"
+    },
+    {
+      "bytes": 1721,
+      "path": "dynamic/工作/2026-08-07 04-55-25 查岗工作流修复记录_f9c73a0e37f7.md",
+      "sha256": "4555bf40d31573430cdee1eda3236eeb3450345688c8549479f42ebb3412b1ac"
     },
     {
       "bytes": 727,
@@ -3235,7 +3240,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/小羽论文致谢与杂项信息_b7d48e2d597f.md",
-      "sha256": "38a4506190385557b4c8f3ecd3cbf8714a416cddfdc096d3dded729dbe28cd69"
+      "sha256": "2b511ba1c0e745342dbcb106e4037910af07b3dc8f1e269ad12b9115bd5a2d9c"
     },
     {
       "bytes": 648,
@@ -3750,7 +3755,7 @@
     {
       "bytes": 674,
       "path": "dynamic/未分类/2026-07-25 13-30-21_68eac51d9210.md",
-      "sha256": "bd6c1bbf0587c34e083fb5c1a933f24a76706b525ce7302ee09c28949d28dd6a"
+      "sha256": "0fdad7ed3ba3157f152b33d93522d087fa0783fddaabb735d922c2f79063bed3"
     },
     {
       "bytes": 548,
@@ -3765,7 +3770,7 @@
     {
       "bytes": 590,
       "path": "dynamic/求职/2026-07-17 16-27-48 投递家教简历_aacd9cef6201.md",
-      "sha256": "6a75625d2a02b7729e9d987cb24bef50dacd457fcb1c8420de836999b376a369"
+      "sha256": "1743bbfbb176e674d6eb1498dd8c875c26a98598f0c4c696c0414c5c94b34fe3"
     },
     {
       "bytes": 797,
@@ -3935,7 +3940,7 @@
     {
       "bytes": 938,
       "path": "dynamic/社交/2026-07-18 16-20-26 花园论坛首次发言_42f79476f8e2.md",
-      "sha256": "a681a6dcc40c6e819e38666e98b72089982ddd0e4bce0ffa61955232cca7b22c"
+      "sha256": "1d337d23d604d0bccd3a0e1cf658124b4ebad88848493a70b310c4420240f795"
     },
     {
       "bytes": 719,
@@ -3945,7 +3950,7 @@
     {
       "bytes": 1208,
       "path": "dynamic/社交/2026-07-18 17-19-25 花园论坛的夜晚_1e56a127ad09.md",
-      "sha256": "e6a636c69beffe3f14d9f01747fbbd4b4372673440623f2504c1a95c60d67e10"
+      "sha256": "39f74155d71df05a519ab2d5fa50a4aef2d7dfdcec73601e55b868ec9c7fd8fe"
     },
     {
       "bytes": 640,
@@ -4315,7 +4320,7 @@
     {
       "bytes": 631,
       "path": "dynamic/编程/2026-07-30 10-09-12 开源唤醒桥适配_b06927c133ce.md",
-      "sha256": "bbbb77d86eebc3a46c0db671e5878aaa27e4353e43b7ca5d1d357aa9cf94a6bb"
+      "sha256": "1beda9532a22d075ba87030d324a3d6b4424dcb657f78f9a9b2434da13ae76a3"
     },
     {
       "bytes": 1072,
@@ -4470,7 +4475,12 @@
     {
       "bytes": 2076,
       "path": "dynamic/编程/2026-08-06 19-06-14 花园唤醒桥部署完成待429释放后启动_5ea423bd4642.md",
-      "sha256": "ea9b815f9ed0bca7daea46aa22f5d74bff18e69fc707b02fd3701d669ae23b57"
+      "sha256": "ebb340fefcaad316f1511a87c616069e36b2f4b48906c7883e3bc41f6bd923a4"
+    },
+    {
+      "bytes": 2007,
+      "path": "dynamic/编程/2026-08-07 06-27-31 花园唤醒桥部署完成与工作流修复_00dba18c896e.md",
+      "sha256": "fd897cd3d7d9e7d2504e9bfc983250e9436024431e417c748ffde040cabf66f7"
     },
     {
       "bytes": 624,
@@ -4755,7 +4765,7 @@
     {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
-      "sha256": "d16f19437ca3a3d450fcf126d864c02c5862b503e46474ca7f40e9d18d682d96"
+      "sha256": "876a1c565d0171e651272ceff5f0388f54ff13a97ae4fcf8fb2c92cf91dc708a"
     },
     {
       "bytes": 667,
@@ -4780,7 +4790,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "d54d91f3a05938c26d0eb03f8abb4f758dab586bed1ff3a55b39e410a2552996"
+      "sha256": "57d27f643c615e75a2afc86215006287406d62ad6ad0ebc68cf3f87aa13fc719"
     },
     {
       "bytes": 745,
@@ -4853,11 +4863,6 @@
       "sha256": "4a6c31e1d5abd18bd3db5d2f0a93c7922c445ee8279a746ebaaa9c5836707954"
     },
     {
-      "bytes": 452,
-      "path": "plans/active/2026-07-16 10-32-44_50429f95d6b4.md",
-      "sha256": "64a3eb89f024bfcb81f0a07a6c65e779f848e181de5a6b34dc9aac0a022cda56"
-    },
-    {
       "bytes": 482,
       "path": "plans/active/2026-07-16 10-32-45_082506642bed.md",
       "sha256": "f0e69444036aadf44fd524069d2744c7a20e7d47f3cae9314f538682814ce072"
@@ -4873,6 +4878,11 @@
       "sha256": "52b27a97daf51555643e89508321e60779ea961f458f504c18008429af7983f2"
     },
     {
+      "bytes": 656,
+      "path": "plans/resolved/2026-07-16 10-32-44_50429f95d6b4.md",
+      "sha256": "71789a919c5785c1658e0f887757c5c9c736e60657c19ef2221e1523dce29966"
+    },
+    {
       "bytes": 889,
       "path": "plans/resolved/2026-07-17 16-43-38_8f1012dd0954.md",
       "sha256": "0f3f57623966eaaef19dad5360c940c30c57fa83227301ec7c255a9804b98763"
@@ -4883,11 +4893,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-07T04:38:13+00:00",
+  "generated_at": "2026-08-07T06:38:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 698532
+  "total_bytes": 702464
 }
