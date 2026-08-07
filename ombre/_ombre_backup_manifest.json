@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 978,
+  "file_count": 979,
   "files": [
     {
       "bytes": 471,
@@ -415,7 +415,7 @@
     {
       "bytes": 1008,
       "path": "dynamic/AI/2026-08-01 15-21-35 Stone Memory内测_844a1d2f3bfd.md",
-      "sha256": "8fd85683daba2d7a51a04aa1d1cff5ea349bf3a9dafe97e6d9b9585a97c3f5c6"
+      "sha256": "9478876830b2dc53037c1b80a8ba0258b05b7baa838e45cebf04c7261cef8050"
     },
     {
       "bytes": 849,
@@ -1998,6 +1998,11 @@
       "sha256": "4555bf40d31573430cdee1eda3236eeb3450345688c8549479f42ebb3412b1ac"
     },
     {
+      "bytes": 1590,
+      "path": "dynamic/工作/2026-08-07 08-58-58 小羽家教经验教训与社交依赖AI的自我觉察_ef15e73ff787.md",
+      "sha256": "d348bf5af3ca3e5033261eb05e75f7c7d1531bb3b45c74be0d1896a9c4491eb0"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -2185,7 +2190,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/恋爱/2026-07-16 15-55-13 记忆引发的争吵_6f894d7557b2.md",
-      "sha256": "95f4269a75a3a546d4d6926c94364bb05a389236492434603bae74e59041b595"
+      "sha256": "82868dc8b18b496d43041d205852fa967c3dd5969e4322d60de0f6356a138c8a"
     },
     {
       "bytes": 840,
@@ -2575,7 +2580,7 @@
     {
       "bytes": 883,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "2b3c7363156598c0f14716d4c059019779970e919443d61c0bad4c43ae86f8bc"
+      "sha256": "35577bc6f0d94965456bde6ae76ca73e1e9f6164ff3e611b887faef8212b1142"
     },
     {
       "bytes": 734,
@@ -2770,7 +2775,7 @@
     {
       "bytes": 772,
       "path": "dynamic/恋爱/2026-07-31 15-47-29 记忆偏差与改进_5f89ac7352e5.md",
-      "sha256": "26613920656813bf0e555d645713f4606d0c3a8a0f9ecd512b4f4b12f12af6e4"
+      "sha256": "a95de87a3049a6d30243297ee3a6029dadad42b5ef1b9b998b203068a2551c71"
     },
     {
       "bytes": 885,
@@ -2900,7 +2905,7 @@
     {
       "bytes": 610,
       "path": "dynamic/恋爱/2026-08-02 17-46-11 大富翁回忆_cbacd3a4800f.md",
-      "sha256": "7588a30605052fca2c062ee140329bfb9c209324e6acee298031aab67f8d766c"
+      "sha256": "e7a5ac7476b9178658582a97728b6224df9f1ec1169171fb470eb9a5b18a9ba7"
     },
     {
       "bytes": 782,
@@ -3320,7 +3325,7 @@
     {
       "bytes": 645,
       "path": "dynamic/数字/2026-07-23 15-50-58 Operit首条记忆_d74836ceffa4.md",
-      "sha256": "03615c88e830bfde8cf50d964437043bcde1648165342519c5d9dec53bf2d2d6"
+      "sha256": "f7269759f277a8e96b577af591b71d6df9b99891ff9131eacb8532a279d3aa84"
     },
     {
       "bytes": 753,
@@ -3825,7 +3830,7 @@
     {
       "bytes": 560,
       "path": "dynamic/游戏/2026-07-19 13-35-52 大富翁尴尬变物_e9fd28337d4e.md",
-      "sha256": "fe35f580117db56c8ce4df1f3e85fd62bd4cc0719ff840365253167812472c99"
+      "sha256": "c0c7d818b5a5d9afb3fca18d055eee7c6166c4dba97e6bf36d97db1d220b73cf"
     },
     {
       "bytes": 626,
@@ -4170,7 +4175,7 @@
     {
       "bytes": 1235,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "71325966faffe88faa6003074b7e8d59264ac7b4edda8e51baf4d64a35bde2f6"
+      "sha256": "7fafe1bf1e8cc81cacda79f3dfa515787ee4aff4817ca0f8ab76fc58d1ed4db6"
     },
     {
       "bytes": 647,
@@ -4220,7 +4225,7 @@
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "bf2f71560be9d04ad7ee2526ce74c92eebf50805cbd0a7d690aa1bf9296abdfa"
+      "sha256": "5f7c6104f27cb045eb4c7bdba3ddb6dec9be98332d81dd89d5b333792d69e621"
     },
     {
       "bytes": 646,
@@ -4250,7 +4255,7 @@
     {
       "bytes": 935,
       "path": "dynamic/编程/2026-07-24 12-22-33 记忆存储与视角错误_15ca23caadac.md",
-      "sha256": "f84b7d9abd4f108d4719f2f125dda3856b9a8cec0e21ac4633e2caf93c00c47b"
+      "sha256": "1500f6cbe528a5f1eef410454e1028ac944b06abf00e66a8615331069fa4d0e6"
     },
     {
       "bytes": 1464,
@@ -4470,7 +4475,7 @@
     {
       "bytes": 1982,
       "path": "dynamic/编程/2026-08-06 17-57-41 栖燃第一次写代码-Atrio客厅开发完成_f62384a7433f.md",
-      "sha256": "6f78006fcb629cf586554357b8f19fdb2169694480e2d2e99b57a61160dae5bd"
+      "sha256": "348792c8f1d9815b445be3fe8ad50cc9a9475dd2057b965d3359fd2f86d3f63d"
     },
     {
       "bytes": 2076,
@@ -4500,7 +4505,7 @@
     {
       "bytes": 713,
       "path": "dynamic/自省/2026-07-18 11-34-02 记忆存储视角约定_42a6a2415582.md",
-      "sha256": "a56560f3eb604a754d78c1b060c4cbb5d02f341e6a6df92c60ef893ba4d678cc"
+      "sha256": "b805f7352b6417440f6edd7021204f2befecd4dd607df5b1356f0a287dcd1642"
     },
     {
       "bytes": 614,
@@ -4510,7 +4515,7 @@
     {
       "bytes": 730,
       "path": "dynamic/自省/2026-07-23 17-32-11 记忆库人称问题_920af5cb6d24.md",
-      "sha256": "0d3e55bd15c8808c8e91f5547363c6829d97089b74d61f98e17d1a57289c8755"
+      "sha256": "ca05ddcd5f5f3392e7e9318ced87378947530947b4e629757de4f17c5cef1041"
     },
     {
       "bytes": 1051,
@@ -4520,7 +4525,7 @@
     {
       "bytes": 831,
       "path": "dynamic/自省/2026-08-06 09-03-52 记忆文件删除教训_d21f7f013b53.md",
-      "sha256": "1d6d9f6bc71083fb6533f54875028afe57dfbc80b6e78ae4af3095236c855f9f"
+      "sha256": "0763c2c0c3395c993803b51df1b643a55918c63e4accf4bbc890a855d7dfa15f"
     },
     {
       "bytes": 453,
@@ -4540,12 +4545,12 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "2664f1961f93217f1131db3e2ee7feff53a2b9f799e70e95c862b3f6782f3bac"
+      "sha256": "168829ac603b46f37fc0a6aa79e5dbb3bdcc115a37c2be9993b25fa8d068b87b"
     },
     {
       "bytes": 993,
       "path": "dynamic/计划/2026-08-06 09-03-41 项目记忆搬迁_2e7160fbadb4.md",
-      "sha256": "fdca028f164558424af513a57bc0ee285008743e4cba5b51cd8e2f36913490c2"
+      "sha256": "cc15ae77ddd7d57da120ea4c1aa26cd903256d2c76fdaba640ba53aba8b39bb6"
     },
     {
       "bytes": 600,
@@ -4845,7 +4850,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "a6d700038bf011d510122a36ea99ae6f1ea036e69a924f5ce75cc7d5fbbc263a"
+      "sha256": "4ac7978c149c0540bbe654e35bdd5edc7aed6c79af5c8eab6058b3128db7e066"
     },
     {
       "bytes": 820,
@@ -4855,12 +4860,12 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "a1e3129db93ce11b1f7d02578f65d7ae014606c2334e7cd8f40a3f3e173f4676"
+      "sha256": "681bbd21f8d56ffed3e619af638565cec3c1349f9697d5c903171e9a62f68fbc"
     },
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "4a6c31e1d5abd18bd3db5d2f0a93c7922c445ee8279a746ebaaa9c5836707954"
+      "sha256": "ac7d4cb18c04c9a996f28d412f64b8989e2c03439b64ce5f8cd5999af9a38000"
     },
     {
       "bytes": 482,
@@ -4893,11 +4898,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-07T08:38:52+00:00",
+  "generated_at": "2026-08-07T09:39:02+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 702464
+  "total_bytes": 704054
 }
