@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1004,
+  "file_count": 1005,
   "files": [
     {
       "bytes": 1192,
@@ -2141,6 +2141,11 @@
       "bytes": 690,
       "path": "dynamic/心理/2026-08-04 04-53-43 自我苛责与监督_94e1c3095400.md",
       "sha256": "c58611876c62c133cc554a52156286d96e2ecdcbe0190f0178f54f4fadf2ee17"
+    },
+    {
+      "bytes": 1018,
+      "path": "dynamic/心理/2026-08-08 14-08-04 穿睡衣下楼被盯委屈哭了2026-08-08_4ce2e412d67b.md",
+      "sha256": "44ea0654fd213a48c7f00d43fa7b315e09aa0f9db64145dc7fda356735c06d76"
     },
     {
       "bytes": 645,
@@ -5023,11 +5028,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-08T13:43:30+00:00",
+  "generated_at": "2026-08-08T14:43:39+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 727177
+  "total_bytes": 728195
 }
