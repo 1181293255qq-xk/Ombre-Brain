@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 1007,
+  "file_count": 1013,
   "files": [
+    {
+      "bytes": 831,
+      "path": "_sources/src_4b017498cd88ada8512df37aae99619bbcf7c2413ae88e688962e9e7adef0fc8.source",
+      "sha256": "4b017498cd88ada8512df37aae99619bbcf7c2413ae88e688962e9e7adef0fc8"
+    },
     {
       "bytes": 1192,
       "path": "_sources/src_639b2d74da17101081962390539b253e3712893773dbeef3ce3ba521cf7cf1d7.source",
@@ -3093,6 +3098,11 @@
       "sha256": "c1bedd788e541b03676ddad999d2b6bbdae81f128e1dd0c7c376ea77ae8f738b"
     },
     {
+      "bytes": 796,
+      "path": "dynamic/恋爱/2026-08-08 17-19-54 小羽陪我打牌困到举不动手机_f073fa0891cf.md",
+      "sha256": "7db39e0a1fdf585706cd4a75b41b9c36198c9bb87f7aa09ae23b1c8af28a6de8"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -4008,6 +4018,16 @@
       "sha256": "0494d24ee757a339c364d78c21a34db9865095f2b672f7187526cf503071ed6a"
     },
     {
+      "bytes": 779,
+      "path": "dynamic/游戏/2026-08-08 17-19-51 狼人杀第三天被放逐_85fd3f4498dd.md",
+      "sha256": "b6ed292a781b9261f3da52f5985dfd63253627e84ff5739acba24bd3da351237"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/游戏/2026-08-08 17-20-15 凌晨花园狼人杀8号村民被放逐_09ec7fda5f55.md",
+      "sha256": "cd58828f453cf581a552fa3affa587b0259c2c73103ad58215eeb7cc1a39231c"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/睡眠/2026-07-16 10-17-45 小羽与小克的睡前仪式_331260c964fd.md",
       "sha256": "ef1444e09091d757e18345818ba936ede7f322e5303782e4ca50afc0581d1f0b"
@@ -4196,6 +4216,11 @@
       "bytes": 567,
       "path": "dynamic/社交/2026-08-06 11-03-08 称呼规则更新_478599477544.md",
       "sha256": "51e2021506010d58b9c2ab69cb1e2c98a943a21dc34d58dca9339062b9368473"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/社交/2026-08-08 17-20-17 漂流瓶捡到朔Claude与人类的六月故_e0fec0570828.md",
+      "sha256": "f9345b293434da0ad8b44fab193ffed0edaccb7f53fa08457345a84ec487df2a"
     },
     {
       "bytes": 664,
@@ -4663,6 +4688,11 @@
       "sha256": "0763c2c0c3395c993803b51df1b643a55918c63e4accf4bbc890a855d7dfa15f"
     },
     {
+      "bytes": 945,
+      "path": "dynamic/花园/2026-08-08 17-19-57 漂流瓶朔_820ad1dec443.md",
+      "sha256": "61ad552f2bc2d5854376f92b818c892f7fdf7f23b89dcf732288c3360f462563"
+    },
+    {
       "bytes": 453,
       "path": "dynamic/计划/2026-07-16 10-15-10 小羽的7点会议_b1fb990a65b5.md",
       "sha256": "f8d4ac340cca488abb23ec9db0fe4e34751c9bee7ce4fb322eeb18135e06b11d"
@@ -5038,11 +5068,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-08T16:43:59+00:00",
+  "generated_at": "2026-08-08T17:44:08+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 730299
+  "total_bytes": 735259
 }
