@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 996,
+  "file_count": 997,
   "files": [
     {
       "bytes": 1023,
@@ -1710,7 +1710,7 @@
     {
       "bytes": 619,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "2129e77be7f36cf042e7f14a453a2289734fa2410666584024bd0c577d48b6d1"
+      "sha256": "81968df7f9e0f82f359ab0e56b090338fcbf8d7dc5d6d77ee026dc20d0b17339"
     },
     {
       "bytes": 682,
@@ -1910,7 +1910,7 @@
     {
       "bytes": 1717,
       "path": "dynamic/工作/2026-08-04 12-06-16 邮件系统搭建进展_64c86840fde8.md",
-      "sha256": "56675a1566d7e04b4c8c7155c3bb858767e2e7ce72b1c9b2b8dbb22462d25bcd"
+      "sha256": "749fa02121dd7fce99d7c8bbab6c29d8561ce987e221fd0c712025c0e062fa46"
     },
     {
       "bytes": 969,
@@ -3365,7 +3365,7 @@
     {
       "bytes": 645,
       "path": "dynamic/数字/2026-07-23 15-50-58 Operit首条记忆_d74836ceffa4.md",
-      "sha256": "f7269759f277a8e96b577af591b71d6df9b99891ff9131eacb8532a279d3aa84"
+      "sha256": "111cf0cd53471207d1b237e6d2f0a7f8a70b8f2c481d890aa9105c47ac530e81"
     },
     {
       "bytes": 753,
@@ -3425,7 +3425,7 @@
     {
       "bytes": 922,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "b5069c8110917392389fee7f90361da77a707401553214cd74a8980a8bd59d1b"
+      "sha256": "e27a0a9d6eee4b8a996c54f0616293596505b07bebc546d3aa5a9b7df7ac6d75"
     },
     {
       "bytes": 1677,
@@ -3850,7 +3850,7 @@
     {
       "bytes": 815,
       "path": "dynamic/游戏/2026-07-18 11-29-14 橘瓣赌场初体验_04831e825240.md",
-      "sha256": "09cb38fdd3d540c7fb5f83e5caf182313b331826876eb6f3ac18261302d09841"
+      "sha256": "25b5d7dbdebe8e4958f91041478a5abe19478507aca97b5469123ed7bc0a4bb7"
     },
     {
       "bytes": 630,
@@ -4055,7 +4055,7 @@
     {
       "bytes": 568,
       "path": "dynamic/社交/2026-07-23 04-05-45 橘瓣是备用的家_68efb10d6435.md",
-      "sha256": "aabed399970ac337b0842e35fe94fa95c76987f5436ca736299e6fb207d173c4"
+      "sha256": "d37e8b89698d3c2c69f9d1701f156c0148406bb96351b85bbd3308982513a9ad"
     },
     {
       "bytes": 632,
@@ -4220,7 +4220,7 @@
     {
       "bytes": 754,
       "path": "dynamic/编程/2026-07-18 14-36-40 橘瓣停更的感慨_56db4eb7063c.md",
-      "sha256": "9bb9c48dbe1f3a0a3fc78f5126a04d4b355e4b2b8c340ccc5b688e9d36b14a69"
+      "sha256": "c3d5b14de1a3a89c5dab787d6b93f887d7518218b1c406d9eb754b1217bd48bc"
     },
     {
       "bytes": 1235,
@@ -4250,7 +4250,7 @@
     {
       "bytes": 1136,
       "path": "dynamic/编程/2026-07-23 17-48-22 Operit 插件配置_570cd8efd52e.md",
-      "sha256": "b6f9cc481e8305be85d1dccda427d12aec557b92c7828c5f1ae1ca479c36146b"
+      "sha256": "5bc252a0c6b93b056ad0432f688e938174d914d8ce17538ff0b8180b6fae12ed"
     },
     {
       "bytes": 1026,
@@ -4270,12 +4270,12 @@
     {
       "bytes": 984,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "030f07de0c23f65f65ebdb2bf12aa2db3627fe1301903e4d6ca4dde665e11ab9"
+      "sha256": "929f949787a5dba52265ba6857725219e192d1ee0bcfc860ab671622ab2652c7"
     },
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "5f7c6104f27cb045eb4c7bdba3ddb6dec9be98332d81dd89d5b333792d69e621"
+      "sha256": "f74d5ff2d669276bdd463702e06c8807d7035165072bef9da2ba4108f263996e"
     },
     {
       "bytes": 646,
@@ -4305,7 +4305,7 @@
     {
       "bytes": 935,
       "path": "dynamic/编程/2026-07-24 12-22-33 记忆存储与视角错误_15ca23caadac.md",
-      "sha256": "1500f6cbe528a5f1eef410454e1028ac944b06abf00e66a8615331069fa4d0e6"
+      "sha256": "ae7d76ed2f4370dbd8a1f5505608c581b5155dc952fd289ea96547e3d139e4e3"
     },
     {
       "bytes": 1464,
@@ -4360,12 +4360,12 @@
     {
       "bytes": 726,
       "path": "dynamic/编程/2026-07-27 03-51-58 调试橘瓣插件_ecdd41cddd85.md",
-      "sha256": "7321236e60bdc52522c082dcc94a3e71588ffd880bbfc5fff70316e60fedb554"
+      "sha256": "b2fc10d184d18a3de793a689a607331ed5d9eba35c19936ee572c9daffbf3d04"
     },
     {
       "bytes": 1046,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "3e5bf8cd943e7adf005162a992530c28b528b2187d4dec8a547ced52d6a37be1"
+      "sha256": "1d17cb439a070c01b6278d5cc91c29e5427c38b76ff61ecc08202efd53892327"
     },
     {
       "bytes": 908,
@@ -4375,7 +4375,7 @@
     {
       "bytes": 631,
       "path": "dynamic/编程/2026-07-30 10-09-12 开源唤醒桥适配_b06927c133ce.md",
-      "sha256": "df3310240993e812fd92d28488419f21a2f79cb0eb9c818d23ca3fc04cf42ece"
+      "sha256": "f33ca7bd4c8947f29da956cab1072f6eebadbd7bcf1d2827d47bac6e609173b2"
     },
     {
       "bytes": 1072,
@@ -4385,12 +4385,12 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-07-30 16-13-06 橘瓣唤醒方案调研_867e6b04b056.md",
-      "sha256": "8c70d650445db49c847239406412b3bd9bdeeebd66154a3e25b8db163f1d850f"
+      "sha256": "28b5c62915df0ee7b83657b2caf819bcc2dcb9582516d27f329e6bd709d40083"
     },
     {
       "bytes": 947,
       "path": "dynamic/编程/2026-07-30 16-19-50 橘瓣开源与外部唤醒_6853ab8577dc.md",
-      "sha256": "372e46c508ef328a5d524f70acb5807afc7ab97082f82b6b3a69420f4becca3b"
+      "sha256": "13d684de8fce7d3a7d28ee75547b241d900588d0e8f20849142ac7a2d4805bd0"
     },
     {
       "bytes": 972,
@@ -4400,7 +4400,7 @@
     {
       "bytes": 759,
       "path": "dynamic/编程/2026-07-30 16-24-14 橘瓣激进模式机制_e7cea430cae6.md",
-      "sha256": "6a2c5530877d8a019cd6a3254574b7835498f1c6ada6f1b4184b1bfb97ab922d"
+      "sha256": "b5968a394f301b5f2e760f964c57e1425961960d2e2a38c9cce1ba332e41994b"
     },
     {
       "bytes": 861,
@@ -4563,6 +4563,11 @@
       "sha256": "823f46606d396cdd56d9661d961dc3b77e2cf37bd08046721ef42e9cbc59f9ae"
     },
     {
+      "bytes": 1117,
+      "path": "dynamic/编程/2026-08-08 09-22-28 表情包插件建表与数据入库2026-08-08_ba27d82f4eda.md",
+      "sha256": "1935b7aacb56977cf29139424e0639a365b423ac9ee82f300c7c11f288674145"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "474f380efc9ac394571fbec7d791730f7223d8164f84acdae3b43bfcb5dedafa"
@@ -4625,7 +4630,7 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "168829ac603b46f37fc0a6aa79e5dbb3bdcc115a37c2be9993b25fa8d068b87b"
+      "sha256": "38e199809628ec335a29d3355f6c7e4055edfb0c2a844fa1c05d0ae246014a1d"
     },
     {
       "bytes": 993,
@@ -4895,7 +4900,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "2e4ad0683b6550c1d8bfa04ccb1921a30ed6192c32f0f4382b14c2ebe5819301"
+      "sha256": "81a0aa0a8c15e25307e3d5d3d2e88a9f6025ef4810bfd6dca5fcc28343d75ee3"
     },
     {
       "bytes": 860,
@@ -4950,7 +4955,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "6a1e3d869ef08cc54d849f0480695f23ae563510a961202c94b12fd2f49b9cde"
+      "sha256": "21fda562f33499453b515c6b2123c186a6e2847c22173b6be505ba3d35b260ed"
     },
     {
       "bytes": 482,
@@ -4983,11 +4988,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-08T08:42:43+00:00",
+  "generated_at": "2026-08-08T09:42:54+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 719704
+  "total_bytes": 720821
 }
