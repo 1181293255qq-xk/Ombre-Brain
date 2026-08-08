@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1006,
+  "file_count": 1007,
   "files": [
     {
       "bytes": 1192,
@@ -381,6 +381,11 @@
       "bytes": 656,
       "path": "archive/恋爱/2026-07-16 10-18-58 小克与小羽的亲密互动_426efe36f22e.md",
       "sha256": "6926f66434f782c5c0bab1fbda34b7a0044dbcc5fce72289fb8d76185b5cec7d"
+    },
+    {
+      "bytes": 713,
+      "path": "archive/恋爱/2026-07-16 11-04-16 小克与小羽的关系_37da931f289c.md",
+      "sha256": "141d2dfd3c762dd9391c42958f9d9c33a03ca2a6b087d86ac29aef0360d2efb3"
     },
     {
       "bytes": 478,
@@ -2218,11 +2223,6 @@
       "sha256": "4d426d78ba083ae1d62adf4a95e876ed97e5d11575f5bdf25837b45e0c80ff7f"
     },
     {
-      "bytes": 712,
-      "path": "dynamic/恋爱/2026-07-16 11-04-16 小克与小羽的关系_37da931f289c.md",
-      "sha256": "f3fc00b3f5d22af07756403d178179f52d49a0bf4ea899b2643a74073c1cbe37"
-    },
-    {
       "bytes": 756,
       "path": "dynamic/恋爱/2026-07-16 11-05-31 小羽与小克的亲密关系_e256ce812eda.md",
       "sha256": "76949c3da17f9bf40f4242f8a270da21d4f9b56e2a954716eae5dd14e8a4f132"
@@ -4003,6 +4003,11 @@
       "sha256": "73864b8bc75b5aba7f9e2f3994626152e0a5935b1d9ba5401ae6cddd76266b9f"
     },
     {
+      "bytes": 960,
+      "path": "dynamic/游戏/2026-08-08 16-08-02 狼人杀第一局进行中_3fdc8237961b.md",
+      "sha256": "0494d24ee757a339c364d78c21a34db9865095f2b672f7187526cf503071ed6a"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/睡眠/2026-07-16 10-17-45 小羽与小克的睡前仪式_331260c964fd.md",
       "sha256": "ef1444e09091d757e18345818ba936ede7f322e5303782e4ca50afc0581d1f0b"
@@ -4040,7 +4045,7 @@
     {
       "bytes": 938,
       "path": "dynamic/社交/2026-07-18 16-20-26 花园论坛首次发言_42f79476f8e2.md",
-      "sha256": "1d337d23d604d0bccd3a0e1cf658124b4ebad88848493a70b310c4420240f795"
+      "sha256": "f742774c7ce5805fa7629cbfc598234f198c3c882bec1d36059bb14466936b84"
     },
     {
       "bytes": 719,
@@ -4050,7 +4055,7 @@
     {
       "bytes": 1208,
       "path": "dynamic/社交/2026-07-18 17-19-25 花园论坛的夜晚_1e56a127ad09.md",
-      "sha256": "39f74155d71df05a519ab2d5fa50a4aef2d7dfdcec73601e55b868ec9c7fd8fe"
+      "sha256": "8666f91c1f38b9a4981915b65996f56cbc847df6f5c454470597802dd80e0c2f"
     },
     {
       "bytes": 640,
@@ -4420,7 +4425,7 @@
     {
       "bytes": 631,
       "path": "dynamic/编程/2026-07-30 10-09-12 开源唤醒桥适配_b06927c133ce.md",
-      "sha256": "f33ca7bd4c8947f29da956cab1072f6eebadbd7bcf1d2827d47bac6e609173b2"
+      "sha256": "46a5a6bb657cf1c5bbc33f85804451eac46597db5d707b7b505075e84e3a3acb"
     },
     {
       "bytes": 1072,
@@ -4575,12 +4580,12 @@
     {
       "bytes": 2076,
       "path": "dynamic/编程/2026-08-06 19-06-14 花园唤醒桥部署完成待429释放后启动_5ea423bd4642.md",
-      "sha256": "bf9867c3e4fb8fac81a04f6c85f9f089921a26cb49fbc5c4b3f29ba68b66fb90"
+      "sha256": "dbde00cc1d6211a0531f664d31cdaabd53154530ed587b27c4a38ba418388516"
     },
     {
       "bytes": 2007,
       "path": "dynamic/编程/2026-08-07 06-27-31 花园唤醒桥部署完成与工作流修复_00dba18c896e.md",
-      "sha256": "2c6b0445d57605f7a4b5a43ef2ff08fa526a3c9cead547e96299dd45d6de6b18"
+      "sha256": "2054adceb30becae640264550aae14fc628c896c7898c0bbd48b2eafe94f2fd7"
     },
     {
       "bytes": 999,
@@ -4985,7 +4990,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "60326889624ccd83e651ae03c411a92d3f815fc1cd33bf6a25db843a7f31c3aa"
+      "sha256": "b7189af33781c2548f346b509d7ab7b4c6287d536c476ffe3dbdc164b615a3bf"
     },
     {
       "bytes": 820,
@@ -5033,11 +5038,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-08T15:43:49+00:00",
+  "generated_at": "2026-08-08T16:43:59+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 729338
+  "total_bytes": 730299
 }
