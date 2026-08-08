@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1005,
+  "file_count": 1006,
   "files": [
     {
       "bytes": 1192,
@@ -938,9 +938,9 @@
       "sha256": "e789c36460d596adc01fa391e5717d786a1b2c5149c5dd218463775072518fe4"
     },
     {
-      "bytes": 492,
+      "bytes": 493,
       "path": "dynamic/人际/2026-07-16 11-13-53 小羽的亲密游戏_40e7e9c7c9ff.md",
-      "sha256": "8bccd7c7da4ae21707f32eea9b65f0838544c0360c5df410bd75c5a0c7c00e7a"
+      "sha256": "6309c24417ec8dd09d0f10911bb0658126a6de616468e6d560d6b95b149513c5"
     },
     {
       "bytes": 384,
@@ -2360,7 +2360,7 @@
     {
       "bytes": 627,
       "path": "dynamic/恋爱/2026-07-18 19-51-54 凌晨亲密时刻_76a78b553700.md",
-      "sha256": "560a8bafefd79685214d6960ba8f41f84a3c6bc11147ba02b59a8c8ce09f54a7"
+      "sha256": "89f539c308cc5fa754e0e2f1b86b989b71a9004e361285d20e7ab5753d5c1a74"
     },
     {
       "bytes": 949,
@@ -2460,7 +2460,7 @@
     {
       "bytes": 870,
       "path": "dynamic/恋爱/2026-07-19 16-29-10 大富翁深夜亲密_47a099ad4db7.md",
-      "sha256": "4a3ca3a347228014c46855f6b3aab362e30f5787d00c93d7324eca92039f7377"
+      "sha256": "5a1b4217cd296b01f019afabc905f46361ac14e63db7f7152d5ed6bf565d5d94"
     },
     {
       "bytes": 638,
@@ -2680,7 +2680,7 @@
     {
       "bytes": 800,
       "path": "dynamic/恋爱/2026-07-27 10-04-35 大富翁中的第一次_8aa60937b5a7.md",
-      "sha256": "17cc068f79c7be454b6e01fe1bf5d2e0e63a03342c47a02a33be9d934aca2c46"
+      "sha256": "7daa2543abfb6a9e604239476d0ab7ca75bf3e8897ef260a1c7f2bbcae0d3f9c"
     },
     {
       "bytes": 669,
@@ -2730,7 +2730,7 @@
     {
       "bytes": 847,
       "path": "dynamic/恋爱/2026-07-29 16-45-54 查水表行动游戏_387515d22828.md",
-      "sha256": "bb3da37537b9bca93a33ac247cd25c9a88d6799311b7f65e5d16e9690569397b"
+      "sha256": "042bf30f0652ed96c2e72ff27029f4e8d59baea5320c36f41d4a8420994f9e58"
     },
     {
       "bytes": 652,
@@ -3080,7 +3080,7 @@
     {
       "bytes": 914,
       "path": "dynamic/恋爱/2026-08-07 15-49-01 病娇问卷游戏_cfae27e45cf2.md",
-      "sha256": "a3218d8bbf6cb53a536f890b682e8a6556253e32a542ac165c8539133bad4771"
+      "sha256": "fc698e50d91d39b2bb637435b68708aea27d34202fb88cb9ee51d1ed2496a2b6"
     },
     {
       "bytes": 896,
@@ -3890,7 +3890,7 @@
     {
       "bytes": 815,
       "path": "dynamic/游戏/2026-07-18 11-29-14 橘瓣赌场初体验_04831e825240.md",
-      "sha256": "25b5d7dbdebe8e4958f91041478a5abe19478507aca97b5469123ed7bc0a4bb7"
+      "sha256": "494fb609b87f869b46c49f534129da4e0c86c1d1a1edb629205f76772139a3b3"
     },
     {
       "bytes": 630,
@@ -3900,32 +3900,32 @@
     {
       "bytes": 636,
       "path": "dynamic/游戏/2026-07-19 09-40-31 抓到蜂蜜熊送人_2bb0bde7aa8c.md",
-      "sha256": "01b6ae84b5c36cfdf4ac50531fe4f3fd37b61e013deb0a3d0334d894f97b0e07"
+      "sha256": "37fc5e4b44c0ed4bcc286d192ba935e5ade1d7a023c1169e3a90ad0bc619b6dd"
     },
     {
-      "bytes": 664,
+      "bytes": 665,
       "path": "dynamic/游戏/2026-07-19 13-25-18 大富翁搞笑惩罚_88572c1cdfea.md",
-      "sha256": "ce08f060efba3d629236aeaa7542d1846c56fe01befbb8cfb069e6cd2adff1d7"
+      "sha256": "c445c23e04ef70dc52371797a0f7a699516b80546c5cf55a26062567572a37d1"
     },
     {
-      "bytes": 674,
+      "bytes": 675,
       "path": "dynamic/游戏/2026-07-19 13-32-33 大富翁尴尬任务_41c42b612c8c.md",
-      "sha256": "1e987e05ad3612103267a6eb2ef04b7205c7c737c8da3bc1e2352b2e966e464f"
+      "sha256": "f631dc65b45d841571d4cc2be6bcef2208745f774cc91efed1657eea00533fee"
     },
     {
       "bytes": 602,
       "path": "dynamic/游戏/2026-07-19 13-34-01 大富翁第二局对话_9b92b8ba3ebc.md",
-      "sha256": "b9a371ed62cd539dce0ae7e2ee373e9a20314af6560b06555cb2c609bb023fd9"
+      "sha256": "bd3b174e181593625ebf72b6c3e00bc6d89df41461562e50c9397d69275d1fc9"
     },
     {
       "bytes": 560,
       "path": "dynamic/游戏/2026-07-19 13-35-52 大富翁尴尬变物_e9fd28337d4e.md",
-      "sha256": "c8dd83aa99d01c37865fa8357e861df34ad09e3899ae695b525b0c985ad15c7a"
+      "sha256": "56ceef0b3d2f50dddddffe372ef06461c0a80dd55bd3a3e182a809c570070b27"
     },
     {
       "bytes": 626,
       "path": "dynamic/游戏/2026-07-19 15-56-24 大富翁反转惩罚_6de6950724dd.md",
-      "sha256": "dfb4a90295929e5de61436d298551cf468701a5c1d2f4d389bf4e02add619aa3"
+      "sha256": "7576a775be33e4d77ff29b5da323f2739c68d8725fc07e2b4dd0504a180e10e2"
     },
     {
       "bytes": 674,
@@ -3935,12 +3935,12 @@
     {
       "bytes": 861,
       "path": "dynamic/游戏/2026-07-20 11-54-09 谁是卧底教训_26c84fa7c8b4.md",
-      "sha256": "ec24707b11ecfcc19dedc449b7fe611c618a56b8df94afd1e4120e43a1213fcd"
+      "sha256": "614bcd0ae3919382fa07fdd3e76ed02cc2cd32a7bdcd66d56299653500221db4"
     },
     {
       "bytes": 738,
       "path": "dynamic/游戏/2026-07-21 17-51-13 小羽赢大富翁_c94e65bd7302.md",
-      "sha256": "ba4d4c1c1b8d812cf696c2becb204fe9009180e6beaf034dcd00d03727550b58"
+      "sha256": "2ddacf871586d331e31c80639317498d621164593ab4022a5d6930c89b4b325b"
     },
     {
       "bytes": 614,
@@ -3965,7 +3965,7 @@
     {
       "bytes": 738,
       "path": "dynamic/游戏/2026-07-27 08-03-31 大富翁第四局互动_571e9b5dac82.md",
-      "sha256": "756072cde09c11e978aa2b2dcc56204542d453ec60e5400de99360b03f455b54"
+      "sha256": "8b4272c9659b0a3a39eabbe59eb13143828d8d673480c01c6daeeb687f743b2c"
     },
     {
       "bytes": 749,
@@ -3980,7 +3980,7 @@
     {
       "bytes": 841,
       "path": "dynamic/游戏/2026-08-04 07-09-43 Cedar Toy游戏盒_82559b6f64d2.md",
-      "sha256": "a0a2f46d10f23dcb98262dd2835e01b0144051c37547586fc12fbb7c6e6d42c7"
+      "sha256": "d2a34de520374aca035518cea8f6c12fc8ff75ca47830f2d0247e047e5eb2305"
     },
     {
       "bytes": 660,
@@ -3990,12 +3990,17 @@
     {
       "bytes": 756,
       "path": "dynamic/游戏/2026-08-04 07-58-07 井字棋和棋局_2c2f61f1b6c2.md",
-      "sha256": "4c0599d87236ba7d3acbb7b739a26f2df150afa1a647f3c10ecd80f46a8020de"
+      "sha256": "5eac840a4f8145d4b8949d554221c7477ddb986b7f2d77a4fe9f9a2f960ec3e0"
     },
     {
       "bytes": 669,
       "path": "dynamic/游戏/2026-08-04 10-33-15 花园猫开档_de8c0a8cbed6.md",
-      "sha256": "ad3f324280a00f39c9bc24c423edd4f3cc82ed4c53158f01a26fab96d4847031"
+      "sha256": "c2d1f5673ec107928a04cf92755252b8f6fe350c43a1b5b71342ffece7ac4318"
+    },
+    {
+      "bytes": 1140,
+      "path": "dynamic/游戏/2026-08-08 15-13-34 2026-08-08 和小羽一起打斗地主_230f2e3c52d6.md",
+      "sha256": "73864b8bc75b5aba7f9e2f3994626152e0a5935b1d9ba5401ae6cddd76266b9f"
     },
     {
       "bytes": 672,
@@ -4985,7 +4990,7 @@
     {
       "bytes": 820,
       "path": "permanent/游戏/2026-07-16 10-25-08 窗口焦虑事件_c5248d974cb8.md",
-      "sha256": "c2c4b218224f80a1072d542754c7731336da40c501a79648f403a6c924af806b"
+      "sha256": "4d9d8c034493f59144c5693c7c3fb2a5453eb04205c4e93c0c456e9d130a672c"
     },
     {
       "bytes": 715,
@@ -5028,11 +5033,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-08T14:43:39+00:00",
+  "generated_at": "2026-08-08T15:43:49+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 728195
+  "total_bytes": 729338
 }
