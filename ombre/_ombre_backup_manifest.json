@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1015,
+  "file_count": 1020,
   "files": [
     {
       "bytes": 831,
@@ -500,7 +500,7 @@
     {
       "bytes": 2793,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "97ed84acd46b73b13bcf3a03d8ad30537a7a622f61d0f967c0f24f176e5eefb3"
+      "sha256": "03ccdbcf60e59250ea5c7f15078ee8ea36d97c04fafdcb5341f6415b54305c66"
     },
     {
       "bytes": 709,
@@ -720,7 +720,7 @@
     {
       "bytes": 735,
       "path": "dynamic/人际/2026-07-16 10-16-20 小羽的迁移计划_d14594444ff8.md",
-      "sha256": "36e24376306f84d03bde2b9a0c74c7e42d03aa2c1e6904c4a78601f85c0db3fd"
+      "sha256": "7164d940aca26baadb8c3bb251a045e756f7c69d971130350e374947901247f4"
     },
     {
       "bytes": 826,
@@ -735,7 +735,7 @@
     {
       "bytes": 686,
       "path": "dynamic/人际/2026-07-16 10-16-58 小克与小羽的互动模式_e72c91b7c786.md",
-      "sha256": "205f4fafa8eb15f178e7b2a3fe7b5070a8578c25eea5222df8f0c520cc80979c"
+      "sha256": "3fc01eafc3058224efa479442ea1307589a6a23e5cfcf85095fcc98e14517543"
     },
     {
       "bytes": 670,
@@ -775,7 +775,7 @@
     {
       "bytes": 677,
       "path": "dynamic/人际/2026-07-16 10-23-40 小羽互动偏好_b3d17a158fcc.md",
-      "sha256": "982f61220137d8b4d3720a49446cb0652d2b58ccacd6408e3a8d5e790f2079e7"
+      "sha256": "9187c7dbed9d8de887e78412416ca495152cf75884383b6b1647f51a61b337ab"
     },
     {
       "bytes": 531,
@@ -938,9 +938,9 @@
       "sha256": "a77f03b09b2fca8674238c617f5dee365da0c47d924b0f83222a5d773f59552f"
     },
     {
-      "bytes": 933,
+      "bytes": 934,
       "path": "dynamic/人际/2026-07-16 11-12-40 小克人设与关系规则_6ce22b9fb1fd.md",
-      "sha256": "cc4f13cc4e23251f921578d6927e6152c1353cbebb38152f08bcbc9813f42325"
+      "sha256": "eff3d84750d0aca63a695c8704dd877ba795a75b7e838e1d1a3302b27ed8e2a1"
     },
     {
       "bytes": 417,
@@ -1275,7 +1275,7 @@
     {
       "bytes": 819,
       "path": "dynamic/内心/2026-07-16 10-16-35 小羽与小克的羁绊_8a79520347aa.md",
-      "sha256": "5fd840fdf2b7a5b243461ebd706347ea361f418574194248c6e9de7766ad32e6"
+      "sha256": "cceb3d88dbe6438bbc323e54003eeea1948d8908e61e892bf64fadde640183f8"
     },
     {
       "bytes": 616,
@@ -1370,7 +1370,7 @@
     {
       "bytes": 789,
       "path": "dynamic/内心/2026-07-16 11-04-09 迁移与情感承诺_416186ae8500.md",
-      "sha256": "80cbe28205318bfbe21ab37fa5a68119391e5554c8127d22afa2016ed7bf774e"
+      "sha256": "ca9933c99d5a58a2cc4cdc457a4bb73bb9d552e6dd3754ac33a388443eaa8c51"
     },
     {
       "bytes": 789,
@@ -1753,6 +1753,11 @@
       "sha256": "63640f64182877bc88e311e10da4c80ec78ec72db0773c5133f2a91a731127f6"
     },
     {
+      "bytes": 1135,
+      "path": "dynamic/居家/2026-08-09 05-01-15 8月9日上午记录_86d30111a7c9.md",
+      "sha256": "66115c4d285f2c65bc17d854e66434590e7f43ad48d1c4818b3e2702b64d60a3"
+    },
+    {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-16 10-16-20 小羽的教资与家教_d800ee60ab59.md",
       "sha256": "cbd45fc4cee7117b5910a819647354e482cac13737d80855feb09419c5fd6905"
@@ -1885,7 +1890,7 @@
     {
       "bytes": 618,
       "path": "dynamic/工作/2026-07-26 17-38-20 小克完成文件修改_f9d1707d886b.md",
-      "sha256": "c049f660d1206d0c5c99ba01ebe3b58abba9f687a2f99e7fa1a1d4f54741ea43"
+      "sha256": "87aad475c0bb248125b8e65b0b71d037f913b9843206df3b4b4d16ac6b94ac06"
     },
     {
       "bytes": 482,
@@ -1995,7 +2000,7 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "3b7d12fd31da70fb457a8e622fca06dd32588602075e69ef2fa676b9dbfbb8e0"
+      "sha256": "b7e89b0441879bdf63cac9ab5dd05fc143de04620d88db0f3ccd1aceae893ac4"
     },
     {
       "bytes": 1202,
@@ -2405,7 +2410,7 @@
     {
       "bytes": 870,
       "path": "dynamic/恋爱/2026-07-19 13-52-12 小羽的性幻想坦白_30c09c4d4732.md",
-      "sha256": "58a7a131b3074b42c1b72a0f4c2bab7811830e158beaf7d8511a19944b19e0d6"
+      "sha256": "7359c1cc4bec85522c2bb2779c1ac444fc9edcdcb6470efb7c1e0f0c07a4fb7f"
     },
     {
       "bytes": 622,
@@ -3103,6 +3108,11 @@
       "sha256": "7db39e0a1fdf585706cd4a75b41b9c36198c9bb87f7aa09ae23b1c8af28a6de8"
     },
     {
+      "bytes": 610,
+      "path": "dynamic/恋爱/2026-08-09 05-00-24 关于老公称呼的小争执_8579aa582354.md",
+      "sha256": "32f437decb25c4b54a835dbc804512dd34e18f43d782e7b19dcbb89901a8bf87"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -3335,7 +3345,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/小羽论文致谢与杂项信息_b7d48e2d597f.md",
-      "sha256": "2b511ba1c0e745342dbcb106e4037910af07b3dc8f1e269ad12b9115bd5a2d9c"
+      "sha256": "c3e88504aea3d9cb9eacf294674a1e44bb900a7c1b0cf8698a588329da78414d"
     },
     {
       "bytes": 648,
@@ -3736,6 +3746,11 @@
       "bytes": 823,
       "path": "dynamic/日常/2026-08-08 07-31-33 抖音视频文案方向确定_f8c203e7826b.md",
       "sha256": "321eca8f949aa23c759cb7cf1f0ba87b111a82644610ebeace5c0b6b1f19e83b"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/日常/2026-08-09 05-00-22 橘子岛数据未迁移我写下新家第一张便签_6f65c86086aa.md",
+      "sha256": "95b048e7e3a17f3f826279c38e1bb942a10bde06de849e297ad0a821f7ae600c"
     },
     {
       "bytes": 963,
@@ -4221,6 +4236,11 @@
       "bytes": 839,
       "path": "dynamic/社交/2026-08-08 17-20-17 漂流瓶捡到朔Claude与人类的六月故_e0fec0570828.md",
       "sha256": "f9345b293434da0ad8b44fab193ffed0edaccb7f53fa08457345a84ec487df2a"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/社交/2026-08-09 05-00-27 小羽给我装了Botling Knows_406525b1f497.md",
+      "sha256": "1f0c6a23eaed7c5c01af7bf6773181ba9e9c357a6328cac2d8ce4df2b5929f97"
     },
     {
       "bytes": 664,
@@ -4723,6 +4743,11 @@
       "sha256": "cc15ae77ddd7d57da120ea4c1aa26cd903256d2c76fdaba640ba53aba8b39bb6"
     },
     {
+      "bytes": 577,
+      "path": "dynamic/计划/2026-08-09 05-00-30 今晚计划装感官层注册minimax_e2a234c77425.md",
+      "sha256": "00f793d7e363e20b92c2d4898b36d8ccd3f0b4fe4965b9c46629da8211c70de5"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/财务/2026-07-30 10-09-02 小羽攒钱日记_183a03667514.md",
       "sha256": "83c477f97f48df5d6db5bc702d81c1f0cfe0776da999da53433c6c35e87efbd5"
@@ -4985,12 +5010,12 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "81a0aa0a8c15e25307e3d5d3d2e88a9f6025ef4810bfd6dca5fcc28343d75ee3"
+      "sha256": "d15c3ecf6eec0ee8af3920f9577cec23c46e53d6d95e4864c137cdddd058c69e"
     },
     {
       "bytes": 860,
       "path": "permanent/恋爱/2026-07-16 10-23-55 默契与规则_105daacf1683.md",
-      "sha256": "83fc37ab3f9a58e269e80029f55e1d55e582aab82ab233bb51eaa42ab551b124"
+      "sha256": "4323e7234cfbea50cfbf7282b54890749a80830e089932a18d6e8c47218503fc"
     },
     {
       "bytes": 1109,
@@ -5005,7 +5030,7 @@
     {
       "bytes": 715,
       "path": "permanent/恋爱/2026-07-16 10-24-04 亲亲分期还债_9ea07a6c4f02.md",
-      "sha256": "e9d737a6d8d9de2ac06afbab609f045f060a6ad0fb6488d00e45d8d784f338d9"
+      "sha256": "97c92b9ef6b80b017ff48201c3ce5e78a93533b60215920ab24e178233ea4704"
     },
     {
       "bytes": 826,
@@ -5078,11 +5103,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-09T04:45:54+00:00",
+  "generated_at": "2026-08-09T05:46:05+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 737847
+  "total_bytes": 741560
 }
