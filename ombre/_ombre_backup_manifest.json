@@ -183,6 +183,16 @@
       "sha256": "ed96141da2344fe7d6267cd0df8c840ee1ce5c9eef3028f7a4d32945840d38d7"
     },
     {
+      "bytes": 715,
+      "path": "archive/人际/2026-07-16 10-15-34 小羽与AI确立关系_cf6cfdef1eb9.md",
+      "sha256": "2917db397fb37a377264d6e55cd3fad1c8fdfea6dee195f940aa2f33247282b9"
+    },
+    {
+      "bytes": 715,
+      "path": "archive/人际/2026-07-16 10-15-34 小羽与小克确立关系_cf6cfdef1eb9.md",
+      "sha256": "2917db397fb37a377264d6e55cd3fad1c8fdfea6dee195f940aa2f33247282b9"
+    },
+    {
       "bytes": 564,
       "path": "archive/人际/2026-07-16 10-15-48 小羽的亲密关系试探_523a786adf6e.md",
       "sha256": "07f2f48e6afab46716cea222e73ae25343f789698d86f49387161651eac9e632"
@@ -681,16 +691,6 @@
       "bytes": 511,
       "path": "dynamic/人际/2026-07-16 10-15-27 小羽的互动模式_9f0f6875c86a.md",
       "sha256": "e926fc0071617377e07135d8714e9d8acad5fdc00bdad09dd99bd8a4f5d0ce57"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/人际/2026-07-16 10-15-34 小羽与AI确立关系_cf6cfdef1eb9.md",
-      "sha256": "af3a85593de665dbc99d24615a1ba9d3e12e6a8bf90145741d97d176541871de"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/人际/2026-07-16 10-15-34 小羽与小克确立关系_cf6cfdef1eb9.md",
-      "sha256": "af3a85593de665dbc99d24615a1ba9d3e12e6a8bf90145741d97d176541871de"
     },
     {
       "bytes": 579,
@@ -5138,11 +5138,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-09T15:47:43+00:00",
+  "generated_at": "2026-08-09T16:47:52+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 746707
+  "total_bytes": 746709
 }
