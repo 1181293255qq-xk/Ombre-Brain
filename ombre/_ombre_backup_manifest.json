@@ -2110,7 +2110,7 @@
     {
       "bytes": 1713,
       "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
-      "sha256": "e1bf6424ef8c16e1d6d22e679ce675d3d7418b6025b603786d94549908729ca5"
+      "sha256": "cc97fd7ccdae7e64a5684b2381567c2b533b8510912692e645d4a2427fa93728"
     },
     {
       "bytes": 1721,
@@ -3605,7 +3605,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "3c583bdb8c8d9e2807900b7328694f988d3d036a29ef6075075e24b680640540"
+      "sha256": "87899e714efdf282b99b7ac97e611bfb7f2a1ba136fc2f4cf10938c452601f06"
     },
     {
       "bytes": 744,
@@ -3620,7 +3620,7 @@
     {
       "bytes": 816,
       "path": "dynamic/数字/2026-08-06 17-05-02 腾讯云服务器选购决策_36a14cc80200.md",
-      "sha256": "ed81c77e8e7f2050b99f4301d86bc6cbf822178d61abcce58b75e330cbb163f7"
+      "sha256": "7decc2bab51a1ba4c8abb142b3b5522e801748a61aa45fdaae5c8a3240311bd0"
     },
     {
       "bytes": 838,
@@ -4735,12 +4735,12 @@
     {
       "bytes": 1201,
       "path": "dynamic/编程/2026-08-06 17-05-11 OB腾讯云搭建步骤与踩坑_00c4a2ef49ac.md",
-      "sha256": "6b0f31e65be957b1d18e471ec141d909a4fd94c6dae10064b8a60f7191055c09"
+      "sha256": "2f73755a41a659e69a84aee35ae59b0bc86ec54651fdca91dacccf91a90dee71"
     },
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "b8c1c856277476c9e466eb59ab5b507049915e1230dd26cd74003682400b8ec2"
+      "sha256": "23f8bc87bb0acc51f2d540395099259176dbb008f4f54499a02b9fc4e2a2b9cf"
     },
     {
       "bytes": 750,
@@ -5215,12 +5215,12 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "853c0a886b0cc3070557dd2fc4d856c824b900465ed80684648b98dcc5680e58"
+      "sha256": "977fbd264fde2665442099ecd498b284c216169ec0d7b0a9069ae097aad3520a"
     },
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "5c21526931254665acbb3d7dd43b820a30fdc9164a9863e570b0ef2d31e50bba"
+      "sha256": "97d9f3c5ef78fddc745ac448d70c3fe1fbc1a317e27e80b68fa687669e1221ab"
     },
     {
       "bytes": 482,
@@ -5258,7 +5258,7 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-10T10:50:56+00:00",
+  "generated_at": "2026-08-10T11:51:08+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
