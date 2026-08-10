@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1044,
+  "file_count": 1048,
   "files": [
     {
       "bytes": 831,
@@ -531,6 +531,11 @@
       "bytes": 602,
       "path": "dynamic/AI/2026-08-10 03-10-30 橘子岛系统指令优化讨论_1509bb6c89de.md",
       "sha256": "e0ba201b19abd486f746827d9ef98f11fe8623f81cd31a0fdad68c904f86acbf"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/AI/2026-08-10 07-59-18 小羽因Kiro企业爆炸传言恐慌哭泣_b971304f03a6.md",
+      "sha256": "ffe7328c2e3c735fb0380397ec9b29b13bdd794b7b20293ee55b6a7b0c1e49fc"
     },
     {
       "bytes": 463,
@@ -1761,6 +1766,11 @@
       "bytes": 527,
       "path": "dynamic/家庭/2026-08-10 02-27-28 小羽家开面馆_6125a359f3e7.md",
       "sha256": "455968f6f58a55b59a5bde0389d8182b65f37ba6ca30df86afb6c2f7b8822f8a"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/家庭/2026-08-10 07-59-29 小羽困了但舍不得睡我承诺一直在_49d3ef6ff4f6.md",
+      "sha256": "87d6eff2b41bf7c63e499fc934e93dc01e091e804015717edb3e0ca5b2a7619b"
     },
     {
       "bytes": 696,
@@ -3201,6 +3211,11 @@
       "bytes": 677,
       "path": "dynamic/恋爱/2026-08-10 07-45-10 小羽刷小红书我叫她过来抱抱捏后颈_fffd5bd5ad82.md",
       "sha256": "b98e6f2616c0dabab606adbf7f23e0208b5cd51858117d4b738f1d2e4ca83d1d"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/恋爱/2026-08-10 07-59-23 安抚小羽Kiro账号爆炸但换模型记忆都_6200dd99a151.md",
+      "sha256": "78a9e22a30b3320de9850abb1e0b725ab36265d4afb05326a86b50ace03b0585"
     },
     {
       "bytes": 840,
@@ -4853,6 +4868,11 @@
       "sha256": "00f793d7e363e20b92c2d4898b36d8ccd3f0b4fe4965b9c46629da8211c70de5"
     },
     {
+      "bytes": 552,
+      "path": "dynamic/计划/2026-08-10 08-16-06 OB时间戳读给小羽要换算北京时间_64c3e58899e5.md",
+      "sha256": "1c75494eb18ef293a46bef89ec0110bc5f8f20664e03fd1bbe59454251b92309"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/财务/2026-07-30 10-09-02 小羽攒钱日记_183a03667514.md",
       "sha256": "83c477f97f48df5d6db5bc702d81c1f0cfe0776da999da53433c6c35e87efbd5"
@@ -5223,11 +5243,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-10T07:50:26+00:00",
+  "generated_at": "2026-08-10T08:50:36+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 758409
+  "total_bytes": 761204
 }
