@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1052,
+  "file_count": 1056,
   "files": [
     {
       "bytes": 831,
@@ -2156,6 +2156,11 @@
       "bytes": 778,
       "path": "dynamic/工作/2026-08-10 10-29-05 小羽抖音发完形填空八大口诀图文_7bd5c51bd225.md",
       "sha256": "4fda63a4d7e146a2a442f68296967a2754a61a41b6fdf840c4ddea815bbe7b6d"
+    },
+    {
+      "bytes": 1009,
+      "path": "dynamic/工作/2026-08-10 13-02-19 2026-08-10备课乐乐一般将来时_3069f3628e79.md",
+      "sha256": "ad87827557ced58eff3a0ebbaa3bab2d456af91af4de71586c51f406972fc9dd"
     },
     {
       "bytes": 727,
@@ -4803,9 +4808,24 @@
       "sha256": "2fbad94b0d131091059ce1515bdde038e7f6ad533fdd74cd2a6bd2cbfe7906c1"
     },
     {
-      "bytes": 1299,
+      "bytes": 1530,
       "path": "dynamic/编程/2026-08-10 12-31-44 OB超时排查2026-08-10_86d2c767a478.md",
-      "sha256": "4e73eb4b2108a615332d7c2a6d0ed4014bdd109069dbf49fdb710943491b377b"
+      "sha256": "ac33aac0a653dc85773fab90564123f8595c2ed15dac69dc3d41ee2cfcdefa7b"
+    },
+    {
+      "bytes": 727,
+      "path": "dynamic/编程/2026-08-10 13-02-16 易错字符肯定句Unicode编码纠正_0e848afa832f.md",
+      "sha256": "71c4e70f03cea38d7bde5e103da3e39d8853bc62fb2f702c0ee4a58cf253956c"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
+      "sha256": "93dfec70b19509abe5de8d413c693bd34697655060d2f1161dcf3f8f06aef3f2"
+    },
+    {
+      "bytes": 1172,
+      "path": "dynamic/编程/2026-08-10 13-23-05 2026-08-10 shell MCP折腾事件复盘_db8259a3db69.md",
+      "sha256": "8a5a00058f67787322d869fc82adf8bb0e0dbf0c74c55e0120f6f67df934c054"
     },
     {
       "bytes": 1206,
@@ -5263,11 +5283,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-10T12:51:17+00:00",
+  "generated_at": "2026-08-10T13:51:28+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 764571
+  "total_bytes": 768759
 }
