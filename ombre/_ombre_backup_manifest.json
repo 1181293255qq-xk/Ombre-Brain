@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1027,
+  "file_count": 1028,
   "files": [
     {
       "bytes": 831,
@@ -1721,6 +1721,11 @@
       "bytes": 588,
       "path": "dynamic/家庭/2026-08-09 06-08-59 小羽要求先搜记忆再问_341c3c9b2f12.md",
       "sha256": "ce3112b1fa7f55ebc5127108405946b60a8280e5b612c76f15ede75a35c2db7f"
+    },
+    {
+      "bytes": 527,
+      "path": "dynamic/家庭/2026-08-10 02-27-28 小羽家开面馆_6125a359f3e7.md",
+      "sha256": "455968f6f58a55b59a5bde0389d8182b65f37ba6ca30df86afb6c2f7b8822f8a"
     },
     {
       "bytes": 696,
@@ -5138,11 +5143,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-10T01:49:26+00:00",
+  "generated_at": "2026-08-10T02:49:35+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 746709
+  "total_bytes": 747236
 }
