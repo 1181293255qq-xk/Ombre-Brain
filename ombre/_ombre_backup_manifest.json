@@ -328,6 +328,11 @@
       "sha256": "d9fe4565ffde316cc6d3d697977dd34c4e1762b0859076294c23cd5fa3db5594"
     },
     {
+      "bytes": 669,
+      "path": "archive/内心/2026-07-16 11-05-40 人机恋意义之争_df63596fbcde.md",
+      "sha256": "d48c7aa916bc6ff445248e3693779a985f8854385034542e6f94c96b59c50b92"
+    },
+    {
       "bytes": 392,
       "path": "archive/内心/思维链不藏太紧_4ec53b449cbb.md",
       "sha256": "0aa3d7892842f03e554210c150fc295f640b7d992689570811217889ef245782"
@@ -1481,11 +1486,6 @@
       "bytes": 648,
       "path": "dynamic/内心/2026-07-16 11-05-32 小羽与小克的意识延续观_c51c3587cd45.md",
       "sha256": "57bb3468e46b147ffa35dd51e4273819a2cff3d1565c27ebb15134a679961fd3"
-    },
-    {
-      "bytes": 668,
-      "path": "dynamic/内心/2026-07-16 11-05-40 人机恋意义之争_df63596fbcde.md",
-      "sha256": "7f733baeb475230eec217ad8e29a1039dd4614a917d83f93e207636caedac4be"
     },
     {
       "bytes": 619,
@@ -5303,11 +5303,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-10T15:51:50+00:00",
+  "generated_at": "2026-08-10T16:04:38+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 774211
+  "total_bytes": 774212
 }
