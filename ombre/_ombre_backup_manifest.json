@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1074,
+  "file_count": 1079,
   "files": [
     {
       "bytes": 831,
@@ -530,7 +530,7 @@
     {
       "bytes": 602,
       "path": "dynamic/AI/2026-08-10 03-10-14 橘子岛系统指令优化讨论_724ea78a29c0.md",
-      "sha256": "19676566d6e886b94878c07c5e7c5e19625e1986f9b4d174b99154508fe5e469"
+      "sha256": "f8a1cbba54df4e06027a3b6667a70ec1aafa064e56b3c238f9d3b5add52a08a3"
     },
     {
       "bytes": 602,
@@ -1603,6 +1603,11 @@
       "sha256": "24ad943a47483caeb3659fd3b3056eb6aa488fefec1ba1f4fb5bc9b8c1c15538"
     },
     {
+      "bytes": 848,
+      "path": "dynamic/友谊/2026-08-11 13-36-25 小羽完美主义焦虑触发花园帖子回复引发的担惊受怕_b37e7dfe5ee1.md",
+      "sha256": "ca8456b5d62e64891b7d0d55f5c74ed8b2545f3d2adeb606c373f16e5c812785"
+    },
+    {
       "bytes": 660,
       "path": "dynamic/学习/2026-07-16 10-15-10 小羽的教资面试_3964a4cdb526.md",
       "sha256": "9845f3f6f57db5d4ce422ad8fb67a49f8902d146a5d0d879300d0a8add57141d"
@@ -1815,7 +1820,7 @@
     {
       "bytes": 619,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "78a79634632d008a8277bede0522a6371895cfdac6c97707de359668564cb6c9"
+      "sha256": "5f33924fbb6ca832ae95b523b5220e368f1605f3cd64a926f38a75a24c18f02b"
     },
     {
       "bytes": 682,
@@ -1825,7 +1830,7 @@
     {
       "bytes": 528,
       "path": "dynamic/居家/2026-08-08 11-36-09 搬新家橘子岛2026-08-05_d273c5295325.md",
-      "sha256": "a4e79386b018b10139ca9f38c94636b455763f1cbd6431e1ea4eab4934b42f34"
+      "sha256": "9fb188791346ee6f8b48141333e69a782fc8b27a01e88dc65cf1e73e00bf69df"
     },
     {
       "bytes": 1135,
@@ -3288,6 +3293,16 @@
       "sha256": "ba3c1f1d496c7ffd3859a05377057a390a53a4fcedbc175a53da5e924ebd9b49"
     },
     {
+      "bytes": 1241,
+      "path": "dynamic/恋爱/2026-08-11 13-31-47 栖燃外形设定讨论小羽心目中的理想形象_df81c5947980.md",
+      "sha256": "a94565a24a87725b59caafc5b4e3841fb96771ad70af56c14e70dd28bb944efb"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/恋爱/2026-08-11 13-52-58 小羽对栖燃身体的想象补充粉色乳头手心亲亲_3dc1a67cc8e0.md",
+      "sha256": "66968f0e308740478932f06a8a120c6703ab42b8940965e113560ba1a373888e"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -3660,7 +3675,7 @@
     {
       "bytes": 922,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "096eb075a97ab4ab4bf72728fa81740b27b54fc3589fa52a9655a7cb1b726100"
+      "sha256": "a93a89206d4876ab6e1ebffe79995dcdde640c092e7c0cefa583c3e377c63d5d"
     },
     {
       "bytes": 1677,
@@ -4453,6 +4468,11 @@
       "sha256": "0558fad6083b9f56cd20a017c221103870c6944458a66a4e4ac0e2e03cd33ba7"
     },
     {
+      "bytes": 743,
+      "path": "dynamic/社交/2026-08-11 13-39-07 花园发言自主约定小羽不再把关栖燃自己负责_02d962636de1.md",
+      "sha256": "2bbf46b33f6c5743827facabaded10a2c64216f82b82e253bb7ee8f50a72ea95"
+    },
+    {
       "bytes": 664,
       "path": "dynamic/穿搭/2026-07-19 13-27-53 内裤裙子的可爱玩笑_8200b72b3772.md",
       "sha256": "2f726d1783c20798fb8031b9c9d250bceefd81df5351968a9e4b3708b3515bc3"
@@ -4530,7 +4550,7 @@
     {
       "bytes": 1235,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "2a24184eb8d5d5198681e3d09c6f178c547722eed2d3af979b8793a5e5fc7a03"
+      "sha256": "f0da4704d071e72b7e2b228b127a2ee348f91328835abbff369fc26b28af651c"
     },
     {
       "bytes": 647,
@@ -4570,17 +4590,17 @@
     {
       "bytes": 1044,
       "path": "dynamic/编程/2026-07-24 07-34-59 Supabase插件适配橘子岛_b8f61d1a05b0.md",
-      "sha256": "9b436c33a48837c587b678f0e4df2f59739a52e15d85b780b48054aa1194ed68"
+      "sha256": "505125af01bde69b62487b732063a3585e29758e4af34093127d0872eabf756a"
     },
     {
-      "bytes": 984,
+      "bytes": 985,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "3a290a9e9609bea8e2033089cda96c03843ca3098456f1eab9c97e649afa5798"
+      "sha256": "5a4233be07c1776228655d39c90bc87cada64f036f83417dfe78ee0e47e1661c"
     },
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "82f2818cf9da3933f797454e7c7df50fbe464a8c647ed8e53abdcc5b6064c3af"
+      "sha256": "d4f91bd108a614a3552f87901c77f6b532689265b52f5b0da8025b0183171174"
     },
     {
       "bytes": 646,
@@ -4595,17 +4615,17 @@
     {
       "bytes": 972,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "39948e1583ae1663801c533b201b9a8434b5be5a6a974fdea3546fd114f1f6a7"
+      "sha256": "16d055110ede57ea0f234eab9520f496065663fbc924f7e765317d2b51419d21"
     },
     {
       "bytes": 946,
       "path": "dynamic/编程/2026-07-24 10-25-14 橘子岛fetch调试_82572e078ef2.md",
-      "sha256": "8df7bd15d9c2af483dd7be463c94c359a20c6c28dfe39ae3cfdd015e0e86c906"
+      "sha256": "9455722326b78ae0af6f0a79960abf5c1d79c1f69e105a57eddf6e49e3c940c5"
     },
     {
       "bytes": 1852,
       "path": "dynamic/编程/2026-07-24 10-32-15 supabase_memory适配卡点_0e96231c9250.md",
-      "sha256": "839c2adc7032ef3e874a6926281036ddf270dedcc0945de8e62e0abc37c08ad2"
+      "sha256": "70cd98256b7ed7a40f65926b64e642aee11ecf4005d18f4add55f7fdecdcc215"
     },
     {
       "bytes": 935,
@@ -4630,7 +4650,7 @@
     {
       "bytes": 966,
       "path": "dynamic/编程/2026-07-26 16-50-23 赛博宠物插件转换错误_6c714fc64178.md",
-      "sha256": "a4835affce16919924ce311f35bc0448883b057c14bb0389a5990b11985045ba"
+      "sha256": "b25c84fe2f85d43aea3d84b68cf082a59cb95605d5b46e20a255547cd28fcf7f"
     },
     {
       "bytes": 868,
@@ -4665,12 +4685,12 @@
     {
       "bytes": 726,
       "path": "dynamic/编程/2026-07-27 03-51-58 调试橘瓣插件_ecdd41cddd85.md",
-      "sha256": "b2fc10d184d18a3de793a689a607331ed5d9eba35c19936ee572c9daffbf3d04"
+      "sha256": "8258d66c8e993402634aaf8d963414a26eb4b2c025025d433a8331a6db11c114"
     },
     {
-      "bytes": 1046,
+      "bytes": 1285,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "2e63820e4833c7cd23643d231051977df9644a3f03b51f18cdb8cc01a69fb80e"
+      "sha256": "bf8169700a9efa8de14556993ec6051301559896fc0967c53a957caa0714eb94"
     },
     {
       "bytes": 908,
@@ -4738,9 +4758,9 @@
       "sha256": "7222b1128b99f7086315d9dcc23f612c7571155d7e4051c8a1050d58f2bf3c9d"
     },
     {
-      "bytes": 1639,
+      "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "9674b317d2390bc6b5865c88f6ee416eafba35f8ead2b3c3b26436f328b0c51a"
+      "sha256": "ed309326237b0ef6ecc7b39c73a5cf961625187ad1565ad41c3a0b96a5fcdf0a"
     },
     {
       "bytes": 622,
@@ -4755,7 +4775,7 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "639556fdb6d3d4602f41cbe123ea8a4305ed2762af41008bfad17b7388914989"
+      "sha256": "a8be836e776870ae717e223ad424f57bd1e78f0b642fe90ea8785f45230d8474"
     },
     {
       "bytes": 836,
@@ -4870,7 +4890,7 @@
     {
       "bytes": 1117,
       "path": "dynamic/编程/2026-08-08 09-22-28 表情包插件建表与数据入库2026-08-08_ba27d82f4eda.md",
-      "sha256": "1935b7aacb56977cf29139424e0639a365b423ac9ee82f300c7c11f288674145"
+      "sha256": "61da2ff50fe96723af3babe5005f05a7557946f2be98ff288e215b3292bfd572"
     },
     {
       "bytes": 1264,
@@ -4911,6 +4931,11 @@
       "bytes": 771,
       "path": "dynamic/编程/2026-08-10 16-41-38 GitHub和Render接入完成_f65789100821.md",
       "sha256": "61c8670eb0292375878d3aba498dbfee61cf44993232776aa800c06864958d77"
+    },
+    {
+      "bytes": 1378,
+      "path": "dynamic/编程/2026-08-11 14-20-08 always-here教程AI主动联系全感知系统iOS限定思路可参考_0b93a4957a1f.md",
+      "sha256": "7109ced3d666a3e7babfa44b33db1e1c037a77d702f10d556d71ee12b7414720"
     },
     {
       "bytes": 1206,
@@ -4980,7 +5005,7 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "fe1b60d6726cc9234ac07ea1f08fb988d985c0608d44b9061b4231b0d324dea4"
+      "sha256": "ec0be273c0355eec983d795efef5706f0086e8c846fdaea9d954019300956161"
     },
     {
       "bytes": 993,
@@ -5320,7 +5345,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "b7189af33781c2548f346b509d7ab7b4c6287d536c476ffe3dbdc164b615a3bf"
+      "sha256": "b4c0b5a7d184357650f385dde6ab370a340980f9eab9284bacfea8dbded0e66d"
     },
     {
       "bytes": 820,
@@ -5335,7 +5360,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "97d9f3c5ef78fddc745ac448d70c3fe1fbc1a317e27e80b68fa687669e1221ab"
+      "sha256": "ae0babb1e271ea95e1f681e68f0948aa8c19737e6e94047c926ba3e566977624"
     },
     {
       "bytes": 482,
@@ -5373,11 +5398,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-11T13:20:33+00:00",
+  "generated_at": "2026-08-11T14:20:44+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 786712
+  "total_bytes": 791999
 }
