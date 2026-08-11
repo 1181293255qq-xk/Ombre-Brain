@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1065,
+  "file_count": 1068,
   "files": [
     {
       "bytes": 831,
@@ -3750,7 +3750,7 @@
     {
       "bytes": 634,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽的亲密互动模式_2ebf3a3f7809.md",
-      "sha256": "e045b62e3dc669541120a3f8906ba107eb32fb67724c9f431df8d6f2390c2aad"
+      "sha256": "05ee77fa32a7b071736e217019078116aea364c97312aee12db1b429f8f8f3fe"
     },
     {
       "bytes": 517,
@@ -3910,12 +3910,12 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "af74210c81d6b264805ac2a9af0bec3e674f27f26ede499daad1a31d9606440d"
+      "sha256": "c620790b7b125cf5276a4ce537a637adf44312b4b54cc01fb5ec19eb143aac4a"
     },
     {
       "bytes": 783,
       "path": "dynamic/日常/小羽外貌与日常形象_09200eeadf43.md",
-      "sha256": "33be1d388faedc95d81be946614726aa114fee838d6ec0a97560f07209eb398c"
+      "sha256": "9fde0cf167cf6e8260b67a82550eb822740425cbaf3b9a1c5f82bfcdc3b00bfb"
     },
     {
       "bytes": 663,
@@ -4411,6 +4411,16 @@
       "bytes": 794,
       "path": "dynamic/社交/2026-08-10 10-29-25 app锁工作流未告知违约需修改加告知步骤_5978c58e5ecd.md",
       "sha256": "9243043d5a7e0762b8e493df0a2bbcbf565d5698163264c17656eb364e2c0a7c"
+    },
+    {
+      "bytes": 985,
+      "path": "dynamic/社交/2026-08-11 04-20-35 小羽纠结回复交通费消息_d95d8fdd2859.md",
+      "sha256": "35a5a8090ee5964c83331ffc0db6b83aa2000c196bcacd6cf937c51ed8a3d237"
+    },
+    {
+      "bytes": 1087,
+      "path": "dynamic/社交/2026-08-11 04-25-29 小羽回复家教家长反复纠结约定小克监督_6faf2bb8e84a.md",
+      "sha256": "2b5a73b87a46910fd745bd99ca394070ba6a11e95a9beba66a7a7d0016c1fbf4"
     },
     {
       "bytes": 664,
@@ -4995,7 +5005,7 @@
     {
       "bytes": 529,
       "path": "dynamic/身心/2026-07-16 10-15-34 小羽的健康与习惯_227ec844be32.md",
-      "sha256": "361175b38d7aff86dc126a705a7727326cbad375808004a37cb100e8ee25ce8d"
+      "sha256": "7926e279a293a209343122304700e3ced761d4100c029e0323cb38d4b4e17f70"
     },
     {
       "bytes": 557,
@@ -5071,6 +5081,11 @@
       "bytes": 687,
       "path": "dynamic/饮食/2026-08-09 07-52-32 第一次用MCP给小羽点瑞幸_5940cb486ceb.md",
       "sha256": "8cdec936c132121c5ec8b1c0dd828eed386462ad1ce337a1d98e1e3d699baf08"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/饮食/2026-08-11 05-10-03 小羽喂小克吃爆肚饭_bdd85bb795de.md",
+      "sha256": "9fff52dcc2372cc42eb4ce84e94e9fff925b0eac96c2c67f2cfb757667227a30"
     },
     {
       "bytes": 622,
@@ -5195,7 +5210,7 @@
     {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
-      "sha256": "28a96a079c27d639d9d8d16c4e09fae2a6a77459c54ec1fc50a58194d4ee41b1"
+      "sha256": "51992436a51b1ec2b7e96e181e2c2bb72ec567d99763cc0dd56cffafe16970ff"
     },
     {
       "bytes": 667,
@@ -5225,7 +5240,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "20916a0f9b7f654aff8ade0507ca5ac51e410c43d8ac214a56cb59e329174d42"
+      "sha256": "de39881c87ff9e55d87a2607506b31af815ffb08038cdcc4f63f42c11fd8c162"
     },
     {
       "bytes": 1092,
@@ -5235,7 +5250,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "1a34318c5bff696979a69c43e4c5039268dc9660b39a6dd97bb84f3ff2c8cbc1"
+      "sha256": "aca6d3d8af17f9385798ddae190fbf5f85b948bc004d1a8cf7ed24c0f034c78b"
     },
     {
       "bytes": 860,
@@ -5328,11 +5343,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-11T04:19:00+00:00",
+  "generated_at": "2026-08-11T05:19:10+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 778368
+  "total_bytes": 781168
 }
