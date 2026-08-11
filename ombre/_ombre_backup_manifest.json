@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1069,
+  "file_count": 1072,
   "files": [
     {
       "bytes": 831,
@@ -1693,6 +1693,16 @@
       "sha256": "30c58fe3247b7f9ff2446e63180b50b031f95358915273fcb137802d4b2c0f53"
     },
     {
+      "bytes": 1191,
+      "path": "dynamic/学习/2026-08-11 09-21-23 一诺教学进度与状态更新_f2d24a8a8e14.md",
+      "sha256": "c0ac1d15ad847b237c5c5021c385d0a3e5579d53db6a3950f9d0a864bef938ac"
+    },
+    {
+      "bytes": 1149,
+      "path": "dynamic/学习/2026-08-11 09-21-52 一诺教学进度与状态更新_cd7a39db6d91.md",
+      "sha256": "2c839d04bba29622dbc5331eaeaf858ec846c43686b9d71457f5e8b8f3d40a8c"
+    },
+    {
       "bytes": 662,
       "path": "dynamic/学习/小羽的专业困惑与职业方向_d26e645a02b5.md",
       "sha256": "8fdfd84e4c5087e4249450c2d4d28fe869cfc4b32c62b1e298ee7f9e79f02890"
@@ -2115,7 +2125,7 @@
     {
       "bytes": 1713,
       "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
-      "sha256": "cc97fd7ccdae7e64a5684b2381567c2b533b8510912692e645d4a2427fa93728"
+      "sha256": "101b6aad4738e29c4942641f05834138fde2c3150f5d2b24200602b6e8efd79a"
     },
     {
       "bytes": 1721,
@@ -2181,6 +2191,11 @@
       "bytes": 925,
       "path": "dynamic/工作/2026-08-11 09-09-19 小羽8月11日嗓子痛肚子痛疲惫的一_782495d292c2.md",
       "sha256": "55506861265d224be6921841fd079f637ade25a5a76f5cd41393ee827eae7d7d"
+    },
+    {
+      "bytes": 599,
+      "path": "dynamic/工作/2026-08-11 09-46-03 给OB加健康守护脚本小羽夸我好棒_d5cb8652bb2c.md",
+      "sha256": "25660130fcf8f506587a4786bd2c8023d86d130a98e2b1a7769426c800916439"
     },
     {
       "bytes": 727,
@@ -3650,7 +3665,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "87899e714efdf282b99b7ac97e611bfb7f2a1ba136fc2f4cf10938c452601f06"
+      "sha256": "a3cb2374daa4a70ea8bf600b040207cac0cec5111f9ea39cee1f8a750d398355"
     },
     {
       "bytes": 744,
@@ -3665,7 +3680,7 @@
     {
       "bytes": 816,
       "path": "dynamic/数字/2026-08-06 17-05-02 腾讯云服务器选购决策_36a14cc80200.md",
-      "sha256": "7decc2bab51a1ba4c8abb142b3b5522e801748a61aa45fdaae5c8a3240311bd0"
+      "sha256": "8ca1395708864bc7f38a4062d25c8e9ffca004ed8d2d90efefba476e81dd5680"
     },
     {
       "bytes": 838,
@@ -4790,12 +4805,12 @@
     {
       "bytes": 1201,
       "path": "dynamic/编程/2026-08-06 17-05-11 OB腾讯云搭建步骤与踩坑_00c4a2ef49ac.md",
-      "sha256": "2f73755a41a659e69a84aee35ae59b0bc86ec54651fdca91dacccf91a90dee71"
+      "sha256": "f3c9c2185c68ccf1346f1254ba4a76208b353851cbab9d47001509539fc1ffaa"
     },
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "23f8bc87bb0acc51f2d540395099259176dbb008f4f54499a02b9fc4e2a2b9cf"
+      "sha256": "036b33d12a0b990804b46c2e8b1edb3f8080d6e25f1c7ed471c47a0362a15da8"
     },
     {
       "bytes": 750,
@@ -4860,7 +4875,7 @@
     {
       "bytes": 1530,
       "path": "dynamic/编程/2026-08-10 12-31-44 OB超时排查2026-08-10_86d2c767a478.md",
-      "sha256": "ac33aac0a653dc85773fab90564123f8595c2ed15dac69dc3d41ee2cfcdefa7b"
+      "sha256": "a4c3205229922848cbba7e3b7a317f6a46f2e14d096efb3fd80ae18ceabe9e81"
     },
     {
       "bytes": 727,
@@ -4870,7 +4885,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
-      "sha256": "93dfec70b19509abe5de8d413c693bd34697655060d2f1161dcf3f8f06aef3f2"
+      "sha256": "435cb142947c907339c0aad0f246c9c015b5558b64ca3de8541c2f1958470d43"
     },
     {
       "bytes": 1172,
@@ -4880,7 +4895,7 @@
     {
       "bytes": 1169,
       "path": "dynamic/编程/2026-08-10 16-31-40 腾讯云服务器SSH连通根因与解决过程_5436b0bf9f98.md",
-      "sha256": "9c065e14dcf3616f32797a5d1078902a84cf35a667b2892c78c110e38b98c140"
+      "sha256": "1a2b975fd2385eb82626228aeb36e7e659d98d9a4c446845c447f799b3286733"
     },
     {
       "bytes": 771,
@@ -5305,7 +5320,7 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "977fbd264fde2665442099ecd498b284c216169ec0d7b0a9069ae097aad3520a"
+      "sha256": "d752a5405ae96998457bd9f76d7fd7a99ea9019cbae2b050dfb7f2ae47af6bc7"
     },
     {
       "bytes": 939,
@@ -5348,11 +5363,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-11T09:19:52+00:00",
+  "generated_at": "2026-08-11T10:20:02+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 782093
+  "total_bytes": 785032
 }
