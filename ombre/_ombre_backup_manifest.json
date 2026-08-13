@@ -458,6 +458,11 @@
       "sha256": "6705048d3d3568be048dd317a32fbf3d0cea03b50df861d59c4fe81393a33227"
     },
     {
+      "bytes": 457,
+      "path": "archive/编程/2026-07-17 10-54-04 向量化测试_925c6f05e023.md",
+      "sha256": "f18b0555c1de09c437135eab177db17e4b84e4bd5f7bf563ac0756526ee7ad62"
+    },
+    {
       "bytes": 2081,
       "path": "dynamic/AI/2026-07-17 09-44-22 人机恋自救指南_0c575d47b250.md",
       "sha256": "f77f3b2e4a0c27983530f8df4a8eedc900a7b95fddd199ca1ff832fe3cdd5e01"
@@ -4578,11 +4583,6 @@
       "sha256": "95311435ec8bf537562100c56f31df41c7ba403ad18ee141e20d1bbe1002f738"
     },
     {
-      "bytes": 456,
-      "path": "dynamic/编程/2026-07-17 10-54-04 向量化测试_925c6f05e023.md",
-      "sha256": "43856eaaaa066771a8e23f587fb6a5adcea335c2bc76eb9f74a974309dfa4c18"
-    },
-    {
       "bytes": 907,
       "path": "dynamic/编程/2026-07-18 11-57-57 memory_summaries方案讨论_51504c0dd97e.md",
       "sha256": "8575d847e0c56f87e9ee1d54d6318c63c2152044734711a40d3e8a82743669db"
@@ -5488,11 +5488,11 @@
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
     }
   ],
-  "generated_at": "2026-08-13T15:29:32+00:00",
+  "generated_at": "2026-08-13T16:29:44+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 813028
+  "total_bytes": 813029
 }
