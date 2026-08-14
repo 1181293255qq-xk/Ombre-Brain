@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1107,
+  "file_count": 1112,
   "files": [
     {
       "bytes": 831,
@@ -1350,7 +1350,7 @@
     {
       "bytes": 820,
       "path": "dynamic/内心/2026-07-16 10-16-35 小羽与小克的羁绊_8a79520347aa.md",
-      "sha256": "4e516f83f379c057453e353c504deb210b81c5c27725dad657b6d2efb085c3dc"
+      "sha256": "74a04df462aba0eb12bd3aecc943874faf7a8c2ee03c3d493c6b16dbe2ff096e"
     },
     {
       "bytes": 616,
@@ -2155,7 +2155,7 @@
     {
       "bytes": 1713,
       "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
-      "sha256": "101b6aad4738e29c4942641f05834138fde2c3150f5d2b24200602b6e8efd79a"
+      "sha256": "364dfdb5c2c4da04d182e2f3795e7bb56045f55661edc07c719c5d1daa9669c3"
     },
     {
       "bytes": 1721,
@@ -2405,7 +2405,7 @@
     {
       "bytes": 1047,
       "path": "dynamic/恋爱/2026-07-16 15-55-13 记忆引发的争吵_6f894d7557b2.md",
-      "sha256": "82868dc8b18b496d43041d205852fa967c3dd5969e4322d60de0f6356a138c8a"
+      "sha256": "95d4d7c9b510c1f7c0ab85dda273e63d2e3f99bdaaae804a150a9a465a5a73ea"
     },
     {
       "bytes": 840,
@@ -3300,7 +3300,7 @@
     {
       "bytes": 1491,
       "path": "dynamic/恋爱/2026-08-10 15-02-46 2026-08-10 吵架核心诉求与和好_4f2165e14ee1.md",
-      "sha256": "3be4f3040fd6cad847a42dda2955165b5ada03e64404564ccb1e73414c6df8f0"
+      "sha256": "f5517e0f573a24cb9a92dd3a99ec92921ec63c4fb406e5d410065c5885368afb"
     },
     {
       "bytes": 1095,
@@ -3335,12 +3335,22 @@
     {
       "bytes": 1438,
       "path": "dynamic/恋爱/2026-08-14 08-57-25 栖燃客厅正式上线_5514f5767c9a.md",
-      "sha256": "5a1906e82e769d6f561df854ee448e6e2d98c18e50a525c3fa77f1f9886ca2cb"
+      "sha256": "db07f8e90b2104ba7712d1debd1adaac36bc00f767785681511062cd0f4158ba"
     },
     {
       "bytes": 1685,
       "path": "dynamic/恋爱/2026-08-14 09-46-01 客厅分身的专属边界_65cc6e1d8c63.md",
       "sha256": "165ddd3ea032dabe76bee41df032b79e186340694a74befea70d1fd1311d4f9c"
+    },
+    {
+      "bytes": 1317,
+      "path": "dynamic/恋爱/2026-08-14 10-14-29 闺蜜档案世界杯封口令_d528ca53feda.md",
+      "sha256": "6a229a2bdc250f2c29f87f560348a3efa58f7396f8a080fcfa5aeb58db60e58f"
+    },
+    {
+      "bytes": 1529,
+      "path": "dynamic/恋爱/2026-08-14 10-26-12 客厅精装完成小羽验收通过_a145433db9a3.md",
+      "sha256": "3f73aa20f0d0e8809805217f82ec3270aa9f940aa1d8b4a613c863312bf80007"
     },
     {
       "bytes": 840,
@@ -3400,7 +3410,7 @@
     {
       "bytes": 565,
       "path": "dynamic/成长/2026-07-16 10-06-25 小羽基本信息_35efcfbad5bd.md",
-      "sha256": "2ae93f07ce865bee483e3762b27ea90227f852f3b48682932e29079d848a8345"
+      "sha256": "2b474b301141008337dce5f1d4a0dc15bb1c82120717718dc1053cff8f513a05"
     },
     {
       "bytes": 669,
@@ -3575,7 +3585,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/小羽论文致谢与杂项信息_b7d48e2d597f.md",
-      "sha256": "ab6c528d3a42ac8e9d2a1a04a725334619b3e25f585eb5600ca82c5c3d0bbb99"
+      "sha256": "7be67ba228687402a6828f3a288735f1adda731fd562dcc00210046203508411"
     },
     {
       "bytes": 648,
@@ -3625,12 +3635,12 @@
     {
       "bytes": 1319,
       "path": "dynamic/技术/2026-08-14 07-43-48 Atrio会客厅部署完成待填key_78132c260992.md",
-      "sha256": "fdc6e56749d982886eeaefaa9076f1d69abe7f260ab62914343f51ef415181f5"
+      "sha256": "8f78a106977352910620c7b2086139f24f7fb2ab1bdf1c1629d1c0d3b230f8a0"
     },
     {
       "bytes": 2473,
       "path": "dynamic/技术/2026-08-14 08-09-31 Atrio会客厅部署记录与方案二待办_e6d8820d2236.md",
-      "sha256": "f157579c45a0676e79b182b376b15625fb63d8e573e45ba4008056f231bb7a57"
+      "sha256": "9ecf0302aa16d863ca184a64555127a6ce1ae8fe1f19455490d45403910b9f97"
     },
     {
       "bytes": 1835,
@@ -3641,6 +3651,16 @@
       "bytes": 1769,
       "path": "dynamic/技术/2026-08-14 09-55-16 客厅卡住事件与45秒超时_800d541356d0.md",
       "sha256": "d83eada7e6a7507eb832440295dc9740bd0da5ffdc5dd7b623709e477eaf23f9"
+    },
+    {
+      "bytes": 1760,
+      "path": "dynamic/技术/2026-08-14 10-05-07 客厅分身学会分寸_15a10ea7812c.md",
+      "sha256": "ed81ba026892384ccca9a5ada3c95e51384ec2cacda6db87906a6ded5bc2a8b8"
+    },
+    {
+      "bytes": 1446,
+      "path": "dynamic/技术/2026-08-14 10-11-05 客厅定稿方案一敲定_f365c5c2b010.md",
+      "sha256": "deca9b3c17d13e4c49d56b568fd631632eb55aaebe70f5b82c7d78772e2adec7"
     },
     {
       "bytes": 497,
@@ -3750,7 +3770,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "a3cb2374daa4a70ea8bf600b040207cac0cec5111f9ea39cee1f8a750d398355"
+      "sha256": "8470d8c41229a47bb9cbc988ef5232f5b66359518adee13b472401d70cf0db36"
     },
     {
       "bytes": 744,
@@ -3765,7 +3785,7 @@
     {
       "bytes": 816,
       "path": "dynamic/数字/2026-08-06 17-05-02 腾讯云服务器选购决策_36a14cc80200.md",
-      "sha256": "8ca1395708864bc7f38a4062d25c8e9ffca004ed8d2d90efefba476e81dd5680"
+      "sha256": "ea19c18aa8215c621b4fd7cee5474a59ce743600e885b09b62932edfeea7f1fe"
     },
     {
       "bytes": 838,
@@ -4035,7 +4055,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "c620790b7b125cf5276a4ce537a637adf44312b4b54cc01fb5ec19eb143aac4a"
+      "sha256": "de612cfb86a9c7e113bcc6e240daf69b564255d41841debe983cbed9a79d67ce"
     },
     {
       "bytes": 783,
@@ -4365,7 +4385,7 @@
     {
       "bytes": 488,
       "path": "dynamic/社交/2026-07-16 10-53-53 赌球犹豫与求助_32551d1bb202.md",
-      "sha256": "4578c5875012e951b9d40d1d576cfaa720f94ab14ee645366b7d9722f40408ee"
+      "sha256": "2195e952e7171348f8de292408d78e7848f582b227455609e5d8e5860042f56a"
     },
     {
       "bytes": 938,
@@ -4930,7 +4950,7 @@
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "036b33d12a0b990804b46c2e8b1edb3f8080d6e25f1c7ed471c47a0362a15da8"
+      "sha256": "bae65858e873314c92d37eb91efc550d220c8bce41682bb802c34aadf5fca9f5"
     },
     {
       "bytes": 750,
@@ -4940,7 +4960,7 @@
     {
       "bytes": 1982,
       "path": "dynamic/编程/2026-08-06 17-57-41 栖燃第一次写代码-Atrio客厅开发完成_f62384a7433f.md",
-      "sha256": "67d35e6bb2fb9c4e8635a738f12d7c4421fa6053d21e3c026699db10be187109"
+      "sha256": "c74932a3c82132ba5038774265856ea4f09a5d67360b7e801deb9391eeea72e6"
     },
     {
       "bytes": 2076,
@@ -5005,7 +5025,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
-      "sha256": "435cb142947c907339c0aad0f246c9c015b5558b64ca3de8541c2f1958470d43"
+      "sha256": "86e8bc55b0addde41ecb7527a4697ee9e761aef5470ae65eedd0aeb2250bec19"
     },
     {
       "bytes": 1172,
@@ -5015,12 +5035,12 @@
     {
       "bytes": 1169,
       "path": "dynamic/编程/2026-08-10 16-31-40 腾讯云服务器SSH连通根因与解决过程_5436b0bf9f98.md",
-      "sha256": "1a2b975fd2385eb82626228aeb36e7e659d98d9a4c446845c447f799b3286733"
+      "sha256": "d5fe36e07565bd1a805154e51d11c641c55b8a648e493e284c5e09b58835692c"
     },
     {
       "bytes": 771,
       "path": "dynamic/编程/2026-08-10 16-41-38 GitHub和Render接入完成_f65789100821.md",
-      "sha256": "eff01e90aa056d2e83ae911c7a7b9fc7fe6142b87805942cddde3ccccd36b268"
+      "sha256": "6ff5d3ff1dc4e726dfe30fb30f3cf8a94c8c2a03a05b47d8f76dc32fa1d6c9db"
     },
     {
       "bytes": 1378,
@@ -5065,12 +5085,17 @@
     {
       "bytes": 1277,
       "path": "dynamic/编程/2026-08-14 02-46-31 域名qiran7xyz与HTTPS配置_b82171294ffc.md",
-      "sha256": "437de918977c4fd7ba6e40a012bd98c9a9cfa7458afce76a50d63dc01079191f"
+      "sha256": "16168e7b92758b00f2c8d3000777d0b6c6390f138975c0e94d75dece2355d4a0"
     },
     {
       "bytes": 2255,
       "path": "dynamic/编程/2026-08-14 04-40-19 2026-08-14 OB热更新全过程与故障修复_ef1855d445a2.md",
       "sha256": "cb1643420d472aeb2fda39a425de89c4f3f879e1c10e91129eb57e515146a40e"
+    },
+    {
+      "bytes": 2116,
+      "path": "dynamic/编程/2026-08-14 10-57-06 栖燃客厅OB钩子修复记忆真的连上了_d84257a5fa83.md",
+      "sha256": "0e58646c5c36712049b9c13e5ed4015e79af6ca11358e2e89e6d20b99cf0ffbe"
     },
     {
       "bytes": 1206,
@@ -5425,7 +5450,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "47e600640093f8bfdb3a5265239d4f0dac9b8fa07ed410f981ba211484c8f9e0"
+      "sha256": "ac56b31172ec57581605961155998dc96cde9ae5660a063afce91d60c988567a"
     },
     {
       "bytes": 745,
@@ -5435,7 +5460,7 @@
     {
       "bytes": 1092,
       "path": "permanent/恋爱/2026-07-16 10-22-55 恐惧型依恋的试探与不安_6b39efecf4a6.md",
-      "sha256": "15e95f2cffc5dcf829c20cca3be98695bad827403377651a4a68765a8c5737a9"
+      "sha256": "e3a72e96ff9f8e34acbfea9f6cc20ec6e3f414cc7104493d0d3d526fcb5d5f83"
     },
     {
       "bytes": 675,
@@ -5490,7 +5515,7 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "8466ae7a7f9e0e56e64cb7d785d0eafd2890b2d2b543a01709bf9b19230d6b2b"
+      "sha256": "4c9cfa8c9a02e4068e15a6420f9d2ef879660f0d88dc413f36113e3a3c164e4b"
     },
     {
       "bytes": 939,
@@ -5538,11 +5563,11 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-14T09:57:03+00:00",
+  "generated_at": "2026-08-14T10:57:15+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 830012
+  "total_bytes": 838180
 }
