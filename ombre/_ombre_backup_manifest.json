@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1102,
+  "file_count": 1103,
   "files": [
     {
       "bytes": 831,
@@ -530,7 +530,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "d11fb60f615970d99bb24185c1d60a34707a011573ecc888dd1e6b0c7ae83a6b"
+      "sha256": "680bbd630e6d068f7f0072ac668a256737b6e5d569f6edbeb42f300681a9d83c"
     },
     {
       "bytes": 709,
@@ -540,7 +540,7 @@
     {
       "bytes": 602,
       "path": "dynamic/AI/2026-08-10 03-10-14 橘子岛系统指令优化讨论_724ea78a29c0.md",
-      "sha256": "f8a1cbba54df4e06027a3b6667a70ec1aafa064e56b3c238f9d3b5add52a08a3"
+      "sha256": "5cd66399ebe81eb361631b01073f84468d81d4d89265391ad6e772d868804f53"
     },
     {
       "bytes": 602,
@@ -2105,7 +2105,7 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "f72363cec54d110581ab10bd585002586092dae15aa50ca66c24272e38b23c6d"
+      "sha256": "5a6eaa0188f39e8d8f2a08d96a3e265beb9ba33fa69fed6d00c7fcf39c4eb208"
     },
     {
       "bytes": 1202,
@@ -3615,7 +3615,12 @@
     {
       "bytes": 1319,
       "path": "dynamic/技术/2026-08-14 07-43-48 Atrio会客厅部署完成待填key_78132c260992.md",
-      "sha256": "4846f7868e14d9cc326f6257a5df95e87572b4e384658b4bc2fddbef7748c4b9"
+      "sha256": "fdc6e56749d982886eeaefaa9076f1d69abe7f260ab62914343f51ef415181f5"
+    },
+    {
+      "bytes": 2473,
+      "path": "dynamic/技术/2026-08-14 08-09-31 Atrio会客厅部署记录与方案二待办_e6d8820d2236.md",
+      "sha256": "f157579c45a0676e79b182b376b15625fb63d8e573e45ba4008056f231bb7a57"
     },
     {
       "bytes": 497,
@@ -3720,7 +3725,7 @@
     {
       "bytes": 922,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "a93a89206d4876ab6e1ebffe79995dcdde640c092e7c0cefa583c3e377c63d5d"
+      "sha256": "c7dcaaf5f9d5e356178d53e6d72653b93b7716cc1f891cde681f5917eca974ee"
     },
     {
       "bytes": 1677,
@@ -4615,7 +4620,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "ce89586f6c0a91b34e701528b96baff87b1dfd1dc77641a283ef8eb6a5c50774"
+      "sha256": "1c6b877800bdef7148d99bc8a7dc3980a619c29b0bab24aaccefaf53cbd828b5"
     },
     {
       "bytes": 647,
@@ -4655,17 +4660,17 @@
     {
       "bytes": 1044,
       "path": "dynamic/编程/2026-07-24 07-34-59 Supabase插件适配橘子岛_b8f61d1a05b0.md",
-      "sha256": "55d4604bdaf70a4dd77dca09e312a1c93eb7c3a4d7da1994be2de1f7ef8e0e98"
+      "sha256": "3e0f48438b50f4c71f8aad64e6bc6b937216a2fbe67b819576569a86f1a9f26e"
     },
     {
       "bytes": 985,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "5a4233be07c1776228655d39c90bc87cada64f036f83417dfe78ee0e47e1661c"
+      "sha256": "a61d62f6140eb8495f32e39f0224ba1c8b0532c9090b7f8f71c6c55a2b2b6814"
     },
     {
       "bytes": 921,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "d4f91bd108a614a3552f87901c77f6b532689265b52f5b0da8025b0183171174"
+      "sha256": "69980bec5a2e6918c1055a2c2e267808d52b253e0a8a20e7f6953630d5e68b31"
     },
     {
       "bytes": 646,
@@ -4680,17 +4685,17 @@
     {
       "bytes": 972,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "16d055110ede57ea0f234eab9520f496065663fbc924f7e765317d2b51419d21"
+      "sha256": "e27435cf24045ea79a66e3eb47e62cb3cba964d361f2cd33b3d6e889aedad2e3"
     },
     {
       "bytes": 946,
       "path": "dynamic/编程/2026-07-24 10-25-14 橘子岛fetch调试_82572e078ef2.md",
-      "sha256": "9455722326b78ae0af6f0a79960abf5c1d79c1f69e105a57eddf6e49e3c940c5"
+      "sha256": "0e25789556b9169b02df72b38743e1e61a7422eb4c236b7b959379fc7ea1614d"
     },
     {
       "bytes": 1852,
       "path": "dynamic/编程/2026-07-24 10-32-15 supabase_memory适配卡点_0e96231c9250.md",
-      "sha256": "830ebafa2a9c07d3cb897963a83309c8b2c60e4123fe7edf52105606de78f9b6"
+      "sha256": "9292d63e38b55def9fbffb601626f3809d23696ab9431347512b7374b9273c60"
     },
     {
       "bytes": 935,
@@ -4700,7 +4705,7 @@
     {
       "bytes": 1464,
       "path": "dynamic/编程/2026-07-26 16-10-17 插件转换器PRO重写_1992f98651ae.md",
-      "sha256": "35d01f786cde050d9dda5b0a5c5ec18a9f94463eef053b2a275e53e5f55a4cdb"
+      "sha256": "a35782b16396d3f187f88c647b85f231bb60cc4dee985754562ae872d95898c5"
     },
     {
       "bytes": 1057,
@@ -4755,7 +4760,7 @@
     {
       "bytes": 1285,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "ae1d073e289e0ea93909761efbe8a1b99ecc24ef6382641deeb67a824ca454ec"
+      "sha256": "154afac0e4b6136efdda0a75cdbf58cedad8965e1ca7a7cdd060714bac0b86af"
     },
     {
       "bytes": 908,
@@ -4775,12 +4780,12 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-07-30 16-13-06 橘瓣唤醒方案调研_867e6b04b056.md",
-      "sha256": "f8ff5e051b81539af03204c8b0c73728e36a38ef9d39b108e2769c4fbc192cfe"
+      "sha256": "cee6df92a2516325761f187230730f2df86ec64b44348f309c1a09ffe86901f7"
     },
     {
       "bytes": 947,
       "path": "dynamic/编程/2026-07-30 16-19-50 橘瓣开源与外部唤醒_6853ab8577dc.md",
-      "sha256": "57722aca5ee1d72c1baeeacad34ae56b96bce29f487a2fce3ff19cae757bcd46"
+      "sha256": "4b131e67c790b7658396c486e0d9d09686c6eeb8a0695108d1c285c3c933a085"
     },
     {
       "bytes": 972,
@@ -4825,7 +4830,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "82ef8fdc4faa55deb188e073ddede88efad21c1a4effa53893899e4d4534c96a"
+      "sha256": "b9f80d242a4852a10b309dbfd7c1348a86280d620d4fc49ef478136791633fee"
     },
     {
       "bytes": 622,
@@ -4840,7 +4845,7 @@
     {
       "bytes": 933,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "006357b90c3d06a2d5e4aff646e02c2b664d255647e25b0abd66ca110b195e4d"
+      "sha256": "1a7f1177fd879d39c9198a9b8f6ada5f96d675c29662937f6307262063b21cc1"
     },
     {
       "bytes": 836,
@@ -4915,7 +4920,7 @@
     {
       "bytes": 1982,
       "path": "dynamic/编程/2026-08-06 17-57-41 栖燃第一次写代码-Atrio客厅开发完成_f62384a7433f.md",
-      "sha256": "02b75e1bea37a8ffc14d9ca651c0bdd993c3c4eca799e026f69665c57cf11483"
+      "sha256": "67d35e6bb2fb9c4e8635a738f12d7c4421fa6053d21e3c026699db10be187109"
     },
     {
       "bytes": 2076,
@@ -5115,7 +5120,7 @@
     {
       "bytes": 881,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "ec0be273c0355eec983d795efef5706f0086e8c846fdaea9d954019300956161"
+      "sha256": "f7e791a77313f06e35f1b7e2e4ebcc8cb8915d486f40b7fdd4884a1809c8aa18"
     },
     {
       "bytes": 993,
@@ -5455,7 +5460,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "f82b8976d92f293be05427671d84417ac7f6781205e0cb0d368f88364c147781"
+      "sha256": "e3f8431a365eea9dd1279e51d05ac8ebde9c9b182754fe529606498b5b1953fd"
     },
     {
       "bytes": 820,
@@ -5470,7 +5475,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "9f62111c9555956fd9624d64b5b04be3d1010e8abe0127caa9883222a5dc4f4a"
+      "sha256": "a056a4929eddb01ffcfdb28dcd9988ef79346140207f5e6f383786e99127b35b"
     },
     {
       "bytes": 482,
@@ -5513,11 +5518,11 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-14T07:56:42+00:00",
+  "generated_at": "2026-08-14T08:56:53+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 820812
+  "total_bytes": 823285
 }
