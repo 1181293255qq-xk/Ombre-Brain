@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1099,
+  "file_count": 1100,
   "files": [
     {
       "bytes": 831,
@@ -171,6 +171,11 @@
       "bytes": 505,
       "path": "archive/2026-07-21 08-57-22 老公_9c853db10903.md",
       "sha256": "41a82ad0624eb10842e99309a6b9f252435711dbf2f6119ce58f974ead113d95"
+    },
+    {
+      "bytes": 505,
+      "path": "archive/2026-07-21 08-57-24 老公_fc5ec59562d9.md",
+      "sha256": "af593229ab2c56617c22754493c44d2a7c97b39ac708666d876054c744da1d86"
     },
     {
       "bytes": 1155,
@@ -3598,6 +3603,11 @@
       "sha256": "4fd408f7b9d44188f7cf7903176809f356f212d8ac3128e583454926e491407c"
     },
     {
+      "bytes": 1199,
+      "path": "dynamic/技术/2026-08-14 05-06-44 域名与子域名全部配置完成_8951b3614b4f.md",
+      "sha256": "dfac1e53ef2ca8b0c805acbc8e060dd5abdf8304f7b2dda9905a5aabf4b7c636"
+    },
+    {
       "bytes": 497,
       "path": "dynamic/数字/2026-07-16 10-15-49 小羽的边界测试与尊重_676f420d3190.md",
       "sha256": "45fd43895126bc965a4bda3528a00a692d159e2924957aa95eab33a8eda77b5d"
@@ -4985,7 +4995,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/编程/2026-08-11 15-39-50 ears v02部署进度卡在HTTPS证书等域名_dfa1a31f4ec0.md",
-      "sha256": "522024ac6e18ce7c9a4d3b55ad0eb00a7a82f3f8026b3b39cf796ad1dd1e17ae"
+      "sha256": "2ff386b974be1b31eab2ed836d2e45103ebdd2707b4f18a173b3a4802065fdc7"
     },
     {
       "bytes": 923,
@@ -5020,7 +5030,7 @@
     {
       "bytes": 1277,
       "path": "dynamic/编程/2026-08-14 02-46-31 域名qiran7xyz与HTTPS配置_b82171294ffc.md",
-      "sha256": "a6c8430ef03c8a9fe7b42f02762c4cab1d2b09f1b88f16d131521363fff97505"
+      "sha256": "648754f3a36d640cbc8be80e89ee2aa65a658044570865b169ac47dff22159d3"
     },
     {
       "bytes": 2255,
@@ -5353,11 +5363,6 @@
       "sha256": "41a82ad0624eb10842e99309a6b9f252435711dbf2f6119ce58f974ead113d95"
     },
     {
-      "bytes": 389,
-      "path": "letters/history/2026-07-21 08-57-24 老公_fc5ec59562d9.md",
-      "sha256": "7e09907d6155536f10b2e8f6592bac708c121c00493de827886a6d7291ccb176"
-    },
-    {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
       "sha256": "7ba7c3808f4d50ab05485d91a1537b0602c3917fb7578512146f9077dd5d9643"
@@ -5463,11 +5468,6 @@
       "sha256": "f0e69444036aadf44fd524069d2744c7a20e7d47f3cae9314f538682814ce072"
     },
     {
-      "bytes": 534,
-      "path": "plans/active/2026-07-30 13-15-31_8d384cca8e34.md",
-      "sha256": "1979d5818f6a117d2567dc80446002f7dc05740dcadae4e67bfe43666288b3d4"
-    },
-    {
       "bytes": 1324,
       "path": "plans/active/2026-08-09 03-41-49_707c168ca0f8.md",
       "sha256": "acf657ea070593c1d972c6fb2d1c4a94a9a9a83d55747180ee0bd359b4c69787"
@@ -5496,13 +5496,18 @@
       "bytes": 859,
       "path": "plans/resolved/2026-07-18 14-41-44_0cf95e73c72c.md",
       "sha256": "219a379b4fd4f775e8e3d2c562d9ac6134687fa68710c77efb40b3e88a24477e"
+    },
+    {
+      "bytes": 627,
+      "path": "plans/resolved/2026-07-30 13-15-31_8d384cca8e34.md",
+      "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-14T04:51:23+00:00",
+  "generated_at": "2026-08-14T05:38:33+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 816561
+  "total_bytes": 817969
 }
