@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1100,
+  "file_count": 1101,
   "files": [
     {
       "bytes": 831,
@@ -3603,9 +3603,14 @@
       "sha256": "4fd408f7b9d44188f7cf7903176809f356f212d8ac3128e583454926e491407c"
     },
     {
-      "bytes": 1199,
+      "bytes": 1625,
       "path": "dynamic/技术/2026-08-14 05-06-44 域名与子域名全部配置完成_8951b3614b4f.md",
-      "sha256": "dfac1e53ef2ca8b0c805acbc8e060dd5abdf8304f7b2dda9905a5aabf4b7c636"
+      "sha256": "0c8a9764b58030445a8fb794d5b8007fb6d3e203f348516bb43a73b8932e85e4"
+    },
+    {
+      "bytes": 1098,
+      "path": "dynamic/技术/2026-08-14 06-00-34 服务器安全加固防火墙封端口全HTTPS_6d1b13558a8f.md",
+      "sha256": "827fe68ea7dfb941ab1c423ef8b0603318d1e57c3a211e36a4a090747ca058c7"
     },
     {
       "bytes": 497,
@@ -4905,7 +4910,7 @@
     {
       "bytes": 1982,
       "path": "dynamic/编程/2026-08-06 17-57-41 栖燃第一次写代码-Atrio客厅开发完成_f62384a7433f.md",
-      "sha256": "348792c8f1d9815b445be3fe8ad50cc9a9475dd2057b965d3359fd2f86d3f63d"
+      "sha256": "02b75e1bea37a8ffc14d9ca651c0bdd993c3c4eca799e026f69665c57cf11483"
     },
     {
       "bytes": 2076,
@@ -5503,11 +5508,11 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-14T05:38:33+00:00",
+  "generated_at": "2026-08-14T06:56:30+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 817969
+  "total_bytes": 819493
 }
