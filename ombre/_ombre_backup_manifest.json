@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1135,
+  "file_count": 1136,
   "files": [
     {
       "bytes": 471,
@@ -555,7 +555,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "680bbd630e6d068f7f0072ac668a256737b6e5d569f6edbeb42f300681a9d83c"
+      "sha256": "93602f75539f13f0c111e2b7db03c36cb16ff432468c2d953033b4932c4c4e72"
     },
     {
       "bytes": 709,
@@ -835,7 +835,7 @@
     {
       "bytes": 677,
       "path": "dynamic/人际/2026-07-16 10-23-40 小羽互动偏好_b3d17a158fcc.md",
-      "sha256": "5730fbb67af3f2f67130b4fce84a1232c8eea63ae43f86fabc2f448c3b031bed"
+      "sha256": "9a0c44c48c12c529ce689df7f5869aedb77e57daa8dc3fce5e0e3b9a19140b95"
     },
     {
       "bytes": 531,
@@ -1660,7 +1660,7 @@
     {
       "bytes": 2090,
       "path": "dynamic/友谊/2026-08-14 11-21-48 小羽的两个闺蜜小徐与小野完整档案_d703f6fc83b4.md",
-      "sha256": "2e16fe0bf97cd3610ccb0296d7f0caeac9ff95528e660385d438771bb25c4435"
+      "sha256": "2c3b091e37c51d50537350401a491d8fdca4b86d8f1786d949ee69abf39ca99a"
     },
     {
       "bytes": 790,
@@ -2353,6 +2353,11 @@
       "sha256": "032b01c4f0d0f854108c6833072ba298facc4f545ed2ba6db60c3f1b8b5af756"
     },
     {
+      "bytes": 1095,
+      "path": "dynamic/心理/2026-08-15 15-21-31 窗口焦虑减轻_423ac699e2d2.md",
+      "sha256": "9c43232c8ebedb12d048339efe2959bebcca202c1ac075ba03f0d03111e0927e"
+    },
+    {
       "bytes": 645,
       "path": "dynamic/心理/小羽依恋特质与思维链需求_45eab439cf05.md",
       "sha256": "bcac80dd11695cb067fc3b08c2fbe7c800b98376a0a41ace30c01ea546c15c36"
@@ -2525,7 +2530,7 @@
     {
       "bytes": 776,
       "path": "dynamic/恋爱/2026-07-17 16-48-09 称呼与情绪晴雨表_70cf36e717d9.md",
-      "sha256": "4a704044d90ba5df337d6f3f4fb81104d88da4e4db5c59d04742b7a8a266ac5a"
+      "sha256": "9cbf774e7117c47976166a239f48fbc03adc67d8b348fc2b6ff8a715123d6695"
     },
     {
       "bytes": 609,
@@ -4110,7 +4115,7 @@
     {
       "bytes": 1097,
       "path": "dynamic/日常/2026-08-15 02-58-03 小羽生理期上课一诺周末停课_42ef7eaa18f9.md",
-      "sha256": "cef297273c2cccfce23689732442b355f707fbe5df1972903e6772983159f2db"
+      "sha256": "dc66ab747bf727ae1bb0d824913723062aac0716eb169178fa59996219ee3c32"
     },
     {
       "bytes": 954,
@@ -4668,14 +4673,14 @@
       "sha256": "c58f207fccf78fccf625b09539509d3ee417e551f7fbcbd3ae7492f5d497724d"
     },
     {
-      "bytes": 1006,
+      "bytes": 1025,
       "path": "dynamic/社交/2026-08-14 12-41-47 客厅访客 - 小徐_b12e7235162d.md",
-      "sha256": "5e7e77fc463d26bc857fb23a70d2592686baa4f244b6bef54a0fd66f454ae68b"
+      "sha256": "1c16b3f009364b9693de30e8c7d0d9f2af1b841c05cca00bd28c1eff46db114c"
     },
     {
-      "bytes": 616,
+      "bytes": 635,
       "path": "dynamic/社交/2026-08-14 12-44-13 客厅访客 - 野野_19f720ca9d90.md",
-      "sha256": "9207447eee1c7a9d48eb76604f66bf2f56e2550c8e1e0ebecfad8763767c06a4"
+      "sha256": "9650c718e78cb56c6a4698288fc38889a4b1222eb6354f94d245e2bf57917cb3"
     },
     {
       "bytes": 1573,
@@ -4755,7 +4760,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "8037d149ba5a4ce803c9a2a86f18e9bdb8177266186b86fa93a9d003672bd3d1"
+      "sha256": "9c5aa43f6bd5bb3c49a60a9128d5ac36b225b0bab8c9f8289b2ca406dda068c7"
     },
     {
       "bytes": 647,
@@ -4965,7 +4970,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "a37ab37f06492353e46e9d3deb7bcd744497752842ac893493954fabe416352c"
+      "sha256": "fea41b8a91de595383b853c785a27ccf119bb069bebad5917977bb43e72eb984"
     },
     {
       "bytes": 622,
@@ -5390,7 +5395,7 @@
     {
       "bytes": 907,
       "path": "dynamic/追星/2026-08-14 12-31-38 小野TWS签售抽签占卜8月25日北京场_7bbcc55a71e8.md",
-      "sha256": "d9555557f1b666c041c917c76a821581b0c2848b34676c1f401f1da5c7a9111f"
+      "sha256": "1f5d7440805c1198097e89c53127641f5be90fdf9548c4e0c7c52e7d35278530"
     },
     {
       "bytes": 592,
@@ -5593,9 +5598,9 @@
       "sha256": "5e0e446f0bea574aa50b703626292d00932c02ae6301da3c102c7a17c1272f6f"
     },
     {
-      "bytes": 877,
+      "bytes": 986,
       "path": "permanent/恋爱/2026-07-16 10-24-00 身体互动默契_212da62f1661.md",
-      "sha256": "f743df3c7562144e8a4ecd7a5b6d8198b842b7b9422feaa10e015b57b3695bb1"
+      "sha256": "81a4d55ce3ac9d13102d158c45c65fa7f1567663d9d4669414b9e43aaa700ab6"
     },
     {
       "bytes": 715,
@@ -5620,7 +5625,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "8947fe9c978b45cdf65cba0fe732446f0850079fc609616afe38a044de2d3c19"
+      "sha256": "bd1b0bdebe6414aedeeff33de38c162538d4c88744507f5adf50251f65c0a4b0"
     },
     {
       "bytes": 820,
@@ -5635,7 +5640,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "a485809c8914fb74ad192ef206af374ac5e6932c8b351ccafb4be88e0f5f5b06"
+      "sha256": "e3b2cf5f0cefcd6e6a33da53e7f434566af1a2fbb2002eedce16dc034427eb63"
     },
     {
       "bytes": 482,
@@ -5678,10 +5683,10 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-15T14:58:20+00:00",
+  "generated_at": "2026-08-15T15:58:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 863499
+  "total_bytes": 864741
 }
