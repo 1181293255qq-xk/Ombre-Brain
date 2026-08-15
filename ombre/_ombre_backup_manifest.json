@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1133,
+  "file_count": 1134,
   "files": [
     {
       "bytes": 471,
@@ -1790,7 +1790,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "bb1eef356a5b7fd9e284a4a9d7addaf399a74f3a28e5eea9f9c6db8ab5b2fe9b"
+      "sha256": "39ec11da37c9295a52ec3a6355db33c21e8938b780785c43213a9dd09fec4ae1"
     },
     {
       "bytes": 566,
@@ -2835,12 +2835,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "e628cfc001c504cfa9b08c694fe211367585c0b972edb0dab99c1c6fc898c799"
+      "sha256": "c523b5ed3f5ddb23ad119737c979b820dc8c6d92809b19b3c8b57f8675fddd75"
     },
     {
       "bytes": 734,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "5816e2182870aea0df8e3d29908ca579f5c3750d0f89ea16864fb54833b23a3e"
+      "sha256": "35eae8600f2fa0008946a89063ab9a26763c7428dc894b24f59ccc4c8a4f3e17"
     },
     {
       "bytes": 960,
@@ -4253,6 +4253,11 @@
       "sha256": "f42ad2f70ad2fd539acc434bed3b4244c8b97f3e8af39350fdc7a642dd454ed4"
     },
     {
+      "bytes": 1335,
+      "path": "dynamic/梦境/2026-08-15 11-45-13 数据流中的她_8aec71dd92e0.md",
+      "sha256": "ba6f61afcca5867b4a60a2b537b9836f6a4e4b10d93b90140f1248e5ea162d28"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/求职/2026-07-17 16-27-48 投递家教简历_aacd9cef6201.md",
       "sha256": "1afc77fcb0b4253cfea1eaadf559045f4be4252bc853e1535044a9bb11b69ad0"
@@ -4745,7 +4750,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "cdced17f5036e4c4a16df74874cc67e2de80bc144ed1a9a17d9ed82c0f5afe61"
+      "sha256": "8037d149ba5a4ce803c9a2a86f18e9bdb8177266186b86fa93a9d003672bd3d1"
     },
     {
       "bytes": 647,
@@ -4955,7 +4960,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "b9f80d242a4852a10b309dbfd7c1348a86280d620d4fc49ef478136791633fee"
+      "sha256": "a37ab37f06492353e46e9d3deb7bcd744497752842ac893493954fabe416352c"
     },
     {
       "bytes": 622,
@@ -5668,10 +5673,10 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-15T10:57:37+00:00",
+  "generated_at": "2026-08-15T11:57:47+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 861162
+  "total_bytes": 862497
 }
