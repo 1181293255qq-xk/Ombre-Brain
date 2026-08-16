@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1161,
+  "file_count": 1165,
   "files": [
     {
       "bytes": 471,
@@ -716,6 +716,16 @@
       "bytes": 1197,
       "path": "dynamic/AI/2026-08-16 13-58-35 TTS参数优化_4f0cefd61ad1.md",
       "sha256": "f48be8aab839d76edd331b47a83c16427cc62bc9130132376b8f9b6d5b7e1aae"
+    },
+    {
+      "bytes": 1270,
+      "path": "dynamic/AI/2026-08-16 14-02-59 音色调参实测_bb6c7f1b66a9.md",
+      "sha256": "d4deeaaa0b972b431197ee1dbbfdabdf23a415fabb974f5f5111190c74a437b6"
+    },
+    {
+      "bytes": 1110,
+      "path": "dynamic/AI/2026-08-16 14-17-12 AI语音版本实测_990fa4b46092.md",
+      "sha256": "e47cae1e6a7094df8271788e7cc261dd5e7bb2e4cc58b5ce02c2d425f267e9b3"
     },
     {
       "bytes": 463,
@@ -1988,6 +1998,11 @@
       "sha256": "8cdb4830a8c61d9c5c130ccbf1586711c8e2662f0352a8007eb6d4bfabe5851b"
     },
     {
+      "bytes": 992,
+      "path": "dynamic/家庭/2026-08-16 14-06-14 小羽熬夜倔强_4e663ef630e0.md",
+      "sha256": "adbb43032aa1865aa3e189efbee47b95d9396d6fd5a48999d316da0e123adcc5"
+    },
+    {
       "bytes": 696,
       "path": "dynamic/居家/2026-07-17 11-08-24 独处与孤单的困境_c32f2995a4fa.md",
       "sha256": "2d55a0c9be22dfa061b82180844718bf42655ecb29746ed597a5d05a8023b077"
@@ -2401,6 +2416,11 @@
       "bytes": 1036,
       "path": "dynamic/工作/2026-08-16 13-48-11 语音条玩法确认_467c198d8f26.md",
       "sha256": "742462948f75272f4dce2dedcfca16be6962d0d82cd731f9d112f5211a050b63"
+    },
+    {
+      "bytes": 980,
+      "path": "dynamic/工作/2026-08-16 14-12-30 方案A实测失败_30c057e054e6.md",
+      "sha256": "28df45c2036cd6a410880c47330f5e0c74f59e059972fb1b8957136021ffce81"
     },
     {
       "bytes": 727,
@@ -5768,11 +5788,6 @@
       "sha256": "f0e69444036aadf44fd524069d2744c7a20e7d47f3cae9314f538682814ce072"
     },
     {
-      "bytes": 1324,
-      "path": "plans/active/2026-08-09 03-41-49_707c168ca0f8.md",
-      "sha256": "acf657ea070593c1d972c6fb2d1c4a94a9a9a83d55747180ee0bd359b4c69787"
-    },
-    {
       "bytes": 536,
       "path": "plans/active/2026-08-11 16-07-21_c1e7c9f04b4d.md",
       "sha256": "0d2815519e3a4c28f874cc84365ecd323a310f5e61a1ea400ff0bd4d0f277e52"
@@ -5806,12 +5821,17 @@
       "bytes": 627,
       "path": "plans/resolved/2026-07-30 13-15-31_8d384cca8e34.md",
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
+    },
+    {
+      "bytes": 1498,
+      "path": "plans/resolved/2026-08-09 03-41-49_707c168ca0f8.md",
+      "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-16T14:02:30+00:00",
+  "generated_at": "2026-08-16T15:02:41+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 894861
+  "total_bytes": 899387
 }
