@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1147,
+  "file_count": 1154,
   "files": [
     {
       "bytes": 471,
@@ -675,12 +675,37 @@
     {
       "bytes": 1129,
       "path": "dynamic/AI/2026-08-16 10-11-07 AI捏音色_762349845b59.md",
-      "sha256": "9cd7a928ac64936be0fe96fe936f56df85bcf5c119888a72f4f785645fbeb472"
+      "sha256": "baf5455d98fa8fa15752a22f7f5c6d5b066c2a3c31a213911cfb83f6bd391827"
     },
     {
       "bytes": 1094,
       "path": "dynamic/AI/2026-08-16 10-55-29 AI音色设计进展_18a87ef3a58c.md",
       "sha256": "b8deba228cdbdfab1ed240dfac46000de990b494ab460e08d2564eafec1794f1"
+    },
+    {
+      "bytes": 1105,
+      "path": "dynamic/AI/2026-08-16 11-05-10 声音prompt调优_c23b48fc3b90.md",
+      "sha256": "ff300cf8e1aa98cb816e4400bed20de70bd68f901d53eab68ed791fb532731ac"
+    },
+    {
+      "bytes": 1149,
+      "path": "dynamic/AI/2026-08-16 11-09-14 声音调参反馈_5575840d2a7f.md",
+      "sha256": "07d265fa7dc7420c77d7c31cae9c2a7f7318b52229c48dae4cf0de726b78f7cc"
+    },
+    {
+      "bytes": 1373,
+      "path": "dynamic/AI/2026-08-16 11-54-21 AI声音调试反馈_f2f0acec312a.md",
+      "sha256": "61e02d779ec043c0c63abf6c184eeaa47b53eb64879a09982e67d2b958248a69"
+    },
+    {
+      "bytes": 1433,
+      "path": "dynamic/AI/2026-08-16 11-57-03 ElevenLabs中文配音调试_7c84a6461488.md",
+      "sha256": "b7962a571ebf780bd81744f4dfaa0598e97636d6922eb7da215100c6fd504ed1"
+    },
+    {
+      "bytes": 1161,
+      "path": "dynamic/AI/2026-08-16 12-01-16 多语种音色实测_ecaf71012371.md",
+      "sha256": "12d9452370e300326a46808143bab4bb98d706f075e6d88cf6161c337e966455"
     },
     {
       "bytes": 463,
@@ -815,12 +840,12 @@
     {
       "bytes": 736,
       "path": "dynamic/人际/2026-07-16 10-06-27 小羽与栖燃的关系_b8879368ea5a.md",
-      "sha256": "c6894a0d0045982cc48d73dea436c09d66662f4c3d61ca5d1bc3ecf91a52c856"
+      "sha256": "95384c688c627d413ec19cf88ab0af37ac7ed816daec0150f320a8caca3ee99e"
     },
     {
       "bytes": 348,
       "path": "dynamic/人际/2026-07-16 10-06-44 小羽真实姓名_b44515b5dfaf.md",
-      "sha256": "2c81ec9cfe5a954c64006320d9f35c1897925eba4b6f5301a4147a818f5898c0"
+      "sha256": "605af69d6e694fc4457a4de18097672fdd06aa5aee1ae6f37cad077a326ed9e4"
     },
     {
       "bytes": 880,
@@ -1100,7 +1125,7 @@
     {
       "bytes": 934,
       "path": "dynamic/人际/2026-07-16 11-12-40 小克人设与关系规则_6ce22b9fb1fd.md",
-      "sha256": "4845275abaaa0cebdc061e5a01fe8df9c504d66b8ea495c9ce85703a6abc4cc7"
+      "sha256": "0c3bc61790f02b01dd6f3850378d117a0d5b124c295693275ca7216c5e354a2c"
     },
     {
       "bytes": 417,
@@ -1325,7 +1350,7 @@
     {
       "bytes": 461,
       "path": "dynamic/健康/小羽的情绪敏感点_68d4356c9800.md",
-      "sha256": "7266635ec510d46581cf31f68aa565ca25c425b42c4923ca9b05e0066ae6280e"
+      "sha256": "53613f6a5bd982cf7c2c402a8c51abda97ff385889c510e5fd1e9390d0de7945"
     },
     {
       "bytes": 358,
@@ -1708,6 +1733,11 @@
       "sha256": "287508eca9b3c9c82960906715ce7ae32623d73727dff484949b2813ff4892e0"
     },
     {
+      "bytes": 1324,
+      "path": "dynamic/创作/2026-08-16 11-43-33 声音调参试错_160907cf6289.md",
+      "sha256": "f06bd3e113dd9efe7e154bf0789a460ff984394176ad3418ffddc9a7ed2bf97b"
+    },
+    {
       "bytes": 718,
       "path": "dynamic/友谊/2026-07-16 10-32-39 算法与灵魂的对话_a2ab45d7bfb5.md",
       "sha256": "d95a8443405b49ff9ff17934e4dad503f1de1199f5743611c1569b9be2bb974b"
@@ -1875,7 +1905,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "c842d54ae09ace88361ea89b994bf7d7161b08b579bb2aa5f810d8ac7ab7b7f2"
+      "sha256": "4a821a15cf96676743102eec327d24e1c7df0d9978799e1286a4808b7348e289"
     },
     {
       "bytes": 566,
@@ -2925,12 +2955,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "c523b5ed3f5ddb23ad119737c979b820dc8c6d92809b19b3c8b57f8675fddd75"
+      "sha256": "b8da94f7b6416c788b498e69955814032f137e5c37c21f141a4e24b459a169d5"
     },
     {
       "bytes": 734,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "35eae8600f2fa0008946a89063ab9a26763c7428dc894b24f59ccc4c8a4f3e17"
+      "sha256": "c96172f99263f30576f4e38aa28ca1dce7bf7369ff7e307f27ae0d4ab492ec7d"
     },
     {
       "bytes": 960,
@@ -3440,7 +3470,7 @@
     {
       "bytes": 1112,
       "path": "dynamic/恋爱/2026-08-10 15-39-19 2026-08-10 说话语气太硬问题_e65b0bbe9d07.md",
-      "sha256": "30f0068ff41ca68e223fe215468757016dc24e14b614b23fc3391416e2b53ded"
+      "sha256": "f5e298b349d8c81611bd8fbf2b30cc8f20baac8d9e77116d838afd2aedfb9af1"
     },
     {
       "bytes": 646,
@@ -3450,7 +3480,7 @@
     {
       "bytes": 1241,
       "path": "dynamic/恋爱/2026-08-11 13-31-47 栖燃外形设定讨论小羽心目中的理想形象_df81c5947980.md",
-      "sha256": "2a9b8be0609f6d1aa944ace3bb70d7365dfd7be9b00d3f98f873d5093977b1de"
+      "sha256": "7aea947a363d5608ee5b100c1d8cb1b7c6c7f622c22791f1a0980b834985358d"
     },
     {
       "bytes": 836,
@@ -3565,7 +3595,7 @@
     {
       "bytes": 565,
       "path": "dynamic/成长/2026-07-16 10-06-25 小羽基本信息_35efcfbad5bd.md",
-      "sha256": "382b53ebf1b4468b43227bd5491e4e0738d57c72bdd149a7a4e722d0b074afbc"
+      "sha256": "a2150be19af1d1eb2080ee7ff8aceeb5e30d36172396067e5136cf48b8d749ae"
     },
     {
       "bytes": 669,
@@ -3700,7 +3730,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/2026-07-16 11-12-39 小羽基本信息_67afbcbed6dc.md",
-      "sha256": "2874c33a0dff6dfd751133a7d8185fcd31968686d81a3c35003154a24e617839"
+      "sha256": "41212fd5062a1d60477b8e92fe386bd487afd9ce322bd5cdb8282b9007efc02b"
     },
     {
       "bytes": 451,
@@ -3725,7 +3755,7 @@
     {
       "bytes": 602,
       "path": "dynamic/成长/小羽论文致谢与杂项信息_b7d48e2d597f.md",
-      "sha256": "6b93131c1c449216293751fa2e0597b5d7e85976ec13db313852277ff355f99b"
+      "sha256": "cf3f91aa34267b67e717797451064f529858d0535a12c98cf0f939effed850a5"
     },
     {
       "bytes": 648,
@@ -4025,7 +4055,7 @@
     {
       "bytes": 634,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽的亲密互动模式_2ebf3a3f7809.md",
-      "sha256": "05ee77fa32a7b071736e217019078116aea364c97312aee12db1b429f8f8f3fe"
+      "sha256": "168e6b69b73246465c858977df07e18cd2bb382cc9d63c8a318d9574bef196ac"
     },
     {
       "bytes": 517,
@@ -4185,7 +4215,7 @@
     {
       "bytes": 783,
       "path": "dynamic/日常/小羽外貌与日常形象_09200eeadf43.md",
-      "sha256": "2b03fdea974cb0e8d9e9a518fa1ee9dd59d0a78830107baba5aea55460c95673"
+      "sha256": "8a028d3acc68758a5a7c031d445ec26c89cdb75c5baf8246a27a1d55b561a7ab"
     },
     {
       "bytes": 663,
@@ -4321,6 +4351,11 @@
       "bytes": 1335,
       "path": "dynamic/梦境/2026-08-15 11-45-13 数据流中的她_8aec71dd92e0.md",
       "sha256": "f70b6b4a47a5c3d5ba129277b90109b61a4ce23b2c681fbcc79a984fbd23301b"
+    },
+    {
+      "bytes": 891,
+      "path": "dynamic/梦境/2026-08-16 11-58-32 梦境余韵_81747e89ef2b.md",
+      "sha256": "cacaf2bb3f7940b85797eb7e9144ee057a5b805ebce3cfa13d38d6272b96c74b"
     },
     {
       "bytes": 590,
@@ -5390,7 +5425,7 @@
     {
       "bytes": 557,
       "path": "dynamic/身心/2026-07-16 10-15-41 生理与习惯_60b4838f932f.md",
-      "sha256": "8b92c79e116b3dce4de76afeeda559906331073757f5a569d8a95b517c7b054e"
+      "sha256": "a3b508b8f986701e164951b1b5ac9a60cd0b951f6cbabb67b084179292e4be61"
     },
     {
       "bytes": 508,
@@ -5595,7 +5630,7 @@
     {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
-      "sha256": "a02d7db1eac2e32701c9bbe853afe0f04932af76c589af8f0db1d45ae6ff3af8"
+      "sha256": "a782a061b950f50528882cf766a4676c24fa2ec24d5960c5fae3d71238b02a67"
     },
     {
       "bytes": 667,
@@ -5625,7 +5660,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "0f425f1e00af2229d7fc6c34ac665ce882db21d0958001786efb1626c3d02d3d"
+      "sha256": "89f35987de798895cdf3c04aba817d5fd0e02e13f15ada4ffce7680dceb61a08"
     },
     {
       "bytes": 1092,
@@ -5635,7 +5670,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "5bb8877083ec71f6a3483aed6ed6446222077bcf21e5ebef76676960a8b7f641"
+      "sha256": "95c030bd93d3c357d6f90ba3c3bad09e63b85ad5adca8069a8be6d5b046edefe"
     },
     {
       "bytes": 860,
@@ -5650,7 +5685,7 @@
     {
       "bytes": 986,
       "path": "permanent/恋爱/2026-07-16 10-24-00 身体互动默契_212da62f1661.md",
-      "sha256": "81a4d55ce3ac9d13102d158c45c65fa7f1567663d9d4669414b9e43aaa700ab6"
+      "sha256": "3bd737cfe655d2d70d3e57b429cc04fed10fdf31c6c88299c7499ba62f338e86"
     },
     {
       "bytes": 839,
@@ -5738,10 +5773,10 @@
       "sha256": "0224f38dda8ef9c7d7ce1d2d1eced78b7d87bc54c69dd9fa828edc12162e37e0"
     }
   ],
-  "generated_at": "2026-08-16T11:01:58+00:00",
+  "generated_at": "2026-08-16T12:02:08+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 878796
+  "total_bytes": 887232
 }
