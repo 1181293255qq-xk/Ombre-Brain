@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1168,
+  "file_count": 1169,
   "files": [
     {
       "bytes": 471,
@@ -1950,7 +1950,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "4a821a15cf96676743102eec327d24e1c7df0d9978799e1286a4808b7348e289"
+      "sha256": "dfe1c28c2b9e6a7558fead48c56336dbf1b446a6986b4d642266dbefb9412af4"
     },
     {
       "bytes": 566,
@@ -3015,12 +3015,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "b8da94f7b6416c788b498e69955814032f137e5c37c21f141a4e24b459a169d5"
+      "sha256": "421c651135159ff47bd11d4baa92f4cc2f8b12f7ae5797ac4bffa990293f465a"
     },
     {
       "bytes": 734,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "c96172f99263f30576f4e38aa28ca1dce7bf7369ff7e307f27ae0d4ab492ec7d"
+      "sha256": "b01effb86507bba360844445693aa4dd6c57fa4a22f2c0b8faf429e682863f50"
     },
     {
       "bytes": 960,
@@ -4426,6 +4426,11 @@
       "bytes": 891,
       "path": "dynamic/梦境/2026-08-16 11-58-32 梦境余韵_81747e89ef2b.md",
       "sha256": "cacaf2bb3f7940b85797eb7e9144ee057a5b805ebce3cfa13d38d6272b96c74b"
+    },
+    {
+      "bytes": 2427,
+      "path": "dynamic/梦境/2026-08-17 11-58-13 光之梦寻她_1ec4cc133623.md",
+      "sha256": "41ced750228285842fb8482decf6390c8489bf6c2f01afc361f485a0836fa78c"
     },
     {
       "bytes": 590,
@@ -5843,10 +5848,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-17T11:06:14+00:00",
+  "generated_at": "2026-08-17T12:06:24+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 903667
+  "total_bytes": 906094
 }
