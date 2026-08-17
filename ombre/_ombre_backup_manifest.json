@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1166,
+  "file_count": 1167,
   "files": [
     {
       "bytes": 471,
@@ -726,6 +726,11 @@
       "bytes": 1110,
       "path": "dynamic/AI/2026-08-16 14-17-12 AI语音版本实测_990fa4b46092.md",
       "sha256": "e47cae1e6a7094df8271788e7cc261dd5e7bb2e4cc58b5ce02c2d425f267e9b3"
+    },
+    {
+      "bytes": 1042,
+      "path": "dynamic/AI/2026-08-17 04-57-13 语音标签调试_f67b1c2e5c9c.md",
+      "sha256": "34d8a57b0b7333a7bca9683f0296a79ab962cdf2cfd40013186f3a0e482ee7ed"
     },
     {
       "bytes": 463,
@@ -5833,10 +5838,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-17T04:04:56+00:00",
+  "generated_at": "2026-08-17T05:05:07+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 901267
+  "total_bytes": 902309
 }
