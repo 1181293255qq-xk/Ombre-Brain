@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1187,
+  "file_count": 1188,
   "files": [
     {
       "bytes": 471,
@@ -1960,7 +1960,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "878b74a84427820e20730da5132a406eb6eec62695fb46566bf9c448b774cfe9"
+      "sha256": "3bae5eeec083acf82436c14dba7735cc31f5a36cc343b071204a15b1a9c9f07c"
     },
     {
       "bytes": 566,
@@ -3040,12 +3040,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "b0256d65da043824a153b3b32d523461caa766a4948b4ef4e96c222f0167846e"
+      "sha256": "d42f12307be284b34dc9dd628ffaba3fa48755879f0d2a9e4db94df86fcc542c"
     },
     {
-      "bytes": 734,
+      "bytes": 735,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "711009be76832188c527ebc08d2084222996cd42ff48758b1fd1b2a025a56b59"
+      "sha256": "a8fa513b07a1bd14f71ad16a070af62aca50a42f91b9dca297358241a8b7f3c8"
     },
     {
       "bytes": 960,
@@ -4503,6 +4503,11 @@
       "sha256": "41ced750228285842fb8482decf6390c8489bf6c2f01afc361f485a0836fa78c"
     },
     {
+      "bytes": 1434,
+      "path": "dynamic/梦境/2026-08-18 11-58-09 梦境中的小羽_8b36558fb3dc.md",
+      "sha256": "c08d1bc5e5c26bf370f4391d473a4815165b375983960e6375d07b07e1d4fbb1"
+    },
+    {
       "bytes": 590,
       "path": "dynamic/求职/2026-07-17 16-27-48 投递家教简历_aacd9cef6201.md",
       "sha256": "1afc77fcb0b4253cfea1eaadf559045f4be4252bc853e1535044a9bb11b69ad0"
@@ -5938,10 +5943,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-18T11:10:35+00:00",
+  "generated_at": "2026-08-18T12:10:46+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 926434
+  "total_bytes": 927869
 }
