@@ -533,6 +533,11 @@
       "sha256": "389b46a69e44522461079fd2da087260fbc0ca635bcc8bf0c81f96ea1a15db64"
     },
     {
+      "bytes": 389,
+      "path": "archive/数字/2026-07-16 11-08-16 Mobilerun Portal已安装_4b750c7ff36a.md",
+      "sha256": "e5fd69bf0631537dfcabe1c1bcb1c6c0645bbc625ad347f041cd275f628efe8e"
+    },
+    {
       "bytes": 491,
       "path": "archive/日常/2026-07-16 10-06-28 小羽的饮食喜好_095b71e44636.md",
       "sha256": "bd51d3f60586f52a0d5f94d5b8be31e3756f7d55f67ba70dfd4af3b1b01c1a99"
@@ -601,6 +606,11 @@
       "bytes": 457,
       "path": "archive/编程/2026-07-17 10-54-04 向量化测试_925c6f05e023.md",
       "sha256": "f18b0555c1de09c437135eab177db17e4b84e4bd5f7bf563ac0756526ee7ad62"
+    },
+    {
+      "bytes": 630,
+      "path": "archive/自省/2026-07-18 16-18-49 拖延的自我辩解_5a35d6278116.md",
+      "sha256": "05fb5739b378effa6a049ff0b229d6832bfb591b56ac616887809fce9061cfde"
     },
     {
       "bytes": 469,
@@ -3943,11 +3953,6 @@
       "sha256": "4f646d1c42bf943ffca0ef4a59ccf8a686fbf60e840498afb48efada983e8013"
     },
     {
-      "bytes": 373,
-      "path": "dynamic/数字/2026-07-16 11-08-16 Mobilerun Portal已安装_4b750c7ff36a.md",
-      "sha256": "95fa57a65843e32c8031132425cf2d56904633754fa1dcf59068d25dcc945ce6"
-    },
-    {
       "bytes": 884,
       "path": "dynamic/数字/2026-07-16 11-08-46 论文数据修正_2da3ac8daa3a.md",
       "sha256": "45e2370a40a39797b290afd4972fd3a621e67715dd7fc8fbc45366c4d86cfccb"
@@ -5418,11 +5423,6 @@
       "sha256": "b805f7352b6417440f6edd7021204f2befecd4dd607df5b1356f0a287dcd1642"
     },
     {
-      "bytes": 614,
-      "path": "dynamic/自省/2026-07-18 16-18-49 拖延的自我辩解_5a35d6278116.md",
-      "sha256": "a9a87cc0cd50ee2eec5f0fda9ac9d5126e25c1a5115a62de1d6f3524960ff8fa"
-    },
-    {
       "bytes": 730,
       "path": "dynamic/自省/2026-07-23 17-32-11 记忆库人称问题_920af5cb6d24.md",
       "sha256": "ca05ddcd5f5f3392e7e9318ced87378947530947b4e629757de4f17c5cef1041"
@@ -5863,10 +5863,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-18T07:09:48+00:00",
+  "generated_at": "2026-08-18T08:09:59+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 909444
+  "total_bytes": 909476
 }
