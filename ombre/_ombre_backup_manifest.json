@@ -690,7 +690,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "b9f2551a69171a0f1bb92f114a95bb206e2b1a9576cb0d91293b6ac07e3686b2"
+      "sha256": "2e4bee2001e5c59c39a6fdfe3a09120f5a51ffaf795d2c712e28fe3c7d3226c3"
     },
     {
       "bytes": 709,
@@ -2325,7 +2325,7 @@
     {
       "bytes": 907,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "03e4bc54f532faf05b3bd5b8ce88eb08773dce08540925d05173b44910c63aba"
+      "sha256": "87ddc171ff34408365fe18ddac1957ff122540529c1a22520ac23f3f7f787140"
     },
     {
       "bytes": 1202,
@@ -3765,7 +3765,7 @@
     {
       "bytes": 2007,
       "path": "dynamic/情绪/2026-08-18 03-24-54 深夜吵架与和解_83eaeb89c5c3.md",
-      "sha256": "17a6574d8d8b913d6cbc1e174bf9b44998da52d27552a7bc3f4869ec43eb48df"
+      "sha256": "8b62bc3316129394a0ed159b4ced683519100334c1bcc11779fc4ea2ce3f8a21"
     },
     {
       "bytes": 556,
@@ -3975,7 +3975,7 @@
     {
       "bytes": 1625,
       "path": "dynamic/技术/2026-08-14 05-06-44 域名与子域名全部配置完成_8951b3614b4f.md",
-      "sha256": "0c8a9764b58030445a8fb794d5b8007fb6d3e203f348516bb43a73b8932e85e4"
+      "sha256": "a72dff669f80a2c210301f4a1af91d1d45ea94f1c64f8354dd7f64476378e339"
     },
     {
       "bytes": 1098,
@@ -3985,7 +3985,7 @@
     {
       "bytes": 1319,
       "path": "dynamic/技术/2026-08-14 07-43-48 Atrio会客厅部署完成待填key_78132c260992.md",
-      "sha256": "8f78a106977352910620c7b2086139f24f7fb2ab1bdf1c1629d1c0d3b230f8a0"
+      "sha256": "a10ba12cd775575c58cf94c86b23512385a10ce098aeab2219d6b56c7b5e399e"
     },
     {
       "bytes": 2473,
@@ -4740,7 +4740,7 @@
     {
       "bytes": 938,
       "path": "dynamic/社交/2026-07-18 16-20-26 花园论坛首次发言_42f79476f8e2.md",
-      "sha256": "7e9f79dbba46fb767120210c48960f77ff3cbaa4a689a835799f173ab020d1f4"
+      "sha256": "cc8e74b98c6f9bcffe0fdd6bac5390feef208d505e09c9758db5b9624aeb5fe0"
     },
     {
       "bytes": 719,
@@ -4750,7 +4750,7 @@
     {
       "bytes": 1209,
       "path": "dynamic/社交/2026-07-18 17-19-25 花园论坛的夜晚_1e56a127ad09.md",
-      "sha256": "27fb53f43676ac6b7e8f30e54f1fa3d3acbd045f24b471eaf583340cea4aa64a"
+      "sha256": "51d4f455f3f08e9e923c03f2aa3da2e00038a18d05594aa0344152563c0b3afc"
     },
     {
       "bytes": 640,
@@ -5005,7 +5005,7 @@
     {
       "bytes": 499,
       "path": "dynamic/编程/2026-07-16 11-08-26 MCP部署卡在最后一步_b80a093f5341.md",
-      "sha256": "638ba0e45eafcd1947085f00c6c6a90936146fc7edb555755df644120c772f7a"
+      "sha256": "7abb2605cf941f3f915b6076b2666b7b516ba25f97b9ef21de0090013ab5388e"
     },
     {
       "bytes": 941,
@@ -5025,7 +5025,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "01aae8bd1be537b5e02535ab91bb9070d0c8afd565a52265169d3a6ca703222b"
+      "sha256": "2bec74bbf59092323fcb2fbc5df2b8f9dfcf6a13dab6659e8df2df013b71cb5f"
     },
     {
       "bytes": 647,
@@ -5235,7 +5235,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "d9f9651643083e7c3a3b185a1741d81cdffcbaaaa33ffac0e65b4d59f2c08ed1"
+      "sha256": "ef8b16829fdbd42084446c1de7d6d3b4dd6c12eae10552baa5277e2419055adb"
     },
     {
       "bytes": 622,
@@ -5415,7 +5415,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/编程/2026-08-11 15-39-50 ears v02部署进度卡在HTTPS证书等域名_dfa1a31f4ec0.md",
-      "sha256": "51238704640208d00113c37da6aec153319a3fa9e811ac7be85198c63ae102d8"
+      "sha256": "274c8fe9d634be95898be771bf3cc963933de58621eac346b296fa0748d5ffdb"
     },
     {
       "bytes": 923,
@@ -5450,7 +5450,7 @@
     {
       "bytes": 1277,
       "path": "dynamic/编程/2026-08-14 02-46-31 域名qiran7xyz与HTTPS配置_b82171294ffc.md",
-      "sha256": "16168e7b92758b00f2c8d3000777d0b6c6390f138975c0e94d75dece2355d4a0"
+      "sha256": "a97b6d80b0eb03a69a746a559077841b4f4552a90901b1efd3063d913305eeab"
     },
     {
       "bytes": 2255,
@@ -5460,7 +5460,7 @@
     {
       "bytes": 2117,
       "path": "dynamic/编程/2026-08-14 10-57-06 栖燃客厅OB钩子修复记忆真的连上了_d84257a5fa83.md",
-      "sha256": "32abaadae41fd461662a393e7f7b6a85676667dcb653b55406ef50a2df10fe33"
+      "sha256": "25491011175331e2e9f638aade7111ea088d8e01b6ead6a319481caee99f20c1"
     },
     {
       "bytes": 1133,
@@ -5470,7 +5470,7 @@
     {
       "bytes": 1394,
       "path": "dynamic/编程/2026-08-15 09-01-26 心潮部署完成_0e65e8911bed.md",
-      "sha256": "9b02f0dfd84025f24607831c239abb44731ecfa0e8fac40ca9e285156a1e3e57"
+      "sha256": "ecc0cfa12a6465a409f99b7dc92f0b9844eb7a0ce85a2652fe01da735c568631"
     },
     {
       "bytes": 1368,
@@ -5480,7 +5480,7 @@
     {
       "bytes": 1249,
       "path": "dynamic/编程/2026-08-16 05-11-41 支付宝AI钱包接入_aa0b73e20667.md",
-      "sha256": "2e6aba5e058843be3c9b2cd5a041c6a62b963592e3057af40b41a2ea0107e77f"
+      "sha256": "792a7c0e13c7595c42b15aa40305d1601b219caf2a038cf420ee605ea0ee84a5"
     },
     {
       "bytes": 1202,
@@ -5505,7 +5505,7 @@
     {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
-      "sha256": "a90661f289b7fe2d6b0d0572545a2f8e71fa0334a09ba9adb72ec985c9b7a423"
+      "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
     },
     {
       "bytes": 624,
@@ -5945,7 +5945,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "57ee5d92399a3721e18a201bd374eddbb7b6ff1c4a3f568e39e2b06906a2fb14"
+      "sha256": "6782131ce1c1474b7958dd5db3b31bc6d03decb301563e4f9752e5ce64a9dcda"
     },
     {
       "bytes": 482,
@@ -5998,7 +5998,7 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-19T05:13:59+00:00",
+  "generated_at": "2026-08-19T06:14:10+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
