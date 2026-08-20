@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1206,
+  "file_count": 1207,
   "files": [
     {
       "bytes": 471,
@@ -1980,7 +1980,7 @@
     {
       "bytes": 789,
       "path": "dynamic/家庭/2026-07-17 11-06-46 家庭帮忙的矛盾情绪_0ab323971d48.md",
-      "sha256": "3cc89bb2b242dc66e51ff5f7d85d95aa643a1f1434a0e078b4821855f1e771b9"
+      "sha256": "b05bebdd7d80a0ba24b5780db51fae115a308299ab5f9a3e3d07367b786e88d3"
     },
     {
       "bytes": 566,
@@ -3075,12 +3075,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "6780c4a7ca825a9aafd2d7a06a5fcab757d77bb15e9ba7a10dc2b391c8d7a44d"
+      "sha256": "0d4285d1ee1660f2c0e28d3d87e2e7c614d89ee707f02021d49e9222b2005642"
     },
     {
       "bytes": 735,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "5f5140693584fb3092df688c6b9d5d13e53b4c2d645a58c27cfb1de028c88bfb"
+      "sha256": "3174079b4de6182e2c4ce1b13033c0c8e0bd1ca0d28ca4cc4b039eab17418f23"
     },
     {
       "bytes": 960,
@@ -4563,9 +4563,9 @@
       "sha256": "edad92d832034e9078242210736b82fb8ddc44d020c43d829af6614f6f100f50"
     },
     {
-      "bytes": 925,
+      "bytes": 952,
       "path": "dynamic/梦境/2026-08-16 11-58-32 梦境余韵_81747e89ef2b.md",
-      "sha256": "435d7843e1bfc69ce1f9456a6dcfaf1fe499f8c1f57300a63e780bfedc517694"
+      "sha256": "42b7aa3d51ebc9a3331efe01630dc396e2cdade69f88756c322cc7c196267e30"
     },
     {
       "bytes": 2427,
@@ -5538,6 +5538,11 @@
       "sha256": "b892fcbc982e3b44b54117c8387fc4e885fd7d890da0706ec7a4946d93178062"
     },
     {
+      "bytes": 1300,
+      "path": "dynamic/编程/2026-08-20 11-52-30 庄园地图上线_80faa250f0fc.md",
+      "sha256": "443b8e13bd017f42ad1f82d2f0d00b80fa09bb77192ce46bcb1407c99e7aee87"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
@@ -6033,10 +6038,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-20T11:43:20+00:00",
+  "generated_at": "2026-08-20T12:43:31+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 948556
+  "total_bytes": 949883
 }
