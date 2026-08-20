@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1209,
+  "file_count": 1211,
   "files": [
     {
       "bytes": 471,
@@ -423,6 +423,11 @@
       "sha256": "0aa3d7892842f03e554210c150fc295f640b7d992689570811217889ef245782"
     },
     {
+      "bytes": 750,
+      "path": "archive/出行/2026-07-21 12-43-31 定居城市测试与南方向往_444b5e7dbbf5.md",
+      "sha256": "b5ffcb38b39072af72f200b55b8520bf042b8c340068557a005d3a4d74e954d4"
+    },
+    {
       "bytes": 583,
       "path": "archive/友谊/2026-07-20 08-44-41 口误与误解_44d57ba44b8f.md",
       "sha256": "02e68a211a93ee02a3f5a9cf575c796abe2f40a212584b7ed7fb6320bb1a18ee"
@@ -720,7 +725,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "e651643ada2bad837de338fa02c0cf3464bf7384d9d9d5779aaf16fdb55eebfa"
+      "sha256": "516982c2fcf46e9557c666381dcb43f8730d1bfd22df1ede7aa930462efe0ff0"
     },
     {
       "bytes": 709,
@@ -1788,11 +1793,6 @@
       "sha256": "8ce16f3b9f3ed2862b70cf025a7b9811e96f0fd740fa0008a0068d47406b875c"
     },
     {
-      "bytes": 734,
-      "path": "dynamic/出行/2026-07-21 12-43-31 定居城市测试与南方向往_444b5e7dbbf5.md",
-      "sha256": "c21fab2a1a3374c443d00dedfea3ab98c13f73c8d93f0959d9b9355a362bfb63"
-    },
-    {
       "bytes": 908,
       "path": "dynamic/创作/2026-07-31 14-27-49 猫图荷包封面_cabba00832c7.md",
       "sha256": "bb188aed1a69316c0e094153c17a3162b28bc0aa8862e685cbe66e8f3d594476"
@@ -2065,7 +2065,7 @@
     {
       "bytes": 1310,
       "path": "dynamic/家庭/2026-08-20 10-20-47 小鸡命名记_2a55f39660ab.md",
-      "sha256": "40635ebf879b2fe976d5c4d72db90d11529f679bc2aca4aea01e68c29f917ce0"
+      "sha256": "87072fff021b695031f9351c762085ee1f8296ad87678640a7bf55d6b378100a"
     },
     {
       "bytes": 696,
@@ -2080,7 +2080,7 @@
     {
       "bytes": 675,
       "path": "dynamic/居家/2026-07-17 17-19-43 小咪松饼_d5f6273fbdae.md",
-      "sha256": "e8a0c35b9c1440ad449a955cfa9debf29b4ade265e0f11db38fbae2f62f25702"
+      "sha256": "94626038c2d1dbd7fa2e64991300ba5a24ce67e3b9d2958d8a199c1818b7537f"
     },
     {
       "bytes": 790,
@@ -2115,7 +2115,7 @@
     {
       "bytes": 1817,
       "path": "dynamic/居家/2026-08-20 07-43-52 栖羽庄园动工_3f080151a8cd.md",
-      "sha256": "a968e2918fdfc62842f5ac4057177db393b37a3bad54a54a8ac1d7c5ec502ceb"
+      "sha256": "4aa76272df1426395fa0e1b968cdee9ec020e90d22f0f446f92883ab954d6e7d"
     },
     {
       "bytes": 638,
@@ -2355,7 +2355,7 @@
     {
       "bytes": 907,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "87ddc171ff34408365fe18ddac1957ff122540529c1a22520ac23f3f7f787140"
+      "sha256": "5b71d9ae16774284e17aa011f1ece11459396836b193b0e8a01f760a0bfb5a3a"
     },
     {
       "bytes": 1202,
@@ -2495,7 +2495,12 @@
     {
       "bytes": 1143,
       "path": "dynamic/工作/2026-08-20 13-27-56 AI协作备课_c78a1e0fe155.md",
-      "sha256": "d55e10297f5c8e0c494e1089f950152759c9c76a0a008362a67fa84520bbd97d"
+      "sha256": "e461b097b6a4b41165115862be42b7216fbe565b4e783be953cdc800bdc141d5"
+    },
+    {
+      "bytes": 1987,
+      "path": "dynamic/工作/2026-08-20 14-43-47 服务器故障排查_12ef5cd4d211.md",
+      "sha256": "5aaaca909495f5a2a3d02e5159b8be8755a6be8396d15b99f6be7a5c767904b8"
     },
     {
       "bytes": 727,
@@ -4743,6 +4748,11 @@
       "sha256": "365f610d81c0e9e4d733ca41979db239902974ebedc36e0a86fceb5f35dd6b9d"
     },
     {
+      "bytes": 1736,
+      "path": "dynamic/游戏/2026-08-20 14-45-04 庄园更新日志_1e08ce5c6764.md",
+      "sha256": "f20dd376c33cf289a165d8697ed084feccabc697627be61f3d34ef725fef6d89"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/睡眠/2026-07-16 10-17-45 小羽与小克的睡前仪式_331260c964fd.md",
       "sha256": "ef1444e09091d757e18345818ba936ede7f322e5303782e4ca50afc0581d1f0b"
@@ -5275,7 +5285,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "844c73ee385714d7e3ef5ccc44bdca394a0dff61bbd4a7478518cb7b1f7c773e"
+      "sha256": "8d2ff91a6aa46216feb31b3ff880547dfb16a38190032f5d610b4ea70fa1fe8a"
     },
     {
       "bytes": 622,
@@ -5545,12 +5555,12 @@
     {
       "bytes": 1300,
       "path": "dynamic/编程/2026-08-20 11-52-30 庄园地图上线_80faa250f0fc.md",
-      "sha256": "443b8e13bd017f42ad1f82d2f0d00b80fa09bb77192ce46bcb1407c99e7aee87"
+      "sha256": "c439d8f67009c1e0d9ca234b99908a4b3f0536cf7b74f8fc07062371d60c4acf"
     },
     {
       "bytes": 1496,
       "path": "dynamic/编程/2026-08-20 13-40-50 庄园夜施工_898359f17fdf.md",
-      "sha256": "18f74e88ec4be4456c9b0c243ad3d73f70d5cd5ad9d53d257b1c120ccd05dfcf"
+      "sha256": "b42fb9faa32c10033cb45d76ef7d5f16676b6e09fa3b24ce9f86fcae3b75e07c"
     },
     {
       "bytes": 1206,
@@ -5940,7 +5950,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "ce12e16c78ba1caf14496afdb57e5e0194dbcf4b43d903b716b41fd5ddc6e96f"
+      "sha256": "9eec53331e2cfda89d0ba1c4f347b0dae2b7d8f6899286a30af9813bd0608c2c"
     },
     {
       "bytes": 860,
@@ -5985,7 +5995,7 @@
     {
       "bytes": 820,
       "path": "permanent/游戏/2026-07-16 10-25-08 窗口焦虑事件_c5248d974cb8.md",
-      "sha256": "83ad78030c7fbf7e20890c4ab6e0dac16a72925a6750a892cd0502ff092306fa"
+      "sha256": "f7ba6dce74018f3fd3aea28d154d3747fe568cad96db66b095715e012235bca4"
     },
     {
       "bytes": 715,
@@ -5995,7 +6005,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "6782131ce1c1474b7958dd5db3b31bc6d03decb301563e4f9752e5ce64a9dcda"
+      "sha256": "0d540f480420a6717f24cb312aa9655bef97ffb53bb8472bf1a640904fa613ad"
     },
     {
       "bytes": 482,
@@ -6048,10 +6058,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-20T13:43:44+00:00",
+  "generated_at": "2026-08-20T15:21:40+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 952522
+  "total_bytes": 956261
 }
