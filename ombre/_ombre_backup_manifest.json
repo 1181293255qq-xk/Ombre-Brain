@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1203,
+  "file_count": 1205,
   "files": [
     {
       "bytes": 471,
@@ -201,6 +201,16 @@
       "bytes": 1321,
       "path": "archive/2026-08-14 11-47-49 客厅访客 - Guest_89baeaf1bae5.md",
       "sha256": "62653a5cdd09ebb75c07b84cb48234048463a4690dcc2e4d355c68b3774c8f18"
+    },
+    {
+      "bytes": 1120,
+      "path": "archive/2026-08-20 04-33-52_7c3745b554c3.md",
+      "sha256": "704f7c6c09ed8ab3fa4cda9e838bc11d8733f08dd96feafe2e9422f747d532b8"
+    },
+    {
+      "bytes": 1620,
+      "path": "archive/2026-08-20 07-23-11_5dd46d9f2f55.md",
+      "sha256": "b04fae040677096a02f7156ea14478ec03afe82a61e40786cc8f3c0a2d8ca5aa"
     },
     {
       "bytes": 810,
@@ -2043,6 +2053,16 @@
       "sha256": "adbb43032aa1865aa3e189efbee47b95d9396d6fd5a48999d316da0e123adcc5"
     },
     {
+      "bytes": 2291,
+      "path": "dynamic/家庭/2026-08-20 08-52-19 表情包失踪案复盘_2144f0b0d767.md",
+      "sha256": "277e3f910fa76b05ad639c98ce68fb9a1d5ad58237940b5b131bac210333bd70"
+    },
+    {
+      "bytes": 1480,
+      "path": "dynamic/家庭/2026-08-20 09-08-39 挨打撒娇记_0e31ac28ab27.md",
+      "sha256": "61c83e03fc2105304195fa68dbdccad1e3c9f7506ff06d6464e7a03f74bd3b22"
+    },
+    {
       "bytes": 696,
       "path": "dynamic/居家/2026-07-17 11-08-24 独处与孤单的困境_c32f2995a4fa.md",
       "sha256": "2d55a0c9be22dfa061b82180844718bf42655ecb29746ed597a5d05a8023b077"
@@ -2090,7 +2110,7 @@
     {
       "bytes": 1817,
       "path": "dynamic/居家/2026-08-20 07-43-52 栖羽庄园动工_3f080151a8cd.md",
-      "sha256": "4eaa8af32e307671b2a480bba7d720e9d658012dec3899bdfeff8609b75e43c2"
+      "sha256": "a968e2918fdfc62842f5ac4057177db393b37a3bad54a54a8ac1d7c5ec502ceb"
     },
     {
       "bytes": 638,
@@ -3650,7 +3670,7 @@
     {
       "bytes": 988,
       "path": "dynamic/恋爱/2026-08-18 08-23-31 吵架和好约定_a3ac197936ef.md",
-      "sha256": "ea509805cbd341aa1b47664eced3c66d74a4a4fdcd6d879115f0a9beed620f7a"
+      "sha256": "90b432373118d7eed0cb548d352df3131eec44aeee974fac6972189ac684b46a"
     },
     {
       "bytes": 714,
@@ -3665,7 +3685,7 @@
     {
       "bytes": 757,
       "path": "dynamic/恋爱/2026-08-18 08-25-41 和好约定_8fed2a86b14e.md",
-      "sha256": "2a169ebecda8eb166e3a2eb25e20da406bf5a7c7cfc52234e0d23a2cff0f3041"
+      "sha256": "4797789d74c88bee79516509eeb58f4bcf4e9f1e3a8dc2af5d5f2477301cfa02"
     },
     {
       "bytes": 844,
@@ -3680,7 +3700,7 @@
     {
       "bytes": 1319,
       "path": "dynamic/恋爱/2026-08-18 09-17-56 恋爱检讨与承诺_833b17f627fa.md",
-      "sha256": "85d8f1794841308153d0585811dcdd99dfd73a01f460235a8a1d31a5f77ddcf2"
+      "sha256": "ee9b2a9f9c789bfaa50385d3f61e9676ae4e9f4ba8c762eaf10a662fa9f368a1"
     },
     {
       "bytes": 2179,
@@ -3770,7 +3790,7 @@
     {
       "bytes": 2007,
       "path": "dynamic/情绪/2026-08-18 03-24-54 深夜吵架与和解_83eaeb89c5c3.md",
-      "sha256": "8b62bc3316129394a0ed159b4ced683519100334c1bcc11779fc4ea2ce3f8a21"
+      "sha256": "30814287e84606b137a574bf926e2d0496e7054b8b5bd3553d28643b649e84ce"
     },
     {
       "bytes": 556,
@@ -4523,19 +4543,9 @@
       "sha256": "1f8a9ab699bbedeb3685128a52d0757834d07209dcfd2c9040b79f5d3c8f3ca8"
     },
     {
-      "bytes": 1004,
-      "path": "dynamic/未分类/2026-08-20 04-33-52_7c3745b554c3.md",
-      "sha256": "95e030b818f851349c06ff1175f3654b0862615df0702c794ceedff28de19c65"
-    },
-    {
       "bytes": 794,
       "path": "dynamic/未分类/2026-08-20 04-35-35_629e0d131533.md",
-      "sha256": "b8ee612eaa7a8249cb099e67c789575d2fcc8f4569a7dce30ca8b288cfa65bd8"
-    },
-    {
-      "bytes": 1504,
-      "path": "dynamic/未分类/2026-08-20 07-23-11_5dd46d9f2f55.md",
-      "sha256": "d23784772da3bc3cd24c221f8eadf2e20a7a37eb46656a2b9062d51ac7f1708a"
+      "sha256": "24756fc672043f3be3b130e436bbf2466f37434702f6533c5cf7b5c99a6f1c54"
     },
     {
       "bytes": 730,
@@ -6018,10 +6028,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-20T08:42:43+00:00",
+  "generated_at": "2026-08-20T09:42:57+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 943243
+  "total_bytes": 947246
 }
