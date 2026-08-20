@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1207,
+  "file_count": 1209,
   "files": [
     {
       "bytes": 471,
@@ -2491,6 +2491,11 @@
       "bytes": 810,
       "path": "dynamic/工作/2026-08-18 08-25-51 工作流误触发_18338b4a8366.md",
       "sha256": "83dc4b115c65253b7aa9361ad03fef7e75863c41ff3b40558d8dba9de482e2a5"
+    },
+    {
+      "bytes": 1143,
+      "path": "dynamic/工作/2026-08-20 13-27-56 AI协作备课_c78a1e0fe155.md",
+      "sha256": "d55e10297f5c8e0c494e1089f950152759c9c76a0a008362a67fa84520bbd97d"
     },
     {
       "bytes": 727,
@@ -5543,6 +5548,11 @@
       "sha256": "443b8e13bd017f42ad1f82d2f0d00b80fa09bb77192ce46bcb1407c99e7aee87"
     },
     {
+      "bytes": 1496,
+      "path": "dynamic/编程/2026-08-20 13-40-50 庄园夜施工_898359f17fdf.md",
+      "sha256": "18f74e88ec4be4456c9b0c243ad3d73f70d5cd5ad9d53d257b1c120ccd05dfcf"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
@@ -6038,10 +6048,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-20T12:43:31+00:00",
+  "generated_at": "2026-08-20T13:43:44+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 949883
+  "total_bytes": 952522
 }
