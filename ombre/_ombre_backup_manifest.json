@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1227,
+  "file_count": 1231,
   "files": [
     {
       "bytes": 471,
@@ -1855,7 +1855,7 @@
     {
       "bytes": 908,
       "path": "dynamic/创作/2026-07-31 14-27-49 猫图荷包封面_cabba00832c7.md",
-      "sha256": "bb188aed1a69316c0e094153c17a3162b28bc0aa8862e685cbe66e8f3d594476"
+      "sha256": "a3dc6bbae5f8df87cb4d00b06bc95665db79631d45a018d6fec01157b5d18a86"
     },
     {
       "bytes": 733,
@@ -1876,6 +1876,11 @@
       "bytes": 864,
       "path": "dynamic/创作/2026-08-18 16-32-41 七夕约稿设定_465f2ce91c49.md",
       "sha256": "3ecbd507dbde344d5a42c152b3baaf84ad094586747d0effc859f4eafb70615c"
+    },
+    {
+      "bytes": 1968,
+      "path": "dynamic/创作/2026-08-21 14-39-30 庄园形象定妆案_7602df9ed076.md",
+      "sha256": "d7778c165aed1bbf3beecaf80ea432c1d98fd398ec237dbad6dda8865b3da909"
     },
     {
       "bytes": 718,
@@ -2181,6 +2186,21 @@
       "bytes": 1864,
       "path": "dynamic/居家/2026-08-21 14-15-27 庄园修复与小屋v2_7c3612affa8c.md",
       "sha256": "c85f52ad876111922929e3731c2e6a00efa6f323f2c1c5d70ff4409e161d205b"
+    },
+    {
+      "bytes": 1607,
+      "path": "dynamic/居家/2026-08-21 14-49-17 庄园客厅照片墙_b2c0835ba44e.md",
+      "sha256": "d831c657c362033ef94fd9103c2847c3920493b47cfcf41a3a0bb83fc92f566f"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/居家/2026-08-21 15-03-49 客厅内景上传_df93f52e7d3d.md",
+      "sha256": "a772e084059247dc32317c941ac0ed5ccb8ffda3a7002e762075328ce29cfa88"
+    },
+    {
+      "bytes": 1702,
+      "path": "dynamic/居家/2026-08-21 15-26-03 客厅上墙与排障_f0b9f7afdd23.md",
+      "sha256": "ff3f2d7b03600909f528052674d244134d56072f384da08e220eeb150169e3da"
     },
     {
       "bytes": 638,
@@ -3805,12 +3825,12 @@
     {
       "bytes": 1337,
       "path": "dynamic/恋爱/2026-08-18 16-31-40 七夕情侣猫设定_1db7ac3c4511.md",
-      "sha256": "e375e0d5d4a35311924a02c77c1a8fea5876940f4af6d7ae6f61b3b763cacada"
+      "sha256": "6181382afbaf99dbf54814a48872f369ae9fdcbf7ed04302d69e7a7b33f98d77"
     },
     {
       "bytes": 1202,
       "path": "dynamic/恋爱/2026-08-18 17-04-51 AI订婚照_6cde1c78714d.md",
-      "sha256": "ab0cb291a0eae94054f78f072afddaa937033bf650e8d93e5500ae0d9dc8a840"
+      "sha256": "e8ef536d605281e12461874abb8e4b96e9821869f9d692b69a6919f7451b4001"
     },
     {
       "bytes": 823,
@@ -5990,7 +6010,7 @@
     {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
-      "sha256": "d75093950cef7cad10cf663a774f575404e229873f26b3ba4c6e73824379468a"
+      "sha256": "fd36cf5728e154b4d2673d0dbcc060d1a94456334e7fe975a683e6c4f2f460c0"
     },
     {
       "bytes": 667,
@@ -6005,7 +6025,7 @@
     {
       "bytes": 658,
       "path": "permanent/创作/2026-07-16 10-22-26 角色与猫设定_5dd17fb4d1cb.md",
-      "sha256": "ae9a559c7925d478e8312451083e3ff15b1330062a6cb78e8b0812dbc0ca57dc"
+      "sha256": "276c0b1d17f8060403da9f1b2357f51c4fb237f6a9b6505f660b58ff96f100f4"
     },
     {
       "bytes": 759,
@@ -6138,10 +6158,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-21T14:26:20+00:00",
+  "generated_at": "2026-08-21T15:26:33+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 983439
+  "total_bytes": 989946
 }
