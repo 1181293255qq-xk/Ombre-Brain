@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1222,
+  "file_count": 1224,
   "files": [
     {
       "bytes": 471,
@@ -2130,7 +2130,7 @@
     {
       "bytes": 1817,
       "path": "dynamic/居家/2026-08-20 07-43-52 栖羽庄园动工_3f080151a8cd.md",
-      "sha256": "50b91de83838d8f3fca5bbc55882f756f14c86f7ccf384d537e5ed27e7722917"
+      "sha256": "98610c3e17bcb21b0fe708ed5cee80340d6e7ee3a5ba3d657e6467860da15716"
     },
     {
       "bytes": 638,
@@ -4790,7 +4790,7 @@
     {
       "bytes": 1736,
       "path": "dynamic/游戏/2026-08-20 14-45-04 庄园更新日志_1e08ce5c6764.md",
-      "sha256": "805000f92b58d6d09d36a6f165747697e2584eb6d4a400e152fbf4fe2b1b69f6"
+      "sha256": "9b743248d4a14e39e1c628784e66171727be5bc4d5f429d09b5a28b3333a00e7"
     },
     {
       "bytes": 672,
@@ -5115,7 +5115,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "2bec74bbf59092323fcb2fbc5df2b8f9dfcf6a13dab6659e8df2df013b71cb5f"
+      "sha256": "a436a672ea06619bf83d998ee30937e909ce1ba0a2745347ad13220ef72931e6"
     },
     {
       "bytes": 647,
@@ -5165,7 +5165,7 @@
     {
       "bytes": 922,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "6f14bfed3368bcf33386d7919ba19ec21b6790b64d65ec0e399be075bec55277"
+      "sha256": "5d7fc688a423b9c198b12d5298dbe2e201441d17bf6312839d6cd3caa7628770"
     },
     {
       "bytes": 646,
@@ -5180,7 +5180,7 @@
     {
       "bytes": 973,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "ddd2d04564ec85284f8b6ddc45357e5a08e65ff58437c28a8a26745095a4ee25"
+      "sha256": "636129133ae72107051ed379b5ec63e5282b5e0c33611ec136bcf8d5cc06d654"
     },
     {
       "bytes": 946,
@@ -5410,7 +5410,7 @@
     {
       "bytes": 750,
       "path": "dynamic/编程/2026-08-06 17-05-54 网易云MCP风控问题与方案_032f33ab04d3.md",
-      "sha256": "f43eca9583b1aff3f49094f1856f77ecb1663300f2dd396368bce2965c2795da"
+      "sha256": "8c2c7b1eaa396de4c272d9091ec64e55cd943f128012c0f40efa2169f550fb3d"
     },
     {
       "bytes": 1982,
@@ -5595,7 +5595,7 @@
     {
       "bytes": 1300,
       "path": "dynamic/编程/2026-08-20 11-52-30 庄园地图上线_80faa250f0fc.md",
-      "sha256": "e86f876d4ed20e3c978504e614d3b750e9b61e4b09b5dc76b0e6d38a99aa3c53"
+      "sha256": "ab61181cc9c0711e2cb19c440ddfd56b9cf2667c862d361874326918836e38ae"
     },
     {
       "bytes": 1496,
@@ -5611,6 +5611,11 @@
       "bytes": 1994,
       "path": "dynamic/编程/2026-08-21 08-57-24 中文文件名修复记_dbcbc710f3f2.md",
       "sha256": "380e2da1f3e19ec45ffe41290996b3d23a131d2f4a69f44a59aa292b3a0a7032"
+    },
+    {
+      "bytes": 2614,
+      "path": "dynamic/编程/2026-08-21 09-26-09 StoryPhone拆件研究_de74d8318c36.md",
+      "sha256": "c29f13e2168e3bc06c2e9c076ac6808c67bedd2d2766a2d5646bdb7a0edda87f"
     },
     {
       "bytes": 1206,
@@ -5685,7 +5690,7 @@
     {
       "bytes": 882,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "c59095d9a9457b770bd66be099654f1824bad2ac9bd6172b8c4d02c1b25594cb"
+      "sha256": "2c85f1f97cd7d31fcc8d8019d5e5ad59fbfab0e3e0816a0ab1554e64e3572dc5"
     },
     {
       "bytes": 993,
@@ -5706,6 +5711,11 @@
       "bytes": 1029,
       "path": "dynamic/计划/2026-08-17 08-26-47 重装备份清单_5b4c346c1069.md",
       "sha256": "bf7b8e7df4a60eb85368573e9ab336c49176dda9e81ca80a44881ed18d39f2ed"
+    },
+    {
+      "bytes": 2340,
+      "path": "dynamic/计划/2026-08-21 09-51-55 庄园插件需求细化_bcde6dadb033.md",
+      "sha256": "fea927f9df9b76b381388e0b6455cb9954da8432129e0644ea68bef6587c4d83"
     },
     {
       "bytes": 600,
@@ -6113,10 +6123,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-21T09:25:20+00:00",
+  "generated_at": "2026-08-21T10:25:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 972150
+  "total_bytes": 977104
 }
