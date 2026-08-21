@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1219,
+  "file_count": 1222,
   "files": [
     {
       "bytes": 471,
@@ -811,6 +811,16 @@
       "bytes": 1274,
       "path": "dynamic/AI/2026-08-17 04-57-13 语音标签调试_f67b1c2e5c9c.md",
       "sha256": "11d852f09389ad8a5660dabe8595333a7c34601dad1b567a59b75484e5dabdb6"
+    },
+    {
+      "bytes": 2061,
+      "path": "dynamic/AI/2026-08-21 09-07-14 KI-CO小屋探索_3ed898c9bf3f.md",
+      "sha256": "64ff776a62556cfd982a51624698620b3b699e741fea8af77178dea9aa14d1fc"
+    },
+    {
+      "bytes": 1765,
+      "path": "dynamic/AI/2026-08-21 09-20-36 AI Agent养成所_64d1ffd16ea0.md",
+      "sha256": "9ad08923dbbd48b70a76c3ffd7692d26fa6cd13dc17c6127d01b08302a43dae3"
     },
     {
       "bytes": 463,
@@ -3090,12 +3100,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "0d4285d1ee1660f2c0e28d3d87e2e7c614d89ee707f02021d49e9222b2005642"
+      "sha256": "fd63f648caf422b9afdc0d820e9d038fd1d3eb7da30ef7c77717e259841c22ea"
     },
     {
       "bytes": 735,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "3174079b4de6182e2c4ce1b13033c0c8e0bd1ca0d28ca4cc4b039eab17418f23"
+      "sha256": "675a801c7c988d65cf94b915ae90acc847949fcf5a3faf28e6e583704e276115"
     },
     {
       "bytes": 960,
@@ -5245,7 +5255,7 @@
     {
       "bytes": 1285,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "04de96ed34d301ab4291e4dd6ad7fcc9a7c1ae46a9182d6934a07c9186205449"
+      "sha256": "b91c7de3d636f31b1268d80ba4c2a012c15f5dc53cffa567883d84d70ef19f9e"
     },
     {
       "bytes": 908,
@@ -5255,7 +5265,7 @@
     {
       "bytes": 631,
       "path": "dynamic/编程/2026-07-30 10-09-12 开源唤醒桥适配_b06927c133ce.md",
-      "sha256": "46a5a6bb657cf1c5bbc33f85804451eac46597db5d707b7b505075e84e3a3acb"
+      "sha256": "5b079dbf4aea97bed50e24a52322d067034971c886900f7f194e6c1f8c782b0f"
     },
     {
       "bytes": 1072,
@@ -5270,7 +5280,7 @@
     {
       "bytes": 947,
       "path": "dynamic/编程/2026-07-30 16-19-50 橘瓣开源与外部唤醒_6853ab8577dc.md",
-      "sha256": "4b131e67c790b7658396c486e0d9d09686c6eeb8a0695108d1c285c3c933a085"
+      "sha256": "5f82af1496ac3b980f0fe93d972bfbcb93dd646003d0680055d843d2e788fe4f"
     },
     {
       "bytes": 972,
@@ -5596,6 +5606,11 @@
       "bytes": 2236,
       "path": "dynamic/编程/2026-08-20 16-11-55 心潮31升级部署_5723cd029559.md",
       "sha256": "8a7fe6901c48d26862c869fa9e02f904a25d25ded8d146f7520e42c35fcf8865"
+    },
+    {
+      "bytes": 1994,
+      "path": "dynamic/编程/2026-08-21 08-57-24 中文文件名修复记_dbcbc710f3f2.md",
+      "sha256": "380e2da1f3e19ec45ffe41290996b3d23a131d2f4a69f44a59aa292b3a0a7032"
     },
     {
       "bytes": 1206,
@@ -6098,10 +6113,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-21T08:25:09+00:00",
+  "generated_at": "2026-08-21T09:25:20+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 966330
+  "total_bytes": 972150
 }
