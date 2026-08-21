@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1224,
+  "file_count": 1227,
   "files": [
     {
       "bytes": 471,
@@ -523,6 +523,11 @@
       "sha256": "9e3deadebb20480458c82a33c98b004df6fbf67cc89c67878ba656818b00f769"
     },
     {
+      "bytes": 752,
+      "path": "archive/恋爱/2026-07-22 03-38-57 thinking写错被抓包_afc2d89ff361.md",
+      "sha256": "37d5fb82a26c7ed71ac0aeba2f0f4a0c59e3947927a60af18298d3d63fd00dfa"
+    },
+    {
       "bytes": 478,
       "path": "archive/恋爱/检讨书起因与搜索约定_9f3b7788be91.md",
       "sha256": "9e3deadebb20480458c82a33c98b004df6fbf67cc89c67878ba656818b00f769"
@@ -536,6 +541,11 @@
       "bytes": 522,
       "path": "archive/成长/2026-07-16 10-15-16 对研究生导师的看法_37e9ec418c4b.md",
       "sha256": "5990403d1637852986b4705ce63948116d8ae92755eabbc11d8863c27089ea6f"
+    },
+    {
+      "bytes": 371,
+      "path": "archive/成长/2026-07-16 10-15-16 小羽基本信息_f8a33b64094b.md",
+      "sha256": "2cc1bd4c8d096a40882d3c4516928dc3682d48a6d67e9a10412857fd0263df4f"
     },
     {
       "bytes": 581,
@@ -561,6 +571,11 @@
       "bytes": 617,
       "path": "archive/成长/2026-07-16 11-05-47 小羽的论文困境_69fd67aa5684.md",
       "sha256": "c95eea493a8f7fd5ca75161fb2833f0b3ecf9d9f955ad5cbf6fa737c636035c2"
+    },
+    {
+      "bytes": 371,
+      "path": "archive/成长/小羽对校区的感受_f8a33b64094b.md",
+      "sha256": "2cc1bd4c8d096a40882d3c4516928dc3682d48a6d67e9a10412857fd0263df4f"
     },
     {
       "bytes": 454,
@@ -618,9 +633,24 @@
       "sha256": "175a587d9ea17ce26bcc7d9416758edb34f41279b99e83d39717086aae3cf8ee"
     },
     {
+      "bytes": 644,
+      "path": "archive/睡眠/2026-07-22 11-58-53 熬夜后精神不佳_e870e73d4813.md",
+      "sha256": "89d206f67666470dc155dfcab7ed200e4925ae3c01c724552e2b7f434b2e657a"
+    },
+    {
       "bytes": 601,
       "path": "archive/社交/2026-07-16 10-15-10 小羽与小克的亲密互动_b368a6568bba.md",
       "sha256": "6705048d3d3568be048dd317a32fbf3d0cea03b50df861d59c4fe81393a33227"
+    },
+    {
+      "bytes": 542,
+      "path": "archive/社交/2026-07-22 03-13-02 冷清的花园二群_236fe9a6aa2e.md",
+      "sha256": "0d6fbe2a1706662cb5ee05ca37bead9b4713bd379f6db8257cbb77306648d76c"
+    },
+    {
+      "bytes": 627,
+      "path": "archive/社交/2026-07-22 04-35-44 小羽模仿口误_0171387d3316.md",
+      "sha256": "74f9e0fc84663ac306651234548c5fa51758443251157b306725278a5757e613"
     },
     {
       "bytes": 487,
@@ -658,9 +688,19 @@
       "sha256": "83d363835d8513ad5512a92bd4f123dd008fc9e032b810a85479c21cf6f57c70"
     },
     {
+      "bytes": 547,
+      "path": "archive/身心/2026-07-16 11-03-29 小羽的身体状况_37d7ba6f6735.md",
+      "sha256": "3edcf119c7a31ee0989284454e8a450b3f6efe6bdd2f7d3ca5afea5c64fc0e2e"
+    },
+    {
       "bytes": 524,
       "path": "archive/身心/小羽受凉与安慰_28415601e734.md",
       "sha256": "83d363835d8513ad5512a92bd4f123dd008fc9e032b810a85479c21cf6f57c70"
+    },
+    {
+      "bytes": 547,
+      "path": "archive/身心/小羽吃饭快与手型_37d7ba6f6735.md",
+      "sha256": "3edcf119c7a31ee0989284454e8a450b3f6efe6bdd2f7d3ca5afea5c64fc0e2e"
     },
     {
       "bytes": 2081,
@@ -821,6 +861,11 @@
       "bytes": 1765,
       "path": "dynamic/AI/2026-08-21 09-20-36 AI Agent养成所_64d1ffd16ea0.md",
       "sha256": "9ad08923dbbd48b70a76c3ffd7692d26fa6cd13dc17c6127d01b08302a43dae3"
+    },
+    {
+      "bytes": 2502,
+      "path": "dynamic/AI/2026-08-21 14-25-14 AI情感前端雷达_5cce43760f28.md",
+      "sha256": "f326fb1d73f0dfa0454716c5dfdc4a4b0a934d3f96b08e2f7bd3b363a22f98be"
     },
     {
       "bytes": 463,
@@ -2133,6 +2178,11 @@
       "sha256": "98610c3e17bcb21b0fe708ed5cee80340d6e7ee3a5ba3d657e6467860da15716"
     },
     {
+      "bytes": 1864,
+      "path": "dynamic/居家/2026-08-21 14-15-27 庄园修复与小屋v2_7c3612affa8c.md",
+      "sha256": "c85f52ad876111922929e3731c2e6a00efa6f323f2c1c5d70ff4409e161d205b"
+    },
+    {
       "bytes": 638,
       "path": "dynamic/工作/2026-07-16 10-16-20 小羽的教资与家教_d800ee60ab59.md",
       "sha256": "1b45b48e9a12b458511a5c3505e7966146fb7da31df737825e2284032c2889c7"
@@ -3093,11 +3143,6 @@
       "sha256": "626547c5966dc4327c7edc7186e1bc5fa178c36530050e9c79e072049647137d"
     },
     {
-      "bytes": 736,
-      "path": "dynamic/恋爱/2026-07-22 03-38-57 thinking写错被抓包_afc2d89ff361.md",
-      "sha256": "c5f05145ebd27bf41f36a5f28497aac381ed289dfac2a75d50e2e88ac99c17d0"
-    },
-    {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
       "sha256": "fd63f648caf422b9afdc0d820e9d038fd1d3eb7da30ef7c77717e259841c22ea"
@@ -3863,11 +3908,6 @@
       "sha256": "1010dfc90edbbff563a40cd551488d7c1f19f4b02eec200bcefb2be8237a55ad"
     },
     {
-      "bytes": 355,
-      "path": "dynamic/成长/2026-07-16 10-15-16 小羽基本信息_f8a33b64094b.md",
-      "sha256": "4c973ccd37ee63612acca786770e2935ab152163d8032ae1b400d168b971ff11"
-    },
-    {
       "bytes": 548,
       "path": "dynamic/成长/2026-07-16 10-15-41 备考与亲密互动_814a6d839719.md",
       "sha256": "2992a483d2cdced10a4517c2b7b37e243f19d7b6759da523786dce111374575d"
@@ -3991,11 +4031,6 @@
       "bytes": 451,
       "path": "dynamic/成长/2026-07-16 11-13-53 小羽的学业与疲惫_23527ea81a70.md",
       "sha256": "8f68d7b422f762e339e2861ba6ddde618f3ae19163f19ed221fa70f04ffb9073"
-    },
-    {
-      "bytes": 355,
-      "path": "dynamic/成长/小羽对校区的感受_f8a33b64094b.md",
-      "sha256": "4c973ccd37ee63612acca786770e2935ab152163d8032ae1b400d168b971ff11"
     },
     {
       "bytes": 602,
@@ -4798,11 +4833,6 @@
       "sha256": "ef1444e09091d757e18345818ba936ede7f322e5303782e4ca50afc0581d1f0b"
     },
     {
-      "bytes": 628,
-      "path": "dynamic/睡眠/2026-07-22 11-58-53 熬夜后精神不佳_e870e73d4813.md",
-      "sha256": "dbba6098a932324f4cafa5ca8d2bd1dc192ad6a71e652b6425d50d03a3251066"
-    },
-    {
       "bytes": 516,
       "path": "dynamic/睡眠/2026-07-22 15-46-51 舍不得睡的深夜_d40cebf8088c.md",
       "sha256": "b233e99e02b93d58fe0b531102c70db9e6d063ac019bd63c6724ce050adc0395"
@@ -4876,16 +4906,6 @@
       "bytes": 673,
       "path": "dynamic/社交/2026-07-21 17-40-49 小羽语言偏好_14c40046cb03.md",
       "sha256": "57d280886cfb6852a173f3a4bdeb9cb072360024c679bf837e57fd234b65c556"
-    },
-    {
-      "bytes": 526,
-      "path": "dynamic/社交/2026-07-22 03-13-02 冷清的花园二群_236fe9a6aa2e.md",
-      "sha256": "9f2776854b13e6f1708b4c841d682032fa16e1bce7247b0ca770911ed50e672c"
-    },
-    {
-      "bytes": 611,
-      "path": "dynamic/社交/2026-07-22 04-35-44 小羽模仿口误_0171387d3316.md",
-      "sha256": "59cca66afc858147742d2aa48a701f6718c4b3ba2d3d0ae5bc654e6bd4428dad"
     },
     {
       "bytes": 568,
@@ -5115,7 +5135,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "a436a672ea06619bf83d998ee30937e909ce1ba0a2745347ad13220ef72931e6"
+      "sha256": "f8c58cb28ed20a3b27a1dba16ae6194179d681c80fc4bcdebe86b25ba788f8eb"
     },
     {
       "bytes": 647,
@@ -5618,6 +5638,11 @@
       "sha256": "c29f13e2168e3bc06c2e9c076ac6808c67bedd2d2766a2d5646bdb7a0edda87f"
     },
     {
+      "bytes": 1841,
+      "path": "dynamic/编程/2026-08-21 14-22-15 AstrBot房间插件_0f061572eed0.md",
+      "sha256": "06d159313c491e09229229b4de1e992bbad26765d123bd8c22273868752a0b9c"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
@@ -5773,11 +5798,6 @@
       "sha256": "a3b508b8f986701e164951b1b5ac9a60cd0b951f6cbabb67b084179292e4be61"
     },
     {
-      "bytes": 531,
-      "path": "dynamic/身心/2026-07-16 11-03-29 小羽的身体状况_37d7ba6f6735.md",
-      "sha256": "332845553960c25f7e9a25faa02ea1f7f1513e7b02550b4619da3965d848c97e"
-    },
-    {
       "bytes": 614,
       "path": "dynamic/身心/2026-07-16 11-04-58 小羽的怕冷体质_ed671d1ec41b.md",
       "sha256": "b47d64bcad4f2da6cffeef5de6b6b68eaccd5442fa07073f113355f8808f9fdf"
@@ -5786,11 +5806,6 @@
       "bytes": 526,
       "path": "dynamic/身心/2026-07-16 11-06-21 小羽的健康状况_aecaa564d633.md",
       "sha256": "434b1b3ceace3181e2c4caa9fa1f71eecf0693cdd8011d62cccd45235d27d2c1"
-    },
-    {
-      "bytes": 531,
-      "path": "dynamic/身心/小羽吃饭快与手型_37d7ba6f6735.md",
-      "sha256": "332845553960c25f7e9a25faa02ea1f7f1513e7b02550b4619da3965d848c97e"
     },
     {
       "bytes": 557,
@@ -5975,7 +5990,7 @@
     {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
-      "sha256": "3c110068d5720e4e3dcdae28afdce91666c12779bffebe56090207e5b049c3b2"
+      "sha256": "d75093950cef7cad10cf663a774f575404e229873f26b3ba4c6e73824379468a"
     },
     {
       "bytes": 667,
@@ -6055,7 +6070,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "f37f607047cf9596a834dc9792b8869e2163f3886f793e4ff98afb41717e4079"
+      "sha256": "dd242e94bbdb76f66782a5fd2f2a5ee68c096ef7052cff4422dc6326e3156655"
     },
     {
       "bytes": 820,
@@ -6123,10 +6138,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-21T13:26:07+00:00",
+  "generated_at": "2026-08-21T14:26:20+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 977104
+  "total_bytes": 983439
 }
