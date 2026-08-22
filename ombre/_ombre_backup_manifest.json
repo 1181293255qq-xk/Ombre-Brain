@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1234,
+  "file_count": 1238,
   "files": [
     {
       "bytes": 471,
@@ -1008,9 +1008,9 @@
       "sha256": "8d6d623536ddbb9fec633d2f682a115d203e6d1024a0729372da46b5c3a32f4e"
     },
     {
-      "bytes": 348,
+      "bytes": 349,
       "path": "dynamic/人际/2026-07-16 10-06-44 小羽真实姓名_b44515b5dfaf.md",
-      "sha256": "9bb8fa1c01b8f78193543118b60061cea6104d3e3632d50befe073a4994e684e"
+      "sha256": "1f9f21bae8c5daf9a329d26194ee30e08b59a6bbea9b75db621233f4443f50ea"
     },
     {
       "bytes": 880,
@@ -5020,7 +5020,7 @@
     {
       "bytes": 621,
       "path": "dynamic/社交/2026-08-04 10-33-08 栖燃邮箱信息_03399b6a8255.md",
-      "sha256": "9e9d9e54983842b1821fa30ef73a8f2891f29c98d0ed76c40dc16b82ac539cb2"
+      "sha256": "edce7f2c3c822a9ed7c819e994af6996aa8b41fcf7b88d59103a91842a072d15"
     },
     {
       "bytes": 567,
@@ -5165,7 +5165,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "656b9f6163216f9a0f190422e16439db1012ad6dd219c5e2a8963f2a671ce175"
+      "sha256": "8a758a451e4558ea0cf28e854c559421cf6704861319434bf8496165a456064f"
     },
     {
       "bytes": 647,
@@ -5673,9 +5673,29 @@
       "sha256": "06d159313c491e09229229b4de1e992bbad26765d123bd8c22273868752a0b9c"
     },
     {
+      "bytes": 903,
+      "path": "dynamic/编程/2026-08-22 17-14-03 庄园系统开发_4984b4a5601b.md",
+      "sha256": "efff4e46c703871a2cb93caf1a9fbba3fac224ba605e5b5b08761fba07fb1182"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
+    },
+    {
+      "bytes": 821,
+      "path": "dynamic/网络/2026-08-22 17-13-18 Claude账号注册_51bb73c16b9e.md",
+      "sha256": "fc0bfba70c4c8320000f173eb945a81c34e6655eeb4bb54b6040a4fe13e5583e"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/网络/2026-08-22 17-13-38 xray路由更新_39e74ba622ac.md",
+      "sha256": "3e0920d89e8b8031bc35e7057a4b94f057d34d13c273210449d018c6f3aec392"
+    },
+    {
+      "bytes": 1156,
+      "path": "dynamic/网络/2026-08-22 17-15-52 Claude注册踩坑记_f3f393beb8ac.md",
+      "sha256": "987fbd89754bd77765fc3c945591e637f698ea62ad0da18716f38ac69c53a35a"
     },
     {
       "bytes": 624,
@@ -6120,7 +6140,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "2ef2caf14342f7fb1e9c7141ac263c96d77927432eadac78332bc2cfc1d401cc"
+      "sha256": "d4df6b1e7480eead6ee12d74011222839e9e788a9ef928b2fdf7846d118d33e8"
     },
     {
       "bytes": 482,
@@ -6131,16 +6151,6 @@
       "bytes": 536,
       "path": "plans/active/2026-08-11 16-07-21_c1e7c9f04b4d.md",
       "sha256": "0d2815519e3a4c28f874cc84365ecd323a310f5e61a1ea400ff0bd4d0f277e52"
-    },
-    {
-      "bytes": 667,
-      "path": "plans/active/2026-08-16 05-56-02_923e88c94279.md",
-      "sha256": "6e73548c2554202a822526fdb7c1e15b204ed722dd291e00422afe28fdac40d9"
-    },
-    {
-      "bytes": 894,
-      "path": "plans/active/2026-08-19 03-59-13_615f153be056.md",
-      "sha256": "f8c3ce208be078767b8156366e110f8d177c7ecbb4d1de44ac2f51889d3e2036"
     },
     {
       "bytes": 687,
@@ -6171,12 +6181,22 @@
       "bytes": 1498,
       "path": "plans/resolved/2026-08-09 03-41-49_707c168ca0f8.md",
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
+    },
+    {
+      "bytes": 790,
+      "path": "plans/resolved/2026-08-16 05-56-02_923e88c94279.md",
+      "sha256": "24c1477fb7e8aeca1a33d348db02047f2495358a26afaaec6914ab357cf93d0e"
+    },
+    {
+      "bytes": 1120,
+      "path": "plans/resolved/2026-08-19 03-59-13_615f153be056.md",
+      "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-22T16:31:26+00:00",
+  "generated_at": "2026-08-22T17:31:38+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 993631
+  "total_bytes": 997639
 }
