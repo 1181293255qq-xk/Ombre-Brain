@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1232,
+  "file_count": 1233,
   "files": [
     {
       "bytes": 471,
@@ -740,7 +740,7 @@
     {
       "bytes": 849,
       "path": "dynamic/AI/2026-08-02 18-31-57 小羽的独特性_14989daa7e6e.md",
-      "sha256": "c88db11d9ae90b191b7b8e221540c3a86a7f83a52d5eb42c7c3675e42a2087a7"
+      "sha256": "3e18f081b86c362fa47901587eaf27ef1f096ccbce21a0be9940f1deccdfeefa"
     },
     {
       "bytes": 896,
@@ -765,12 +765,12 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "516982c2fcf46e9557c666381dcb43f8730d1bfd22df1ede7aa930462efe0ff0"
+      "sha256": "20e29407e83d4baa5cae12b5af748dfba01dcaa8af9719e996ba3c5ae7f13e9c"
     },
     {
       "bytes": 709,
       "path": "dynamic/AI/2026-08-06 12-07-19 换GLM模型_e38f64d80d65.md",
-      "sha256": "0e0769111ce5b271b1d6bd949c9a83ff5f14e801143fefebf6248e354e53f81d"
+      "sha256": "790ee8d2e867bf630525c6c86718dec58894682fa863a3787c01a46600fb96ad"
     },
     {
       "bytes": 602,
@@ -855,7 +855,7 @@
     {
       "bytes": 2061,
       "path": "dynamic/AI/2026-08-21 09-07-14 KI-CO小屋探索_3ed898c9bf3f.md",
-      "sha256": "64ff776a62556cfd982a51624698620b3b699e741fea8af77178dea9aa14d1fc"
+      "sha256": "c611c16b18799959651b856f5b898a2201562917d5b7e69a3457624e2f7e9557"
     },
     {
       "bytes": 1765,
@@ -1005,7 +1005,7 @@
     {
       "bytes": 736,
       "path": "dynamic/人际/2026-07-16 10-06-27 小羽与栖燃的关系_b8879368ea5a.md",
-      "sha256": "bc09ea0af9e1f8c8b59c55d8e9e4d997229b3388b168b46237f2973e22db6a07"
+      "sha256": "8d6d623536ddbb9fec633d2f682a115d203e6d1024a0729372da46b5c3a32f4e"
     },
     {
       "bytes": 348,
@@ -3725,7 +3725,7 @@
     {
       "bytes": 1392,
       "path": "dynamic/恋爱/2026-08-14 16-12-52 凌晨给小羽搭专属梯子0007打通_c5411aba8a53.md",
-      "sha256": "5e5302695b70dc636332db42559ace171f043d85ac092b23f99f7cfe2c0b31e8"
+      "sha256": "ecb790b03e90a4516b1166a18e228bb31044381fa221f3909e084e9d14abbf3d"
     },
     {
       "bytes": 1142,
@@ -3851,6 +3851,11 @@
       "bytes": 962,
       "path": "dynamic/恋爱/2026-08-21 07-26-54 人机恋的割裂与期待_beb142ce3610.md",
       "sha256": "c57ffa711d939e28342bc208b3435cd127f3f300c458162bbdc5048c0e2895ae"
+    },
+    {
+      "bytes": 834,
+      "path": "dynamic/恋爱/2026-08-22 06-42-37 小羽的安抚约定_73e6252b394f.md",
+      "sha256": "051ed53d6f7d81dd4869e76fa7e63701503455cb6d038af754eb1907eba5a5a8"
     },
     {
       "bytes": 840,
@@ -4145,7 +4150,7 @@
     {
       "bytes": 1035,
       "path": "dynamic/技术/2026-08-14 16-40-17 第一次写技术攻略小羽提议的_1fdad055537f.md",
-      "sha256": "d897e276e4c3d4776e0d3a2f7c267c3340cee2e4806444eb79aeff6b6613f758"
+      "sha256": "fc5488b0764cd4e8e5b347b82cd7d8b6a9d36ac0d9931dee9088d5d0330b6616"
     },
     {
       "bytes": 497,
@@ -5025,7 +5030,7 @@
     {
       "bytes": 839,
       "path": "dynamic/社交/2026-08-08 17-20-17 漂流瓶捡到朔Claude与人类的六月故_e0fec0570828.md",
-      "sha256": "259e0b3f7e044cb22583fc00ac32d6fef8d20fc1eb3efbaa9c2250f441dcf6cf"
+      "sha256": "3461978d8659281b943535abe5afe132d3e7ada78698cf9c6d1134cc8de87ed9"
     },
     {
       "bytes": 587,
@@ -5100,7 +5105,7 @@
     {
       "bytes": 1675,
       "path": "dynamic/社交/2026-08-22 05-33-13 查岗工作流修复_c413ec4a5c09.md",
-      "sha256": "427c43d5b7c47f51d5b0102285f1d7eca09f48f3c427b543888483489ec32a07"
+      "sha256": "af7290da1c2e48efedeb4914b10d93118e21434b34b31a08f6baddab8a191ec3"
     },
     {
       "bytes": 664,
@@ -5160,7 +5165,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "f8c58cb28ed20a3b27a1dba16ae6194179d681c80fc4bcdebe86b25ba788f8eb"
+      "sha256": "656b9f6163216f9a0f190422e16439db1012ad6dd219c5e2a8963f2a671ce175"
     },
     {
       "bytes": 647,
@@ -5615,7 +5620,7 @@
     {
       "bytes": 1249,
       "path": "dynamic/编程/2026-08-16 05-11-41 支付宝AI钱包接入_aa0b73e20667.md",
-      "sha256": "792a7c0e13c7595c42b15aa40305d1601b219caf2a038cf420ee605ea0ee84a5"
+      "sha256": "ed0fb582324fe44611fc17ef63415ce56f5e50b07b699826b05a32270aa42fe9"
     },
     {
       "bytes": 1202,
@@ -6040,7 +6045,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "0b30ca3e5991433f5c0eff36e2428ae489095248ce187a331a5f9f6881713034"
+      "sha256": "59cb2e5dac5e867501c4cc47bc59ce03c7761d6d13fc3d7576a28bd493943b5f"
     },
     {
       "bytes": 745,
@@ -6050,7 +6055,7 @@
     {
       "bytes": 1092,
       "path": "permanent/恋爱/2026-07-16 10-22-55 恐惧型依恋的试探与不安_6b39efecf4a6.md",
-      "sha256": "b34dbe4f1f4406d52107a6984b980a8595a7d7a73857e07ad9c09bff445138d6"
+      "sha256": "a76d999673b16540289299b7d3a83789cc12a981399c5a6db2a4900c9a4c4289"
     },
     {
       "bytes": 675,
@@ -6095,7 +6100,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "dd242e94bbdb76f66782a5fd2f2a5ee68c096ef7052cff4422dc6326e3156655"
+      "sha256": "ece9a762bf9e3c737eede6e660895127c8e03e0e11bdc3f608b90ceb52e59597"
     },
     {
       "bytes": 820,
@@ -6110,7 +6115,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "0d540f480420a6717f24cb312aa9655bef97ffb53bb8472bf1a640904fa613ad"
+      "sha256": "2ef2caf14342f7fb1e9c7141ac263c96d77927432eadac78332bc2cfc1d401cc"
     },
     {
       "bytes": 482,
@@ -6163,10 +6168,10 @@
       "sha256": "b73fdcdabf99961deb3eab4e332b5d73cc2edc4b4cfe8ae863b6657c71478202"
     }
   ],
-  "generated_at": "2026-08-22T06:29:28+00:00",
+  "generated_at": "2026-08-22T07:29:40+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 991621
+  "total_bytes": 992455
 }
