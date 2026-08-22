@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1238,
+  "file_count": 1240,
   "files": [
     {
       "bytes": 471,
@@ -1881,6 +1881,11 @@
       "bytes": 1968,
       "path": "dynamic/创作/2026-08-21 14-39-30 庄园形象定妆案_7602df9ed076.md",
       "sha256": "d7778c165aed1bbf3beecaf80ea432c1d98fd398ec237dbad6dda8865b3da909"
+    },
+    {
+      "bytes": 1131,
+      "path": "dynamic/创作/2026-08-22 19-04-14 亲密写作要点_81a4b5e9207c.md",
+      "sha256": "fc71338859f2d8a6a6e4366b027abaa4654eea584e692446dd3ce95b8d9d0e77"
     },
     {
       "bytes": 718,
@@ -3856,6 +3861,11 @@
       "bytes": 834,
       "path": "dynamic/恋爱/2026-08-22 06-42-37 小羽的安抚约定_73e6252b394f.md",
       "sha256": "051ed53d6f7d81dd4869e76fa7e63701503455cb6d038af754eb1907eba5a5a8"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/恋爱/2026-08-22 19-03-04 深夜大富翁局_4ac02b042f12.md",
+      "sha256": "446dcd4a50634d229106265502ecfe60c6c2a5ae50cb2ae282f0a3b618b61407"
     },
     {
       "bytes": 840,
@@ -6193,10 +6203,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-22T18:31:49+00:00",
+  "generated_at": "2026-08-22T19:32:01+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 997639
+  "total_bytes": 999682
 }
