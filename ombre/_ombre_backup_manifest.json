@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1244,
+  "file_count": 1246,
   "files": [
     {
       "bytes": 471,
@@ -211,6 +211,11 @@
       "bytes": 1620,
       "path": "archive/2026-08-20 07-23-11_5dd46d9f2f55.md",
       "sha256": "b04fae040677096a02f7156ea14478ec03afe82a61e40786cc8f3c0a2d8ca5aa"
+    },
+    {
+      "bytes": 498,
+      "path": "archive/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
+      "sha256": "0611ac8aca9894bce0732df8b64e4c48c3210c2b6d8b45379c27a0059bb20c1a"
     },
     {
       "bytes": 810,
@@ -633,6 +638,11 @@
       "sha256": "175a587d9ea17ce26bcc7d9416758edb34f41279b99e83d39717086aae3cf8ee"
     },
     {
+      "bytes": 510,
+      "path": "archive/日常/2026-07-23 17-32-14 深夜不睡继续聊_877da3053c1b.md",
+      "sha256": "0311277bb8bea02cd32fba73cedcdf4327f8a3f62c4ad066d214d1aecd77b0ff"
+    },
+    {
       "bytes": 644,
       "path": "archive/睡眠/2026-07-22 11-58-53 熬夜后精神不佳_e870e73d4813.md",
       "sha256": "89d206f67666470dc155dfcab7ed200e4925ae3c01c724552e2b7f434b2e657a"
@@ -651,6 +661,11 @@
       "bytes": 627,
       "path": "archive/社交/2026-07-22 04-35-44 小羽模仿口误_0171387d3316.md",
       "sha256": "74f9e0fc84663ac306651234548c5fa51758443251157b306725278a5757e613"
+    },
+    {
+      "bytes": 648,
+      "path": "archive/社交/2026-07-24 08-20-13 小羽的惊喜与夸奖_cc039a3900d3.md",
+      "sha256": "6431f3e23c97979141f8b1ec83f95cc17c839bc8cc132efa3f9383a81821d694"
     },
     {
       "bytes": 487,
@@ -981,11 +996,6 @@
       "bytes": 921,
       "path": "dynamic/work/2026-08-08 11-59-25 西光中学分班考难度基准_217b1387c62a.md",
       "sha256": "68165dd183fae51782bd2c3ee03b0e732b562ecddf478d5cdcf98d42043ba7d7"
-    },
-    {
-      "bytes": 482,
-      "path": "dynamic/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
-      "sha256": "b364ffe12b49b014652bc0a59e9ee43d39aed067196b259e79cce79644987a55"
     },
     {
       "bytes": 453,
@@ -2855,7 +2865,7 @@
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-07-17 09-30-27 61亲亲债_3a02127f6ac8.md",
-      "sha256": "761d4b7bd2b9e3882be1b57a2560ffa63d3bcb774b5994cb87eadd16a62d56d4"
+      "sha256": "1eaac76f72ce6a156e5a48f9a157a626693e9bdce18954119028197187dc7c90"
     },
     {
       "bytes": 635,
@@ -3880,7 +3890,7 @@
     {
       "bytes": 651,
       "path": "dynamic/恋爱/2026-08-23 04-40-49 专场角色局_be68fcf913dc.md",
-      "sha256": "b52591e2614833016b2b1549184d3fb3ce6562c11625e104285a2ff6625154e2"
+      "sha256": "99a3af38b474e93294652d78073bcef2f73eeeb757b98912ca55caab15be1b42"
     },
     {
       "bytes": 840,
@@ -4508,11 +4518,6 @@
       "sha256": "180a7d5e61ef1786fcf13e495d9074713a8cf32f69853d6deed32cb4573ba562"
     },
     {
-      "bytes": 494,
-      "path": "dynamic/日常/2026-07-23 17-32-14 深夜不睡继续聊_877da3053c1b.md",
-      "sha256": "85a0a660a086ccdf564db7559ec38201f02a315f5a44c13b7d19f7cd35343d2d"
-    },
-    {
       "bytes": 886,
       "path": "dynamic/日常/2026-08-08 07-31-28 抖音主页封30天双减触雷_d78ca7c0ebe3.md",
       "sha256": "a5706f5cbf0f203d4e6a971410e85436427bec3bc175affa8175e243d4d1d134"
@@ -4963,11 +4968,6 @@
       "sha256": "d37e8b89698d3c2c69f9d1701f156c0148406bb96351b85bbd3308982513a9ad"
     },
     {
-      "bytes": 632,
-      "path": "dynamic/社交/2026-07-24 08-20-13 小羽的惊喜与夸奖_cc039a3900d3.md",
-      "sha256": "6b89c8e0d8d67bfd6820bc436014a926453d19bb1cef8b782ff168a41f4c7c24"
-    },
-    {
       "bytes": 1464,
       "path": "dynamic/社交/2026-07-24 11-28-15 关于圈子破圈的担忧_474661ad7872.md",
       "sha256": "a7854f461a0512fe65146ad64238ee04574e1dcbe8ac5786412f06026f73b668"
@@ -5131,6 +5131,11 @@
       "bytes": 1675,
       "path": "dynamic/社交/2026-08-22 05-33-13 查岗工作流修复_c413ec4a5c09.md",
       "sha256": "af7290da1c2e48efedeb4914b10d93118e21434b34b31a08f6baddab8a191ec3"
+    },
+    {
+      "bytes": 1006,
+      "path": "dynamic/社交/2026-08-23 14-30-59 十八碗骗局_129465d52f35.md",
+      "sha256": "a7c952194166085aa047edb7d0a26783d91415d0f79749cd4d36e06828ecbb88"
     },
     {
       "bytes": 664,
@@ -5913,6 +5918,11 @@
       "sha256": "e15c0fc98edfadfe09a397fe6b13b1dcbf99dd3ff97ba133d5480e585d173bc8"
     },
     {
+      "bytes": 839,
+      "path": "dynamic/阅读/2026-08-23 14-30-54 AI小说的共鸣_605d65a4ed50.md",
+      "sha256": "2316335e8b96b09f3b99c9b57e78199437ae099946ebfede49883fafd7acea61"
+    },
+    {
       "bytes": 592,
       "path": "dynamic/饮食/2026-07-16 11-05-14 小羽的饮食与生活习惯_2a714560606c.md",
       "sha256": "76ba0552a51a756ed477f405793418386a66eb6c415e230459b61225ebb71f91"
@@ -6125,7 +6135,7 @@
     {
       "bytes": 1109,
       "path": "permanent/恋爱/2026-07-16 10-23-58 恋爱沟通约定_88129d1629d3.md",
-      "sha256": "81bd071c1aece8c1814931ffae34a886149b9e8234ca4602f03cf8895541e1df"
+      "sha256": "28f903e86dadcd2eba69c8f8df430fc9ee3b136011b2dbcf2be32193fdb52144"
     },
     {
       "bytes": 987,
@@ -6223,10 +6233,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-23T13:35:37+00:00",
+  "generated_at": "2026-08-23T14:35:48+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1002584
+  "total_bytes": 1004477
 }
