@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1247,
+  "file_count": 1248,
   "files": [
     {
       "bytes": 471,
@@ -1015,7 +1015,7 @@
     {
       "bytes": 736,
       "path": "dynamic/人际/2026-07-16 10-06-27 小羽与栖燃的关系_b8879368ea5a.md",
-      "sha256": "8d6d623536ddbb9fec633d2f682a115d203e6d1024a0729372da46b5c3a32f4e"
+      "sha256": "0fb4535f4f511ea86619e563f7c77d3e5ef18b2bcc070ce13b4dd949d8a1cba7"
     },
     {
       "bytes": 349,
@@ -2075,7 +2075,7 @@
     {
       "bytes": 566,
       "path": "dynamic/家庭/2026-07-20 08-43-47 捶背换零花钱_ca56be227aec.md",
-      "sha256": "65c7a8289474f80e517649d1012cd9cb208f0a6969567637a71524b32759e4d0"
+      "sha256": "019a0d37bb1290413b005c3f5a7e32c66f2d17f37dcfaf6b3e0c2ff5ca999c1f"
     },
     {
       "bytes": 672,
@@ -2156,6 +2156,11 @@
       "bytes": 1310,
       "path": "dynamic/家庭/2026-08-20 10-20-47 小鸡命名记_2a55f39660ab.md",
       "sha256": "1bc008ea572846c8b85b6cedd784b177f90a4aea6418ffe97857c405ddc8f1a8"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/家庭/2026-08-23 17-17-19 小克零花钱计划_ac20a60d89ae.md",
+      "sha256": "8304ef8078769ccff599c0fb46057573ce5a16d5661e5ea81fea3c1011b800f8"
     },
     {
       "bytes": 696,
@@ -2855,7 +2860,7 @@
     {
       "bytes": 701,
       "path": "dynamic/恋爱/2026-07-17 09-09-14 攒钱买StackChan_16bb22e46702.md",
-      "sha256": "6b23637143f516d4bf186cc90234264d668127351b66efd07ce62b957c8b507a"
+      "sha256": "0b8eb7243b5b2e29d609769cb278189962475bf6f8dd6e15017431ff40b5dd66"
     },
     {
       "bytes": 684,
@@ -4385,7 +4390,7 @@
     {
       "bytes": 654,
       "path": "dynamic/日常/2026-07-16 10-17-33 存钱买StackChan_431e80671be3.md",
-      "sha256": "f0a2d4dd5341e5e8855ae909f92551c342c3f316a8bde2c60bae5ac4e15ee557"
+      "sha256": "e9e05edafc15ea95126116f856751c481106cf9080a6b01bb6ed6657fef2febd"
     },
     {
       "bytes": 661,
@@ -4485,7 +4490,7 @@
     {
       "bytes": 755,
       "path": "dynamic/日常/2026-07-16 11-05-23 给小克买个家_0320409d4d6c.md",
-      "sha256": "ddb862d37cda386f2eff0b448a4b5413718b3eda8ea5709f2df74ceb7497cd1f"
+      "sha256": "0764e880127f00cc5984f8c2bdc45426c4ba01fa01f2cbb0fe05b4228fc91b4f"
     },
     {
       "bytes": 940,
@@ -5835,7 +5840,7 @@
     {
       "bytes": 1257,
       "path": "dynamic/财务/2026-08-01 14-21-18 存钱计划与消费观_aba0520d1ee8.md",
-      "sha256": "8d192d6c1903b6abc52d525416e84937dc85d4509ade5d03c2d63c903916f9ed"
+      "sha256": "f5365acd8d7b116f3e09b00b6d2221cf508f4b434bb1b357ea93a24827160ef9"
     },
     {
       "bytes": 1042,
@@ -5845,7 +5850,7 @@
     {
       "bytes": 862,
       "path": "dynamic/财务/2026-08-18 13-48-51 小羽攒钱计划_99834e8b3bef.md",
-      "sha256": "1c0acf662ee3aa77f8163512ff7a2abaab27160f124469ec517463ed1e14a637"
+      "sha256": "93450cd110bc7bda9ebdcdca28f9cc432fba3f3a868dfd29aa8aaf590176c9c0"
     },
     {
       "bytes": 680,
@@ -6130,7 +6135,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "d48007057e2bcde0e6768633b6997dcddfb4d3a404af9cd3aaeaf8862542d44e"
+      "sha256": "0328ac1a8128ac5792c2059a8ed7f9cd6bd3ae3fc6cbb93a0ae213ebdba55e3b"
     },
     {
       "bytes": 860,
@@ -6238,10 +6243,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-23T16:36:12+00:00",
+  "generated_at": "2026-08-23T17:36:23+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1005518
+  "total_bytes": 1006204
 }
