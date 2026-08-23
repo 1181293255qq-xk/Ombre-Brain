@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1240,
+  "file_count": 1244,
   "files": [
     {
       "bytes": 471,
@@ -765,7 +765,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "20e29407e83d4baa5cae12b5af748dfba01dcaa8af9719e996ba3c5ae7f13e9c"
+      "sha256": "416152861cf42e06a2feb8ef50d8d1fe9a6635bff34b393510309744c09737b1"
     },
     {
       "bytes": 709,
@@ -1476,6 +1476,16 @@
       "bytes": 699,
       "path": "dynamic/健康/2026-08-13 13-00-57 小羽偏头痛发作要我监督少玩手机_f5ad3ae15ef2.md",
       "sha256": "ef1861afa66d366cef8698f08a118239df5b916c44b14beee438cb0f2288006d"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/健康/2026-08-23 04-40-54 熬夜感冒状态差_b6aee3572270.md",
+      "sha256": "61b4da32040ba43faff2159ab6e54c16de285aa0939251d8eee87e92719e6156"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/健康/2026-08-23 04-42-15 熬夜感冒不适_cc316d1c45b5.md",
+      "sha256": "5728f90d251c2bd2fdc816022a118fbfc13246cd07610c886ad2868953318b6f"
     },
     {
       "bytes": 550,
@@ -3868,6 +3878,11 @@
       "sha256": "446dcd4a50634d229106265502ecfe60c6c2a5ae50cb2ae282f0a3b618b61407"
     },
     {
+      "bytes": 651,
+      "path": "dynamic/恋爱/2026-08-23 04-40-49 专场角色局_be68fcf913dc.md",
+      "sha256": "b52591e2614833016b2b1549184d3fb3ce6562c11625e104285a2ff6625154e2"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -4895,7 +4910,7 @@
     {
       "bytes": 938,
       "path": "dynamic/社交/2026-07-18 16-20-26 花园论坛首次发言_42f79476f8e2.md",
-      "sha256": "8ca691bbf083110368f956c104d68b29b564ea7c56a1ff513407013a503dedad"
+      "sha256": "b1e2c25d6d7d01a19fcb183fbb4150390000eb113b77b62d4d6632f6cd9b280c"
     },
     {
       "bytes": 719,
@@ -5175,7 +5190,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "8a758a451e4558ea0cf28e854c559421cf6704861319434bf8496165a456064f"
+      "sha256": "149c935142ee5b431477f1a75d61df625c3dd198514f64fc5d4729ba9b1ddcc8"
     },
     {
       "bytes": 647,
@@ -5385,7 +5400,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "8d2ff91a6aa46216feb31b3ff880547dfb16a38190032f5d610b4ea70fa1fe8a"
+      "sha256": "a0b0fbb880a50b37f9cf59eabc046000f59d52872a756c9e7eb00e9b60908a66"
     },
     {
       "bytes": 622,
@@ -5775,7 +5790,7 @@
     {
       "bytes": 882,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "2c85f1f97cd7d31fcc8d8019d5e5ad59fbfab0e3e0816a0ab1554e64e3572dc5"
+      "sha256": "20a95c82f00ffb8124ff253ae5a61049cc7666c878a8223f12f7c63c27cc7e24"
     },
     {
       "bytes": 993,
@@ -5891,6 +5906,11 @@
       "bytes": 907,
       "path": "dynamic/追星/2026-08-14 12-31-38 小野TWS签售抽签占卜8月25日北京场_7bbcc55a71e8.md",
       "sha256": "1f5d7440805c1198097e89c53127641f5be90fdf9548c4e0c7c52e7d35278530"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/阅读/2026-08-23 04-40-14 阅读偏好与自省_7f5713e6ab37.md",
+      "sha256": "e15c0fc98edfadfe09a397fe6b13b1dcbf99dd3ff97ba133d5480e585d173bc8"
     },
     {
       "bytes": 592,
@@ -6085,7 +6105,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "93015bdd0f5554e879ef56df8104b38fe0c7721bd270285dbfc4e47c7a5b06a6"
+      "sha256": "f4edddcd81e3f42859da10c3d31ec3fd0dfdcbb1ab4a45433652103951cc9fcc"
     },
     {
       "bytes": 1092,
@@ -6095,7 +6115,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "9eec53331e2cfda89d0ba1c4f347b0dae2b7d8f6899286a30af9813bd0608c2c"
+      "sha256": "d48007057e2bcde0e6768633b6997dcddfb4d3a404af9cd3aaeaf8862542d44e"
     },
     {
       "bytes": 860,
@@ -6135,7 +6155,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "ece9a762bf9e3c737eede6e660895127c8e03e0e11bdc3f608b90ceb52e59597"
+      "sha256": "7bca2ec76e240570a16c0d7538e308a6959b67d28008477b196f687aa5cc0097"
     },
     {
       "bytes": 820,
@@ -6145,7 +6165,7 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "9a406b6f593d0611d2d7d814d323888e3fddf2408e8cc9132abad9edf45d96e2"
+      "sha256": "f77d7650df43d3072d35627654a22bb2ae7f971bcbe89112f15bfcf2d2d32bac"
     },
     {
       "bytes": 939,
@@ -6203,10 +6223,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-23T04:33:48+00:00",
+  "generated_at": "2026-08-23T05:34:02+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 999682
+  "total_bytes": 1002584
 }
