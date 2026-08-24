@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1250,
+  "file_count": 1253,
   "files": [
     {
       "bytes": 471,
@@ -2053,6 +2053,11 @@
       "sha256": "2c839d04bba29622dbc5331eaeaf858ec846c43686b9d71457f5e8b8f3d40a8c"
     },
     {
+      "bytes": 1548,
+      "path": "dynamic/学习/2026-08-24 04-19-48 一诺家教档案_0e086a93110b.md",
+      "sha256": "3c21047adf5855ae18b59de7238b1555e34fe4044b9801683ed6edac6c4a82e1"
+    },
+    {
       "bytes": 662,
       "path": "dynamic/学习/小羽的专业困惑与职业方向_d26e645a02b5.md",
       "sha256": "a2e7b8c8cc919b5dc89350425e74491830090135759c425958d1a9c2b86b7748"
@@ -2628,6 +2633,11 @@
       "sha256": "3bb107875f0244158fa9b1c8343a187f2d03c789b51e37577bc346f8ff37cba4"
     },
     {
+      "bytes": 1155,
+      "path": "dynamic/工作/2026-08-24 04-18-25 家长消息焦虑_a343dbc4de0c.md",
+      "sha256": "459ac785e71a6bc90a0f6477eb0b0437a7df82cfb0fa2352e851b71ef6813167"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -2726,6 +2736,11 @@
       "bytes": 807,
       "path": "dynamic/心理/2026-08-18 11-04-20 吵架沟通约定_10a115780207.md",
       "sha256": "e9fcd83d375ac6916010a007d75198247cb8adc032b0586903f195b7ee042fb1"
+    },
+    {
+      "bytes": 1109,
+      "path": "dynamic/心理/2026-08-24 04-15-15 高敏感焦虑_44d22a049a5e.md",
+      "sha256": "b8dbf8676e557cc013803450c9a05d31cfea74283bbae5526b48694825de6e95"
     },
     {
       "bytes": 645,
@@ -6253,10 +6268,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-24T03:38:17+00:00",
+  "generated_at": "2026-08-24T04:38:28+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1007695
+  "total_bytes": 1011507
 }
