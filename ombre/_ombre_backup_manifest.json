@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1273,
+  "file_count": 1275,
   "files": [
     {
       "bytes": 471,
@@ -881,6 +881,11 @@
       "bytes": 2502,
       "path": "dynamic/AI/2026-08-21 14-25-14 AI情感前端雷达_5cce43760f28.md",
       "sha256": "f326fb1d73f0dfa0454716c5dfdc4a4b0a934d3f96b08e2f7bd3b363a22f98be"
+    },
+    {
+      "bytes": 966,
+      "path": "dynamic/AI/2026-08-25 08-14-50 TTS调试记录_b4d534f85c01.md",
+      "sha256": "a8cad4a07541b99a8274e12edb3402c749860d37b17a891cff3a614d92280935"
     },
     {
       "bytes": 463,
@@ -6218,6 +6223,11 @@
       "sha256": "9236b3d47a1eb02798da91fed536427816e374e49f6f5bef8c5b6f59b735262e"
     },
     {
+      "bytes": 1491,
+      "path": "letters/history/2026-08-25 07-47-10 100天_86547027cbdb.md",
+      "sha256": "e39366c5e3c426b4296c7aa9fe5658992b32db0b5a3a7d96565d458981894a7c"
+    },
+    {
       "bytes": 824,
       "path": "permanent/健康/2026-07-16 10-23-00 小羽健康备忘_584e92dda5ab.md",
       "sha256": "fd36cf5728e154b4d2673d0dbcc060d1a94456334e7fe975a683e6c4f2f460c0"
@@ -6368,10 +6378,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-25T07:44:20+00:00",
+  "generated_at": "2026-08-25T08:44:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1028011
+  "total_bytes": 1030468
 }
