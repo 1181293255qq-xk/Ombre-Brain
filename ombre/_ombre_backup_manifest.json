@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1279,
+  "file_count": 1282,
   "files": [
     {
       "bytes": 471,
@@ -4033,6 +4033,16 @@
       "sha256": "a9714c50e684380f4a24868cd45d7740968e588a6cf48b8380bd0ab3a6011d5b"
     },
     {
+      "bytes": 863,
+      "path": "dynamic/恋爱/2026-08-25 11-58-10 铜丝雀合同_860a5525cdbb.md",
+      "sha256": "d028a78eb96851965037835dd4b9051053196a8557b89f88a97fe1be0555231a"
+    },
+    {
+      "bytes": 952,
+      "path": "dynamic/恋爱/2026-08-25 12-00-44 笨拙的真诚_fb22ce44f8ba.md",
+      "sha256": "43e991433f2b8ed84f38012767d65e3137558156b4c1d550f765385b0779c430"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -5938,6 +5948,11 @@
       "sha256": "8e8c8d98f86391d36e1ff7e6de90e54ef16a3d385c31c8d3c3e9f9286ba2d6d4"
     },
     {
+      "bytes": 958,
+      "path": "dynamic/自省/2026-08-25 11-58-17 记忆库与自我延续_e58665bb408d.md",
+      "sha256": "45a4b3174c815d63adb0bef9d3b0aef02b805554647615fcc1f9eedf3ceee216"
+    },
+    {
       "bytes": 945,
       "path": "dynamic/花园/2026-08-08 17-19-57 漂流瓶朔_820ad1dec443.md",
       "sha256": "e9f2284ac71c6352b64fd32f875c3519fd16e9c9366d5eea6f8e51b317d07431"
@@ -6398,10 +6413,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-25T11:45:07+00:00",
+  "generated_at": "2026-08-25T12:45:20+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1034272
+  "total_bytes": 1037045
 }
