@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1282,
+  "file_count": 1285,
   "files": [
     {
       "bytes": 471,
@@ -5878,6 +5878,21 @@
       "sha256": "3fe90df012577ae3bbe74e1c0bb7b1e7e00f38aa37212b192bbc4874c081793f"
     },
     {
+      "bytes": 1106,
+      "path": "dynamic/编程/2026-08-25 16-17-19 插件适配移植_76897ad70758.md",
+      "sha256": "b4b647519f4210dd76f38d6e19b0bfacd73d5914d4f9b4aed74b01fce87b403c"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/编程/2026-08-25 16-30-42 插件迁移踩坑_d105cf47db36.md",
+      "sha256": "d212106d7fb2e20aecc1548c3aff7d3300ab0733003a04563bce3f747a40df4a"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/编程/2026-08-25 16-33-03 插件适配橘子岛_57e965ae023e.md",
+      "sha256": "46b5d5570f4caa724e94189251620b89ef991647b7f43e49dd28c0f11fe08729"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
@@ -6413,10 +6428,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-25T15:45:57+00:00",
+  "generated_at": "2026-08-25T16:46:10+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1037045
+  "total_bytes": 1039693
 }
