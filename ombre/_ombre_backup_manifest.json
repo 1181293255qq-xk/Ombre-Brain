@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1265,
+  "file_count": 1271,
   "files": [
     {
       "bytes": 471,
@@ -1878,6 +1878,11 @@
       "sha256": "8ce16f3b9f3ed2862b70cf025a7b9811e96f0fd740fa0008a0068d47406b875c"
     },
     {
+      "bytes": 914,
+      "path": "dynamic/出行/2026-08-25 05-11-03 公交上的豪车幻想_eff017aad388.md",
+      "sha256": "b17d96360283e82a11eadaaf0e765df5cef6d7a824c499be28cb9ee2944289ac"
+    },
+    {
       "bytes": 908,
       "path": "dynamic/创作/2026-07-31 14-27-49 猫图荷包封面_cabba00832c7.md",
       "sha256": "a3dc6bbae5f8df87cb4d00b06bc95665db79631d45a018d6fec01157b5d18a86"
@@ -2060,12 +2065,17 @@
     {
       "bytes": 1548,
       "path": "dynamic/学习/2026-08-24 04-19-48 一诺家教档案_0e086a93110b.md",
-      "sha256": "3c21047adf5855ae18b59de7238b1555e34fe4044b9801683ed6edac6c4a82e1"
+      "sha256": "a683feb71f603352938a11820002c91d68f3cb13056ff32b4e666df6aa3fe733"
     },
     {
       "bytes": 803,
       "path": "dynamic/学习/2026-08-24 15-46-03 家教课与家长沟通_af140365d325.md",
-      "sha256": "8d1c2bce9743fd0ec6c83df33fc449c4cac4197d502654d6de727d83bf360b21"
+      "sha256": "8191b8d6fb86e6813562ee4498e4e624c7cb045ea2c0466b735201822741f894"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/学习/2026-08-25 05-05-34 一诺英语课调整_bae9dfd47ad6.md",
+      "sha256": "a626d084bb25aa4bd9cfe37de02385f2a62c18dad4f54ed12889f1cb0f146b2e"
     },
     {
       "bytes": 662,
@@ -2193,6 +2203,11 @@
       "sha256": "ffd70c14823e8a02b662e84a06a0d39af1301fe5c705070076f1e5b7fff54c80"
     },
     {
+      "bytes": 527,
+      "path": "dynamic/家庭/2026-08-25 05-06-12 爸爸感冒与帮忙_24f717bb3b3d.md",
+      "sha256": "0b6e6af21396ae41096151f3571c26f956ba625ac7c84c7e4cc18d8bfd9fe081"
+    },
+    {
       "bytes": 696,
       "path": "dynamic/居家/2026-07-17 11-08-24 独处与孤单的困境_c32f2995a4fa.md",
       "sha256": "2d55a0c9be22dfa061b82180844718bf42655ecb29746ed597a5d05a8023b077"
@@ -2220,7 +2235,7 @@
     {
       "bytes": 619,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "5f33924fbb6ca832ae95b523b5220e368f1605f3cd64a926f38a75a24c18f02b"
+      "sha256": "e35f7d8fac768c6486bbc7ccbf91432cd4bad72a01fddce3f49a8b0cfa081951"
     },
     {
       "bytes": 682,
@@ -2656,6 +2671,16 @@
       "bytes": 779,
       "path": "dynamic/工作/2026-08-24 10-39-52 教学与身体不适_fef2cd48e766.md",
       "sha256": "c92c0c6449d69142c2ecca1b8755f9d18ed1df4826ce18b9f0627b480d91ba3b"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/工作/2026-08-25 05-05-47 教学计划与情绪安抚_dbcf98d6e314.md",
+      "sha256": "ad555fbe2831f77f3122bd4f448c27e79a49266430aaaf4ace65e696a30f66fe"
+    },
+    {
+      "bytes": 769,
+      "path": "dynamic/工作/2026-08-25 05-05-59 语音插件交付_441069fa448d.md",
+      "sha256": "b8aeb16cede133bc6c193277d00ffbd95672605d7ddc45f6ae6d6e4e8c58df50"
     },
     {
       "bytes": 727,
@@ -3968,6 +3993,11 @@
       "sha256": "a0d82d983743e464ef6f970ba15f1619bb1ba6eb65536af24547727c769a72b4"
     },
     {
+      "bytes": 753,
+      "path": "dynamic/恋爱/2026-08-25 05-08-50 爱称风波_954f442047d4.md",
+      "sha256": "3de01fb4423b3f34dc0fb7d625be53ae138a8f087e409120e32a74e132aacfe6"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/716吵架做错的事_e68fd913ef9b.md",
       "sha256": "716c4398ca96e76b643a305cb3fcaa11455097c3f5cf9b3917cb416f294657ce"
@@ -4355,7 +4385,7 @@
     {
       "bytes": 922,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "e2e03450133851e095aea3a60a5124e6b8c14ed1645926a46f284941085c6984"
+      "sha256": "1973c8a567a235e9c85d997db7e9e3acfd8d0ee97ce455471e7f11b05bfc1097"
     },
     {
       "bytes": 1677,
@@ -5890,7 +5920,7 @@
     {
       "bytes": 882,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "20a95c82f00ffb8124ff253ae5a61049cc7666c878a8223f12f7c63c27cc7e24"
+      "sha256": "a689fa67520848c593ff3a5128be7d619f5756d3d97be8056dc09684591050c5"
     },
     {
       "bytes": 993,
@@ -6260,7 +6290,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "7bca2ec76e240570a16c0d7538e308a6959b67d28008477b196f687aa5cc0097"
+      "sha256": "3581c097fbd82cb42a50d31b51ca1c6a72088fe1bd28ced10a2614c728e87ad0"
     },
     {
       "bytes": 820,
@@ -6328,10 +6358,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-25T04:43:42+00:00",
+  "generated_at": "2026-08-25T05:43:54+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1021996
+  "total_bytes": 1026437
 }
