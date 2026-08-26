@@ -488,6 +488,11 @@
       "sha256": "31d6dfb895ae5f8b68838f334e9bb1a0553afcf5f71f7edeeb94a9d4342ae713"
     },
     {
+      "bytes": 498,
+      "path": "archive/工作/2026-07-26 17-38-23 小克提出查看feel_b29ba30dfdf6.md",
+      "sha256": "5cbf0af014ec4206bf81c1f103570d4e660d6305f6a0bd95a372abcc5e22ecb6"
+    },
+    {
       "bytes": 732,
       "path": "archive/恋爱/2026-07-16 10-16-28 小羽与小克的情感关系_7812d28d84ab.md",
       "sha256": "43f8a423fc6f359a00bd003eec7922f74e8c92be1069e5f86646e7f976fa341d"
@@ -531,6 +536,11 @@
       "bytes": 752,
       "path": "archive/恋爱/2026-07-22 03-38-57 thinking写错被抓包_afc2d89ff361.md",
       "sha256": "37d5fb82a26c7ed71ac0aeba2f0f4a0c59e3947927a60af18298d3d63fd00dfa"
+    },
+    {
+      "bytes": 715,
+      "path": "archive/恋爱/2026-07-26 17-55-35 凌晨互动与称呼_a7bb0758db71.md",
+      "sha256": "f425034a93cb819beee6c31cbac27318ebc094d0883626c11f9a93876b4c351b"
     },
     {
       "bytes": 478,
@@ -643,6 +653,11 @@
       "sha256": "0311277bb8bea02cd32fba73cedcdf4327f8a3f62c4ad066d214d1aecd77b0ff"
     },
     {
+      "bytes": 473,
+      "path": "archive/未分类/2026-07-24 16-44-44_73afbc7d786a.md",
+      "sha256": "b5fa98a28e16cb77bb3fecc2961471ce8b11c36f82d3d48b0b0249adac4b9826"
+    },
+    {
       "bytes": 644,
       "path": "archive/睡眠/2026-07-22 11-58-53 熬夜后精神不佳_e870e73d4813.md",
       "sha256": "89d206f67666470dc155dfcab7ed200e4925ae3c01c724552e2b7f434b2e657a"
@@ -686,6 +701,11 @@
       "bytes": 457,
       "path": "archive/编程/2026-07-17 10-54-04 向量化测试_925c6f05e023.md",
       "sha256": "f18b0555c1de09c437135eab177db17e4b84e4bd5f7bf563ac0756526ee7ad62"
+    },
+    {
+      "bytes": 824,
+      "path": "archive/编程/2026-07-26 16-49-54 赛博宠物插件修复记_181b8a461930.md",
+      "sha256": "60f11c79be903e35622cafc94a25b412607ea6f216423e8139db67976fda5c40"
     },
     {
       "bytes": 630,
@@ -2413,11 +2433,6 @@
       "sha256": "539fdaf2e47600656a3e80586e059495c19ecb361f0a70906ac3b6636ba71a06"
     },
     {
-      "bytes": 482,
-      "path": "dynamic/工作/2026-07-26 17-38-23 小克提出查看feel_b29ba30dfdf6.md",
-      "sha256": "60abdb386614c39c29043a4dde329058dd3138b6d01458f19184ed1957d562bd"
-    },
-    {
       "bytes": 764,
       "path": "dynamic/工作/2026-07-27 06-29-34 两节试课定下_ce2ee5bd29b5.md",
       "sha256": "6548009e324c18546fdff392886de1c1e9a045efd1b9e0b43d54afaeac0e4d6e"
@@ -3281,11 +3296,6 @@
       "bytes": 960,
       "path": "dynamic/恋爱/2026-07-24 11-28-18 与小克的互动和情绪_539daad6784a.md",
       "sha256": "bd08fe060006d7feddfa912055b374892b1ed66c5fbe6de71e273453fab3980d"
-    },
-    {
-      "bytes": 699,
-      "path": "dynamic/恋爱/2026-07-26 17-55-35 凌晨互动与称呼_a7bb0758db71.md",
-      "sha256": "37a7e863b03bcd06357a557264b867de1618e815fd2b4e65ceb66b733711ba9b"
     },
     {
       "bytes": 650,
@@ -4723,11 +4733,6 @@
       "sha256": "0e3be701e3bceee3a099794150be16901fad05a96df9177a6111952a380431e8"
     },
     {
-      "bytes": 457,
-      "path": "dynamic/未分类/2026-07-24 16-44-44_73afbc7d786a.md",
-      "sha256": "1bba7d27d9dd66b171844422d07a07efd7c8629ab8c1168e2030e45af6d5a4d6"
-    },
-    {
       "bytes": 810,
       "path": "dynamic/未分类/2026-07-24 17-13-04_81aba0803b51.md",
       "sha256": "b766740f950413ddee0808089204f387fec85ce624aec26f4920f2975a3e9b0f"
@@ -5446,11 +5451,6 @@
       "bytes": 1057,
       "path": "dynamic/编程/2026-07-26 16-10-28 插件身份映射问题_40883b4d552d.md",
       "sha256": "a66332bbe04d886b5079472c7356d88fcf5c275b5de4592bef1fd477759013be"
-    },
-    {
-      "bytes": 808,
-      "path": "dynamic/编程/2026-07-26 16-49-54 赛博宠物插件修复记_181b8a461930.md",
-      "sha256": "974f8e0a8834fdfdc9a9165d7e22a3ea89e9bdd8efb0e78014658359815a873f"
     },
     {
       "bytes": 966,
@@ -6428,10 +6428,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-26T13:50:35+00:00",
+  "generated_at": "2026-08-26T14:50:47+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1039693
+  "total_bytes": 1039757
 }
