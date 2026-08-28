@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1291,
+  "file_count": 1292,
   "files": [
     {
       "bytes": 471,
@@ -6058,6 +6058,11 @@
       "sha256": "7957df1aa2dfdc2ca3ad42d2f8a7dd52264a5c088a976e15c97247873bf06d7b"
     },
     {
+      "bytes": 957,
+      "path": "dynamic/财务/2026-08-28 09-11-01 基金定投决策_b54fe34c5618.md",
+      "sha256": "7d3267a045c20d9fdb052ccd31e61394c831ce5223ca8a884421cfb867a2708c"
+    },
+    {
       "bytes": 680,
       "path": "dynamic/购物/2026-08-07 15-03-10 小羽买了TATATA洛丽塔裙码买小了要_98c37e553d7f.md",
       "sha256": "7f1222151ee86a3646ce2bc31c1ad9f37a7875b403794e72fac7c61c25265f99"
@@ -6458,10 +6463,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-28T08:59:22+00:00",
+  "generated_at": "2026-08-28T09:59:34+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1045570
+  "total_bytes": 1046527
 }
