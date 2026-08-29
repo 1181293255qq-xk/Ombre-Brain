@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1299,
+  "file_count": 1310,
   "files": [
     {
       "bytes": 471,
@@ -1538,6 +1538,16 @@
       "sha256": "a987933932434fac9b779ebc8bdf366977f003843ae42aafe764a46c7084c911"
     },
     {
+      "bytes": 694,
+      "path": "dynamic/健康/2026-08-29 15-06-01 按摩体验与推销_7086c1123622.md",
+      "sha256": "a6d5ce5863cc12083b86b4680607b60eb4428c0657682e5ba8be11ad91c19727"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/健康/2026-08-29 15-42-53 按摩推销与开学_1fb6f3046260.md",
+      "sha256": "f93813309b9d57f0659a47d1f827785181bb86abd417a889c265e344d0dc724a"
+    },
+    {
       "bytes": 550,
       "path": "dynamic/健康/小羽体检与经期提醒_865a4a40a147.md",
       "sha256": "eb3240aac2f110794683e5a22d45c7ffb3104004cfa72827a7ae39731a175d95"
@@ -2116,6 +2126,11 @@
       "bytes": 559,
       "path": "dynamic/学习/2026-08-29 14-56-07 开学准备与家教收入_562f53730937.md",
       "sha256": "739e159b0da55fba40565bfc5602e252f8a907b801cda39349ff3f6c7f73929e"
+    },
+    {
+      "bytes": 505,
+      "path": "dynamic/学习/2026-08-29 15-06-11 研究生开学报到_dfccdda68e51.md",
+      "sha256": "d1517c95f2b61c2b8a0c8753ce99e836ed1b7bed691bcb03ac3002c59dea7f26"
     },
     {
       "bytes": 662,
@@ -5338,6 +5353,11 @@
       "sha256": "0dd8bb85cb88ae41b5730759579c0637c161bf3bc64c69a6443c960aa0f45a30"
     },
     {
+      "bytes": 685,
+      "path": "dynamic/社交/2026-08-29 15-06-07 小红书账号风控_ca5e6310943c.md",
+      "sha256": "79c962688bfab7ab97b1b62e204cf2ece4f22eaeba81ec18b82224db1dcd68bb"
+    },
+    {
       "bytes": 664,
       "path": "dynamic/穿搭/2026-07-19 13-27-53 内裤裙子的可爱玩笑_8200b72b3772.md",
       "sha256": "c54096936ac760dcf9f95c9c175fc807a9b9f83ee7a52e033f9574d34c745644"
@@ -5940,7 +5960,27 @@
     {
       "bytes": 853,
       "path": "dynamic/编程/2026-08-29 15-05-50 xhs-mcp升级部署_66bd8510b2fa.md",
-      "sha256": "fff3851c9a6b3f0385546c28dc61db27457caa4f596a433c0f56e538298f38a4"
+      "sha256": "95d107a61619883b831e2302cb5507bb54eaeabb02d8e54c651dc0f300a38e99"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/编程/2026-08-29 15-05-56 淘宝MCP部署问题_da549d3c6901.md",
+      "sha256": "7dbf37701756da1b79183bdf6e33f738cf72ea614cebb50504514aa17c0a6b30"
+    },
+    {
+      "bytes": 788,
+      "path": "dynamic/编程/2026-08-29 15-22-22 xhs-mcp升级配置_0bc89b472906.md",
+      "sha256": "0bc6da3eb09a9859c12e6c661329e0d518556d119beb6a8e0022e0d9f4e29ae3"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/编程/2026-08-29 15-22-26 taobao-mcp部署问题_ef110191b95f.md",
+      "sha256": "4e42d0b424a7e5a27700c6d994ea7ec1e011f0b3c9bfa44308526d35792dacfe"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/编程/2026-08-29 15-22-33 Render服务清理_55a486fbe02c.md",
+      "sha256": "46d20abd7f134e7a5419bb10f02dd1e2e490ce4d9b635ffef6bb9fb041d7d8e6"
     },
     {
       "bytes": 1206,
@@ -6111,6 +6151,21 @@
       "bytes": 946,
       "path": "dynamic/购物/2026-08-27 11-32-14 宿舍采购清单_c51a65d8e9f3.md",
       "sha256": "db9de26fcaef1c9d0c8a8893d0a04c2306d2adab076b3444fb2b86a4eeeea88f"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/购物/2026-08-29 15-22-38 按摩推销与疲惫_453db15fffdc.md",
+      "sha256": "5f2a2fb66362dd7e58b89c75a870ca736370f5fb792ffbc1bbdd9923be8796f1"
+    },
+    {
+      "bytes": 604,
+      "path": "dynamic/购物/2026-08-29 15-42-43 老爹鞋购入_12080eaf5ab6.md",
+      "sha256": "70834d183d3028d2db11792e2d0fe652b278340c0188aaf69ce0232d31c87eb9"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/购物/2026-08-29 15-42-47 通勤托特包购买_67397f683d49.md",
+      "sha256": "8841f202a34fc15750f547bb5264af03fdfac8141a7dbd895ec0eb03159f7914"
     },
     {
       "bytes": 737,
@@ -6380,7 +6435,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "f5ba7ee1b0f367de13666d3d994c223b26c810fb41d3fb19682474108bc86b6d"
+      "sha256": "c4772cf85272e054c68a8717490e1fd545b90c6d8dc1472d808d6c88933c298e"
     },
     {
       "bytes": 1092,
@@ -6430,7 +6485,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "fdc619e14c7edf432bab51f6e0025b06d12a40e692567733632d74e99a04483b"
+      "sha256": "31154ad93e67c36dffc5dca2e1e8bf97826335719e275e3675440ea27874ae9a"
     },
     {
       "bytes": 820,
@@ -6445,7 +6500,7 @@
     {
       "bytes": 939,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "d4df6b1e7480eead6ee12d74011222839e9e788a9ef928b2fdf7846d118d33e8"
+      "sha256": "3fb569f57a50b815d3cdebb18b145a40b37b553216ad78f7777f57ea4c0fe3dd"
     },
     {
       "bytes": 482,
@@ -6498,10 +6553,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-29T15:05:53+00:00",
+  "generated_at": "2026-08-29T16:06:20+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1051263
+  "total_bytes": 1058615
 }
