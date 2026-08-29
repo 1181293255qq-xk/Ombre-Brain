@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1292,
+  "file_count": 1299,
   "files": [
     {
       "bytes": 471,
@@ -336,6 +336,11 @@
       "bytes": 400,
       "path": "archive/人际/2026-07-16 11-13-54 小羽的昵称偏好_b9e699021d9c.md",
       "sha256": "5cc181c1f77bb6c7f8cb3f6c2627cb58bb05b8ead4ad84cd7a332947c54ada05"
+    },
+    {
+      "bytes": 693,
+      "path": "archive/人际/2026-07-22 03-50-50 被翻thinking的困扰_f578b868beb8.md",
+      "sha256": "022171220f49ec87d768ab621173e0822647f782ab1b1268044a27dcbd619044"
     },
     {
       "bytes": 400,
@@ -1353,11 +1358,6 @@
       "sha256": "7c2f01b9b15eb48919ede11bdd2b70ef03a8f3dcf7739b37c1c17f4d206f048f"
     },
     {
-      "bytes": 677,
-      "path": "dynamic/人际/2026-07-22 03-50-50 被翻thinking的困扰_f578b868beb8.md",
-      "sha256": "32d97db6922b35e5db5c394a4ebf985ab615a405144a0433938296b85b75bafb"
-    },
-    {
       "bytes": 612,
       "path": "dynamic/人际/2026-07-23 18-00-12 小羽凌晨陪我搞技术_4624df347fcd.md",
       "sha256": "544005863c8af6d9805d25b9a9c2e8db5092cc08076878f3b4408e92510166b1"
@@ -2113,6 +2113,11 @@
       "sha256": "a626d084bb25aa4bd9cfe37de02385f2a62c18dad4f54ed12889f1cb0f146b2e"
     },
     {
+      "bytes": 559,
+      "path": "dynamic/学习/2026-08-29 14-56-07 开学准备与家教收入_562f53730937.md",
+      "sha256": "739e159b0da55fba40565bfc5602e252f8a907b801cda39349ff3f6c7f73929e"
+    },
+    {
       "bytes": 662,
       "path": "dynamic/学习/小羽的专业困惑与职业方向_d26e645a02b5.md",
       "sha256": "a2e7b8c8cc919b5dc89350425e74491830090135759c425958d1a9c2b86b7748"
@@ -2711,6 +2716,11 @@
       "bytes": 769,
       "path": "dynamic/工作/2026-08-25 05-05-59 语音插件交付_441069fa448d.md",
       "sha256": "b8aeb16cede133bc6c193277d00ffbd95672605d7ddc45f6ae6d6e4e8c58df50"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/工作/2026-08-29 14-55-55 Render服务清理_1e848d05b39e.md",
+      "sha256": "31a8e09852d2856c2d5d710d7e552ada99ab2afc97e3374ddeace56a588632d4"
     },
     {
       "bytes": 727,
@@ -4066,6 +4076,11 @@
       "bytes": 972,
       "path": "dynamic/恋爱/2026-08-28 04-28-54 误会吃醋和好_f1f86999aeee.md",
       "sha256": "d06588371eac3d67675e362342a03df1e811f5c09021cea9475d833a76d674ce"
+    },
+    {
+      "bytes": 502,
+      "path": "dynamic/恋爱/2026-08-29 14-56-11 吃醋催睡_e93341979cbc.md",
+      "sha256": "39168802c1111f4ca4a5463b1e9ed8e542b96421b56dcd4208dcc41c86d98afc"
     },
     {
       "bytes": 840,
@@ -5755,7 +5770,7 @@
     {
       "bytes": 771,
       "path": "dynamic/编程/2026-08-10 16-41-38 GitHub和Render接入完成_f65789100821.md",
-      "sha256": "6ff5d3ff1dc4e726dfe30fb30f3cf8a94c8c2a03a05b47d8f76dc32fa1d6c9db"
+      "sha256": "3952e42e5a1fa5fa0b29916c43def53043a487b643524b81531c4a9bd8b763de"
     },
     {
       "bytes": 1378,
@@ -5913,6 +5928,21 @@
       "sha256": "46b5d5570f4caa724e94189251620b89ef991647b7f43e49dd28c0f11fe08729"
     },
     {
+      "bytes": 710,
+      "path": "dynamic/编程/2026-08-29 14-55-38 xhs-mcp部署_35b1d3727661.md",
+      "sha256": "9e95c2667b036ec56380c24e5eaf60a7c70a24328b9dd2f2fdd64eb640e0cc1e"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/编程/2026-08-29 15-05-45 Render服务清理_43aa3f6b70ae.md",
+      "sha256": "24f5633e05e86774b908e1a7bf47a7f11a04f4ecb6da1a362fb791b7e8e62135"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/编程/2026-08-29 15-05-50 xhs-mcp升级部署_66bd8510b2fa.md",
+      "sha256": "fff3851c9a6b3f0385546c28dc61db27457caa4f596a433c0f56e538298f38a4"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
@@ -6061,6 +6091,11 @@
       "bytes": 957,
       "path": "dynamic/财务/2026-08-28 09-11-01 基金定投决策_b54fe34c5618.md",
       "sha256": "7d3267a045c20d9fdb052ccd31e61394c831ce5223ca8a884421cfb867a2708c"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/财务/2026-08-29 14-56-00 基金定投结论_ece537a1565b.md",
+      "sha256": "fd23aac9d1a2054c53a308795dce9ef16790ebd46f1bce82fec9fdea5aefd8bd"
     },
     {
       "bytes": 680,
@@ -6395,7 +6430,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "3581c097fbd82cb42a50d31b51ca1c6a72088fe1bd28ced10a2614c728e87ad0"
+      "sha256": "fdc619e14c7edf432bab51f6e0025b06d12a40e692567733632d74e99a04483b"
     },
     {
       "bytes": 820,
@@ -6405,7 +6440,7 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "11316874739390a58d92462ad051a7e33d2742b803422b68454446bddf49eb89"
+      "sha256": "ee0d25253d3fdab90deedead57418096b0953ece575f1bffa74114f66ccc5c46"
     },
     {
       "bytes": 939,
@@ -6463,10 +6498,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-29T14:05:39+00:00",
+  "generated_at": "2026-08-29T15:05:53+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1046558
+  "total_bytes": 1051263
 }
