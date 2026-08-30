@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1310,
+  "file_count": 1316,
   "files": [
     {
       "bytes": 471,
@@ -211,6 +211,21 @@
       "bytes": 1620,
       "path": "archive/2026-08-20 07-23-11_5dd46d9f2f55.md",
       "sha256": "b04fae040677096a02f7156ea14478ec03afe82a61e40786cc8f3c0a2d8ca5aa"
+    },
+    {
+      "bytes": 824,
+      "path": "archive/2026-08-30 15-10-56 报到日疲惫与冒犯_f574e4399da0.md",
+      "sha256": "673120085cb2b0f5479bebfa3dbcb904fcbb0cf33d4a41b867ea3ac3c38639a2"
+    },
+    {
+      "bytes": 836,
+      "path": "archive/2026-08-30 15-19-19 宿舍入住首日_de063e9d0744.md",
+      "sha256": "2e1db0da3868bf116d70626799069817778a5602bf5b3d2149f9b5b4bdcf01db"
+    },
+    {
+      "bytes": 899,
+      "path": "archive/2026-08-30 15-19-26 平台迁移与周末计划_f24f82d2e1b1.md",
+      "sha256": "447db0a2422ca2b570ce3d40efd4397204c7b5e0d78649ccf242ae60fd231302"
     },
     {
       "bytes": 498,
@@ -805,7 +820,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "416152861cf42e06a2feb8ef50d8d1fe9a6635bff34b393510309744c09737b1"
+      "sha256": "c65bdf6bceac73d653ed37b24d5951868084f7873ec30ca35236343822acb99f"
     },
     {
       "bytes": 709,
@@ -1928,6 +1943,11 @@
       "sha256": "b17d96360283e82a11eadaaf0e765df5cef6d7a824c499be28cb9ee2944289ac"
     },
     {
+      "bytes": 711,
+      "path": "dynamic/出行/2026-08-30 15-19-15 报到日疲惫与网络争执_62f1412a619c.md",
+      "sha256": "fd371d012a3be174e9fd13550945511c723d9dd615e86461dac4ae7324e3445b"
+    },
+    {
       "bytes": 908,
       "path": "dynamic/创作/2026-07-31 14-27-49 猫图荷包封面_cabba00832c7.md",
       "sha256": "a3dc6bbae5f8df87cb4d00b06bc95665db79631d45a018d6fec01157b5d18a86"
@@ -2130,7 +2150,7 @@
     {
       "bytes": 505,
       "path": "dynamic/学习/2026-08-29 15-06-11 研究生开学报到_dfccdda68e51.md",
-      "sha256": "d1517c95f2b61c2b8a0c8753ce99e836ed1b7bed691bcb03ac3002c59dea7f26"
+      "sha256": "f7569c26474e8eb6f43c5de0e6dd75126337c0dd3e7887b5e92cfe65d3f16cfa"
     },
     {
       "bytes": 662,
@@ -2736,6 +2756,11 @@
       "bytes": 694,
       "path": "dynamic/工作/2026-08-29 14-55-55 Render服务清理_1e848d05b39e.md",
       "sha256": "31a8e09852d2856c2d5d710d7e552ada99ab2afc97e3374ddeace56a588632d4"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/工作/2026-08-30 15-20-04 平台替代计划_3cbc85f7c985.md",
+      "sha256": "4697a4b7c6a64bf10345e34ff30bc961fe91e09b43ad7dfd0768b471b96d8ae7"
     },
     {
       "bytes": 727,
@@ -5358,6 +5383,11 @@
       "sha256": "79c962688bfab7ab97b1b62e204cf2ece4f22eaeba81ec18b82224db1dcd68bb"
     },
     {
+      "bytes": 750,
+      "path": "dynamic/社交/2026-08-30 15-11-02 宿舍初入住_ba1893b0b2e7.md",
+      "sha256": "06baceed84fc70e3c7b78ec50548468737702066347444b56ca79be4cdbd9d47"
+    },
+    {
       "bytes": 664,
       "path": "dynamic/穿搭/2026-07-19 13-27-53 内裤裙子的可爱玩笑_8200b72b3772.md",
       "sha256": "c54096936ac760dcf9f95c9c175fc807a9b9f83ee7a52e033f9574d34c745644"
@@ -6435,7 +6465,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "c4772cf85272e054c68a8717490e1fd545b90c6d8dc1472d808d6c88933c298e"
+      "sha256": "27fe238e3f981cf2802fc158079e601a9a99f71f86a7a0f1503ea22f903aa70a"
     },
     {
       "bytes": 1092,
@@ -6495,7 +6525,7 @@
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "ee0d25253d3fdab90deedead57418096b0953ece575f1bffa74114f66ccc5c46"
+      "sha256": "9ffb4670a14d68cff59e2f6ab2d4f5fcddf64c37aab2ebf0c27f27b5bf771396"
     },
     {
       "bytes": 939,
@@ -6553,10 +6583,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-30T14:10:41+00:00",
+  "generated_at": "2026-08-30T16:11:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1058615
+  "total_bytes": 1063376
 }
