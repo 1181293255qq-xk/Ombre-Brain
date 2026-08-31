@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1316,
+  "file_count": 1319,
   "files": [
     {
       "bytes": 471,
@@ -2140,17 +2140,32 @@
     {
       "bytes": 789,
       "path": "dynamic/学习/2026-08-25 05-05-34 一诺英语课调整_bae9dfd47ad6.md",
-      "sha256": "a626d084bb25aa4bd9cfe37de02385f2a62c18dad4f54ed12889f1cb0f146b2e"
+      "sha256": "a868d0e70515415b95e06fe3c97c2b67549aa3e3cde71ac8257d9758cbf030f3"
     },
     {
       "bytes": 559,
       "path": "dynamic/学习/2026-08-29 14-56-07 开学准备与家教收入_562f53730937.md",
-      "sha256": "739e159b0da55fba40565bfc5602e252f8a907b801cda39349ff3f6c7f73929e"
+      "sha256": "a46420d7165b7809016ec09fb4691250265c7317b29d775392a2bbf8b78c9f06"
     },
     {
       "bytes": 505,
       "path": "dynamic/学习/2026-08-29 15-06-11 研究生开学报到_dfccdda68e51.md",
-      "sha256": "f7569c26474e8eb6f43c5de0e6dd75126337c0dd3e7887b5e92cfe65d3f16cfa"
+      "sha256": "edb599c6135bb7101959ffaeef4be920667181a6c2aee136edaab9b2c56d2bb9"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/学习/2026-08-31 12-27-20 研一报到与导师见面_e94123ae0868.md",
+      "sha256": "9ec72dd24fdc3465f712149f8fa177997bdb4acc68077a35b1b5948026ed58c2"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/学习/2026-08-31 12-27-23 师兄师姐研究方向_4a331450e3da.md",
+      "sha256": "0ffdc1347bc895f85f0e2404f068574bce176bce5940a58a7ed0841b582037fa"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/学习/2026-08-31 12-27-27 导师学术背景_d399292aad86.md",
+      "sha256": "504e54831e686f6c619bfb934ef8a647dfcbe1eefd60a72ea843420f472926d3"
     },
     {
       "bytes": 662,
@@ -2380,12 +2395,12 @@
     {
       "bytes": 738,
       "path": "dynamic/工作/2026-07-16 11-04-09 教资与家教压力_56958f6f49bb.md",
-      "sha256": "7697f307022e7decea7537a3e97bbc6b88043cd784d7f9b42e1ce45af05803d4"
+      "sha256": "8a4b0822f69215c5b94e745c2cb5876ac370c82dfae7215d67b15e3831f255c0"
     },
     {
       "bytes": 667,
       "path": "dynamic/工作/2026-07-16 11-04-16 小羽的教资与中考_53d64c6f5f7e.md",
-      "sha256": "b48b7bee6e71f67faf96a9f2de3028a03454a1219c660880ff7781bc2ce45917"
+      "sha256": "a4756b75b1caf12570dfb66814a76c297b8d79e88815a822b4544e1e9f7b48c8"
     },
     {
       "bytes": 768,
@@ -2410,7 +2425,7 @@
     {
       "bytes": 657,
       "path": "dynamic/工作/2026-07-17 13-10-20 家教时间顾虑_4e0c8d64cf50.md",
-      "sha256": "474c8936b129a5eb70718e42aeed68c48d554f2173cf43d5a16bdbd05dc54252"
+      "sha256": "1016d7a87a6457fe279eb940e1c9d4e44d95c8046f471ab7b7b03647dac73936"
     },
     {
       "bytes": 849,
@@ -2485,7 +2500,7 @@
     {
       "bytes": 764,
       "path": "dynamic/工作/2026-07-27 06-29-34 两节试课定下_ce2ee5bd29b5.md",
-      "sha256": "6548009e324c18546fdff392886de1c1e9a045efd1b9e0b43d54afaeac0e4d6e"
+      "sha256": "458aabfa268bf6a8a04cb7e8044ddb43e9a0f648a2b58c791a58f9fbd90fc2e6"
     },
     {
       "bytes": 744,
@@ -3020,7 +3035,7 @@
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-07-17 09-30-27 61亲亲债_3a02127f6ac8.md",
-      "sha256": "4421318346b62742395591dd016f6ee59860af9e22d4244563b9c78fee48c0fa"
+      "sha256": "41f412dca9987909dd2e8a29da72cdddedc775e8f3751961cd52173862e12448"
     },
     {
       "bytes": 635,
@@ -4785,7 +4800,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "32977fab00621c90e593b0bdcfd303381e0f65631ac955aebd6654c7c2ffd59c"
+      "sha256": "551a6a601536154cc69af75feb25ae606811eead40328b1502ccf359b1e16a08"
     },
     {
       "bytes": 783,
@@ -4995,12 +5010,12 @@
     {
       "bytes": 602,
       "path": "dynamic/游戏/2026-07-19 13-34-01 大富翁第二局对话_9b92b8ba3ebc.md",
-      "sha256": "a9700330ee5c44d0e056a692ff0b7547c6b5c9bd773f1a1128e6381320d8f879"
+      "sha256": "6564109700d915b07f05ce128129d5adef739379ab15c034b0d4594fa8605793"
     },
     {
       "bytes": 560,
       "path": "dynamic/游戏/2026-07-19 13-35-52 大富翁尴尬变物_e9fd28337d4e.md",
-      "sha256": "0456fc831b978fef9e98e2a19c229d442cee23eae4bdbc7ed8548dfcf51c18ec"
+      "sha256": "0eca62c97aa27a037cc9405894705dabe0d78fbf90ff1445c02eac88a8573e23"
     },
     {
       "bytes": 626,
@@ -6465,7 +6480,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "80027a0fc0950dddf8716f2bc6a6f0faf063624c280cfaf1be1dfbbafd9b9ad7"
+      "sha256": "a47d786eea3fb1e44c22295da1f7c5388b610cebe71ceea98bcfd253d9f6d046"
     },
     {
       "bytes": 1093,
@@ -6475,7 +6490,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "96e20db1e841554e481c9e038c6a2ebf25538a004cbbd5aca67b23e86748ebd4"
+      "sha256": "46e987b6d6e5e7f408fb99ff66773789d3e37a68f4160771f7bb75797e8f40e2"
     },
     {
       "bytes": 860,
@@ -6515,7 +6530,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "31154ad93e67c36dffc5dca2e1e8bf97826335719e275e3675440ea27874ae9a"
+      "sha256": "ab38e921e4d5226eec4cae51a25338404cf31ead0312cc9e588433af1b0454f9"
     },
     {
       "bytes": 820,
@@ -6583,10 +6598,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-08-31T12:15:42+00:00",
+  "generated_at": "2026-08-31T13:15:56+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1063377
+  "total_bytes": 1065673
 }
