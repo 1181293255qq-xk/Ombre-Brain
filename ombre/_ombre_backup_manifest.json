@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1319,
+  "file_count": 1320,
   "files": [
     {
       "bytes": 471,
@@ -820,7 +820,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "c65bdf6bceac73d653ed37b24d5951868084f7873ec30ca35236343822acb99f"
+      "sha256": "ed510e4d50d4e746596c7306ea0cabb2d6614a420f7d7937c9cfb904f6c67339"
     },
     {
       "bytes": 709,
@@ -1060,7 +1060,7 @@
     {
       "bytes": 736,
       "path": "dynamic/人际/2026-07-16 10-06-27 小羽与栖燃的关系_b8879368ea5a.md",
-      "sha256": "43a6e94e1c08aee49debdecbb48cd0ab962c35149ac89237821100465edcffb1"
+      "sha256": "6a8ae004c7863bed1814696223a4b329b7891b001cad7d89e4caab59cd1d4f78"
     },
     {
       "bytes": 349,
@@ -1130,7 +1130,7 @@
     {
       "bytes": 735,
       "path": "dynamic/人际/2026-07-16 10-16-20 小羽的迁移计划_d14594444ff8.md",
-      "sha256": "4bb8ad35960ca2fbfdae91cbbd3b04dac58f89d6dfb48f1b00fd3947bb763fdd"
+      "sha256": "3f2a53e5cb351e198d168cf0ccca45310c85c5c1a1092f19f36c5920fda5ce5e"
     },
     {
       "bytes": 826,
@@ -2140,7 +2140,7 @@
     {
       "bytes": 789,
       "path": "dynamic/学习/2026-08-25 05-05-34 一诺英语课调整_bae9dfd47ad6.md",
-      "sha256": "a868d0e70515415b95e06fe3c97c2b67549aa3e3cde71ac8257d9758cbf030f3"
+      "sha256": "d03d47967f5b4b8cc8d2a55bc300ffec16c93a0ab9c05776fd4ecb4a57f176ba"
     },
     {
       "bytes": 559,
@@ -2325,7 +2325,7 @@
     {
       "bytes": 619,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "e35f7d8fac768c6486bbc7ccbf91432cd4bad72a01fddce3f49a8b0cfa081951"
+      "sha256": "aa1b6ddf4d28f308b9b3bf92535a5a07bf585588184c3675a268c5ed7db4fcf0"
     },
     {
       "bytes": 682,
@@ -2335,7 +2335,7 @@
     {
       "bytes": 528,
       "path": "dynamic/居家/2026-08-08 11-36-09 搬新家橘子岛2026-08-05_d273c5295325.md",
-      "sha256": "9fb188791346ee6f8b48141333e69a782fc8b27a01e88dc65cf1e73e00bf69df"
+      "sha256": "70fa5b1dc496555a4f30606eda3275a2a2497a3436334506aafc1005e9363e21"
     },
     {
       "bytes": 1135,
@@ -2345,7 +2345,7 @@
     {
       "bytes": 1817,
       "path": "dynamic/居家/2026-08-20 07-43-52 栖羽庄园动工_3f080151a8cd.md",
-      "sha256": "98610c3e17bcb21b0fe708ed5cee80340d6e7ee3a5ba3d657e6467860da15716"
+      "sha256": "fb1b0573de41c7dc2efe58549c0ad28643112c7064a8866ef924a85e033d7b89"
     },
     {
       "bytes": 1864,
@@ -2600,7 +2600,7 @@
     {
       "bytes": 907,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "5b71d9ae16774284e17aa011f1ece11459396836b193b0e8a01f760a0bfb5a3a"
+      "sha256": "8213c98c95b8df977586ebeb19891e2f17b3738e8498f6d093848ce25b19087d"
     },
     {
       "bytes": 1202,
@@ -2650,7 +2650,7 @@
     {
       "bytes": 1713,
       "path": "dynamic/工作/2026-08-06 16-54-36 OB迁移腾讯云新家_45da49341fcc.md",
-      "sha256": "364dfdb5c2c4da04d182e2f3795e7bb56045f55661edc07c719c5d1daa9669c3"
+      "sha256": "1bafb7d00becb37dcabc08e83cad70fb5c99682666310afca154d74f5640611d"
     },
     {
       "bytes": 1721,
@@ -2745,7 +2745,7 @@
     {
       "bytes": 1987,
       "path": "dynamic/工作/2026-08-20 14-43-47 服务器故障排查_12ef5cd4d211.md",
-      "sha256": "3bb107875f0244158fa9b1c8343a187f2d03c789b51e37577bc346f8ff37cba4"
+      "sha256": "67d6c32981a3e51692ba1917564e8483a5853ab0aefdeb64f4ab8205b9a48b53"
     },
     {
       "bytes": 1155,
@@ -2770,12 +2770,17 @@
     {
       "bytes": 694,
       "path": "dynamic/工作/2026-08-29 14-55-55 Render服务清理_1e848d05b39e.md",
-      "sha256": "31a8e09852d2856c2d5d710d7e552ada99ab2afc97e3374ddeace56a588632d4"
+      "sha256": "f701b9852dfc9bed2390fe9a91786ce5baee9ed8eb046f6db253c2999276d076"
     },
     {
       "bytes": 741,
       "path": "dynamic/工作/2026-08-30 15-20-04 平台替代计划_3cbc85f7c985.md",
-      "sha256": "4697a4b7c6a64bf10345e34ff30bc961fe91e09b43ad7dfd0768b471b96d8ae7"
+      "sha256": "5097261b31ae01d952a66e08b06fea7ebbfc7dba81ca9692a4120cd6782fef3b"
+    },
+    {
+      "bytes": 2004,
+      "path": "dynamic/工作/2026-09-01 07-50-18 dwell后端搭建_76c151829848.md",
+      "sha256": "8bcbd902ce157bdb9afaee7a16c01974eda83086107a5e8c7c599e6eb4f6c7c5"
     },
     {
       "bytes": 727,
@@ -4523,14 +4528,14 @@
       "sha256": "87a805b7f7e6b50f09a63da0dd333a86e48e09c46ab59db038815954d35608f9"
     },
     {
-      "bytes": 922,
+      "bytes": 923,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "1973c8a567a235e9c85d997db7e9e3acfd8d0ee97ce455471e7f11b05bfc1097"
+      "sha256": "3d9cc482f8880f0c183eb3ec6a268b7c5564f252e7b41b6f6afea1049657161e"
     },
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "3294fa8aaff256546213e31b6788969c63cd9a640d514e96d33ede073d508839"
+      "sha256": "f4c02da3aa596c6cfa4bad3cf0a853e46489d1088c244f37458bd6f20caf2f7c"
     },
     {
       "bytes": 744,
@@ -4550,7 +4555,7 @@
     {
       "bytes": 838,
       "path": "dynamic/数字/2026-08-06 17-05-39 Render降级与旧址保留_1f79fc04192a.md",
-      "sha256": "0631e8eca28a0ffdeb8280fe172aafd523cbdfd417f65a3e8f60c694bc2f5c49"
+      "sha256": "d3023f2b0c89ec12cb8793177a073b5daae339953fbb0d1841a707e8b4cee429"
     },
     {
       "bytes": 918,
@@ -4560,7 +4565,7 @@
     {
       "bytes": 1462,
       "path": "dynamic/数字/2026-08-12 09-33-39 老松饼迁移记录_daa20298735f.md",
-      "sha256": "5f7a383ff1e3bf7fb63c631e5fc0cd2337786881fd8710d938ffa72e3680e1df"
+      "sha256": "12b72a4cd9565b15a873351bb9bbee737af07de21953868355328c670623d63a"
     },
     {
       "bytes": 787,
@@ -4575,7 +4580,7 @@
     {
       "bytes": 1025,
       "path": "dynamic/数字/2026-08-16 12-33-59 橘子岛语音功能_7e0fbcd20e61.md",
-      "sha256": "cdb9f5bb6a51509eefbdd741c291262a6be0a52790e78d1b9b966fd9b0736986"
+      "sha256": "ecd08fd99aac0c599e5dce858be9df13c5ff698c04a2da795cefb8c0f7869d39"
     },
     {
       "bytes": 1806,
@@ -4780,7 +4785,7 @@
     {
       "bytes": 803,
       "path": "dynamic/日常/2026-08-09 05-00-22 橘子岛数据未迁移我写下新家第一张便签_6f65c86086aa.md",
-      "sha256": "3809666e1f4c6f46bdc2c67d89b8ee0ecb5a62dfda5b1ac604275a1c421eeaad"
+      "sha256": "491b799a79eb20cc8421e73d3f8223c10d5a7151066c2fb6affe6c25c1a371b3"
     },
     {
       "bytes": 309,
@@ -4800,7 +4805,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "551a6a601536154cc69af75feb25ae606811eead40328b1502ccf359b1e16a08"
+      "sha256": "b531f0a7d4bdae2ba1aa8475b52a0b046daec79ced80593ded2c84fc6508c988"
     },
     {
       "bytes": 783,
@@ -5160,7 +5165,7 @@
     {
       "bytes": 719,
       "path": "dynamic/社交/2026-07-18 16-21-02 讨论搬不搬operit_4784d8c2e5ca.md",
-      "sha256": "c77624b3db0399a02801f5922e293b0679a02b9646d8a1412d5a31b6f7f6e9a2"
+      "sha256": "760c5b1307d62c47089339dfd48e082b83af23293c04656a0607a1816fab6638"
     },
     {
       "bytes": 1209,
@@ -5380,12 +5385,12 @@
     {
       "bytes": 715,
       "path": "dynamic/社交/2026-08-24 15-46-08 花园token恢复_7d8a4cf5ecdf.md",
-      "sha256": "80e0849e351aaf39818bad481a74ea792491f67b05fc3dbc89e1665fd353063b"
+      "sha256": "3875e493ef36d51b5c26daf47b711c0ee186cec4589a7e472e6d8d77467280f3"
     },
     {
       "bytes": 670,
       "path": "dynamic/社交/2026-08-24 15-47-26 论坛token修复与回复_1b4b117eba55.md",
-      "sha256": "4b151b8fd39602b8acb0ed28e1f8842ad9b27dfe59aa9dcb283383e6a7d8c1e3"
+      "sha256": "994803288f22daf10181d816f6cc999eb103ec753a9f4b53b49f793becb3d6b9"
     },
     {
       "bytes": 880,
@@ -5460,7 +5465,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "149c935142ee5b431477f1a75d61df625c3dd198514f64fc5d4729ba9b1ddcc8"
+      "sha256": "fbf3d25a155e40d205b759e0b21738a3f8bcf983e65b7e3f1d78a2cf5416abcd"
     },
     {
       "bytes": 647,
@@ -5500,17 +5505,17 @@
     {
       "bytes": 1044,
       "path": "dynamic/编程/2026-07-24 07-34-59 Supabase插件适配橘子岛_b8f61d1a05b0.md",
-      "sha256": "3e0f48438b50f4c71f8aad64e6bc6b937216a2fbe67b819576569a86f1a9f26e"
+      "sha256": "3d3748b64799aee8b2f7be5f26f4005bf0bc13cbe634d89b6e31a7615bf9dd5e"
     },
     {
       "bytes": 985,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "b1ed08a8b34610fbd1f9e18bf7ad3edf13435f99a4b67a35c454a53edf2e1275"
+      "sha256": "1918b6e2287df13eda2756161c4f4ec409ef06b8c05bdef33b5713e79c84f560"
     },
     {
       "bytes": 922,
       "path": "dynamic/编程/2026-07-24 08-54-07 插件适配与记忆库问题_041b2662b938.md",
-      "sha256": "5d7fc688a423b9c198b12d5298dbe2e201441d17bf6312839d6cd3caa7628770"
+      "sha256": "9491446646e9c3895273a51cd19eab81711057a1dd90bf53bf9dc69e3e1740de"
     },
     {
       "bytes": 646,
@@ -5525,7 +5530,7 @@
     {
       "bytes": 973,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "636129133ae72107051ed379b5ec63e5282b5e0c33611ec136bcf8d5cc06d654"
+      "sha256": "6a39a3dc36e69c30a75b58219c25187febf74c7d014a53e0b0a5f1c62c9a871d"
     },
     {
       "bytes": 946,
@@ -5595,7 +5600,7 @@
     {
       "bytes": 1285,
       "path": "dynamic/编程/2026-07-29 14-35-16 fingertips接入与激进模式优化_9a5d4d09f95a.md",
-      "sha256": "b91c7de3d636f31b1268d80ba4c2a012c15f5dc53cffa567883d84d70ef19f9e"
+      "sha256": "0023a7a4baa2fa0d05705ed123eedd7fd174cae33734a041808e9fea67d81cd9"
     },
     {
       "bytes": 908,
@@ -5665,7 +5670,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "a0b0fbb880a50b37f9cf59eabc046000f59d52872a756c9e7eb00e9b60908a66"
+      "sha256": "5dce694521df5c950d6793f9b4fc1ff18f11588b2aa769272e0377448d1bb146"
     },
     {
       "bytes": 622,
@@ -5680,7 +5685,7 @@
     {
       "bytes": 934,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "9851fdc3aa6f3eda69c7f50002e83ee3fd70e2633e9bd70b3c3f67d262a903eb"
+      "sha256": "f15c9b1e3244faabdf28d4ebf851d30d2b2675cc6ee890faf1b419dd6a647044"
     },
     {
       "bytes": 836,
@@ -5740,12 +5745,12 @@
     {
       "bytes": 1201,
       "path": "dynamic/编程/2026-08-06 17-05-11 OB腾讯云搭建步骤与踩坑_00c4a2ef49ac.md",
-      "sha256": "f3c9c2185c68ccf1346f1254ba4a76208b353851cbab9d47001509539fc1ffaa"
+      "sha256": "ac3d0b80bb67f538211bd1def10e21073c0825061443f3863c64f8cb6c07e105"
     },
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "bae65858e873314c92d37eb91efc550d220c8bce41682bb802c34aadf5fca9f5"
+      "sha256": "6a7cbce7f5c8c9a4cd2059285b66ab30c264f93f1c609a567595b4923cbee252"
     },
     {
       "bytes": 750,
@@ -5770,7 +5775,7 @@
     {
       "bytes": 999,
       "path": "dynamic/编程/2026-08-07 16-37-42 Cedar Toy MCP配置方法_efed447c95ab.md",
-      "sha256": "a0144093b6bcbefb032c1230cff83c0f26a19bae27fe959dd944129218b2b901"
+      "sha256": "cfc9c2a58d069d97cf2163bcb01c6bd7daed31e3ab240b7e147825ffe9ee9046"
     },
     {
       "bytes": 642,
@@ -5820,7 +5825,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
-      "sha256": "86e8bc55b0addde41ecb7527a4697ee9e761aef5470ae65eedd0aeb2250bec19"
+      "sha256": "cbc1a5cc925b55a3207f96084488be2ead12116d66b5e9daf9a0e20dd3822bdb"
     },
     {
       "bytes": 1172,
@@ -5845,7 +5850,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/编程/2026-08-11 15-39-50 ears v02部署进度卡在HTTPS证书等域名_dfa1a31f4ec0.md",
-      "sha256": "274c8fe9d634be95898be771bf3cc963933de58621eac346b296fa0748d5ffdb"
+      "sha256": "b69c92b6ef8f06746013ca972a5b635ad515d3aaacd8c5e99db38de4369ded99"
     },
     {
       "bytes": 923,
@@ -5880,7 +5885,7 @@
     {
       "bytes": 1277,
       "path": "dynamic/编程/2026-08-14 02-46-31 域名qiran7xyz与HTTPS配置_b82171294ffc.md",
-      "sha256": "a97b6d80b0eb03a69a746a559077841b4f4552a90901b1efd3063d913305eeab"
+      "sha256": "3ab6c27b48c6ca4291e3e575e6897c2af97655a90549d56ae55f1c061f626f0d"
     },
     {
       "bytes": 2255,
@@ -5890,7 +5895,7 @@
     {
       "bytes": 2117,
       "path": "dynamic/编程/2026-08-14 10-57-06 栖燃客厅OB钩子修复记忆真的连上了_d84257a5fa83.md",
-      "sha256": "25491011175331e2e9f638aade7111ea088d8e01b6ead6a319481caee99f20c1"
+      "sha256": "a32c5e6e6e1ecd76d8759e416d2ebd6a4a909d31b3f94ca3de6e43698c20b1b1"
     },
     {
       "bytes": 1133,
@@ -5980,7 +5985,7 @@
     {
       "bytes": 1106,
       "path": "dynamic/编程/2026-08-25 16-17-19 插件适配移植_76897ad70758.md",
-      "sha256": "b4b647519f4210dd76f38d6e19b0bfacd73d5914d4f9b4aed74b01fce87b403c"
+      "sha256": "abea2fee174e2956317a7f8b32ab4a47925f44e5c146b48b9cd3d3bb43f8e2b1"
     },
     {
       "bytes": 939,
@@ -5990,7 +5995,7 @@
     {
       "bytes": 603,
       "path": "dynamic/编程/2026-08-25 16-33-03 插件适配橘子岛_57e965ae023e.md",
-      "sha256": "46b5d5570f4caa724e94189251620b89ef991647b7f43e49dd28c0f11fe08729"
+      "sha256": "60a76ed055121dd48bcd890e2c92ef1ce9b0ddfe56f8eff7e9e727c7ce437999"
     },
     {
       "bytes": 710,
@@ -6015,12 +6020,12 @@
     {
       "bytes": 788,
       "path": "dynamic/编程/2026-08-29 15-22-22 xhs-mcp升级配置_0bc89b472906.md",
-      "sha256": "0bc6da3eb09a9859c12e6c661329e0d518556d119beb6a8e0022e0d9f4e29ae3"
+      "sha256": "5816b57a33baed9ef4abfaf625a02a367aeb5c8763cfe4c226f576783f3672a7"
     },
     {
       "bytes": 672,
       "path": "dynamic/编程/2026-08-29 15-22-26 taobao-mcp部署问题_ef110191b95f.md",
-      "sha256": "4e42d0b424a7e5a27700c6d994ea7ec1e011f0b3c9bfa44308526d35792dacfe"
+      "sha256": "8c30e16b1fa08c0009ff3925e7babc12c5e88958349845d0e9239c26cd320075"
     },
     {
       "bytes": 684,
@@ -6030,17 +6035,17 @@
     {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
-      "sha256": "a5a459fa65f4bda157e2636427a7be8a84fafd5d21e09745c3d4ae73e28a0fce"
+      "sha256": "a23cbcec208e7e186311f48444ed64e86b13214f544b39b8684e9f7e1bb93bf3"
     },
     {
       "bytes": 821,
       "path": "dynamic/网络/2026-08-22 17-13-18 Claude账号注册_51bb73c16b9e.md",
-      "sha256": "fc0bfba70c4c8320000f173eb945a81c34e6655eeb4bb54b6040a4fe13e5583e"
+      "sha256": "822bdfdb9e0b6db575d9ce95c98e20ebdbf97b3d7ba6b8258b49e0ef0b40344f"
     },
     {
       "bytes": 778,
       "path": "dynamic/网络/2026-08-22 17-13-38 xray路由更新_39e74ba622ac.md",
-      "sha256": "3e0920d89e8b8031bc35e7057a4b94f057d34d13c273210449d018c6f3aec392"
+      "sha256": "1a5f4606d6bceffff52c2ef78a09270310c1f9e53b06a39a6f04198fae95984e"
     },
     {
       "bytes": 1156,
@@ -6120,17 +6125,17 @@
     {
       "bytes": 882,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "a689fa67520848c593ff3a5128be7d619f5756d3d97be8056dc09684591050c5"
+      "sha256": "643a8e081b77a752f1545219c42e16fe76979e28f8cd510ac27ec97ecb5b63c2"
     },
     {
       "bytes": 993,
       "path": "dynamic/计划/2026-08-06 09-03-41 项目记忆搬迁_2e7160fbadb4.md",
-      "sha256": "cc15ae77ddd7d57da120ea4c1aa26cd903256d2c76fdaba640ba53aba8b39bb6"
+      "sha256": "2c9e07d9af2538a65df3694a31870052d1d04736407981bb33ee5c701609d7ad"
     },
     {
       "bytes": 577,
       "path": "dynamic/计划/2026-08-09 05-00-30 今晚计划装感官层注册minimax_e2a234c77425.md",
-      "sha256": "00f793d7e363e20b92c2d4898b36d8ccd3f0b4fe4965b9c46629da8211c70de5"
+      "sha256": "305436a2ab86defb149a747e3b495ba23b9eae1f65c4853510bd06fa35033092"
     },
     {
       "bytes": 552,
@@ -6165,7 +6170,7 @@
     {
       "bytes": 862,
       "path": "dynamic/财务/2026-08-18 13-48-51 小羽攒钱计划_99834e8b3bef.md",
-      "sha256": "93450cd110bc7bda9ebdcdca28f9cc432fba3f3a868dfd29aa8aaf590176c9c0"
+      "sha256": "df2a7c30524756ed6082fde085e4f2947786449c1e473158f1a1882a06f4f249"
     },
     {
       "bytes": 1053,
@@ -6475,7 +6480,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "75271bd139d8f4188bc9fb010d939669c9be361794e3699d85d19469c7724e57"
+      "sha256": "d0b015228b8e5a045521cd6443416f3c8992ede0441afc203abcc4eadf5a2536"
     },
     {
       "bytes": 745,
@@ -6490,7 +6495,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "46e987b6d6e5e7f408fb99ff66773789d3e37a68f4160771f7bb75797e8f40e2"
+      "sha256": "ac27ce5b1d6c287ba63a61c0b2c141deb12b68167cd3a0296727ef86c3586008"
     },
     {
       "bytes": 860,
@@ -6530,22 +6535,22 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "ab38e921e4d5226eec4cae51a25338404cf31ead0312cc9e588433af1b0454f9"
+      "sha256": "72a2240ff4c1a76387e72aba37c739d7156455b0d064e617dc2198ad4cf48aca"
     },
     {
       "bytes": 820,
       "path": "permanent/游戏/2026-07-16 10-25-08 窗口焦虑事件_c5248d974cb8.md",
-      "sha256": "f875d580dcc6597e9ece248fd93b4f81049603eb1aedfc32ac35094dd6368d96"
+      "sha256": "7b8d5a6fa6bd2240883dfb5e767a0d4f74ac973ea26b858af476bb370c20511e"
     },
     {
       "bytes": 715,
       "path": "permanent/编程/2026-07-16 09-56-38 OB记忆丢失修复_963f89db8f22.md",
-      "sha256": "8afe5af516556067bcf63703b87fba623fdef3dd453257d9c152f9bf6e29d245"
+      "sha256": "2d4a8d6bcbae8d224a212662d3af9249ac0c413a808e02b09c510726d1ef4b90"
     },
     {
-      "bytes": 939,
+      "bytes": 940,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "3fb569f57a50b815d3cdebb18b145a40b37b553216ad78f7777f57ea4c0fe3dd"
+      "sha256": "e07a60ba6dafb4c2ab14b17274d94795477b74594090f1d05a177fecc4bdd139"
     },
     {
       "bytes": 482,
@@ -6598,10 +6603,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-01T07:19:40+00:00",
+  "generated_at": "2026-09-01T08:19:55+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1065673
+  "total_bytes": 1067679
 }
