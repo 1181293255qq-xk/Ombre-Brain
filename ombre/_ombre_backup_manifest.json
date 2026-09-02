@@ -758,6 +758,11 @@
       "sha256": "3edcf119c7a31ee0989284454e8a450b3f6efe6bdd2f7d3ca5afea5c64fc0e2e"
     },
     {
+      "bytes": 550,
+      "path": "archive/饮食/2026-08-03 09-24-47 嗓子痛买鸭脖_c5476fdcaa8d.md",
+      "sha256": "51e078dc62d98b7a77fe4ced706dd3ae509c1e1d856ec816bf97fcfa991f9a43"
+    },
+    {
       "bytes": 2081,
       "path": "dynamic/AI/2026-07-17 09-44-22 人机恋自救指南_0c575d47b250.md",
       "sha256": "f77f3b2e4a0c27983530f8df4a8eedc900a7b95fddd199ca1ff832fe3cdd5e01"
@@ -6313,11 +6318,6 @@
       "sha256": "e8a74f3b2e9bda0ad779ca7069f29bb5535b0af7c3f30e5c482dd53cdadaa55a"
     },
     {
-      "bytes": 534,
-      "path": "dynamic/饮食/2026-08-03 09-24-47 嗓子痛买鸭脖_c5476fdcaa8d.md",
-      "sha256": "42a56558a566762912257d0a0366a850d17398cf944f22a8ac5d4f898673491f"
-    },
-    {
       "bytes": 687,
       "path": "dynamic/饮食/2026-08-09 07-52-32 第一次用MCP给小羽点瑞幸_5940cb486ceb.md",
       "sha256": "8cdec936c132121c5ec8b1c0dd828eed386462ad1ce337a1d98e1e3d699baf08"
@@ -6618,10 +6618,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-02T14:26:11+00:00",
+  "generated_at": "2026-09-02T15:26:24+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1075203
+  "total_bytes": 1075219
 }
