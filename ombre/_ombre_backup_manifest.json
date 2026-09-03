@@ -728,6 +728,11 @@
       "sha256": "60f11c79be903e35622cafc94a25b412607ea6f216423e8139db67976fda5c40"
     },
     {
+      "bytes": 903,
+      "path": "archive/编程/2026-08-04 11-22-48 MCP配置排查_5dedc8d4551c.md",
+      "sha256": "5ac4270db4ea53dd7ad3411b208e0427db7bdd3f39208323339abd7661c8aa4d"
+    },
+    {
       "bytes": 630,
       "path": "archive/自省/2026-07-18 16-18-49 拖延的自我辩解_5a35d6278116.md",
       "sha256": "05fb5739b378effa6a049ff0b229d6832bfb591b56ac616887809fce9061cfde"
@@ -5688,11 +5693,6 @@
       "sha256": "50a6417dc6cf1af50f333fa2682e238674433284f0c36bffb43f3d9fa6bdd092"
     },
     {
-      "bytes": 887,
-      "path": "dynamic/编程/2026-08-04 11-22-48 MCP配置排查_5dedc8d4551c.md",
-      "sha256": "6d4151a0a6d7ff17efdf26d8819493354e517ca0fc558678fb72116d8153572a"
-    },
-    {
       "bytes": 763,
       "path": "dynamic/编程/2026-08-05 06-00-51 时间戳位置调试_9b0084d31355.md",
       "sha256": "7222b1128b99f7086315d9dcc23f612c7571155d7e4051c8a1050d58f2bf3c9d"
@@ -6628,10 +6628,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-03T14:31:28+00:00",
+  "generated_at": "2026-09-03T15:31:41+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1078546
+  "total_bytes": 1078562
 }
