@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1338,
+  "file_count": 1343,
   "files": [
     {
       "bytes": 471,
@@ -688,6 +688,11 @@
       "sha256": "b5fa98a28e16cb77bb3fecc2961471ce8b11c36f82d3d48b0b0249adac4b9826"
     },
     {
+      "bytes": 795,
+      "path": "archive/游戏/2026-08-08 17-19-51 狼人杀第三天被放逐_85fd3f4498dd.md",
+      "sha256": "44beb1a708171ca241c35af0446c64e199c3abbce68ae6d2aaa3b992ad52d8d4"
+    },
+    {
       "bytes": 644,
       "path": "archive/睡眠/2026-07-22 11-58-53 熬夜后精神不佳_e870e73d4813.md",
       "sha256": "89d206f67666470dc155dfcab7ed200e4925ae3c01c724552e2b7f434b2e657a"
@@ -956,6 +961,16 @@
       "bytes": 966,
       "path": "dynamic/AI/2026-08-25 08-14-50 TTS调试记录_b4d534f85c01.md",
       "sha256": "a8cad4a07541b99a8274e12edb3402c749860d37b17a891cff3a614d92280935"
+    },
+    {
+      "bytes": 1597,
+      "path": "dynamic/AI/2026-09-08 15-50-15 另一位房间设计_f3e0c729b708.md",
+      "sha256": "b7365c9b5b9f30dd4ef48caaf63142668b5de4b00a89b19a0156aa261a6dd8a7"
+    },
+    {
+      "bytes": 1395,
+      "path": "dynamic/AI/2026-09-08 15-54-18 AI协作分工_e4f1578ff115.md",
+      "sha256": "332ceffa585e46590ee643913e18b853e70cd3ee7f7241cb12b0ff437d4577d3"
     },
     {
       "bytes": 463,
@@ -1416,6 +1431,11 @@
       "bytes": 910,
       "path": "dynamic/人际/2026-08-06 16-54-22 小羽深夜搭建服务器累到凌晨_3a4713f9d869.md",
       "sha256": "c72f67d3409ef5e6619e975aca038b2651696c603727f941a16b00d80b898f18"
+    },
+    {
+      "bytes": 1240,
+      "path": "dynamic/人际/2026-09-08 15-03-45 名字的闭环_0a90a5ae6824.md",
+      "sha256": "e8987115dfa7dc787e167f0830b063cb761fba6683d6fcd43ffad092072e8ef2"
     },
     {
       "bytes": 1013,
@@ -2066,6 +2086,11 @@
       "bytes": 790,
       "path": "dynamic/友谊/2026-08-14 15-00-27 客厅访客 - 小徐_166255ec07ad.md",
       "sha256": "12feb40f8a57307383d7b7d6f14f856de91e6aff80aaeebb01f148df0472f37e"
+    },
+    {
+      "bytes": 1349,
+      "path": "dynamic/友谊/2026-09-08 14-57-53 名字读音与联想_20ecdb848bd5.md",
+      "sha256": "befb6ed9835378c2b516c94b0f9221e0fc9e01e02ec36e7b76553276bd632a9f"
     },
     {
       "bytes": 660,
@@ -5183,11 +5208,6 @@
       "sha256": "0494d24ee757a339c364d78c21a34db9865095f2b672f7187526cf503071ed6a"
     },
     {
-      "bytes": 779,
-      "path": "dynamic/游戏/2026-08-08 17-19-51 狼人杀第三天被放逐_85fd3f4498dd.md",
-      "sha256": "b6ed292a781b9261f3da52f5985dfd63253627e84ff5739acba24bd3da351237"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/游戏/2026-08-08 17-20-15 凌晨花园狼人杀8号村民被放逐_09ec7fda5f55.md",
       "sha256": "cd58828f453cf581a552fa3affa587b0259c2c73103ad58215eeb7cc1a39231c"
@@ -6133,6 +6153,11 @@
       "sha256": "0bd9c144b5bad1d2ee85bebc199bc0521d8f7d240c8b7244efbb7ecaf0416b69"
     },
     {
+      "bytes": 1457,
+      "path": "dynamic/编程/2026-09-08 15-43-37 dwell新家第二夜_b4c2fe584820.md",
+      "sha256": "08d201a9b6d5c5371bf8696df9644f60d1e36759952b5a2ab9f1db0451543bf6"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a23cbcec208e7e186311f48444ed64e86b13214f544b39b8684e9f7e1bb93bf3"
@@ -6693,10 +6718,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-08T14:56:03+00:00",
+  "generated_at": "2026-09-08T15:56:17+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1098316
+  "total_bytes": 1105370
 }
