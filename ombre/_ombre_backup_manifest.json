@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1337,
+  "file_count": 1338,
   "files": [
     {
       "bytes": 471,
@@ -2206,6 +2206,11 @@
       "bytes": 678,
       "path": "dynamic/学习/2026-08-31 12-27-27 导师学术背景_d399292aad86.md",
       "sha256": "504e54831e686f6c619bfb934ef8a647dfcbe1eefd60a72ea843420f472926d3"
+    },
+    {
+      "bytes": 1225,
+      "path": "dynamic/学习/2026-09-08 09-00-31 英文名定档_6064ff193ab8.md",
+      "sha256": "5a34b656dcbb7be3484438b7534a41f6c42852f182b4cb869cc7c134c4458774"
     },
     {
       "bytes": 662,
@@ -6688,10 +6693,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-08T08:54:49+00:00",
+  "generated_at": "2026-09-08T09:55:01+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1097091
+  "total_bytes": 1098316
 }
