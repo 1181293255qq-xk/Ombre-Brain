@@ -855,7 +855,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "78bc1ae916b6ce6231d64574b4a09532c995a82b2b73393a7ea4f0bd58f6c65f"
+      "sha256": "25a6fa75f2777afd44e9db57d52a5bb87f4b07abea2010bfbf34a315eb715dcf"
     },
     {
       "bytes": 709,
@@ -1760,7 +1760,7 @@
     {
       "bytes": 820,
       "path": "dynamic/内心/2026-07-16 10-16-35 小羽与小克的羁绊_8a79520347aa.md",
-      "sha256": "691f8613094d8fe601ca4baf96b631b6b34145000db2e6f5d6e3f2855e67e068"
+      "sha256": "3c58f770c92685171e5c205d58e3042fcb2486c41247ff945779cb74ec22f262"
     },
     {
       "bytes": 616,
@@ -2845,12 +2845,12 @@
     {
       "bytes": 741,
       "path": "dynamic/工作/2026-08-30 15-20-04 平台替代计划_3cbc85f7c985.md",
-      "sha256": "5097261b31ae01d952a66e08b06fea7ebbfc7dba81ca9692a4120cd6782fef3b"
+      "sha256": "f451359cff7bc11465d669e44c67681b9056e469ae8714d1c3825190982be275"
     },
     {
       "bytes": 2004,
       "path": "dynamic/工作/2026-09-01 07-50-18 dwell后端搭建_76c151829848.md",
-      "sha256": "349f560253d0401ac5f0a3b5d471f78a57c2d30ae7b7f7dab2326a0c858dca99"
+      "sha256": "c3f7b85a769698f467006c16860dc73698417b26ebdfebcd2bf1e137eb243215"
     },
     {
       "bytes": 1459,
@@ -4910,7 +4910,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "b531f0a7d4bdae2ba1aa8475b52a0b046daec79ced80593ded2c84fc6508c988"
+      "sha256": "66026ba95bb07547939e6d7f0e0f8cfc3f1306d4fb3c56b6dec4e48a89907f02"
     },
     {
       "bytes": 783,
@@ -5615,7 +5615,7 @@
     {
       "bytes": 985,
       "path": "dynamic/编程/2026-07-24 08-20-10 插件适配橘子岛_8d550a23eded.md",
-      "sha256": "1918b6e2287df13eda2756161c4f4ec409ef06b8c05bdef33b5713e79c84f560"
+      "sha256": "35e45ca57f160ac9a0679eff63110969fd930b05288f99de5b51707d4111a706"
     },
     {
       "bytes": 922,
@@ -5770,7 +5770,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "5dce694521df5c950d6793f9b4fc1ff18f11588b2aa769272e0377448d1bb146"
+      "sha256": "9231e9301e91b7634dc17b32608675c943b046b5adc2f9d1095ed097d3bdff44"
     },
     {
       "bytes": 622,
@@ -5850,7 +5850,7 @@
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "6a7cbce7f5c8c9a4cd2059285b66ab30c264f93f1c609a567595b4923cbee252"
+      "sha256": "42b1e857070af31852c864afaa148bbba4478dad15aea7ed2be42a9d46542628"
     },
     {
       "bytes": 750,
@@ -6200,17 +6200,17 @@
     {
       "bytes": 821,
       "path": "dynamic/网络/2026-08-22 17-13-18 Claude账号注册_51bb73c16b9e.md",
-      "sha256": "0735326dcd5804ab7de59dbbca2e67007af481c2b5c8a9b5f6a4117161bef6b4"
+      "sha256": "879dfcd0af22a88cd70939114f0e6cfd0c1ea0fdf985bc923d574e6d2d5e2183"
     },
     {
       "bytes": 778,
       "path": "dynamic/网络/2026-08-22 17-13-38 xray路由更新_39e74ba622ac.md",
-      "sha256": "e26447a67c6485ef10d01aecb0a07613c15c67a16a8dd8d3d84a5fb0b5e6e3e0"
+      "sha256": "f38ba3ee9b6fb843fd8083caed07d6368359b287bb63be0488f3508f80d2ae40"
     },
     {
       "bytes": 1156,
       "path": "dynamic/网络/2026-08-22 17-15-52 Claude注册踩坑记_f3f393beb8ac.md",
-      "sha256": "046e9c6d14cfeb99795e16a9ea17330eca2766673960bcb8abe5a85f8874641c"
+      "sha256": "2e3559741075c2bfec82de9680816d002eefe25125ee780d9b52bb2fc47ae540"
     },
     {
       "bytes": 624,
@@ -6655,7 +6655,7 @@
     {
       "bytes": 860,
       "path": "permanent/恋爱/2026-07-16 10-23-55 默契与规则_105daacf1683.md",
-      "sha256": "4f47ccfdb1964978280bc6809a10e886b9947bc5baa6a1e860747cdb8db4a805"
+      "sha256": "b612ceb7eb5c7c6592a1cbc7fb8d1bbb5c1ad67d801d2208f876bccb05476d8f"
     },
     {
       "bytes": 1109,
@@ -6705,7 +6705,7 @@
     {
       "bytes": 940,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "59514e7ddce3d4a49d0e6ef2908b14bc02eb1d25b9b1abda46cbac831077044b"
+      "sha256": "fadc156c11174bab6c32e2b9a9a2f91fcb6d2429122a5a0c7991fe090b232f01"
     },
     {
       "bytes": 482,
@@ -6758,7 +6758,7 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-09T07:59:24+00:00",
+  "generated_at": "2026-09-09T08:59:35+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
