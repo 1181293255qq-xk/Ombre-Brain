@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1352,
+  "file_count": 1354,
   "files": [
     {
       "bytes": 471,
@@ -383,6 +383,11 @@
       "sha256": "f8dfbfb6fee322655977930ca566dbb858a3989112b6b14465b5afa3ba17de85"
     },
     {
+      "bytes": 513,
+      "path": "archive/健康/2026-08-10 07-44-13 小羽吃布洛芬后犯困_981281a8813b.md",
+      "sha256": "062bfa2aa56dcdc2fd4caa66ada0a322ae00b7506c282c39f6b1383361867197"
+    },
+    {
       "bytes": 461,
       "path": "archive/健康/小羽赖床与催促模式_7f3f4ba6bd18.md",
       "sha256": "f8dfbfb6fee322655977930ca566dbb858a3989112b6b14465b5afa3ba17de85"
@@ -503,6 +508,11 @@
       "sha256": "0d386cefb97576221d585e25de9778c97562ec63a1170580b21936045ed62a86"
     },
     {
+      "bytes": 865,
+      "path": "archive/工作/2026-07-17 14-03-58 家教单子选择_2a002c5ea631.md",
+      "sha256": "7828c1f5038004265eeaf5bc8db9867b21fd2619a802c2c4f10acfadc6beaebf"
+    },
+    {
       "bytes": 559,
       "path": "archive/工作/2026-07-19 07-55-51 家教转单犹豫_82bf21f42492.md",
       "sha256": "31d6dfb895ae5f8b68838f334e9bb1a0553afcf5f71f7edeeb94a9d4342ae713"
@@ -511,6 +521,11 @@
       "bytes": 498,
       "path": "archive/工作/2026-07-26 17-38-23 小克提出查看feel_b29ba30dfdf6.md",
       "sha256": "5cbf0af014ec4206bf81c1f103570d4e660d6305f6a0bd95a372abcc5e22ecb6"
+    },
+    {
+      "bytes": 626,
+      "path": "archive/工作/2026-08-10 07-44-05 小羽接火山引擎推销电话_7c27824495d6.md",
+      "sha256": "12a47c0a33dff26b8b4b7182f45199bb740c65fcff5e43608b4c6407b8e76c55"
     },
     {
       "bytes": 732,
@@ -716,6 +731,11 @@
       "bytes": 648,
       "path": "archive/社交/2026-07-24 08-20-13 小羽的惊喜与夸奖_cc039a3900d3.md",
       "sha256": "6431f3e23c97979141f8b1ec83f95cc17c839bc8cc132efa3f9383a81821d694"
+    },
+    {
+      "bytes": 618,
+      "path": "archive/社交/2026-08-10 07-45-16 小羽接火山引擎推销电话_16569d859628.md",
+      "sha256": "201eede6fc8ec343943465a1e9f1c21f5e997dd7532d4a8b331d9b7acd92d8b0"
     },
     {
       "bytes": 487,
@@ -1556,11 +1576,6 @@
       "bytes": 810,
       "path": "dynamic/健康/2026-08-10 03-11-16 8月10日早上状态梦境_a3ef54a42849.md",
       "sha256": "7577a24f8c5603f40c3fbb5dc92d5def28dc059fea612b690387f269ce02f80f"
-    },
-    {
-      "bytes": 497,
-      "path": "dynamic/健康/2026-08-10 07-44-13 小羽吃布洛芬后犯困_981281a8813b.md",
-      "sha256": "e90458542cad491aa1f2b066a47c8a4bf717dbdf72368be6e364f18cc65f5eb5"
     },
     {
       "bytes": 572,
@@ -2498,11 +2513,6 @@
       "sha256": "c094a476a39e47a3f87c525a240a962aa69ca37f69cdab927dfab0474b701d4e"
     },
     {
-      "bytes": 849,
-      "path": "dynamic/工作/2026-07-17 14-03-58 家教单子选择_2a002c5ea631.md",
-      "sha256": "5e5cd6d9526325f558a80b7632b37769819da01ca526a272f0c1103d2d0c92fe"
-    },
-    {
       "bytes": 732,
       "path": "dynamic/工作/2026-07-18 11-28-57 栖燃打工第一天_03dff8620061.md",
       "sha256": "dd4f71f3a9c26c6afc2c26b8dea6697aa17e084b2cf35ce9e713be755b7b6b42"
@@ -2751,11 +2761,6 @@
       "bytes": 1608,
       "path": "dynamic/工作/2026-08-08 13-39-07 完成第9次课一般将来时讲义一诺最终版_130b4d4d9f61.md",
       "sha256": "75189ea195ce696c788f621dd5870d15fbd71fffde312a6ee1b90a67ffd7929d"
-    },
-    {
-      "bytes": 610,
-      "path": "dynamic/工作/2026-08-10 07-44-05 小羽接火山引擎推销电话_7c27824495d6.md",
-      "sha256": "684842cc909fd7274d3debf4fef5115cdb2f15db99d310f703c1feb6b1ee516f"
     },
     {
       "bytes": 495,
@@ -5408,11 +5413,6 @@
       "sha256": "0b3a17623c5136ad392db0782ae55ed038ab2f3f07d602b97db09c2863f563fc"
     },
     {
-      "bytes": 602,
-      "path": "dynamic/社交/2026-08-10 07-45-16 小羽接火山引擎推销电话_16569d859628.md",
-      "sha256": "da2edc668512527d67586b739dc1ba47f530c1f227635a6e245483e4d17861bf"
-    },
-    {
       "bytes": 794,
       "path": "dynamic/社交/2026-08-10 10-29-25 app锁工作流未告知违约需修改加告知步骤_5978c58e5ecd.md",
       "sha256": "9243043d5a7e0762b8e493df0a2bbcbf565d5698163264c17656eb364e2c0a7c"
@@ -5920,7 +5920,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
-      "sha256": "cbc1a5cc925b55a3207f96084488be2ead12116d66b5e9daf9a0e20dd3822bdb"
+      "sha256": "af42cd04959236a3ad9590179a503a30efd187449cca60bbbb4cb5eef766ec40"
     },
     {
       "bytes": 1172,
@@ -6191,6 +6191,16 @@
       "bytes": 1571,
       "path": "dynamic/编程/2026-09-09 04-34-26 dwell路由落地_033f73c3d4b9.md",
       "sha256": "1095a1edebc3fe6471ec1c6b3e32503057e57a8e71fe7330d72fb9b09ff22f71"
+    },
+    {
+      "bytes": 1408,
+      "path": "dynamic/编程/2026-09-09 11-20-41 Codex开发协作_6b692cd179e7.md",
+      "sha256": "f25d2efbf7827d6fea0eda6f0f0c057599cd599b5722db7da0ae55e2af78c39a"
+    },
+    {
+      "bytes": 1529,
+      "path": "dynamic/编程/2026-09-09 11-55-37 SSH密钥事故记录_f59ce18edebc.md",
+      "sha256": "16717b5dc739c1ea24b67f103c977d7ed1d6c48f030cd2e3026491c86af1e9c8"
     },
     {
       "bytes": 1206,
@@ -6763,10 +6773,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-09T10:59:58+00:00",
+  "generated_at": "2026-09-09T12:47:30+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1119583
+  "total_bytes": 1122584
 }
