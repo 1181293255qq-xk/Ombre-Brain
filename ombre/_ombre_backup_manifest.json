@@ -5570,7 +5570,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "fbf3d25a155e40d205b759e0b21738a3f8bcf983e65b7e3f1d78a2cf5416abcd"
+      "sha256": "41decac9ec565648a9a4f51b13c67975696b2a60bda7f7d7dbcb497d88665940"
     },
     {
       "bytes": 647,
@@ -5920,7 +5920,7 @@
     {
       "bytes": 1049,
       "path": "dynamic/编程/2026-08-10 13-21-58 shell-mcp部署信息与橘子岛终端连接方式_46ae1fe090cc.md",
-      "sha256": "af42cd04959236a3ad9590179a503a30efd187449cca60bbbb4cb5eef766ec40"
+      "sha256": "1d178a08f6fef571e11fce225b6d9b3793609e1e5785a4f7ac3de5470bffa386"
     },
     {
       "bytes": 1172,
@@ -6773,7 +6773,7 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-09T14:47:54+00:00",
+  "generated_at": "2026-09-09T15:48:06+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
