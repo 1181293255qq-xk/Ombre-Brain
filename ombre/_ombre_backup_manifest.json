@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1357,
+  "file_count": 1362,
   "files": [
     {
       "bytes": 471,
@@ -4655,7 +4655,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "f4c02da3aa596c6cfa4bad3cf0a853e46489d1088c244f37458bd6f20caf2f7c"
+      "sha256": "e5a5288bed10584bb446f9e8c1fdb2e78ac4c7aaae581d95bd7c1e213f37d77f"
     },
     {
       "bytes": 643,
@@ -5855,7 +5855,7 @@
     {
       "bytes": 962,
       "path": "dynamic/编程/2026-08-06 17-05-25 OB新服务器配置信息与待办_f7392b341af4.md",
-      "sha256": "42b1e857070af31852c864afaa148bbba4478dad15aea7ed2be42a9d46542628"
+      "sha256": "06359ec1d865c57607f1eebbdbe270826c35ee8547170572f3a7f4d4dab9c1ed"
     },
     {
       "bytes": 750,
@@ -6035,7 +6035,7 @@
     {
       "bytes": 829,
       "path": "dynamic/编程/2026-08-19 03-59-01 服务器安全加固_38cf4e6d6bd7.md",
-      "sha256": "b892fcbc982e3b44b54117c8387fc4e885fd7d890da0706ec7a4946d93178062"
+      "sha256": "885569542ab9701ada794ef71c3a926fcd3731c6ca9a25ca8fac01f6894c3b15"
     },
     {
       "bytes": 1300,
@@ -6216,6 +6216,31 @@
       "bytes": 1564,
       "path": "dynamic/编程/2026-09-09 19-38-02 dwell人格注入突破_e9eb220e2eb4.md",
       "sha256": "63a78754a4d77eb62094bba7a9f93ebbdccc514db08611a0998730bde9313f93"
+    },
+    {
+      "bytes": 1690,
+      "path": "dynamic/编程/2026-09-10 02-21-04 SSH复活与事故复盘_0e039223074a.md",
+      "sha256": "0c6a33be85d8c480640b66958068ad7866c2235a08e652bbb80334736e97b46f"
+    },
+    {
+      "bytes": 1283,
+      "path": "dynamic/编程/2026-09-10 02-25-23 SSH事故收尾加固_2dbf48101196.md",
+      "sha256": "aeded628f0244b46b258dc28117da56359798bcab9e44cafb2c83b4a3a6a0804"
+    },
+    {
+      "bytes": 1582,
+      "path": "dynamic/编程/2026-09-10 02-28-35 dwell搬家进度盘点_4073c8dad829.md",
+      "sha256": "e0470550247e38ce22473133a5c2c831c5fdf5bd47b38db9a4c86e4a18f55382"
+    },
+    {
+      "bytes": 1725,
+      "path": "dynamic/编程/2026-09-10 02-31-23 AionsHome二改评估_81649c1dcd4f.md",
+      "sha256": "406032777a67381b4383dca82dc63ec18a338b923b95637bdb309b61289f4c53"
+    },
+    {
+      "bytes": 2439,
+      "path": "dynamic/编程/2026-09-10 02-40-08 AionsHome考古与偷零件_a7c08692cc16.md",
+      "sha256": "56ac4dfeb742cdb3a0f2ffccce99afdd2b02291238a54eaedd66c267470f0789"
     },
     {
       "bytes": 1206,
@@ -6788,10 +6813,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-10T01:49:57+00:00",
+  "generated_at": "2026-09-10T02:50:12+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1128154
+  "total_bytes": 1136873
 }
