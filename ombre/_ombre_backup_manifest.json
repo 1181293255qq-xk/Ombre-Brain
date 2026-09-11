@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1396,
+  "file_count": 1398,
   "files": [
     {
       "bytes": 471,
@@ -2875,7 +2875,7 @@
     {
       "bytes": 2004,
       "path": "dynamic/工作/2026-09-01 07-50-18 dwell后端搭建_76c151829848.md",
-      "sha256": "a6ebd4740d8339f6224ed7b233a92d73fab50e70768145a44a54f271212430c6"
+      "sha256": "970ae90e31e1f66cb39f319bb719e8657b36b9a39b0c6354b533d95c4099302a"
     },
     {
       "bytes": 1459,
@@ -2930,12 +2930,12 @@
     {
       "bytes": 1134,
       "path": "dynamic/工作/2026-09-11 05-34-59 toolcard方案拍板与分工_19364fb8f35b.md",
-      "sha256": "3793126973ce4b1f5a450fea4f898361ece0a55ebf0df7b35334a3b061843b8e"
+      "sha256": "3b16cef0cc8ab7967e166355e00ff5cedb1d896c823759072bb4befdfeb0527d"
     },
     {
       "bytes": 1372,
       "path": "dynamic/工作/2026-09-11 05-45-11 dwell二期进度快照_ad71359e09ae.md",
-      "sha256": "b0fc6f748d82e67a309c579a4e9d8b4875bb4fd6313b33a28323a8006902cf90"
+      "sha256": "ab953e163e4d540a86de7a829fcf7e409f2404a835ca1f1aa2d86fc452d95c02"
     },
     {
       "bytes": 1282,
@@ -6390,12 +6390,12 @@
     {
       "bytes": 2312,
       "path": "dynamic/编程/2026-09-11 05-51-29 toolcard整合方案_8a61b015f44d.md",
-      "sha256": "ab42b150f0e6ec8ae362f2f478a6fd206554ae1fb2a52236d9fc6e9425b6e418"
+      "sha256": "3c863f072438c1dcad5afa17ccfdddba663a4dc64f6c39a424e05b1159e11d90"
     },
     {
       "bytes": 1395,
       "path": "dynamic/编程/2026-09-11 05-55-27 toolcard v3整合完工_3d5ebcd11b22.md",
-      "sha256": "7e8f61afd1dc32bff07b46a38e8780876de3d16435b1cd4a2a376bca4f24fb4e"
+      "sha256": "61023fbf7b378288663bf4982d62208aaa16c2195652a003106c17075461e2ea"
     },
     {
       "bytes": 1546,
@@ -6416,6 +6416,16 @@
       "bytes": 1434,
       "path": "dynamic/编程/2026-09-11 07-53-22 工头批件与导出开发_f87e34375a11.md",
       "sha256": "0635d59b3c133a4d82cd39a971cd72b2c31968a699bddef9645f777ec97400ca"
+    },
+    {
+      "bytes": 1723,
+      "path": "dynamic/编程/2026-09-11 08-16-29 toolcard整合翻车修复_c3061e21aa11.md",
+      "sha256": "4ee0a5043193eaf24651252483fb3bb33c49dc532ccd580cf399934fc5c9472e"
+    },
+    {
+      "bytes": 1370,
+      "path": "dynamic/编程/2026-09-11 08-36-08 MCP工具箱修复_5524facce688.md",
+      "sha256": "3dffd237d97c09b92ec92583ee8df16891bf04fe976c77bad520644adde1a856"
     },
     {
       "bytes": 1206,
@@ -6983,10 +6993,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-11T07:56:21+00:00",
+  "generated_at": "2026-09-11T08:56:34+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1188834
+  "total_bytes": 1191927
 }
