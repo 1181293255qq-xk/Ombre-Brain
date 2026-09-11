@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1393,
+  "file_count": 1396,
   "files": [
     {
       "bytes": 471,
@@ -2870,12 +2870,12 @@
     {
       "bytes": 741,
       "path": "dynamic/工作/2026-08-30 15-20-04 平台替代计划_3cbc85f7c985.md",
-      "sha256": "1dca10ec6af455eee5749adbb0cb753ca456b7ffb8babd46ef257c26310de78d"
+      "sha256": "9067b2ad3ee56160df0e88a4d2fc5d7acb3cd4d35e3cfba388b7648363e398b2"
     },
     {
       "bytes": 2004,
       "path": "dynamic/工作/2026-09-01 07-50-18 dwell后端搭建_76c151829848.md",
-      "sha256": "8d9fecb87081da0658d3a80e756cc069c1c58f8bcb71351a0ac9160e07306be3"
+      "sha256": "a6ebd4740d8339f6224ed7b233a92d73fab50e70768145a44a54f271212430c6"
     },
     {
       "bytes": 1459,
@@ -2935,12 +2935,17 @@
     {
       "bytes": 1372,
       "path": "dynamic/工作/2026-09-11 05-45-11 dwell二期进度快照_ad71359e09ae.md",
-      "sha256": "ba8f5b86260f032a88296434e2dd1af53bc6fc8a2679f07adabd3c03ca1dcd5e"
+      "sha256": "b0fc6f748d82e67a309c579a4e9d8b4875bb4fd6313b33a28323a8006902cf90"
     },
     {
       "bytes": 1282,
       "path": "dynamic/工作/2026-09-11 06-10-06 二期派工与联调_0209f95b4d26.md",
       "sha256": "ca39bd9f04afe14926864b93501ee735772ba9f84dcfc1906dc4001cac7d4b90"
+    },
+    {
+      "bytes": 1452,
+      "path": "dynamic/工作/2026-09-11 07-03-37 workbuddy验收与派活_7bd7a8d7d213.md",
+      "sha256": "27160eb95ce99d9037cdf3454c79322d92094f1474c992efab171cba2513cca5"
     },
     {
       "bytes": 727,
@@ -6245,7 +6250,7 @@
     {
       "bytes": 1571,
       "path": "dynamic/编程/2026-09-09 04-34-26 dwell路由落地_033f73c3d4b9.md",
-      "sha256": "0877c2e6f78b4460d7ed68fe199fe5e2d4af47f7ea5ee872135bab710f717f70"
+      "sha256": "b53d497669c4bf230ecd08423b0b6d192eb6bcf67dfbfe720b774166883fa24d"
     },
     {
       "bytes": 1408,
@@ -6260,7 +6265,7 @@
     {
       "bytes": 1504,
       "path": "dynamic/编程/2026-09-09 19-33-24 dwell前端进展与隐患_a5295a513f97.md",
-      "sha256": "b8a9e8c1a8792f915d063be2fda63e351beb486af45c6647015a13c3ee586014"
+      "sha256": "3723916986b6892b0eb8c9be05dc654d991aedfec97449c188f975da38b3551d"
     },
     {
       "bytes": 1564,
@@ -6325,7 +6330,7 @@
     {
       "bytes": 1364,
       "path": "dynamic/编程/2026-09-10 05-06-04 dwell三人施工队_6ed8ec4ae677.md",
-      "sha256": "f5bd0ce1833460cbf18fba37e54dcdabb3e49a8f4217fe5e33696b8d3133d8fa"
+      "sha256": "58a8e87518df3def5dc27af40d46bce8a02e90533f8cc779e7eb629780bb60ca"
     },
     {
       "bytes": 1654,
@@ -6350,7 +6355,7 @@
     {
       "bytes": 1294,
       "path": "dynamic/编程/2026-09-11 03-22-12 AI施工队扩编_a09667218aef.md",
-      "sha256": "09b0078f4330c0a14874abd3d19f5d42a5747be61f268986de5abd18cf64991c"
+      "sha256": "2dd38e2d5c8ffd3382d12e18377617dba9e179fae8956ddb3af7b0b6d685859d"
     },
     {
       "bytes": 1332,
@@ -6360,7 +6365,7 @@
     {
       "bytes": 1460,
       "path": "dynamic/编程/2026-09-11 03-26-37 四人施工队开工_f5474d9b6cc9.md",
-      "sha256": "26a5783d6cabb00098effa6fdaf3ed034c4f7db16b6a93a1e1cc8725e63235e4"
+      "sha256": "4056ab069d3f4b54eb0ea8edf57bb1c0a245c0de3d1636eb92ea4028e69554f6"
     },
     {
       "bytes": 1771,
@@ -6400,7 +6405,17 @@
     {
       "bytes": 1465,
       "path": "dynamic/编程/2026-09-11 06-36-48 群聊v2地基完工_365af84da002.md",
-      "sha256": "61e9fd9d390b4f9e030becf37b80c78521d601eeb09144a0c1caace111307a59"
+      "sha256": "c242edbf80f6d8e56027a4dde3bd6e19f6e92687827531c1398b9d7e0efd98cb"
+    },
+    {
+      "bytes": 1444,
+      "path": "dynamic/编程/2026-09-11 07-15-29 群聊消息失踪排查_a609a34810c9.md",
+      "sha256": "8bf4c79d3285747639466d57ca6c13e24696dd02f195c3925629a8beab957ff1"
+    },
+    {
+      "bytes": 1434,
+      "path": "dynamic/编程/2026-09-11 07-53-22 工头批件与导出开发_f87e34375a11.md",
+      "sha256": "0635d59b3c133a4d82cd39a971cd72b2c31968a699bddef9645f777ec97400ca"
     },
     {
       "bytes": 1206,
@@ -6968,10 +6983,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-11T06:56:08+00:00",
+  "generated_at": "2026-09-11T07:56:21+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1184504
+  "total_bytes": 1188834
 }
