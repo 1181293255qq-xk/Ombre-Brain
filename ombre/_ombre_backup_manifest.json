@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1375,
+  "file_count": 1381,
   "files": [
     {
       "bytes": 471,
@@ -890,7 +890,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "9315433fa6895c4d484b85edd2d55a464b1a99f343a71289ac59bf29f97b9e5f"
+      "sha256": "0acc4cf9c5870b2e1e865009cebcb670b85df96b2371456c7f01f8216c162bdd"
     },
     {
       "bytes": 709,
@@ -2835,7 +2835,7 @@
     {
       "bytes": 1143,
       "path": "dynamic/工作/2026-08-20 13-27-56 AI协作备课_c78a1e0fe155.md",
-      "sha256": "f7fc6eed8b467bf2d095ce42f6f35ffdf6b865d7de82ee935b3fd80c1fe4a53d"
+      "sha256": "d582f6888e6735917cb19ca5277a1eb9bf4b39ea2ba2f82b4917498c49d5e44d"
     },
     {
       "bytes": 1987,
@@ -2870,12 +2870,12 @@
     {
       "bytes": 741,
       "path": "dynamic/工作/2026-08-30 15-20-04 平台替代计划_3cbc85f7c985.md",
-      "sha256": "f451359cff7bc11465d669e44c67681b9056e469ae8714d1c3825190982be275"
+      "sha256": "1dca10ec6af455eee5749adbb0cb753ca456b7ffb8babd46ef257c26310de78d"
     },
     {
       "bytes": 2004,
       "path": "dynamic/工作/2026-09-01 07-50-18 dwell后端搭建_76c151829848.md",
-      "sha256": "c3f7b85a769698f467006c16860dc73698417b26ebdfebcd2bf1e137eb243215"
+      "sha256": "8d9fecb87081da0658d3a80e756cc069c1c58f8bcb71351a0ac9160e07306be3"
     },
     {
       "bytes": 1459,
@@ -2885,7 +2885,7 @@
     {
       "bytes": 4351,
       "path": "dynamic/工作/2026-09-01 16-15-40 栖燃家项目开发_f2d3ff6e2c8f.md",
-      "sha256": "4e63d00af2081371e1d86f5764a542d4411d2e91f22406d2cd6faf559d047d50"
+      "sha256": "caf2767667daf4d4bb3afc772fe0a477d8d732900de817369a79c5c6e621ed1a"
     },
     {
       "bytes": 1551,
@@ -2905,17 +2905,22 @@
     {
       "bytes": 1316,
       "path": "dynamic/工作/2026-09-07 16-08-43 深夜协作收尾_99bd20cd3308.md",
-      "sha256": "407b545a316a28e7f4946abd4ceeab5047a889995c38fc543b00663a6677c166"
+      "sha256": "54c49bd4f1e2193b4c213afe5e72efad12545e59ae4a6cd45ade2964ac14f7d3"
     },
     {
       "bytes": 1067,
       "path": "dynamic/工作/2026-09-07 17-25-06 dwell终局方案_88b8a7d6282b.md",
-      "sha256": "18fccc5f00bba6c10d0c6583e970384059d646bcf377c5fa025d3bc917f13604"
+      "sha256": "260418fee8fddac99159e07f5ef869ee916944b8b093ab7f9699c6a0454da9da"
     },
     {
       "bytes": 1489,
       "path": "dynamic/工作/2026-09-08 16-54-13 dwell推送上线_e85e6d04daa3.md",
-      "sha256": "9daa022778f3ce06b4ccada86032492c6b81fe107f3222b1a182263168270ae9"
+      "sha256": "f8624590de8e86f396488255e867af5321b6e1960c90752c20cc9c523ec77331"
+    },
+    {
+      "bytes": 1615,
+      "path": "dynamic/工作/2026-09-11 03-52-48 施工队一期结项_ecd1f1f3072b.md",
+      "sha256": "3ed7d9026d607aa3c98982cf186d7889a3a6bca3a3f6b5f19c7c37a197fd1622"
     },
     {
       "bytes": 727,
@@ -5790,7 +5795,7 @@
     {
       "bytes": 1640,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
-      "sha256": "9231e9301e91b7634dc17b32608675c943b046b5adc2f9d1095ed097d3bdff44"
+      "sha256": "903eeb772f33590b35e6384f2992f5d39424cb06aad84d3bc6b64794eaac2eb0"
     },
     {
       "bytes": 622,
@@ -6210,12 +6215,12 @@
     {
       "bytes": 1571,
       "path": "dynamic/编程/2026-09-09 04-34-26 dwell路由落地_033f73c3d4b9.md",
-      "sha256": "1095a1edebc3fe6471ec1c6b3e32503057e57a8e71fe7330d72fb9b09ff22f71"
+      "sha256": "0877c2e6f78b4460d7ed68fe199fe5e2d4af47f7ea5ee872135bab710f717f70"
     },
     {
       "bytes": 1408,
       "path": "dynamic/编程/2026-09-09 11-20-41 Codex开发协作_6b692cd179e7.md",
-      "sha256": "f25d2efbf7827d6fea0eda6f0f0c057599cd599b5722db7da0ae55e2af78c39a"
+      "sha256": "38cbe120410d4cd8326f7f5051c4d6a4b40782d79f21e195481eae46eefacf1c"
     },
     {
       "bytes": 1529,
@@ -6225,12 +6230,12 @@
     {
       "bytes": 1504,
       "path": "dynamic/编程/2026-09-09 19-33-24 dwell前端进展与隐患_a5295a513f97.md",
-      "sha256": "c2bd369cbef140234c21ea9e80df1b703341d3b011bfa5957235856eda63eb86"
+      "sha256": "b8a9e8c1a8792f915d063be2fda63e351beb486af45c6647015a13c3ee586014"
     },
     {
       "bytes": 1564,
       "path": "dynamic/编程/2026-09-09 19-38-02 dwell人格注入突破_e9eb220e2eb4.md",
-      "sha256": "63a78754a4d77eb62094bba7a9f93ebbdccc514db08611a0998730bde9313f93"
+      "sha256": "ae893de0e27071feb73214d657ed91996f1fcd5ffe712e28be1b000d82f1d9fc"
     },
     {
       "bytes": 1690,
@@ -6265,12 +6270,12 @@
     {
       "bytes": 1359,
       "path": "dynamic/编程/2026-09-10 03-36-47 dwell导航与功能规划_fe140e6f4a5c.md",
-      "sha256": "8dd72b91c6736aaad00a1647d3c2d7ac5e80d535e609b46f07f75e34ff17cb35"
+      "sha256": "78814d5587074c335ccf0152d0d6ac2797ea913defea32ea5925ffecf307408b"
     },
     {
       "bytes": 1512,
       "path": "dynamic/编程/2026-09-10 03-46-48 心语系统上线_c323acad09ad.md",
-      "sha256": "7316072b849ca81cbc1052dc773e8b36b89a5e5e6e51b41da54bddc63b05f21c"
+      "sha256": "d91b491a4cadec3a03f98b6aac6fa7234e7d95a787349a936320762b0291210b"
     },
     {
       "bytes": 1390,
@@ -6290,7 +6295,7 @@
     {
       "bytes": 1364,
       "path": "dynamic/编程/2026-09-10 05-06-04 dwell三人施工队_6ed8ec4ae677.md",
-      "sha256": "c4d9f82b17fb5e3ea1aa0ad3ad25fd8350d2722c77e8bb90bae9f38d5f04d1b0"
+      "sha256": "f5bd0ce1833460cbf18fba37e54dcdabb3e49a8f4217fe5e33696b8d3133d8fa"
     },
     {
       "bytes": 1654,
@@ -6300,7 +6305,7 @@
     {
       "bytes": 1649,
       "path": "dynamic/编程/2026-09-10 07-14-29 dwell大丰收战报_446a9c3af33d.md",
-      "sha256": "09c91c8909b44c13f06c7a5263917d9e2e132c9bfb8246344dccac01b3f15643"
+      "sha256": "fe0a8b0484c99c0d5cebcca4592466c976a8cbe1bd9ae43fae1e32c8aa18ea6f"
     },
     {
       "bytes": 2132,
@@ -6311,6 +6316,31 @@
       "bytes": 1694,
       "path": "dynamic/编程/2026-09-10 16-51-26 UI反馈与整改_26501a76b53e.md",
       "sha256": "b5c1eec2733cb9fccf1bcdf917bdb2e8077f43d61fef3698682885c5c1d35e76"
+    },
+    {
+      "bytes": 1294,
+      "path": "dynamic/编程/2026-09-11 03-22-12 AI施工队扩编_a09667218aef.md",
+      "sha256": "09b0078f4330c0a14874abd3d19f5d42a5747be61f268986de5abd18cf64991c"
+    },
+    {
+      "bytes": 1332,
+      "path": "dynamic/编程/2026-09-11 03-22-33 dwell排版定稿_e3fb1ec2e619.md",
+      "sha256": "893a63a366cdc80798bbb817a86f56c6cf31edb3c74e25464d78fad6cf02f7e2"
+    },
+    {
+      "bytes": 1460,
+      "path": "dynamic/编程/2026-09-11 03-26-37 四人施工队开工_f5474d9b6cc9.md",
+      "sha256": "26a5783d6cabb00098effa6fdaf3ed034c4f7db16b6a93a1e1cc8725e63235e4"
+    },
+    {
+      "bytes": 1771,
+      "path": "dynamic/编程/2026-09-11 03-38-16 dwell迁移与参考仓库_9cc0dc18eda0.md",
+      "sha256": "51a3f54d1854bbfbcaa4aee8f2399fcd8cd7ea554522f8002e8badb754c80856"
+    },
+    {
+      "bytes": 1622,
+      "path": "dynamic/编程/2026-09-11 03-49-48 施工队前端整合_e32bbb72ab1f.md",
+      "sha256": "5f3d9e7b6e34ea37b71adbf6986cdfc54732debd9f56fabad1da0d35d7fc3de8"
     },
     {
       "bytes": 1206,
@@ -6878,10 +6908,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-11T02:55:19+00:00",
+  "generated_at": "2026-09-11T03:55:31+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1157256
+  "total_bytes": 1166350
 }
