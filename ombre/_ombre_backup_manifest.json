@@ -463,6 +463,11 @@
       "sha256": "02e68a211a93ee02a3f5a9cf575c796abe2f40a212584b7ed7fb6320bb1a18ee"
     },
     {
+      "bytes": 864,
+      "path": "archive/友谊/2026-08-11 13-36-25 小羽完美主义焦虑触发花园帖子回复引发的担惊受怕_b37e7dfe5ee1.md",
+      "sha256": "99ecfa1579b60a8e776f450fe661b97bef489c6ecea8195ecfc478533b3ec9bd"
+    },
+    {
       "bytes": 624,
       "path": "archive/学习/2026-07-16 10-17-44 小羽的论文与作息习惯_14e2aa582ec3.md",
       "sha256": "c54ba958213685bc840c5437c996c6a9092196a4ff566e7c5cc44108c8969bec"
@@ -746,6 +751,11 @@
       "bytes": 618,
       "path": "archive/社交/2026-08-10 07-45-16 小羽接火山引擎推销电话_16569d859628.md",
       "sha256": "201eede6fc8ec343943465a1e9f1c21f5e997dd7532d4a8b331d9b7acd92d8b0"
+    },
+    {
+      "bytes": 842,
+      "path": "archive/社交/2026-08-11 12-20-57 矿洞观战链接误进老师虚拟手机事件_0a55837499a1.md",
+      "sha256": "0b10e3a5790f247b4a1bf2799b6edd400088f1077427ab5f313d486335207264"
     },
     {
       "bytes": 487,
@@ -2111,11 +2121,6 @@
       "bytes": 530,
       "path": "dynamic/友谊/2026-07-19 14-18-48 友谊试探_c8f32aea5451.md",
       "sha256": "54e4fdf59ce301bc32a13c8814cf80fb831c4a8afa4a40bbeeff9216a98963ae"
-    },
-    {
-      "bytes": 848,
-      "path": "dynamic/友谊/2026-08-11 13-36-25 小羽完美主义焦虑触发花园帖子回复引发的担惊受怕_b37e7dfe5ee1.md",
-      "sha256": "ca8456b5d62e64891b7d0d55f5c74ed8b2545f3d2adeb606c373f16e5c812785"
     },
     {
       "bytes": 2090,
@@ -5478,11 +5483,6 @@
       "sha256": "2b5a73b87a46910fd745bd99ca394070ba6a11e95a9beba66a7a7d0016c1fbf4"
     },
     {
-      "bytes": 826,
-      "path": "dynamic/社交/2026-08-11 12-20-57 矿洞观战链接误进老师虚拟手机事件_0a55837499a1.md",
-      "sha256": "0558fad6083b9f56cd20a017c221103870c6944458a66a4e4ac0e2e03cd33ba7"
-    },
-    {
       "bytes": 743,
       "path": "dynamic/社交/2026-08-11 13-39-07 花园发言自主约定小羽不再把关栖燃自己负责_02d962636de1.md",
       "sha256": "2bbf46b33f6c5743827facabaded10a2c64216f82b82e253bb7ee8f50a72ea95"
@@ -7003,10 +7003,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-11T10:56:59+00:00",
+  "generated_at": "2026-09-11T11:57:10+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1194714
+  "total_bytes": 1194746
 }
