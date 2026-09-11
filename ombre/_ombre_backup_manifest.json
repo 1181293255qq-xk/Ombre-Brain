@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1383,
+  "file_count": 1390,
   "files": [
     {
       "bytes": 471,
@@ -2520,7 +2520,7 @@
     {
       "bytes": 906,
       "path": "dynamic/工作/2026-07-17 12-36-48 家教求职路径选择_bbb53ee54162.md",
-      "sha256": "6cec0e9948c4a27da726bb7c1655ef7d207a0978492e4b4743eaab62f1882cbc"
+      "sha256": "9d3c8bf588123ff50e6d920cb63600398058591dc4d4034b77d12cdb50184658"
     },
     {
       "bytes": 669,
@@ -2600,7 +2600,7 @@
     {
       "bytes": 764,
       "path": "dynamic/工作/2026-07-27 06-29-34 两节试课定下_ce2ee5bd29b5.md",
-      "sha256": "c446386dfb58f83456a0098e88bf74413fcce547c9369ba6ad9f1900c73186fd"
+      "sha256": "10b6c6a5e10c6c351758930970c44422e88b288cd02dfec14e79a978f34ba3fa"
     },
     {
       "bytes": 744,
@@ -2795,7 +2795,7 @@
     {
       "bytes": 1009,
       "path": "dynamic/工作/2026-08-10 13-02-19 2026-08-10备课乐乐一般将来时_3069f3628e79.md",
-      "sha256": "10c018c76c118303c92fd23a2693953b3344112829078093fc9c82f1de7a5c5f"
+      "sha256": "d8638e51aa756611d26eed5fc91384a7af5cec0beddd869d356ea3c1b955fa56"
     },
     {
       "bytes": 1754,
@@ -2923,6 +2923,21 @@
       "sha256": "005a328e9cb0f29e02219c671a221b7ce4ea629b8cfdb2b82d790a80ac336d77"
     },
     {
+      "bytes": 1506,
+      "path": "dynamic/工作/2026-09-11 05-30-55 toolcard双皮投票_da1d1f093bde.md",
+      "sha256": "1843bb16175a364f12cc50e8fa622a3fc28ac08eceb2232b541411a931e5708b"
+    },
+    {
+      "bytes": 1134,
+      "path": "dynamic/工作/2026-09-11 05-34-59 toolcard方案拍板与分工_19364fb8f35b.md",
+      "sha256": "3793126973ce4b1f5a450fea4f898361ece0a55ebf0df7b35334a3b061843b8e"
+    },
+    {
+      "bytes": 1372,
+      "path": "dynamic/工作/2026-09-11 05-45-11 dwell二期进度快照_ad71359e09ae.md",
+      "sha256": "ba8f5b86260f032a88296434e2dd1af53bc6fc8a2679f07adabd3c03ca1dcd5e"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/影视/2026-07-20 08-22-40 永远的朋友招魂_ce8053fbedf2.md",
       "sha256": "d8168e6e5cddf51094456bbdaeab8d193a9df4b3be211ab215e7a15ad523f884"
@@ -3026,6 +3041,11 @@
       "bytes": 1109,
       "path": "dynamic/心理/2026-08-24 04-15-15 高敏感焦虑_44d22a049a5e.md",
       "sha256": "b8dbf8676e557cc013803450c9a05d31cfea74283bbae5526b48694825de6e95"
+    },
+    {
+      "bytes": 1507,
+      "path": "dynamic/心理/2026-09-11 05-12-36 AI辅助后的自我否定_17e6ee910e39.md",
+      "sha256": "6a8c4cbeafcda6041414f8d1432322c326f05cba260b574d057b3963028b8de5"
     },
     {
       "bytes": 645,
@@ -5538,6 +5558,11 @@
       "sha256": "e606c1b0b51be82d08222f1faf6750493252b4ae85c32dd24e35401fa3702af2"
     },
     {
+      "bytes": 1868,
+      "path": "dynamic/社交/2026-09-11 05-10-31 调课报价实战_a1cc3734b62e.md",
+      "sha256": "73c099f1cd7c87ed068a125bcfc280ec0b02a7bc4df4425eb171a4f4e3d52a3a"
+    },
+    {
       "bytes": 664,
       "path": "dynamic/穿搭/2026-07-19 13-27-53 内裤裙子的可爱玩笑_8200b72b3772.md",
       "sha256": "c54096936ac760dcf9f95c9c175fc807a9b9f83ee7a52e033f9574d34c745644"
@@ -6353,6 +6378,16 @@
       "sha256": "7be7b12d8c3600a3b1ac5da41663c5034344d4d80104e4de2b3e5046811cdd4b"
     },
     {
+      "bytes": 2312,
+      "path": "dynamic/编程/2026-09-11 05-51-29 toolcard整合方案_8a61b015f44d.md",
+      "sha256": "ab42b150f0e6ec8ae362f2f478a6fd206554ae1fb2a52236d9fc6e9425b6e418"
+    },
+    {
+      "bytes": 1395,
+      "path": "dynamic/编程/2026-09-11 05-55-27 toolcard v3整合完工_3d5ebcd11b22.md",
+      "sha256": "7e8f61afd1dc32bff07b46a38e8780876de3d16435b1cd4a2a376bca4f24fb4e"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a23cbcec208e7e186311f48444ed64e86b13214f544b39b8684e9f7e1bb93bf3"
@@ -6918,10 +6953,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-11T04:55:44+00:00",
+  "generated_at": "2026-09-11T05:55:56+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1169117
+  "total_bytes": 1180211
 }
