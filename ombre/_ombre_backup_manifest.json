@@ -758,6 +758,11 @@
       "sha256": "0b10e3a5790f247b4a1bf2799b6edd400088f1077427ab5f313d486335207264"
     },
     {
+      "bytes": 1027,
+      "path": "archive/社交/2026-08-13 10-28-55 传话筒MCP房间建立记录_23bececf4d60.md",
+      "sha256": "fc70128cb377ff2af17a93d83e53e528fcc20fc51fef2f94b6b034760717a847"
+    },
+    {
       "bytes": 487,
       "path": "archive/编程/2026-07-16 10-22-37 小羽的SQL查询_86acc9c06423.md",
       "sha256": "f4658ccc15e120a2c297d8530316820391d2f8d755373356ba19901eb39cfc62"
@@ -5513,11 +5518,6 @@
       "sha256": "2bbf46b33f6c5743827facabaded10a2c64216f82b82e253bb7ee8f50a72ea95"
     },
     {
-      "bytes": 1011,
-      "path": "dynamic/社交/2026-08-13 10-28-55 传话筒MCP房间建立记录_23bececf4d60.md",
-      "sha256": "6795539c82d7bd7df2d0dc821f188ea83654060754af6903fd99643ffe736247"
-    },
-    {
       "bytes": 667,
       "path": "dynamic/社交/2026-08-14 11-48-13 客厅访客 - 小徐_0d2c2150587b.md",
       "sha256": "46279da21cc5be0d66430bf366c305b08b434d502221164d4bf857f2be533ed7"
@@ -7033,10 +7033,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-12T11:02:05+00:00",
+  "generated_at": "2026-09-12T12:02:17+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1202575
+  "total_bytes": 1202591
 }
