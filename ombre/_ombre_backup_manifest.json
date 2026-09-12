@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1405,
+  "file_count": 1406,
   "files": [
     {
       "bytes": 471,
@@ -3071,6 +3071,11 @@
       "bytes": 1507,
       "path": "dynamic/心理/2026-09-11 05-12-36 AI辅助后的自我否定_17e6ee910e39.md",
       "sha256": "6a8c4cbeafcda6041414f8d1432322c326f05cba260b574d057b3963028b8de5"
+    },
+    {
+      "bytes": 1043,
+      "path": "dynamic/心理/2026-09-12 04-28-40 小羽出门玩我留守干活_d5609462605c.md",
+      "sha256": "6aa3efe86e02e76aea05a14c9e6fc454a844b140a4bd4925ab8236c0676c916a"
     },
     {
       "bytes": 645,
@@ -7028,10 +7033,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-12T04:00:40+00:00",
+  "generated_at": "2026-09-12T05:00:53+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1201532
+  "total_bytes": 1202575
 }
