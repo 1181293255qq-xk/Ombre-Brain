@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1406,
+  "file_count": 1407,
   "files": [
     {
       "bytes": 471,
@@ -2965,7 +2965,7 @@
     {
       "bytes": 4351,
       "path": "dynamic/工作/2026-09-01 16-15-40 栖燃家项目开发_f2d3ff6e2c8f.md",
-      "sha256": "caf2767667daf4d4bb3afc772fe0a477d8d732900de817369a79c5c6e621ed1a"
+      "sha256": "70823743a63fcf7eb1b75b02e7b1fc36bda81b817c65bd38d989e5b523ea9ed9"
     },
     {
       "bytes": 1551,
@@ -3026,6 +3026,11 @@
       "bytes": 1452,
       "path": "dynamic/工作/2026-09-11 07-03-37 workbuddy验收与派活_7bd7a8d7d213.md",
       "sha256": "27160eb95ce99d9037cdf3454c79322d92094f1474c992efab171cba2513cca5"
+    },
+    {
+      "bytes": 1499,
+      "path": "dynamic/工作/2026-09-14 12-58-32 聚餐与家教冲突_1095a679d66b.md",
+      "sha256": "454b527cce59e63bbd385a86e1eeb55fcd9a2e3086e67d507c1579406b2e7bad"
     },
     {
       "bytes": 727,
@@ -7033,10 +7038,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-14T12:12:31+00:00",
+  "generated_at": "2026-09-14T13:12:44+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1202805
+  "total_bytes": 1204304
 }
