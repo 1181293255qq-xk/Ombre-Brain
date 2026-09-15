@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1415,
+  "file_count": 1418,
   "files": [
     {
       "bytes": 471,
@@ -4860,7 +4860,7 @@
     {
       "bytes": 1677,
       "path": "dynamic/数字/2026-08-06 16-54-19 小羽为OB买腾讯云服务器并完成迁移_c84284ac01c2.md",
-      "sha256": "e5a5288bed10584bb446f9e8c1fdb2e78ac4c7aaae581d95bd7c1e213f37d77f"
+      "sha256": "70cf304e0f4380b46dda2d8f930979656910c792745d0c2bd0137f05ce8c4d2e"
     },
     {
       "bytes": 643,
@@ -5280,7 +5280,7 @@
     {
       "bytes": 560,
       "path": "dynamic/游戏/2026-07-19 13-35-52 大富翁尴尬变物_e9fd28337d4e.md",
-      "sha256": "b513f39ab5c355f3ceb995e7ffea635846589e2de9f599b220e1e1b767de34eb"
+      "sha256": "e5494699b566ead629c51ec9b4ab9814819ba5008600a4be40154ef82e3626f3"
     },
     {
       "bytes": 626,
@@ -5420,7 +5420,7 @@
     {
       "bytes": 1209,
       "path": "dynamic/社交/2026-07-18 17-19-25 花园论坛的夜晚_1e56a127ad09.md",
-      "sha256": "0044cbca99becf38f12aa3821e759481182e5dce3490cca2ceaefd30f0eaeb9c"
+      "sha256": "94a8eff4056960b6111d7431a5ba35a0683e0dcba2cd97865e77eb7bb5cec1e4"
     },
     {
       "bytes": 640,
@@ -6513,6 +6513,21 @@
       "sha256": "a5c5c372d660cf50d18fdb57fb63c34c646b44144ddc54a99980ff0d6d764add"
     },
     {
+      "bytes": 1546,
+      "path": "dynamic/编程/2026-09-15 14-31-55 MCP token轮换与安全加固_c1a12e04bdb8.md",
+      "sha256": "399747f9657b13c0bac6cb1a6e4b40cdb501e40920d40c60907fb9cf4d887103"
+    },
+    {
+      "bytes": 1454,
+      "path": "dynamic/编程/2026-09-15 14-32-52 OB token轮换与安全加固_5bb636f25d3c.md",
+      "sha256": "d8d245de3e3c7e3452b864aecc7e71990a41cc29467ec4bb6b8709ab456ea7f1"
+    },
+    {
+      "bytes": 1740,
+      "path": "dynamic/编程/2026-09-15 15-10-02 图片记忆方案_84d59e446645.md",
+      "sha256": "75410c1600a7e6e84e419318213a4597f95889ea925acb74b09dd9c3703bebbe"
+    },
+    {
       "bytes": 1206,
       "path": "dynamic/网络/2026-08-08 08-39-49 小羽给栖燃抢了qiran2026年8月8日_63fa7e661190.md",
       "sha256": "a23cbcec208e7e186311f48444ed64e86b13214f544b39b8684e9f7e1bb93bf3"
@@ -6970,7 +6985,7 @@
     {
       "bytes": 675,
       "path": "permanent/恋爱/2026-07-16 10-22-58 小羽攒钱买StackChan_ca0d474bd846.md",
-      "sha256": "515cb486b310c96a3f4b05c9e2d8a21d5fcf6d705b3452272e54c63a11d13a11"
+      "sha256": "f0dd63960dd841f510db73da4074b746d8c0dcf5b91f9dffc39197ed645d372f"
     },
     {
       "bytes": 860,
@@ -7025,7 +7040,7 @@
     {
       "bytes": 940,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "34c411999774068ca4ed894f6581d0cb6eb59837ec7e24b6deaf7eec2a64031b"
+      "sha256": "c2ca9c8b125f3cd7309ae8f09ea226c560bf8d91bfde1e3d81426fa57ff3721e"
     },
     {
       "bytes": 482,
@@ -7078,10 +7093,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-15T14:18:14+00:00",
+  "generated_at": "2026-09-15T15:30:53+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1215143
+  "total_bytes": 1219883
 }
