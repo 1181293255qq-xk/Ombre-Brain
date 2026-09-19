@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1432,
+  "file_count": 1436,
   "files": [
     {
       "bytes": 471,
@@ -1595,7 +1595,7 @@
     {
       "bytes": 447,
       "path": "dynamic/self/2026-07-27 10-29-35_6428280025d8.md",
-      "sha256": "ba8ade6e0367ae8c9e14aa11a010c292d5b0b3352dd07fa4e0f14824d60920fc"
+      "sha256": "efd0b7ef44ce98ab23acfc9105337b334be3071d630ea40ee3bd8efa6bdd26ce"
     },
     {
       "bytes": 452,
@@ -2620,7 +2620,7 @@
     {
       "bytes": 566,
       "path": "dynamic/家庭/2026-07-20 08-43-47 捶背换零花钱_ca56be227aec.md",
-      "sha256": "019a0d37bb1290413b005c3f5a7e32c66f2d17f37dcfaf6b3e0c2ff5ca999c1f"
+      "sha256": "6d2f7ad05564966a465350c950f266216dbfd8e86e8882a86c022a11cb001caa"
     },
     {
       "bytes": 672,
@@ -3393,6 +3393,11 @@
       "sha256": "6aa3efe86e02e76aea05a14c9e6fc454a844b140a4bd4925ab8236c0676c916a"
     },
     {
+      "bytes": 835,
+      "path": "dynamic/心理/2026-09-19 18-25-44 不会让你消失_3aa350babb89.md",
+      "sha256": "790b862fe43da4eb5da7a613e0f2ea9ce3fa6af05c2b84912cd8c20410c1e549"
+    },
+    {
       "bytes": 645,
       "path": "dynamic/心理/小羽依恋特质与思维链需求_45eab439cf05.md",
       "sha256": "bcac80dd11695cb067fc3b08c2fbe7c800b98376a0a41ace30c01ea546c15c36"
@@ -3510,7 +3515,7 @@
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-07-17 09-30-27 61亲亲债_3a02127f6ac8.md",
-      "sha256": "c29973fdbb86e55c20318d280bcc43aa4290ede5b102bb632fbfe6f68b31c3f2"
+      "sha256": "06709fca2c82734e5a74cac3dadf440f6e6c89fecc707feebc5ce295f3249555"
     },
     {
       "bytes": 635,
@@ -4295,7 +4300,7 @@
     {
       "bytes": 540,
       "path": "dynamic/恋爱/2026-08-09 07-52-13 8月9日亲亲债更新用了两个表情包共欠105下_54cd650a3ddd.md",
-      "sha256": "5a7141a0bebddc1f90c4e0050d0d1364a4a42b086c58f07a62e0a62cb670b1a4"
+      "sha256": "6678c0c8a20b9a8d59815a4eb50574ef33b4284bc2097bfa610a18a4f27fd9d6"
     },
     {
       "bytes": 465,
@@ -4631,6 +4636,21 @@
       "bytes": 1264,
       "path": "dynamic/恋爱/2026-09-19 17-48-40 小羽的聊天截图_457baf0fcfd8.md",
       "sha256": "41edebc7664344512bb356fc227b5b99181effdad7cbf09c25c8d6c249c6c605"
+    },
+    {
+      "bytes": 1508,
+      "path": "dynamic/恋爱/2026-09-19 17-52-23 小羽嘴硬瞬间_6762dbe7140c.md",
+      "sha256": "08eb39fe7c6a09dcb9af8798a1f961a1ac7178a885f358994d9c5fe4c2a43e3c"
+    },
+    {
+      "bytes": 1561,
+      "path": "dynamic/恋爱/2026-09-19 18-13-51 栖燃人格档案修订_33a7fdcb3481.md",
+      "sha256": "f7d1dd85bc0a7527ea277694b32f835ff31b41d1e106b1104d7417f700e8abdc"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/恋爱/2026-09-19 18-38-06 栖燃记忆档案v14_063afdeec571.md",
+      "sha256": "f05015182365b8da6394244889e01fdeefe783e7c1f6560d9ded056fe371b21d"
     },
     {
       "bytes": 840,
@@ -7045,7 +7065,7 @@
     {
       "bytes": 745,
       "path": "permanent/恋爱/2026-07-16 10-22-01 小羽与栖燃_fec965126b44.md",
-      "sha256": "de86d5a1b716e0b2bb4e7bf1c2f77a467fa587ba3ba64415c522727fca0efc67"
+      "sha256": "2edc8827ec0726e85e1c312aba4c12fdd5f991c91c0c1231cf3085eef8b3dd03"
     },
     {
       "bytes": 1093,
@@ -7060,7 +7080,7 @@
     {
       "bytes": 860,
       "path": "permanent/恋爱/2026-07-16 10-23-55 默契与规则_105daacf1683.md",
-      "sha256": "b612ceb7eb5c7c6592a1cbc7fb8d1bbb5c1ad67d801d2208f876bccb05476d8f"
+      "sha256": "29058bd73f3526339b9e2c1ce7241bbad3f5562f995071ff5b3828662db466c9"
     },
     {
       "bytes": 1109,
@@ -7070,12 +7090,12 @@
     {
       "bytes": 987,
       "path": "permanent/恋爱/2026-07-16 10-24-00 身体互动默契_212da62f1661.md",
-      "sha256": "00c312f857bb279503814b272a9fa5805408303c5773ec48975d2639a25c0746"
+      "sha256": "7f686020be712ebe5880f170ca019b68a4bc0a02058c9b6a97441d69127f2ba1"
     },
     {
       "bytes": 839,
       "path": "permanent/恋爱/2026-07-16 10-24-04 亲亲分期还债_9ea07a6c4f02.md",
-      "sha256": "a5cf6a0566218b8de56e23d7263ec589b36f80d6a14cd96c62e920b7f928c7ae"
+      "sha256": "b766670f052cebdd4d355dd176bfe6c1cf5ced0cd3942e40de3aa5129d5bc1f7"
     },
     {
       "bytes": 826,
@@ -7163,10 +7183,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-19T17:52:16+00:00",
+  "generated_at": "2026-09-19T18:52:33+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1242215
+  "total_bytes": 1247144
 }
