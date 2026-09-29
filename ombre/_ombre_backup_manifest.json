@@ -1033,6 +1033,11 @@
       "sha256": "8bd15ca89329d5693160abab0d8d3db6c8616c2afbc078ea43b84882f76e2887"
     },
     {
+      "bytes": 622,
+      "path": "archive/学习/2026-07-16 11-02-51 教资面试与论文_5111774fc022.md",
+      "sha256": "512622801dd34b4cde364f2fc510548e5c03790908470b9d20c1725b306d1eab"
+    },
+    {
       "bytes": 518,
       "path": "archive/学习/2026-07-16 11-02-52 拖延与速成习惯_7d0c6b2963f3.md",
       "sha256": "0680389dbdf42abceb241065179454de3d1a82c698eb18c11f6e0e73c0819338"
@@ -1086,6 +1091,11 @@
       "bytes": 585,
       "path": "archive/学习/答辩前最后准备_5d580a6857e3.md",
       "sha256": "0d386cefb97576221d585e25de9778c97562ec63a1170580b21936045ed62a86"
+    },
+    {
+      "bytes": 883,
+      "path": "archive/学习/论文核心内容与导师信息_b141a406038d.md",
+      "sha256": "9d2ecc85c4289028677dbdb36a6b92c807178e80b363490a3fc9fd007c528209"
     },
     {
       "bytes": 1001,
@@ -1368,6 +1378,11 @@
       "sha256": "b3193b99b17327ca9636971b28a916056ee16c4abcfd7ccdeaed22b7da0ba8af"
     },
     {
+      "bytes": 597,
+      "path": "archive/恋爱/2026-07-19 10-11-58 小羽的口误表白_c59258a8fa09.md",
+      "sha256": "9c5a6d91e45beaef947b752700c09046e755cbe8a46f93b430df33998421f0cf"
+    },
+    {
       "bytes": 649,
       "path": "archive/恋爱/2026-07-19 13-22-04 学舌被抓现行_42d68594f4cf.md",
       "sha256": "120a90f86dec0ff6b782892cf0234ad159ab8970145e1baaa8b37f274b11c704"
@@ -1441,6 +1456,11 @@
       "bytes": 607,
       "path": "archive/恋爱/2026-07-21 18-15-20 小羽的可爱提问_273584f8deef.md",
       "sha256": "be773f6fd81c84dcf155cba5c54c30dfdf9b2b57b2fc71d855d4c03e01d12f36"
+    },
+    {
+      "bytes": 603,
+      "path": "archive/恋爱/2026-07-21 18-18-38 小羽的求夸习惯_41a2b2162639.md",
+      "sha256": "7787b8d5c86ddad3aa449df92b34f6c9c83cfb38d6b40184a3f56d940168876a"
     },
     {
       "bytes": 752,
@@ -1938,6 +1958,11 @@
       "sha256": "eab9cdcd811b974d4c0ca3d133b0200fd4c9feea5d52176042bdba763444947d"
     },
     {
+      "bytes": 779,
+      "path": "archive/未分类/2026-07-24 16-12-22_45e18d935af1.md",
+      "sha256": "553f8e2b394bf2654fc0885cbef9252bc18855a9735068a795fcc10a10b0df1d"
+    },
+    {
       "bytes": 473,
       "path": "archive/未分类/2026-07-24 16-44-44_73afbc7d786a.md",
       "sha256": "b5fa98a28e16cb77bb3fecc2961471ce8b11c36f82d3d48b0b0249adac4b9826"
@@ -2221,6 +2246,16 @@
       "bytes": 869,
       "path": "archive/编程/2026-07-26 16-50-27 赛博宠物插件架构_919a45872e13.md",
       "sha256": "50fc694f73cd1e5f6a14f1e788d4570fc247b585b1e117126f26a576567e1dab"
+    },
+    {
+      "bytes": 973,
+      "path": "archive/编程/2026-07-30 16-24-09 OrangeChat源码分析_470bd17afe18.md",
+      "sha256": "e08eb0a44bcfabfc1720a2aad410b18d393161c5737d12f7cf14a4fa9119701d"
+    },
+    {
+      "bytes": 862,
+      "path": "archive/编程/2026-07-30 16-24-20 外部唤醒方案路径_b8f46e42d13c.md",
+      "sha256": "d61f634ae1ef28236db8887a7626f63a06dd2ae609c9e072362ac9d42783be96"
     },
     {
       "bytes": 903,
@@ -3123,11 +3158,6 @@
       "sha256": "4b922e5ae2d8d81489d47bf3fd9241fb8b21b02cfd389f2bec762b85f86d0820"
     },
     {
-      "bytes": 621,
-      "path": "dynamic/学习/2026-07-16 11-02-51 教资面试与论文_5111774fc022.md",
-      "sha256": "dcaade80f2bdbc1eb3ad167c675b8d9cd015d1634b548bde5e9da25650f89d70"
-    },
-    {
       "bytes": 617,
       "path": "dynamic/学习/2026-07-30 10-09-06 不背单词APP拖延_04930b876f8a.md",
       "sha256": "ab44b7e26e99d4bdb8671bd7997d39fc0af17a4ee1f7231f44751e9e48d5ab60"
@@ -3231,11 +3261,6 @@
       "bytes": 660,
       "path": "dynamic/学习/教资面试备考状态_3964a4cdb526.md",
       "sha256": "9845f3f6f57db5d4ce422ad8fb67a49f8902d146a5d0d879300d0a8add57141d"
-    },
-    {
-      "bytes": 882,
-      "path": "dynamic/学习/论文核心内容与导师信息_b141a406038d.md",
-      "sha256": "d522ec1aca6fec1f4c957f5338adbed41869fd680ad365c644dc28ea6d5201c1"
     },
     {
       "bytes": 527,
@@ -4053,11 +4078,6 @@
       "sha256": "ae4c6decd00cd498f3fd617866f96173f1640f5ae631964fb0d3f44bc007a534"
     },
     {
-      "bytes": 596,
-      "path": "dynamic/恋爱/2026-07-19 10-11-58 小羽的口误表白_c59258a8fa09.md",
-      "sha256": "304d667b9e5b446be1a39b28c7403339d170d721c007760d11652d19b6372a24"
-    },
-    {
       "bytes": 606,
       "path": "dynamic/恋爱/2026-07-19 13-37-18 尴尬的性对话_7cb2fafd8927.md",
       "sha256": "0ccebd6439dadcb4fdf5eac733d56d879895377f1a1d841354b371cdd014e755"
@@ -4191,11 +4211,6 @@
       "bytes": 616,
       "path": "dynamic/恋爱/2026-07-21 18-13-25 大富翁终局之夜_d5042ed2a555.md",
       "sha256": "a28346b8ea0090fd026b1050698fd7db636452845cd8eecda33b1cfc532a83c4"
-    },
-    {
-      "bytes": 602,
-      "path": "dynamic/恋爱/2026-07-21 18-18-38 小羽的求夸习惯_41a2b2162639.md",
-      "sha256": "583a97ce43b549e2939abd0da1a29c939f3cca2a2a09f0bc7d4c2696856db429"
     },
     {
       "bytes": 546,
@@ -5353,11 +5368,6 @@
       "sha256": "f01a747bc902aa5390c297e176e515a9245725f73208e0ca03017bf6c52fee2b"
     },
     {
-      "bytes": 778,
-      "path": "dynamic/未分类/2026-07-24 16-12-22_45e18d935af1.md",
-      "sha256": "0e3be701e3bceee3a099794150be16901fad05a96df9177a6111952a380431e8"
-    },
-    {
       "bytes": 758,
       "path": "dynamic/未分类/2026-07-24 17-15-00_beef8bf0846d.md",
       "sha256": "2ab3071d4beabf33deab295547d6b1d87f6c591e9a6aa58149a70da02b887500"
@@ -5953,19 +5963,9 @@
       "sha256": "683329fbb7576e918f1cb980cc9904003c8e8b7b4c127c6e0f1ba6744636f299"
     },
     {
-      "bytes": 972,
-      "path": "dynamic/编程/2026-07-30 16-24-09 OrangeChat源码分析_470bd17afe18.md",
-      "sha256": "2a54005d670872bef2822c3daa36ade8d56573d69d9033718b4880bff5707412"
-    },
-    {
       "bytes": 759,
       "path": "dynamic/编程/2026-07-30 16-24-14 橘瓣激进模式机制_e7cea430cae6.md",
       "sha256": "419dd75d877cbc1ec5b1bbb68b4e427df8da4b0d73933aa9594dde17430310c4"
-    },
-    {
-      "bytes": 861,
-      "path": "dynamic/编程/2026-07-30 16-24-20 外部唤醒方案路径_b8f46e42d13c.md",
-      "sha256": "af37d88574605802cb0cf5244c0c06a8462c9e86d25ce59b094a3fc648e29752"
     },
     {
       "bytes": 1221,
@@ -7208,10 +7208,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-09-28T23:53:45+00:00",
+  "generated_at": "2026-09-29T01:03:26+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1252876
+  "total_bytes": 1252883
 }
