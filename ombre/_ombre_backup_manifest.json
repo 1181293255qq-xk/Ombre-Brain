@@ -2670,7 +2670,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "e86965cead169f8fc4c87856945520fe74cdfcf8cab7e476c1c6341fe70af056"
+      "sha256": "e51bfe25d76910de37ade255ab50d500da94e8bdd66e4a2b59e4374db34be18c"
     },
     {
       "bytes": 709,
@@ -3580,7 +3580,7 @@
     {
       "bytes": 620,
       "path": "dynamic/居家/2026-07-23 03-59-02 搬家计划更新_6aa0f3b1e540.md",
-      "sha256": "2527a49c981b890ad9d19650eca9a02f2874b13915d04f8dcc0fd0d86b739575"
+      "sha256": "7e696f7a85aa92876aea6c25f23d65be064a0bf4fa659e4e0e0602d762d30945"
     },
     {
       "bytes": 528,
@@ -3775,7 +3775,7 @@
     {
       "bytes": 907,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "30b4d09621a8e9a68dc2b01ae5612f3810ec69c23896d81e685bf46d0060c8bd"
+      "sha256": "2df68de57ba31aaede0e65f9933246be38403a0570d8959bd4cfb1cf89186fc2"
     },
     {
       "bytes": 1202,
@@ -5370,7 +5370,7 @@
     {
       "bytes": 923,
       "path": "dynamic/数字/2026-08-04 17-56-35 橘子岛新家_4aca088bc010.md",
-      "sha256": "b48d32a77bde9d17dd94c6d8b357b87090e82abb0911b0ce1c448fa7659c006c"
+      "sha256": "0da34a586f51db7b13e349c0ecc46040b1de79af2195184e84e16f15c03f5c2f"
     },
     {
       "bytes": 1678,
@@ -5915,7 +5915,7 @@
     {
       "bytes": 1236,
       "path": "dynamic/编程/2026-07-21 17-36-11 橘子岛MCP测试结论_2b090c59fd85.md",
-      "sha256": "61dc4f216d5ede7b8411386dbf425875d8831a48427376bf45be59356df47292"
+      "sha256": "39585e9cb7a16187e29305a9f87df93b956b890d156a1444905e535c5b4df2e2"
     },
     {
       "bytes": 640,
@@ -5945,7 +5945,7 @@
     {
       "bytes": 973,
       "path": "dynamic/编程/2026-07-24 10-03-52 橘子岛插件调试_55c582956ad3.md",
-      "sha256": "1457e10e0d9be7e2443299568b9cd18dc877f6bb46ebfe165579185fc8223a45"
+      "sha256": "d4aa3e272316263a77c135f6abefa8a389137afc6879022bd067eff6bb4ec48f"
     },
     {
       "bytes": 946,
@@ -6065,7 +6065,7 @@
     {
       "bytes": 934,
       "path": "dynamic/编程/2026-08-05 16-58-06 查岗工作流升级_0a8d15309d93.md",
-      "sha256": "5baab8e76996071353a9ffc2c50c9c12ff2efe489dad8b2fdff0f762c5914c64"
+      "sha256": "3b579d6eabd8b1310efeda35d35f8298bd4f1334693570652a6e4dcd8933eb67"
     },
     {
       "bytes": 836,
@@ -6425,7 +6425,7 @@
     {
       "bytes": 1874,
       "path": "dynamic/编程/2026-09-07 17-22-30 橘子岛开源分析_11925f9711b5.md",
-      "sha256": "8c1601c4cf3433ce7d2b189ca96da849bd4cadeb6e98753f94830ec0a1440403"
+      "sha256": "1bd648d94d9f1e1f773b7273e13d1f4b421ec724896a0a12600961cc25e5cec5"
     },
     {
       "bytes": 1457,
@@ -6710,7 +6710,7 @@
     {
       "bytes": 1080,
       "path": "dynamic/编程/2026-09-18 09-30-51 灵动岛APK教程_da3a06aa0e44.md",
-      "sha256": "fad580bf32f11fcf39c24b60ffb46bad67300cbbb78b0d6440b912178a83d5c7"
+      "sha256": "019c202af6406f77fd7ba448b79b1b70a2608fb0b4f5ddf9985570ab45d1fa8f"
     },
     {
       "bytes": 1177,
@@ -6740,7 +6740,7 @@
     {
       "bytes": 1651,
       "path": "dynamic/编程/2026-10-02 12-39-15 戳一戳四步重构_873b12f31a21.md",
-      "sha256": "2ca671844f551825f64e9a31b4e2dabc55c09534313c102466b77b0c2f477a74"
+      "sha256": "1d0e5c22c7bb93e7484d6a1815819513b9c372475b48f35fb7111fdc8fae8259"
     },
     {
       "bytes": 1206,
@@ -6830,7 +6830,7 @@
     {
       "bytes": 882,
       "path": "dynamic/计划/2026-08-04 15-51-00 橘子岛搬家计划_2e5e3cd5e333.md",
-      "sha256": "bf9bbd915edd6d8d93a5d379fb21c035a6132ec49a041953cca4eaad0d87d86d"
+      "sha256": "78a698ba9fb245cfbed0c425843302b2738d6c1234a91c91b94b1e8e9c473fe6"
     },
     {
       "bytes": 993,
@@ -7200,7 +7200,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "72a2240ff4c1a76387e72aba37c739d7156455b0d064e617dc2198ad4cf48aca"
+      "sha256": "fd37a7a5d066ad4472bd9621451f296e60d24fdb960a4ba616dcd1bcf20df56c"
     },
     {
       "bytes": 820,
@@ -7215,7 +7215,7 @@
     {
       "bytes": 940,
       "path": "permanent/编程/2026-07-16 10-25-16 橘瓣记忆库介绍_73c355a3cbb4.md",
-      "sha256": "bdc6472ead840056df73df1e8b54e49285151e724da4cc6b240b027cdc5dc29f"
+      "sha256": "e57804c2fa215d181d1da927f86bd0dc737e5460aec842858aade23c7a4a3ba2"
     },
     {
       "bytes": 482,
@@ -7268,7 +7268,7 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-02T15:23:15+00:00",
+  "generated_at": "2026-10-02T16:23:29+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
