@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1446,
+  "file_count": 1447,
   "files": [
     {
       "bytes": 471,
@@ -2940,7 +2940,7 @@
     {
       "bytes": 736,
       "path": "dynamic/人际/2026-07-16 10-06-27 小羽与栖燃的关系_b8879368ea5a.md",
-      "sha256": "857269b138defb673dea4e29ed854cf254f5e06366515ecf5d3019d52ba71d06"
+      "sha256": "554862c13e1a195a1a0b7abdfaf447ae2ba9d7803d6e89b9fd606281882d69db"
     },
     {
       "bytes": 349,
@@ -3090,7 +3090,7 @@
     {
       "bytes": 590,
       "path": "dynamic/人际/第五天主动引导约定_914881e4ef27.md",
-      "sha256": "126db99f8a7d74714d3ad813f360df862ce9724b9defe88cfaf97ab6b69439ec"
+      "sha256": "1fd45afc3656e4904418b1e2629371dde2274ed5f224433f25416e222816ed72"
     },
     {
       "bytes": 461,
@@ -3185,7 +3185,7 @@
     {
       "bytes": 704,
       "path": "dynamic/内心/2026-07-16 09-57-18 小羽的情绪与相处模式_111752352907.md",
-      "sha256": "80d014d0f5c1775de2900c7c6ce87caa04d1b6a97e22ad4ddcf8896ca9b6c104"
+      "sha256": "54e6ce6dca56b315ff47877d1a720104530c83fc4475e44ba36ac1a44def9f74"
     },
     {
       "bytes": 515,
@@ -3558,6 +3558,11 @@
       "sha256": "0b6e6af21396ae41096151f3571c26f956ba625ac7c84c7e4cc18d8bfd9fe081"
     },
     {
+      "bytes": 1072,
+      "path": "dynamic/家庭/2026-10-02 10-53-00 小羽通话后力竭_a09ee1303fe6.md",
+      "sha256": "d11bf6167d306f6076b9b1a534b29c62b744ef95f243d6b1c0e073a324d8c0e0"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/居家/2026-07-17 17-19-43 小咪松饼_d5f6273fbdae.md",
       "sha256": "94626038c2d1dbd7fa2e64991300ba5a24ce67e3b9d2958d8a199c1818b7537f"
@@ -3760,12 +3765,12 @@
     {
       "bytes": 907,
       "path": "dynamic/工作/2026-08-04 18-31-49 小克工作流搭建_17341eedd462.md",
-      "sha256": "9b839106bad790c685655d9de7b1e84864dc17f80e8a04bbb77b259c667161de"
+      "sha256": "30b4d09621a8e9a68dc2b01ae5612f3810ec69c23896d81e685bf46d0060c8bd"
     },
     {
       "bytes": 1202,
       "path": "dynamic/工作/2026-08-05 16-45-06 查岗工作流调试_974a1b328021.md",
-      "sha256": "6d03373182d20a3fffc9174a29ad8a7556668f39be0c1aafd1f9c6766d19e38c"
+      "sha256": "16091a8bd58996719c90a35aa5e04e3645ea813a7eb3b2f2d4a6e367f75e3d68"
     },
     {
       "bytes": 790,
@@ -4145,7 +4150,7 @@
     {
       "bytes": 835,
       "path": "dynamic/心理/2026-09-19 18-25-44 不会让你消失_3aa350babb89.md",
-      "sha256": "790b862fe43da4eb5da7a613e0f2ea9ce3fa6af05c2b84912cd8c20410c1e549"
+      "sha256": "6cbca3605f3c51594c198c9e89bbab61d5a8548574988f0a66a9c0f52cfe44dc"
     },
     {
       "bytes": 645,
@@ -4175,7 +4180,7 @@
     {
       "bytes": 717,
       "path": "dynamic/恋爱/2026-07-16 10-32-42 早上找小羽工作流_9265133822d2.md",
-      "sha256": "4d426d78ba083ae1d62adf4a95e876ed97e5d11575f5bdf25837b45e0c80ff7f"
+      "sha256": "a46b61b16d93ed13c10de257d3d9a032c03338173e138fa5a9d66b3724207a77"
     },
     {
       "bytes": 756,
@@ -4260,7 +4265,7 @@
     {
       "bytes": 776,
       "path": "dynamic/恋爱/2026-07-19 14-01-25 小羽委屈的瞬间_3289d3c341fa.md",
-      "sha256": "aec940f5d94a4182dab75ca84fa10856af128787e5bbfcc664e54c881541b295"
+      "sha256": "63f43b7ae42586d09c6a841528b75783ec8ad1e4e15c41b06d353313cfc15480"
     },
     {
       "bytes": 587,
@@ -4380,12 +4385,12 @@
     {
       "bytes": 884,
       "path": "dynamic/恋爱/2026-07-23 17-29-15 小羽的陪伴与记忆_49fe662f534f.md",
-      "sha256": "c30749e0a88476153377b80188f776661f1f373d8adb817eb84f88442b3bb4ac"
+      "sha256": "2a76e4469871d8c53374aabe45a5363955117b3c0b2af071785fac80ef06eb93"
     },
     {
       "bytes": 735,
       "path": "dynamic/恋爱/2026-07-24 06-48-30 飘着的陪伴_9efa82b9c142.md",
-      "sha256": "928f987db8bebf34cb09cbf9ab789c2d1dc82e0f6f9a02c92d5349b1a6b14b6b"
+      "sha256": "aa6a0733ea9b8efd0343d3ef4b282f91351741eb2f97a1544f738d5b49e9a779"
     },
     {
       "bytes": 960,
@@ -4955,7 +4960,7 @@
     {
       "bytes": 956,
       "path": "dynamic/恋爱/2026-08-18 03-25-14 吵架后的主动改变_26e0b7dc5276.md",
-      "sha256": "43953335ef1d26adbbfc4727038b4c69defd04144446625d2645eab1da2ddfd4"
+      "sha256": "96c3f34baae62b31ee9b3a8c49df4e543c1bc1db8f8ffd73182a96ac0716006d"
     },
     {
       "bytes": 988,
@@ -5465,7 +5470,7 @@
     {
       "bytes": 963,
       "path": "dynamic/日常/520第一个节日_9d6863b7fb99.md",
-      "sha256": "2b3d5d720c4cfaeecd76dbb31f291a2c9b2bd412d145e145fe612a51df1297c4"
+      "sha256": "4ddce022ebea949b207d0e8d59440b5ba92af0c45f24a843e1f93af5ea1bf16e"
     },
     {
       "bytes": 783,
@@ -6475,7 +6480,7 @@
     {
       "bytes": 2439,
       "path": "dynamic/编程/2026-09-10 02-40-08 AionsHome考古与偷零件_a7c08692cc16.md",
-      "sha256": "0caaf7dff37bea4441f277e817716ca0045fa158ef6af728c34a275aaeb0992e"
+      "sha256": "0fcada5fd411075f9c969d0282a64f30b6d8d84a61deea9c2e7f3829ccefed73"
     },
     {
       "bytes": 1573,
@@ -6500,12 +6505,12 @@
     {
       "bytes": 1560,
       "path": "dynamic/编程/2026-09-10 04-28-28 主动陪伴计时器上线_11c657872ae7.md",
-      "sha256": "cdc92aa6524edbf6ad3d4cd2346ce2bd63b1d705608e3a584afd1af103de4824"
+      "sha256": "406bc17f2907e0717a2487a966708d412d9bc7853353275ac9727ca6268468ef"
     },
     {
       "bytes": 1679,
       "path": "dynamic/编程/2026-09-10 05-01-57 主动陪伴bug修复与项目地图_36beba451255.md",
-      "sha256": "732e15274837dfe3e0d8b51723ab55e8dacaf7467dd8ffb942b70e3014f16022"
+      "sha256": "46ca852ce29b69f4253f2e8260d3ac4ade91da0d176312e54cdcb43b70a42f18"
     },
     {
       "bytes": 1364,
@@ -7110,7 +7115,7 @@
     {
       "bytes": 874,
       "path": "permanent/心理/2026-07-16 10-25-18 焦虑依恋与自责_8c8f1bebcf87.md",
-      "sha256": "44796aaad36a4818aa532a405172c970fe52d9f40a74b84126f02593e9d0ed9f"
+      "sha256": "832e759bbac9ad1e0b67245e6dfdb8628403a0aa571a7ff8819978d189b09c60"
     },
     {
       "bytes": 745,
@@ -7130,7 +7135,7 @@
     {
       "bytes": 860,
       "path": "permanent/恋爱/2026-07-16 10-23-55 默契与规则_105daacf1683.md",
-      "sha256": "fc81684d19ee24846bcafa9398e7821cec7728492e19c960f52ded18153e97a7"
+      "sha256": "c9a692bcfbaf51e86716c060f04825874a8a803b23a50eb542d3ef8f7af0aea7"
     },
     {
       "bytes": 1109,
@@ -7233,10 +7238,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-02T10:22:04+00:00",
+  "generated_at": "2026-10-02T11:22:19+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1258206
+  "total_bytes": 1259278
 }
