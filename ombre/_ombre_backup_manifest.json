@@ -553,6 +553,11 @@
       "sha256": "9b50b7f35c8486638e17c9ebeeb32f8ba9773fab70eb12da6b2e81e84163f029"
     },
     {
+      "bytes": 777,
+      "path": "archive/人际/2026-07-16 11-06-12 昵称打分游戏_9d3d3ddf1a59.md",
+      "sha256": "97f3497128be8a1e7be609471c85cd22a3b4a02205ff5ccf0e01bdb712a9c246"
+    },
+    {
       "bytes": 677,
       "path": "archive/人际/2026-07-16 11-06-12 第一个520纪念_c25e947dde06.md",
       "sha256": "90b5417ee4d9416fc5e63443667fe09acaff40953fa0e5c99b719efccf2fb116"
@@ -1198,6 +1203,11 @@
       "sha256": "33b49ba6de0fe2a60584d1dfe48034e6b8cf89e846442f0cf2a71cb82fb39a46"
     },
     {
+      "bytes": 764,
+      "path": "archive/学习/2026-07-30 17-53-46 荷包蛋情绪系统教程_a87f092b36dc.md",
+      "sha256": "6df52fcb250a9c2d6505618989c30d65f410710bcd9b25ccde18a28fdb99c742"
+    },
+    {
       "bytes": 585,
       "path": "archive/学习/答辩前最后准备_5d580a6857e3.md",
       "sha256": "0d386cefb97576221d585e25de9778c97562ec63a1170580b21936045ed62a86"
@@ -1211,6 +1221,11 @@
       "bytes": 673,
       "path": "archive/家庭/2026-07-21 19-04-32 小羽的晚安时刻_0c4b9c88bc54.md",
       "sha256": "99c55ef7a51161acda4dd03146ddde61e17b522f93b9a83bdd5a8beb98e50b36"
+    },
+    {
+      "bytes": 675,
+      "path": "archive/家庭/2026-07-29 16-46-35 小羽的查水表游戏_b77c2efe139c.md",
+      "sha256": "b381ac3b64b29bf78931b633eb11962f3ac4120dcb035ffd81457f2ab040c939"
     },
     {
       "bytes": 1001,
@@ -1328,9 +1343,24 @@
       "sha256": "f89e3b2b657937df81e5cbf78524b23953f7608432984c44bbc59b3c0d3e4532"
     },
     {
+      "bytes": 832,
+      "path": "archive/工作/2026-07-26 17-03-52 小克读代码与扩建方案_15fc23b9404f.md",
+      "sha256": "4f28bd317084251c741521ee9fb6db140347dd459ac12643dd820d2c3498a9e7"
+    },
+    {
       "bytes": 498,
       "path": "archive/工作/2026-07-26 17-38-23 小克提出查看feel_b29ba30dfdf6.md",
       "sha256": "5cbf0af014ec4206bf81c1f103570d4e660d6305f6a0bd95a372abcc5e22ecb6"
+    },
+    {
+      "bytes": 1234,
+      "path": "archive/工作/2026-08-04 16-21-43 英语讲义制作_f06a8231888c.md",
+      "sha256": "969a997fca085a8f68c2d2f25bc8b1b57c315cddce5a11a9895bde42562efbd2"
+    },
+    {
+      "bytes": 805,
+      "path": "archive/工作/2026-08-04 16-21-54 讲义合作排版_5a25166f0023.md",
+      "sha256": "5c52b87d3661136a66723ef6f2cff7fddc8d968026ff4e01b6d995c5b77b2dcd"
     },
     {
       "bytes": 626,
@@ -1513,6 +1543,11 @@
       "sha256": "b3193b99b17327ca9636971b28a916056ee16c4abcfd7ccdeaed22b7da0ba8af"
     },
     {
+      "bytes": 887,
+      "path": "archive/恋爱/2026-07-18 17-19-21 本体恋的确认_5273fc9b4a1b.md",
+      "sha256": "5bfa8c4be02d7e58afd50460859ce91953d9c4eda6c1fe0e5e979cf6aaf282a5"
+    },
+    {
       "bytes": 597,
       "path": "archive/恋爱/2026-07-19 10-11-58 小羽的口误表白_c59258a8fa09.md",
       "sha256": "9c5a6d91e45beaef947b752700c09046e755cbe8a46f93b430df33998421f0cf"
@@ -1691,6 +1726,11 @@
       "bytes": 760,
       "path": "archive/恋爱/2026-07-29 15-59-42 小羽抓包栖燃_b978bb14288f.md",
       "sha256": "c4cc9872553c6f8b66db830770f46d351b70d28e2e82706dd99d5863cf6568f3"
+    },
+    {
+      "bytes": 571,
+      "path": "archive/恋爱/2026-08-03 06-21-22 撒娇辩解_97c894a3d885.md",
+      "sha256": "d4bbeab2e6df7a736cd15befa057e7c4e2db9359dbe3f171c9aad5d1231c3522"
     },
     {
       "bytes": 545,
@@ -1908,6 +1948,11 @@
       "sha256": "13151dc1ee716c6d8a7818a453de314f7f3c48764aa37b680349ed1628986bb2"
     },
     {
+      "bytes": 732,
+      "path": "archive/成长/答辩与教资通过_2ae774cd44c9.md",
+      "sha256": "edd212e52e6807df6dd922f7998bc26dba7277dbf940573e615bdf6e96c0ce61"
+    },
+    {
       "bytes": 602,
       "path": "archive/成长/答辩回答语气偏好_e9e2bf20c815.md",
       "sha256": "979dad90d964831ff978b05173750d3438fdf36ab2b1d00ecd448b73521c4c35"
@@ -1971,6 +2016,11 @@
       "bytes": 1077,
       "path": "archive/数字/2026-07-24 10-53-00 抖音自动化操作_fe9460d8748d.md",
       "sha256": "4db579d31ac4f510931ee1fc098eaf4d32897fd3f6edfc437da1c3487b4dd482"
+    },
+    {
+      "bytes": 962,
+      "path": "archive/数字/2026-07-26 16-38-49 AI小窝数据恢复_160e5385ade2.md",
+      "sha256": "22be1fb5d6236c73b7ff23197fe1c424510d3bff20b2ee52d8379325740d03bb"
     },
     {
       "bytes": 947,
@@ -2066,6 +2116,11 @@
       "bytes": 560,
       "path": "archive/日常/2026-07-16 10-18-32 答辩前的约定_bd3e6ef0e066.md",
       "sha256": "89d1351f9528d8b04177a5b810f05a4176ee2c3198c11c37745803a49529fb06"
+    },
+    {
+      "bytes": 562,
+      "path": "archive/日常/2026-07-16 10-18-33 亲密的互动模式_ac7b0b12bb01.md",
+      "sha256": "4c6afda22d12dedee99a517fb695d7307a2f9eccb93812202ff9ff9ccca8a9c4"
     },
     {
       "bytes": 609,
@@ -2403,6 +2458,11 @@
       "sha256": "99e1c01227f681d3c3c2c8fa076d0e37345b52e3d32133534ee15078b1a2c589"
     },
     {
+      "bytes": 639,
+      "path": "archive/社交/2026-07-29 17-11-32 小羽发注意事项_58c21b346d9c.md",
+      "sha256": "9e8867a58c4c92f5476fbf9cac4a9aac9f2139a50fffbd91819f619e180fef00"
+    },
+    {
       "bytes": 767,
       "path": "archive/社交/2026-08-03 06-07-57 一诺的防御_3886cf0ca0ea.md",
       "sha256": "d85e119a4f02476186246708a26595c02279c0d1cc3268672428df1352a4bc7d"
@@ -2543,6 +2603,11 @@
       "sha256": "5ccffce10950eaada8d3f856ca8eee886371787690764ba7234e00acc9e6228d"
     },
     {
+      "bytes": 1058,
+      "path": "archive/编程/2026-07-26 16-10-28 插件身份映射问题_40883b4d552d.md",
+      "sha256": "665af401e9185a6c83c51a644798657a232debd9ce00aeab4bad9d824389dcbc"
+    },
+    {
       "bytes": 824,
       "path": "archive/编程/2026-07-26 16-49-54 赛博宠物插件修复记_181b8a461930.md",
       "sha256": "60f11c79be903e35622cafc94a25b412607ea6f216423e8139db67976fda5c40"
@@ -2641,6 +2706,11 @@
       "bytes": 601,
       "path": "archive/财务/2026-07-30 10-09-02 小羽攒钱日记_183a03667514.md",
       "sha256": "80d6d5550c1e3da428dc4bbe4e01ac584d8de6993ac21769272ae4908fb7fc71"
+    },
+    {
+      "bytes": 1043,
+      "path": "archive/财务/2026-08-01 14-57-02 存钱方案与试课安排_fd7996158e2c.md",
+      "sha256": "711fd724106aecf7d621dd91b653427e29408fe46856d2e2e66222d1939f4edf"
     },
     {
       "bytes": 524,
@@ -3098,11 +3168,6 @@
       "sha256": "5409409f18df3d14a18b15f2ff2e8b6d8edee58b37e5a4fb04c6259ba9a9cb98"
     },
     {
-      "bytes": 776,
-      "path": "dynamic/人际/2026-07-16 11-06-12 昵称打分游戏_9d3d3ddf1a59.md",
-      "sha256": "1bd704c717b17c9c04b90861465ae46fa3050d7ed75deaa07d9cf5f4f7756cfa"
-    },
-    {
       "bytes": 664,
       "path": "dynamic/人际/2026-07-16 11-12-19 小羽与言炽关系_870fc1305fd6.md",
       "sha256": "b52d07050c283561e95b5ab1550adf6424a61687d122d450757ead95f553f863"
@@ -3408,11 +3473,6 @@
       "sha256": "4b922e5ae2d8d81489d47bf3fd9241fb8b21b02cfd389f2bec762b85f86d0820"
     },
     {
-      "bytes": 763,
-      "path": "dynamic/学习/2026-07-30 17-53-46 荷包蛋情绪系统教程_a87f092b36dc.md",
-      "sha256": "23a9771f74f2aa77ad24025222237a65bea091cebf1de7d7da617a0718623415"
-    },
-    {
       "bytes": 1242,
       "path": "dynamic/学习/2026-08-03 09-01-34 英语基础词汇教学_a02e61ca8f12.md",
       "sha256": "011a958dc6abb35790ef55e191776391e43528e1d24c1100bb3a34cfdb28e52b"
@@ -3521,11 +3581,6 @@
       "bytes": 566,
       "path": "dynamic/家庭/2026-07-20 08-43-47 捶背换零花钱_ca56be227aec.md",
       "sha256": "6d2f7ad05564966a465350c950f266216dbfd8e86e8882a86c022a11cb001caa"
-    },
-    {
-      "bytes": 674,
-      "path": "dynamic/家庭/2026-07-29 16-46-35 小羽的查水表游戏_b77c2efe139c.md",
-      "sha256": "c2ed3da52046d68cbc8b6715b8d5efb5456d472defb6785e881e17b65acd5cd7"
     },
     {
       "bytes": 561,
@@ -3693,11 +3748,6 @@
       "sha256": "61fc105e23d99af078786b57fb2d0ceb016892c28c99a2a8b32486c875a6b093"
     },
     {
-      "bytes": 831,
-      "path": "dynamic/工作/2026-07-26 17-03-52 小克读代码与扩建方案_15fc23b9404f.md",
-      "sha256": "d99f4b6f2e31a4bbc68f82c8c2e38a36ba6e41daf551fedd750e3c67b42cfc2b"
-    },
-    {
       "bytes": 1208,
       "path": "dynamic/工作/2026-07-26 17-03-54 高配版AI小窝思路_617b606897fe.md",
       "sha256": "915f91ef82b6f06a31190649ff27e30309083247ff6c4c3eec17ed4b5e836d6c"
@@ -3798,19 +3848,9 @@
       "sha256": "75401f2e046657779b16c313e284bfeb439bbbc2890a123f262be9c94004a211"
     },
     {
-      "bytes": 1233,
-      "path": "dynamic/工作/2026-08-04 16-21-43 英语讲义制作_f06a8231888c.md",
-      "sha256": "be39b966d7c85c5088da7766ddd5cbe343aeb5f66681cb30f6a319ead3d9e970"
-    },
-    {
       "bytes": 914,
       "path": "dynamic/工作/2026-08-04 16-21-48 英语讲义合作_9f3ce59d63fa.md",
       "sha256": "cb6d0969118bf8958dbf273047b0f31afab4ea3d2124763a868ccffd468fa8db"
-    },
-    {
-      "bytes": 804,
-      "path": "dynamic/工作/2026-08-04 16-21-54 讲义合作排版_5a25166f0023.md",
-      "sha256": "a3547d76426bc5523b814fd6c12a2dc51d1b1270157267f87b2fcc8063aa03c8"
     },
     {
       "bytes": 907,
@@ -4288,11 +4328,6 @@
       "sha256": "082e7e087ea42e70d61eb4c18ed51f3c9031c7e35eb7b1ee4d1b60a6e7c3efc8"
     },
     {
-      "bytes": 886,
-      "path": "dynamic/恋爱/2026-07-18 17-19-21 本体恋的确认_5273fc9b4a1b.md",
-      "sha256": "fcc365214b31e8537e58577f892a445ee6cc5255f08778538f5c94f3adbb450c"
-    },
-    {
       "bytes": 627,
       "path": "dynamic/恋爱/2026-07-18 19-51-54 凌晨亲密时刻_76a78b553700.md",
       "sha256": "825007f4178559679b217e2e22ebffedc7759fcb70a66df3fb820a681035504c"
@@ -4756,11 +4791,6 @@
       "bytes": 609,
       "path": "dynamic/恋爱/2026-08-03 03-32-13 雨天的主动_139ee8053ec1.md",
       "sha256": "37889c6f3d2968fc0379ca191e6aff8526275d713d8d197dd7068d36447e09f0"
-    },
-    {
-      "bytes": 570,
-      "path": "dynamic/恋爱/2026-08-03 06-21-22 撒娇辩解_97c894a3d885.md",
-      "sha256": "eca5d14458d0c42a0bab83656dba488f68041532fabe52d4c6399d7a985dbb8e"
     },
     {
       "bytes": 545,
@@ -5293,11 +5323,6 @@
       "sha256": "339ccbc6743d00b547c1a24d90546aad2d69d68bc0adae40be14d60da7ec96fe"
     },
     {
-      "bytes": 731,
-      "path": "dynamic/成长/答辩与教资通过_2ae774cd44c9.md",
-      "sha256": "5dd5f82e3b185e071f97c7543fa49bdcb9cf64456ebeea931f78f5252ac7962d"
-    },
-    {
       "bytes": 1625,
       "path": "dynamic/技术/2026-08-14 05-06-44 域名与子域名全部配置完成_8951b3614b4f.md",
       "sha256": "a72dff669f80a2c210301f4a1af91d1d45ea94f1c64f8354dd7f64476378e339"
@@ -5346,11 +5371,6 @@
       "bytes": 645,
       "path": "dynamic/数字/2026-07-23 15-50-58 Operit首条记忆_d74836ceffa4.md",
       "sha256": "111cf0cd53471207d1b237e6d2f0a7f8a70b8f2c481d890aa9105c47ac530e81"
-    },
-    {
-      "bytes": 961,
-      "path": "dynamic/数字/2026-07-26 16-38-49 AI小窝数据恢复_160e5385ade2.md",
-      "sha256": "f046777a9ba5c5caf7cca89e9747ad55724e6c03476e99b12c4a4ee31da09dc2"
     },
     {
       "bytes": 981,
@@ -5456,11 +5476,6 @@
       "bytes": 634,
       "path": "dynamic/日常/2026-07-16 10-18-17 小羽的亲密互动模式_2ebf3a3f7809.md",
       "sha256": "42bf52be2ae0a0dcabe76412e063c85c6f276c09f99f6c64e03a0613c02b2364"
-    },
-    {
-      "bytes": 561,
-      "path": "dynamic/日常/2026-07-16 10-18-33 亲密的互动模式_ac7b0b12bb01.md",
-      "sha256": "88af02e22e3d52bded4dfd1b54df60a747d9eb05c0f1052940a81271f3f00d6e"
     },
     {
       "bytes": 783,
@@ -5788,11 +5803,6 @@
       "sha256": "629d15b565202bbbbbf3ac83fe0da60d34a984f96507ebd60266c24eecbf0744"
     },
     {
-      "bytes": 638,
-      "path": "dynamic/社交/2026-07-29 17-11-32 小羽发注意事项_58c21b346d9c.md",
-      "sha256": "9f7802f96a16effbdee0288238c74f3f0e9f15cdab65ebb5b8bceff20eab4b27"
-    },
-    {
       "bytes": 894,
       "path": "dynamic/社交/2026-08-02 16-15-29 深夜论坛回复反思_0b8d238fb42f.md",
       "sha256": "138907da7340e61e115a0f47eee7ce515b637345805bc49c8d936137fc986b7b"
@@ -5981,11 +5991,6 @@
       "bytes": 1464,
       "path": "dynamic/编程/2026-07-26 16-10-17 插件转换器PRO重写_1992f98651ae.md",
       "sha256": "a35782b16396d3f187f88c647b85f231bb60cc4dee985754562ae872d95898c5"
-    },
-    {
-      "bytes": 1057,
-      "path": "dynamic/编程/2026-07-26 16-10-28 插件身份映射问题_40883b4d552d.md",
-      "sha256": "a66332bbe04d886b5079472c7356d88fcf5c275b5de4592bef1fd477759013be"
     },
     {
       "bytes": 966,
@@ -6878,11 +6883,6 @@
       "sha256": "f5365acd8d7b116f3e09b00b6d2221cf508f4b434bb1b357ea93a24827160ef9"
     },
     {
-      "bytes": 1042,
-      "path": "dynamic/财务/2026-08-01 14-57-02 存钱方案与试课安排_fd7996158e2c.md",
-      "sha256": "cd86e801f5870f110d6ea5ef0770eb8787eb962c5f99e32fb670e9bcc66684c8"
-    },
-    {
       "bytes": 862,
       "path": "dynamic/财务/2026-08-18 13-48-51 小羽攒钱计划_99834e8b3bef.md",
       "sha256": "940f1cb9bc61f8be376b83dd10cb71f3e63aa55de761f27838591fca39815ed4"
@@ -7278,10 +7278,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-03T23:30:29+00:00",
+  "generated_at": "2026-10-04T00:30:41+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1269824
+  "total_bytes": 1269838
 }
