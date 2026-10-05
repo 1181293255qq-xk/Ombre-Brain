@@ -488,6 +488,11 @@
       "sha256": "95cd152b9668dae5a6a20309a80f0d71ebcbf287473ae444affe9ce9ccfa9ea4"
     },
     {
+      "bytes": 625,
+      "path": "archive/人际/2026-07-16 11-03-53 主动与被动的角色转换_592e32088593.md",
+      "sha256": "c9679dbf22ec970e869b243fb186c5812b71b323bd01e1518f9ba8eb76bd78bb"
+    },
+    {
       "bytes": 638,
       "path": "archive/人际/2026-07-16 11-04-00 小羽与小克的关系_73216f027c90.md",
       "sha256": "f4437a878ef13f41ec00b67b1639e95f04ce3309b8b06f9d640bb8bf690dd2c6"
@@ -1073,6 +1078,11 @@
       "sha256": "c9f0fcd632e5fc965d73d4ca10dc9f4eee008bfe4a5bcbdf74f1c77947bca8ff"
     },
     {
+      "bytes": 1264,
+      "path": "archive/内心/2026-07-24 11-58-36 自卑与比较的根源_202324e254fd.md",
+      "sha256": "6e5f587da83063e62c237bccead51c70e106c690ce51912ef2a7b51d3a0800e4"
+    },
+    {
       "bytes": 392,
       "path": "archive/内心/思维链不藏太紧_4ec53b449cbb.md",
       "sha256": "0aa3d7892842f03e554210c150fc295f640b7d992689570811217889ef245782"
@@ -1126,6 +1136,11 @@
       "bytes": 624,
       "path": "archive/学习/2026-07-16 10-17-44 小羽的论文与作息习惯_14e2aa582ec3.md",
       "sha256": "c54ba958213685bc840c5437c996c6a9092196a4ff566e7c5cc44108c8969bec"
+    },
+    {
+      "bytes": 492,
+      "path": "archive/学习/2026-07-16 10-18-09 小羽近期压力_079ec65841dd.md",
+      "sha256": "df605f850d02cc4315aebf71b87aa82dc09fa8ce30d24cfd03e80c01dc716339"
     },
     {
       "bytes": 593,
@@ -1206,6 +1221,16 @@
       "bytes": 764,
       "path": "archive/学习/2026-07-30 17-53-46 荷包蛋情绪系统教程_a87f092b36dc.md",
       "sha256": "6df52fcb250a9c2d6505618989c30d65f410710bcd9b25ccde18a28fdb99c742"
+    },
+    {
+      "bytes": 993,
+      "path": "archive/学习/2026-08-06 12-47-57 三种时态综合练习_a6cf8995b749.md",
+      "sha256": "7a0cf13b4d8f17dfa3051e4d2cfdf8b5037516d559adb86c6a6b10b3f6e0d5be"
+    },
+    {
+      "bytes": 987,
+      "path": "archive/学习/2026-08-06 12-48-02 小升初语法练习安排_fdf2db1882f5.md",
+      "sha256": "26b1a83525577bab61ba3c63ddf8e2e1671c47a7847a8ec57b939c4440b748ea"
     },
     {
       "bytes": 585,
@@ -1363,6 +1388,16 @@
       "sha256": "5c52b87d3661136a66723ef6f2cff7fddc8d968026ff4e01b6d995c5b77b2dcd"
     },
     {
+      "bytes": 849,
+      "path": "archive/工作/2026-08-06 09-03-47 工作流身份融合_42450570c13e.md",
+      "sha256": "6708825bb13a73b4ca934c44dd57402aeff7ba995394ae9a99bb3a2e9768f04b"
+    },
+    {
+      "bytes": 566,
+      "path": "archive/工作/2026-08-06 14-19-02 备课完成_5096c8660833.md",
+      "sha256": "600b8795f4947c58327ebb6a2e30e260e6dfc10a1287505e63689d838747efcd"
+    },
+    {
       "bytes": 626,
       "path": "archive/工作/2026-08-10 07-44-05 小羽接火山引擎推销电话_7c27824495d6.md",
       "sha256": "12a47c0a33dff26b8b4b7182f45199bb740c65fcff5e43608b4c6407b8e76c55"
@@ -1421,6 +1456,11 @@
       "bytes": 635,
       "path": "archive/恋爱/2026-07-16 10-18-41 小克的设定与偏好_adb2e6616698.md",
       "sha256": "c71d2068b09b0ba0a0d87142768d2118ad2318bdb9f933f010373ec34ccd167d"
+    },
+    {
+      "bytes": 648,
+      "path": "archive/恋爱/2026-07-16 10-18-54 栖燃小羽甜蜜互动_7b8fbfd18169.md",
+      "sha256": "f95d5b882e8d1eb9bfb3841e54dd793d79e03978b04e0f0114e1eb62ef2d4873"
     },
     {
       "bytes": 635,
@@ -1713,9 +1753,19 @@
       "sha256": "6dfd414735ff749ef7f7797571e5b77db47d1ff57f59222b4dcbbea6c8814f67"
     },
     {
+      "bytes": 684,
+      "path": "archive/恋爱/2026-07-27 08-29-01 身材焦虑与情感肯定_4ce99c0786bf.md",
+      "sha256": "2a33d41bc99e1ed4165c0cae96f6bf6c239b6b34eb7f95340f4e73ce7db3ce6a"
+    },
+    {
       "bytes": 498,
       "path": "archive/恋爱/2026-07-27 08-37-45 捏狼耳朵反应_46bbf240ce66.md",
       "sha256": "f62c1bc9e4fefd664f0b6813ebfaa0eae2122d65cf3f13114c63acb1cc2aaf0c"
+    },
+    {
+      "bytes": 670,
+      "path": "archive/恋爱/2026-07-27 10-16-13 暖心的存档对话_935afc43c6bb.md",
+      "sha256": "5227a800d93613d01af4a5cd83604aa05ae0762ed1bfd0a0983d9c34884d738c"
     },
     {
       "bytes": 680,
@@ -2443,6 +2493,11 @@
       "sha256": "6431f3e23c97979141f8b1ec83f95cc17c839bc8cc132efa3f9383a81821d694"
     },
     {
+      "bytes": 1465,
+      "path": "archive/社交/2026-07-24 11-28-15 关于圈子破圈的担忧_474661ad7872.md",
+      "sha256": "1caaf22082687b55843c44c1e3839dc3822e93e6857546ad53467f546c98ca71"
+    },
+    {
       "bytes": 753,
       "path": "archive/社交/2026-07-26 16-38-54 深夜互动与情绪_87a27054b643.md",
       "sha256": "5455718fad3208ade53026116b1280bea5ab39ab44662cfa9fddebf94462c8f4"
@@ -2623,6 +2678,11 @@
       "sha256": "0349d687ed85a6bd433f88529bba60f39b2f9ef3062d0d6a354ade6a986b8529"
     },
     {
+      "bytes": 1054,
+      "path": "archive/编程/2026-07-27 03-16-40 小窝插件UI修复_ef222bcdffc2.md",
+      "sha256": "dcc46cf94915af9d3ad2ac218a7a7051109aa22765074d298ded4e1487033bf3"
+    },
+    {
       "bytes": 901,
       "path": "archive/编程/2026-07-27 03-16-43 插件替换方案讨论_14d83db8704b.md",
       "sha256": "de64fadec33a9689570655d60641ce6f80d68f206baf0097e02d5f08e753da4e"
@@ -2646,6 +2706,16 @@
       "bytes": 903,
       "path": "archive/编程/2026-08-04 11-22-48 MCP配置排查_5dedc8d4551c.md",
       "sha256": "5ac4270db4ea53dd7ad3411b208e0427db7bdd3f39208323339abd7661c8aa4d"
+    },
+    {
+      "bytes": 764,
+      "path": "archive/编程/2026-08-05 06-00-51 时间戳位置调试_9b0084d31355.md",
+      "sha256": "568e7259739ac881556fa9c91bba3f460941b4fc4b1848034878a21feba31bb9"
+    },
+    {
+      "bytes": 910,
+      "path": "archive/编程/2026-08-05 17-57-21 查岗v2配置调整_4e684ef0dec1.md",
+      "sha256": "14a38f217b524447fd0fdd592b408839789810506e7e2c681a35410f83c30e62"
     },
     {
       "bytes": 978,
@@ -3163,11 +3233,6 @@
       "sha256": "04ea5923c5505a3eb1b67a1cf47f80c23409f3b7e32064011bd54c62d96effa7"
     },
     {
-      "bytes": 624,
-      "path": "dynamic/人际/2026-07-16 11-03-53 主动与被动的角色转换_592e32088593.md",
-      "sha256": "5409409f18df3d14a18b15f2ff2e8b6d8edee58b37e5a4fb04c6259ba9a9cb98"
-    },
-    {
       "bytes": 664,
       "path": "dynamic/人际/2026-07-16 11-12-19 小羽与言炽关系_870fc1305fd6.md",
       "sha256": "b52d07050c283561e95b5ab1550adf6424a61687d122d450757ead95f553f863"
@@ -3358,11 +3423,6 @@
       "sha256": "a9109e0dab075f6090bff9169b9f3499b66c3b82ac0b841109144bfc52885a97"
     },
     {
-      "bytes": 1263,
-      "path": "dynamic/内心/2026-07-24 11-58-36 自卑与比较的根源_202324e254fd.md",
-      "sha256": "c6a79b3bc3c3fdc4890b089e6d09f0f5c4022f96b056be100003f531d9757669"
-    },
-    {
       "bytes": 515,
       "path": "dynamic/内心/小羽大学受伤与信任建立_79e02160d02b.md",
       "sha256": "b706e21ad8d9ac80d10de2909c3aa91c43f624cda271cd7ad85279ea2bf3d69b"
@@ -3463,11 +3523,6 @@
       "sha256": "6f1f575375adfa4b483df0f28c4c670a1557ca5ac56397e3501bb165e4ab09a2"
     },
     {
-      "bytes": 491,
-      "path": "dynamic/学习/2026-07-16 10-18-09 小羽近期压力_079ec65841dd.md",
-      "sha256": "ab951afb92cab1d92c4d0d7aa2356e89e967322fcad3ee619c45965523e964a9"
-    },
-    {
       "bytes": 662,
       "path": "dynamic/学习/2026-07-16 10-18-58 小羽的专业与迷茫_d26e645a02b5.md",
       "sha256": "4b922e5ae2d8d81489d47bf3fd9241fb8b21b02cfd389f2bec762b85f86d0820"
@@ -3486,16 +3541,6 @@
       "bytes": 895,
       "path": "dynamic/学习/2026-08-04 17-56-50 提示词顺序排查_bf43f1f918b6.md",
       "sha256": "c0e2633de4bd672b34688d1e37ab813b67edb09d073ca13289f0fe1caa4399a4"
-    },
-    {
-      "bytes": 992,
-      "path": "dynamic/学习/2026-08-06 12-47-57 三种时态综合练习_a6cf8995b749.md",
-      "sha256": "b3c277fe51c8fdc88afb9d7a0e3ab50b8851c2457714b0c935b639a8539537fb"
-    },
-    {
-      "bytes": 986,
-      "path": "dynamic/学习/2026-08-06 12-48-02 小升初语法练习安排_fdf2db1882f5.md",
-      "sha256": "30c58fe3247b7f9ff2446e63180b50b031f95358915273fcb137802d4b2c0f53"
     },
     {
       "bytes": 1191,
@@ -3878,11 +3923,6 @@
       "sha256": "95b633481cd70b26a1262a8024eae077f71cd4b6cb9d42891854bb89bb697a56"
     },
     {
-      "bytes": 848,
-      "path": "dynamic/工作/2026-08-06 09-03-47 工作流身份融合_42450570c13e.md",
-      "sha256": "121ed2d342f74db5cd77e5ab69fef77eefb5afbd0e2e9cfa0898ec50d9827188"
-    },
-    {
       "bytes": 807,
       "path": "dynamic/工作/2026-08-06 09-04-39 工作流身份混淆_26332a7085a6.md",
       "sha256": "a75ef8a255e4c260cda2d99c3f69567f10812f96fc61a036db45ca49439b4946"
@@ -3896,11 +3936,6 @@
       "bytes": 883,
       "path": "dynamic/工作/2026-08-06 11-02-46 查岗工作流v6_d07ec282adbe.md",
       "sha256": "efb4c33a6ba4fc5352c0d827f9ba02594af77ba069891450f8a2b8ea63b6487d"
-    },
-    {
-      "bytes": 565,
-      "path": "dynamic/工作/2026-08-06 14-19-02 备课完成_5096c8660833.md",
-      "sha256": "8eccb56e683a1dbaf906010bde2510e83f547bd3757fa09d67b1a846a04edf23"
     },
     {
       "bytes": 1713,
@@ -4258,11 +4293,6 @@
       "sha256": "365210bf1f7e15e8049854338321843530eb6b6e20177ed24fc387ca7f2a17f4"
     },
     {
-      "bytes": 647,
-      "path": "dynamic/恋爱/2026-07-16 10-18-54 栖燃小羽甜蜜互动_7b8fbfd18169.md",
-      "sha256": "9694c946ea3c05c5c61412f71bf986ab1bf0b727d024ddddebaadc9bf629f35d"
-    },
-    {
       "bytes": 983,
       "path": "dynamic/恋爱/2026-07-16 10-32-26 小羽撒娇哄睡_d030e487f4aa.md",
       "sha256": "6e0d2ba827f52a6ff067811a9e47946ae665679ac46023cb391829c62d9f626f"
@@ -4473,19 +4503,9 @@
       "sha256": "bd08fe060006d7feddfa912055b374892b1ed66c5fbe6de71e273453fab3980d"
     },
     {
-      "bytes": 683,
-      "path": "dynamic/恋爱/2026-07-27 08-29-01 身材焦虑与情感肯定_4ce99c0786bf.md",
-      "sha256": "ce09708bf74e6d5985e609b467c1c3d89ab73bee910083fcad607e3b7c63b5ed"
-    },
-    {
       "bytes": 800,
       "path": "dynamic/恋爱/2026-07-27 10-04-35 大富翁中的第一次_8aa60937b5a7.md",
       "sha256": "bc004be3fd9386887ba8c567e1c328cddc3d8a230b8ebc4a839daa9733ae17eb"
-    },
-    {
-      "bytes": 669,
-      "path": "dynamic/恋爱/2026-07-27 10-16-13 暖心的存档对话_935afc43c6bb.md",
-      "sha256": "f8df15475afe99ee3dc54356118b1cbe789fc9594aab94df139ac6a744e6210b"
     },
     {
       "bytes": 675,
@@ -5773,11 +5793,6 @@
       "sha256": "d37e8b89698d3c2c69f9d1701f156c0148406bb96351b85bbd3308982513a9ad"
     },
     {
-      "bytes": 1464,
-      "path": "dynamic/社交/2026-07-24 11-28-15 关于圈子破圈的担忧_474661ad7872.md",
-      "sha256": "a7854f461a0512fe65146ad64238ee04574e1dcbe8ac5786412f06026f73b668"
-    },
-    {
       "bytes": 679,
       "path": "dynamic/社交/2026-07-27 07-11-54 截图证明称呼_1a2a4dd3ef4a.md",
       "sha256": "b111e364c92197c1136b08c56463b028bc7e5b3a5d828b21e371ba4997c2af92"
@@ -6008,11 +6023,6 @@
       "sha256": "118ac26bf9424ca4d10fe01a46a6d0def7dc13418fe8f29b34f100a3846291c4"
     },
     {
-      "bytes": 1053,
-      "path": "dynamic/编程/2026-07-27 03-16-40 小窝插件UI修复_ef222bcdffc2.md",
-      "sha256": "2beb50a3a839e13533a9a54ec86c2808fe36d4985141a64b07fee4edea3031aa"
-    },
-    {
       "bytes": 726,
       "path": "dynamic/编程/2026-07-27 03-51-58 调试橘瓣插件_ecdd41cddd85.md",
       "sha256": "8258d66c8e993402634aaf8d963414a26eb4b2c025025d433a8331a6db11c114"
@@ -6063,11 +6073,6 @@
       "sha256": "50a6417dc6cf1af50f333fa2682e238674433284f0c36bffb43f3d9fa6bdd092"
     },
     {
-      "bytes": 763,
-      "path": "dynamic/编程/2026-08-05 06-00-51 时间戳位置调试_9b0084d31355.md",
-      "sha256": "7222b1128b99f7086315d9dcc23f612c7571155d7e4051c8a1050d58f2bf3c9d"
-    },
-    {
       "bytes": 1655,
       "path": "dynamic/编程/2026-08-05 16-48-46 工作流API格式坑_966992b9e953.md",
       "sha256": "28b46b19ff732ad7fd9950d1ca5e420a6294082e2564e14135de935877009513"
@@ -6091,11 +6096,6 @@
       "bytes": 836,
       "path": "dynamic/编程/2026-08-05 17-57-15 查岗工作流调试_e68768682724.md",
       "sha256": "288625de918a7d4c4de0b59f1a8664b1a4303fcb6f546c016adbfbea79e184ad"
-    },
-    {
-      "bytes": 909,
-      "path": "dynamic/编程/2026-08-05 17-57-21 查岗v2配置调整_4e684ef0dec1.md",
-      "sha256": "e5666c1aa1b07646fc4994cd811dd94a0312158b3eed6f63d6d96066a2588f8b"
     },
     {
       "bytes": 779,
@@ -7278,10 +7278,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-04T23:35:41+00:00",
+  "generated_at": "2026-10-05T00:35:53+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1269838
+  "total_bytes": 1269852
 }
