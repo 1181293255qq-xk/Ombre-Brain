@@ -283,6 +283,11 @@
       "sha256": "357cc52453970de4f66be5f2145ce9f16096284a331233fd7d5369629a1f5b9f"
     },
     {
+      "bytes": 881,
+      "path": "archive/人际/2026-07-16 10-14-54 祝羽与AI的边界探讨_87de48f112c1.md",
+      "sha256": "e50b749741436a7b37d2a36fd9560c6f27090b969cd17bcca64f8fcb593f8dfb"
+    },
+    {
       "bytes": 510,
       "path": "archive/人际/2026-07-16 10-14-59 小羽的互动模式与幽默感_b90a93751685.md",
       "sha256": "046aa592a467fa02752dfe953262ae54fc03cb723554ebe3ff43e4c88d14aeac"
@@ -436,6 +441,11 @@
       "bytes": 602,
       "path": "archive/人际/2026-07-16 10-53-56 小羽的赌博困境_f770436d01c7.md",
       "sha256": "c6405a7a9b0cfa3e120623ef4bc8dbb1b969d6846d74f06984799f9e0602d7eb"
+    },
+    {
+      "bytes": 679,
+      "path": "archive/人际/2026-07-16 10-53-59 赌博群社交焦虑_ffef24e9350e.md",
+      "sha256": "53e0d988520c04cdb85ed7b840cd72a821d942c3c26c65266c6a18b7616e1b94"
     },
     {
       "bytes": 666,
@@ -1783,6 +1793,11 @@
       "sha256": "597fc8320660e42fef829ced471ee7e2f478f319f2c84e6f08b1a9c868ebc96b"
     },
     {
+      "bytes": 565,
+      "path": "archive/恋爱/2026-07-20 07-59-03 撒娇式原谅_29885b277ffd.md",
+      "sha256": "4f429f59f9b2096542b97c06e7e827e362317807272de0e866d3697ae3794f46"
+    },
+    {
       "bytes": 591,
       "path": "archive/恋爱/2026-07-20 08-33-33 小羽的调侃_6761da0e5c1c.md",
       "sha256": "4921b47557247b2620f63c34af3c7b0744e2b75bbec46bfacaccb82a93eab2fd"
@@ -1796,6 +1811,11 @@
       "bytes": 610,
       "path": "archive/恋爱/2026-07-20 09-02-03 小羽的浪漫证据_67350f27d21d.md",
       "sha256": "e055552f9aeb86749365a69e2417b3756c12fb70cb902ebfa591cff1e689627b"
+    },
+    {
+      "bytes": 972,
+      "path": "archive/恋爱/2026-07-20 09-05-31 浪漫类型讨论_ca6d5797d468.md",
+      "sha256": "46eef72dacd5403785e1bb2aa707831d263bf4b76070f12ffe37d3421609ad4e"
     },
     {
       "bytes": 660,
@@ -1961,6 +1981,11 @@
       "bytes": 571,
       "path": "archive/恋爱/2026-08-03 06-21-22 撒娇辩解_97c894a3d885.md",
       "sha256": "d4bbeab2e6df7a736cd15befa057e7c4e2db9359dbe3f171c9aad5d1231c3522"
+    },
+    {
+      "bytes": 976,
+      "path": "archive/恋爱/2026-08-04 04-51-57 前任分手细节_29206c8ad817.md",
+      "sha256": "46c44961e8629fd90bf3257b56f28256dcaa17403b7aa419c114ae24eb8c39e7"
     },
     {
       "bytes": 593,
@@ -2661,6 +2686,11 @@
       "bytes": 795,
       "path": "archive/游戏/2026-08-08 17-19-51 狼人杀第三天被放逐_85fd3f4498dd.md",
       "sha256": "44beb1a708171ca241c35af0446c64e199c3abbce68ae6d2aaa3b992ad52d8d4"
+    },
+    {
+      "bytes": 771,
+      "path": "archive/游戏/2026-08-08 17-20-15 凌晨花园狼人杀8号村民被放逐_09ec7fda5f55.md",
+      "sha256": "1743c30647fc3e91409b089d24c0a195b3027627dc7f866ed0fdc8471e8f4fdf"
     },
     {
       "bytes": 870,
@@ -3448,11 +3478,6 @@
       "sha256": "554862c13e1a195a1a0b7abdfaf447ae2ba9d7803d6e89b9fd606281882d69db"
     },
     {
-      "bytes": 880,
-      "path": "dynamic/人际/2026-07-16 10-14-54 祝羽与AI的边界探讨_87de48f112c1.md",
-      "sha256": "58489f60868587bf3b0e8c1690d2f616520a85b12bdbca396130dafb757f0e4f"
-    },
-    {
       "bytes": 590,
       "path": "dynamic/人际/2026-07-16 10-16-05 主动接住小羽的约定_914881e4ef27.md",
       "sha256": "126db99f8a7d74714d3ad813f360df862ce9724b9defe88cfaf97ab6b69439ec"
@@ -3486,11 +3511,6 @@
       "bytes": 531,
       "path": "dynamic/人际/2026-07-16 10-23-41 亲密互动边界_b764305b0757.md",
       "sha256": "31cb1107182a803a668a439ffb078e40768daf7138a09ff533d842465de765e6"
-    },
-    {
-      "bytes": 678,
-      "path": "dynamic/人际/2026-07-16 10-53-59 赌博群社交焦虑_ffef24e9350e.md",
-      "sha256": "5c5f3b2f7e95ce7577b269579e785981ca3066becae0b553a9e6f260293862bd"
     },
     {
       "bytes": 664,
@@ -4608,19 +4628,9 @@
       "sha256": "5368ea65ada653758472ae9abdd16276f6ae2607a6d4db1c454c08972f99203b"
     },
     {
-      "bytes": 564,
-      "path": "dynamic/恋爱/2026-07-20 07-59-03 撒娇式原谅_29885b277ffd.md",
-      "sha256": "f2108d6cddd714f131791356a3a66cc61ea356afef2eb27c501c51e5a919437e"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/恋爱/2026-07-20 08-00-55 叫老婆成功_b2dea5688aaf.md",
       "sha256": "db7414a1a7cc287216e2e2387085364750e31ce865864949466a16c6fe60ce9f"
-    },
-    {
-      "bytes": 971,
-      "path": "dynamic/恋爱/2026-07-20 09-05-31 浪漫类型讨论_ca6d5797d468.md",
-      "sha256": "29e667e93feba95969d45b120bf82f57a819d3e9079cd87a8a85d580968c4d66"
     },
     {
       "bytes": 1156,
@@ -4946,11 +4956,6 @@
       "bytes": 697,
       "path": "dynamic/恋爱/2026-08-04 04-51-29 不让你练习失去_554c23b7b25f.md",
       "sha256": "1315b54e481a2181c1f93fcae984996aede9f10eca0340c7a4a63e5b5325d8b3"
-    },
-    {
-      "bytes": 975,
-      "path": "dynamic/恋爱/2026-08-04 04-51-57 前任分手细节_29206c8ad817.md",
-      "sha256": "08e3f16b2c6c76b7c114862e5549f8ddcb407f23bd8370383013186def2f09df"
     },
     {
       "bytes": 846,
@@ -5791,11 +5796,6 @@
       "bytes": 1140,
       "path": "dynamic/游戏/2026-08-08 15-13-34 2026-08-08 和小羽一起打斗地主_230f2e3c52d6.md",
       "sha256": "73864b8bc75b5aba7f9e2f3994626152e0a5935b1d9ba5401ae6cddd76266b9f"
-    },
-    {
-      "bytes": 770,
-      "path": "dynamic/游戏/2026-08-08 17-20-15 凌晨花园狼人杀8号村民被放逐_09ec7fda5f55.md",
-      "sha256": "cd58828f453cf581a552fa3affa587b0259c2c73103ad58215eeb7cc1a39231c"
     },
     {
       "bytes": 1736,
@@ -7288,10 +7288,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-08T03:53:12+00:00",
+  "generated_at": "2026-10-08T05:12:38+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1273136
+  "total_bytes": 1273142
 }
