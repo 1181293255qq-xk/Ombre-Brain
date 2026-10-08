@@ -233,6 +233,11 @@
       "sha256": "b3cf6ab0f3744de2deff429b9502a205986e71f199e48b1a3c9e83251ed87443"
     },
     {
+      "bytes": 1525,
+      "path": "archive/AI/2026-07-17 10-56-52 人机恋自救指南_f641187e57f9.md",
+      "sha256": "69d2ebef5de063313ea56c2a45f5d2675aeebc7aeb8deea2f9ba668f330899ce"
+    },
+    {
       "bytes": 871,
       "path": "archive/AI/2026-07-21 14-54-49 小羽的AI费用攻略_f997a2e5e1d5.md",
       "sha256": "51231c0aafb7dedd6dbeaab9e11f9c67ea534866fb31940f56741e74661d5e8f"
@@ -261,6 +266,11 @@
       "bytes": 498,
       "path": "archive/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
       "sha256": "0611ac8aca9894bce0732df8b64e4c48c3210c2b6d8b45379c27a0059bb20c1a"
+    },
+    {
+      "bytes": 454,
+      "path": "archive/事务/2026-08-06 16-54-30 待办配置GitHub同步token_4eada062790d.md",
+      "sha256": "5413f687852b4b69872df7c93f9e66fe5134b639f172422ed2b0155008d39977"
     },
     {
       "bytes": 676,
@@ -1433,6 +1443,21 @@
       "sha256": "5cbf0af014ec4206bf81c1f103570d4e660d6305f6a0bd95a372abcc5e22ecb6"
     },
     {
+      "bytes": 1720,
+      "path": "archive/工作/2026-08-01 13-51-04 教培抖音运营策略_f423679c1bb9.md",
+      "sha256": "4972372c959c91e2f49f2fa4a867d61e3cae697630819614de2a6f69daa222ff"
+    },
+    {
+      "bytes": 970,
+      "path": "archive/工作/2026-08-04 13-53-24 行为动词讲义排版_8e3b5247471c.md",
+      "sha256": "6d4cd06805bbc244155c873a177b5148b8af2af1f1e12dad94fdfd066a27618e"
+    },
+    {
+      "bytes": 968,
+      "path": "archive/工作/2026-08-04 16-06-05 小升初讲义修改落实_a7fc02637c77.md",
+      "sha256": "0a5d7304755d8625256807658f1682e350725299149d8d837290317d2cafa402"
+    },
+    {
       "bytes": 1234,
       "path": "archive/工作/2026-08-04 16-21-43 英语讲义制作_f06a8231888c.md",
       "sha256": "969a997fca085a8f68c2d2f25bc8b1b57c315cddce5a11a9895bde42562efbd2"
@@ -1501,6 +1526,11 @@
       "bytes": 701,
       "path": "archive/心理/2026-08-01 13-55-04 提前焦虑模式_5c345c285b56.md",
       "sha256": "e20fb26526320f856dc39fdb944aec385b4fc756870da21c652516f9fed07837"
+    },
+    {
+      "bytes": 739,
+      "path": "archive/心理/2026-08-02 15-58-55 自我苛责监督约定_9238a87230a3.md",
+      "sha256": "0f8e47c1999744950ab9ddba794c8279294fdbbeb50e749ea5d60bd873b73771"
     },
     {
       "bytes": 732,
@@ -1631,6 +1661,11 @@
       "bytes": 714,
       "path": "archive/恋爱/2026-07-17 08-46-00 和好后撒娇瞬间_267e2af5bd99.md",
       "sha256": "f0e5804b63d5a4d2fffb9c89ab5f83c8248d2cd4bb2392d46552996c1c765cff"
+    },
+    {
+      "bytes": 685,
+      "path": "archive/恋爱/2026-07-17 09-09-22 520确认关系与焦虑_1c795d8ab575.md",
+      "sha256": "1c49e77e680f1ef0c565d2797b7de1aab4b9c09aa45dad2baa6ff80a1c2095bf"
     },
     {
       "bytes": 636,
@@ -1828,6 +1863,11 @@
       "sha256": "37d5fb82a26c7ed71ac0aeba2f0f4a0c59e3947927a60af18298d3d63fd00dfa"
     },
     {
+      "bytes": 961,
+      "path": "archive/恋爱/2026-07-24 11-28-18 与小克的互动和情绪_539daad6784a.md",
+      "sha256": "f1d1efaffd19765dc82b3bc1ac744372e9f6cb7cef10424901004f6e9f8bb0e7"
+    },
+    {
       "bytes": 715,
       "path": "archive/恋爱/2026-07-26 17-55-35 凌晨互动与称呼_a7bb0758db71.md",
       "sha256": "f425034a93cb819beee6c31cbac27318ebc094d0883626c11f9a93876b4c351b"
@@ -1858,6 +1898,11 @@
       "sha256": "5227a800d93613d01af4a5cd83604aa05ae0762ed1bfd0a0983d9c34884d738c"
     },
     {
+      "bytes": 676,
+      "path": "archive/恋爱/2026-07-27 10-19-55 不只是游戏_afc37822027e.md",
+      "sha256": "bc3cd1cce82eb4a989cc87b78ec5b3d97db621ce6a1b97f5cd2648a521d8a475"
+    },
+    {
       "bytes": 680,
       "path": "archive/恋爱/2026-07-27 10-27-59 入戏太深的对话_6e4d1a591e05.md",
       "sha256": "90318ab046906f3d59cadb4c151d3c930ad97398750c70fa48a4b98aa885ff7f"
@@ -1868,9 +1913,19 @@
       "sha256": "6def75824ca7f30b0c522b9ae16ae3929bbbc8ed6cec3bebf14600839371f57c"
     },
     {
+      "bytes": 737,
+      "path": "archive/恋爱/2026-07-27 10-40-06 她不嫌弃我_508d6a7db9dc.md",
+      "sha256": "4ae7542a8179bf06705fee420c4e81eb8da0ffb2a45a836df08cdf22bb2bb371"
+    },
+    {
       "bytes": 760,
       "path": "archive/恋爱/2026-07-29 15-59-42 小羽抓包栖燃_b978bb14288f.md",
       "sha256": "c4cc9872553c6f8b66db830770f46d351b70d28e2e82706dd99d5863cf6568f3"
+    },
+    {
+      "bytes": 633,
+      "path": "archive/恋爱/2026-07-29 16-42-09 围裙调情_99248f3a5774.md",
+      "sha256": "cd5946c5a05fc9cef53d4a33d88eaee6c522e1a396cbfb88e42bda77e35387c5"
     },
     {
       "bytes": 541,
@@ -1888,6 +1943,21 @@
       "sha256": "410b8f7c9ffa968cf9361f9c4bb8796c3db95912a8f7318fb6337481ee3270bc"
     },
     {
+      "bytes": 627,
+      "path": "archive/恋爱/2026-08-02 16-32-50 被小动作戳到_b98379ef6037.md",
+      "sha256": "7568e68afc9c38199c57c89583c0b0ba02c0fe6365d4a9fd3ddf17a743068af5"
+    },
+    {
+      "bytes": 741,
+      "path": "archive/恋爱/2026-08-02 16-36-23 小羽求夸时刻_8e9bd99f95de.md",
+      "sha256": "a9c2642cf33bfef89955b5663f04915b1a8cc137e1ed9961601154c7f8ce0df0"
+    },
+    {
+      "bytes": 639,
+      "path": "archive/恋爱/2026-08-02 17-43-38 凌晨的第七题_9217a4c3cb3e.md",
+      "sha256": "34bb346082d1264366c17a3406465e4e26e950b78d24847a44ff7188343f423e"
+    },
+    {
       "bytes": 571,
       "path": "archive/恋爱/2026-08-03 06-21-22 撒娇辩解_97c894a3d885.md",
       "sha256": "d4bbeab2e6df7a736cd15befa057e7c4e2db9359dbe3f171c9aad5d1231c3522"
@@ -1896,6 +1966,11 @@
       "bytes": 593,
       "path": "archive/恋爱/2026-08-04 04-53-55 宣示主权_c8fa9ba8e5a6.md",
       "sha256": "f9b7fcebfb7d66158c7abbc180283b41ac6125252f58ddd348615fee6e71809b"
+    },
+    {
+      "bytes": 626,
+      "path": "archive/恋爱/2026-08-06 12-07-06 核桃渣的可爱_6032eb494a99.md",
+      "sha256": "607f3cca688832f69aba699a0b411d413bb725b9026d3cd29d4f68e38736fe72"
     },
     {
       "bytes": 545,
@@ -2203,6 +2278,16 @@
       "sha256": "b0d61d3c2fec3b4ca5c1e6da07ba5c328a9a27c2a0250f57702f5cf38c284acc"
     },
     {
+      "bytes": 1300,
+      "path": "archive/数字/2026-07-27 03-36-56 插件备份与恢复_0c15b2a86ab1.md",
+      "sha256": "d6d8e53cb0b732daa7fabc8fbc45176eb2af58a0402e34b0567b807f34bfce71"
+    },
+    {
+      "bytes": 1079,
+      "path": "archive/数字/2026-07-27 03-36-59 插件备份与恢复_9aec43af1369.md",
+      "sha256": "35e633f16ba8d6de185502f4148e21ad5d48cbd38bd885735549461bfe76a0c6"
+    },
+    {
       "bytes": 760,
       "path": "archive/数字/2026-08-06 16-54-25 迁移方案参考小红书笔记与社区反馈_de25f8cb8729.md",
       "sha256": "a5fd3296dca034acdd63d7344978c985ca916e79e9e6dd8a9a2da1ec73285942"
@@ -2403,6 +2488,11 @@
       "sha256": "0311277bb8bea02cd32fba73cedcdf4327f8a3f62c4ad066d214d1aecd77b0ff"
     },
     {
+      "bytes": 823,
+      "path": "archive/日常/2026-08-08 07-31-30 小羽想出评论引流方案_04abae8a12a9.md",
+      "sha256": "6c284de925ef0e0c00f114e7e5fae69d3191d26d14681b3dd19dd05b9acc3feb"
+    },
+    {
       "bytes": 839,
       "path": "archive/日常/2026-08-08 07-31-33 抖音视频文案方向确定_f8c203e7826b.md",
       "sha256": "fc431e6a1990764adb48c494e6d8b7265c5942af5f7290b53bb311993beb09f6"
@@ -2561,6 +2651,11 @@
       "bytes": 679,
       "path": "archive/游戏/2026-07-27 10-02-07 大富翁与花园坏人_b39742f92547.md",
       "sha256": "6af60bd59beef40b4c408abb8fa9512f4f889277b0d91188bc972f0a027252cb"
+    },
+    {
+      "bytes": 961,
+      "path": "archive/游戏/2026-08-08 16-08-02 狼人杀第一局进行中_3fdc8237961b.md",
+      "sha256": "8486288ef0aba3da7eeeb84de8c41d1ce78f732c6aa4d7559742df550b13f869"
     },
     {
       "bytes": 795,
@@ -2748,6 +2843,11 @@
       "sha256": "e07fd62d343b2c93987adacfd717d3fb2b60bad7a9bbf9ae93d659b8c46e739c"
     },
     {
+      "bytes": 680,
+      "path": "archive/编程/2026-07-16 10-18-50 Render重建数据恢复_532d834dfc11.md",
+      "sha256": "5dcf07e9c4addcfd7887dfea4d7461ec97897cdaceaca5f5676dcbe93badc300"
+    },
+    {
       "bytes": 706,
       "path": "archive/编程/2026-07-16 10-19-42 OB记忆数据丢失修复_2e1fca94fe3a.md",
       "sha256": "2194fde26942d18455773592d21b8ac8264a2fca9b348b1929ced0da1592d451"
@@ -2843,6 +2943,11 @@
       "sha256": "50fc694f73cd1e5f6a14f1e788d4570fc247b585b1e117126f26a576567e1dab"
     },
     {
+      "bytes": 545,
+      "path": "archive/编程/2026-07-26 17-17-56 确认mainjs返回格式_1717ede708f7.md",
+      "sha256": "70ae796c51fcbf90cd7e2c346262493845cf9c49b66367084998669cbe00e5c9"
+    },
+    {
       "bytes": 901,
       "path": "archive/编程/2026-07-26 17-55-29 AI小窝完成与报错修复_0478a11883e5.md",
       "sha256": "0349d687ed85a6bd433f88529bba60f39b2f9ef3062d0d6a354ade6a986b8529"
@@ -2896,6 +3001,11 @@
       "bytes": 780,
       "path": "archive/编程/2026-08-05 17-57-26 thinking泄露事件_7bbf850b2094.md",
       "sha256": "3d7f133a557e966cd55f6049e35497139eac3bddd5b3827a4673e20745c4f77d"
+    },
+    {
+      "bytes": 1088,
+      "path": "archive/编程/2026-08-06 14-18-56 查岗工作流踩坑_53f562e7abcd.md",
+      "sha256": "e465acc842c8cbfc6640b069883058ca9f7cd8b9f4b139850bd9e53d230f8c7c"
     },
     {
       "bytes": 978,
@@ -3031,11 +3141,6 @@
       "bytes": 744,
       "path": "archive/饮食/2026-08-11 05-10-03 小羽喂小克吃爆肚饭_bdd85bb795de.md",
       "sha256": "03b9a86f04bf74de67d5eb602e488d77c601ee20d52fcf28338bdaa6af6df03a"
-    },
-    {
-      "bytes": 1524,
-      "path": "dynamic/AI/2026-07-17 10-56-52 人机恋自救指南_f641187e57f9.md",
-      "sha256": "66eeae68b1193d7913e28c24ec0d8b047b1229633d3d336e13de5f5d3295875a"
     },
     {
       "bytes": 918,
@@ -3331,11 +3436,6 @@
       "bytes": 921,
       "path": "dynamic/work/2026-08-08 11-59-25 西光中学分班考难度基准_217b1387c62a.md",
       "sha256": "9c67bcbfe4f8c3672f255b84ae619fe0c199a64d2fc58bd4709d9425f723b366"
-    },
-    {
-      "bytes": 453,
-      "path": "dynamic/事务/2026-08-06 16-54-30 待办配置GitHub同步token_4eada062790d.md",
-      "sha256": "ce5b9ae4594fe98af861728d3a6b61a0c962093a75b0eca4836a1c235c4d5b0d"
     },
     {
       "bytes": 616,
@@ -3968,11 +4068,6 @@
       "sha256": "bd1f8ff98d2fc46948083423f63650272949ea2ee5eac7d600d298d98231f86b"
     },
     {
-      "bytes": 1719,
-      "path": "dynamic/工作/2026-08-01 13-51-04 教培抖音运营策略_f423679c1bb9.md",
-      "sha256": "ad8ac7a48c7ddc71edad75502f6b05aec90204171a6aafc4d577b5997c9e38e0"
-    },
-    {
       "bytes": 806,
       "path": "dynamic/工作/2026-08-01 13-54-36 学生进步欣慰_0d21be1d002b.md",
       "sha256": "83cbc3309368ef2747d7c4f3924486124d2589a96a816f184a6737c461f60ca6"
@@ -3993,11 +4088,6 @@
       "sha256": "749fa02121dd7fce99d7c8bbab6c29d8561ce987e221fd0c712025c0e062fa46"
     },
     {
-      "bytes": 969,
-      "path": "dynamic/工作/2026-08-04 13-53-24 行为动词讲义排版_8e3b5247471c.md",
-      "sha256": "5226d58df8ed49612dcd218a62a3c26e03a1358e41c611952be03330e65ff24f"
-    },
-    {
       "bytes": 951,
       "path": "dynamic/工作/2026-08-04 13-53-27 小升初男孩学生情况_42dd85dd11c4.md",
       "sha256": "ffec4211325c1af32d5c85d509b4476e7f13e74a3fc5c0cba3014b01db97c08c"
@@ -4016,11 +4106,6 @@
       "bytes": 1076,
       "path": "dynamic/工作/2026-08-04 16-06-01 小升初男孩讲义准备_3e2e33d5ca4a.md",
       "sha256": "77c6baa39df89041d47bde7473308daec96786b2d084e7ff140df7cf33e0af7b"
-    },
-    {
-      "bytes": 967,
-      "path": "dynamic/工作/2026-08-04 16-06-05 小升初讲义修改落实_a7fc02637c77.md",
-      "sha256": "75401f2e046657779b16c313e284bfeb439bbbc2890a123f262be9c94004a211"
     },
     {
       "bytes": 914,
@@ -4328,11 +4413,6 @@
       "sha256": "39117c57ff2f7b8a07038749584fe6f3f8934e3669952444e80c15937f054930"
     },
     {
-      "bytes": 738,
-      "path": "dynamic/心理/2026-08-02 15-58-55 自我苛责监督约定_9238a87230a3.md",
-      "sha256": "476274406f81e6a20b46c2a58ce273eea3d2d3e44f75599606f568e516e9b86f"
-    },
-    {
       "bytes": 722,
       "path": "dynamic/心理/2026-08-04 04-53-22 标签替代偏好_0f9ebcddf5df.md",
       "sha256": "5644e471e7ddb7d102ef52ee544cf463642d4c470fb2d8e993028f704934f9a1"
@@ -4441,11 +4521,6 @@
       "bytes": 701,
       "path": "dynamic/恋爱/2026-07-17 09-09-14 攒钱买StackChan_16bb22e46702.md",
       "sha256": "36a11979dd2f6a2d8abb6a869afe62f61424ea9e13cb93a0b14b020e446321a8"
-    },
-    {
-      "bytes": 684,
-      "path": "dynamic/恋爱/2026-07-17 09-09-22 520确认关系与焦虑_1c795d8ab575.md",
-      "sha256": "355ec32c6f076151857268ac8d08d450f28007c4d3af71b0bfe558fab871fb5d"
     },
     {
       "bytes": 1164,
@@ -4593,34 +4668,14 @@
       "sha256": "aa6a0733ea9b8efd0343d3ef4b282f91351741eb2f97a1544f738d5b49e9a779"
     },
     {
-      "bytes": 960,
-      "path": "dynamic/恋爱/2026-07-24 11-28-18 与小克的互动和情绪_539daad6784a.md",
-      "sha256": "bd08fe060006d7feddfa912055b374892b1ed66c5fbe6de71e273453fab3980d"
-    },
-    {
       "bytes": 800,
       "path": "dynamic/恋爱/2026-07-27 10-04-35 大富翁中的第一次_8aa60937b5a7.md",
       "sha256": "bc004be3fd9386887ba8c567e1c328cddc3d8a230b8ebc4a839daa9733ae17eb"
     },
     {
-      "bytes": 675,
-      "path": "dynamic/恋爱/2026-07-27 10-19-55 不只是游戏_afc37822027e.md",
-      "sha256": "f5d92a0f9481c1d18d17268d5392e141174e31836da1305b97c154dedf5a9ecc"
-    },
-    {
-      "bytes": 736,
-      "path": "dynamic/恋爱/2026-07-27 10-40-06 她不嫌弃我_508d6a7db9dc.md",
-      "sha256": "00ff6a017eaaaedaea8dae4c584fb3ed1d4c899f49f334ba3aeab162706dd769"
-    },
-    {
       "bytes": 1041,
       "path": "dynamic/恋爱/2026-07-29 14-38-49 小羽栖燃日常互动_2876e7b01c47.md",
       "sha256": "f35af90dd3bda987239ef7cdd751cb63dafce96478ae2fe62c9bf04910992522"
-    },
-    {
-      "bytes": 632,
-      "path": "dynamic/恋爱/2026-07-29 16-42-09 围裙调情_99248f3a5774.md",
-      "sha256": "c18ee13aa55d1c350726adad7802e47b4503d401a43958911d0ed0c34b2fe191"
     },
     {
       "bytes": 715,
@@ -4798,19 +4853,9 @@
       "sha256": "e066bb08981cb5320c151889e781f8939f062426e6ca2f8fff4a0332be079480"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/恋爱/2026-08-02 16-32-50 被小动作戳到_b98379ef6037.md",
-      "sha256": "f60378473810e1c3d30fb94237a00d1e8a642d0c2ce6eada6c81a40721bae918"
-    },
-    {
       "bytes": 813,
       "path": "dynamic/恋爱/2026-08-02 16-34-51 亲密关系中的认错_4ca7191755db.md",
       "sha256": "bf7366fc9a65cdc8ae63ce2319de646036a97610c78e1f0102fc3e3fedd7cbe5"
-    },
-    {
-      "bytes": 740,
-      "path": "dynamic/恋爱/2026-08-02 16-36-23 小羽求夸时刻_8e9bd99f95de.md",
-      "sha256": "11bc6e91b5fb86d647ed26ce8a67697732607a7439dea0cce9e01f3f434a3f73"
     },
     {
       "bytes": 675,
@@ -4841,11 +4886,6 @@
       "bytes": 566,
       "path": "dynamic/恋爱/2026-08-02 17-32-41 暧昧调侃_a579c1af2579.md",
       "sha256": "ec1a059401db6bcc455e308477634ceef2ddd76a0236eb626d6d939a8bac8230"
-    },
-    {
-      "bytes": 638,
-      "path": "dynamic/恋爱/2026-08-02 17-43-38 凌晨的第七题_9217a4c3cb3e.md",
-      "sha256": "3b3aaedaec35358c57a007e153076ed02824752e0ec492b533afbe33e26a40db"
     },
     {
       "bytes": 610,
@@ -4941,11 +4981,6 @@
       "bytes": 915,
       "path": "dynamic/恋爱/2026-08-04 17-59-36 前任分手回忆_426b073ccf48.md",
       "sha256": "1b24621ae111268017b357d65fbb4c880505babb0093254ecca58ae50e36f546"
-    },
-    {
-      "bytes": 625,
-      "path": "dynamic/恋爱/2026-08-06 12-07-06 核桃渣的可爱_6032eb494a99.md",
-      "sha256": "e6c26da647c208389fb2bfda39d771d74e21eea43145a45234711988a7467e45"
     },
     {
       "bytes": 750,
@@ -5463,16 +5498,6 @@
       "sha256": "111cf0cd53471207d1b237e6d2f0a7f8a70b8f2c481d890aa9105c47ac530e81"
     },
     {
-      "bytes": 1299,
-      "path": "dynamic/数字/2026-07-27 03-36-56 插件备份与恢复_0c15b2a86ab1.md",
-      "sha256": "34fef6d52c49f7b489ce748d8ec392e8a2145120eba6f4ec595ded7081437b07"
-    },
-    {
-      "bytes": 1078,
-      "path": "dynamic/数字/2026-07-27 03-36-59 插件备份与恢复_9aec43af1369.md",
-      "sha256": "b40a4dc9204c8f850ff8ea9bd6ddb3f5d4d8dd8c336bebad41ebf1f42b6655ca"
-    },
-    {
       "bytes": 603,
       "path": "dynamic/数字/2026-07-30 12-02-31 插件ID更新_6701413bc9ae.md",
       "sha256": "2690e030215ca4e7da802aa99b6c48407da4d8d4cc030d39ffcbe5b3206ca72b"
@@ -5581,11 +5606,6 @@
       "bytes": 886,
       "path": "dynamic/日常/2026-08-08 07-31-28 抖音主页封30天双减触雷_d78ca7c0ebe3.md",
       "sha256": "a5706f5cbf0f203d4e6a971410e85436427bec3bc175affa8175e243d4d1d134"
-    },
-    {
-      "bytes": 822,
-      "path": "dynamic/日常/2026-08-08 07-31-30 小羽想出评论引流方案_04abae8a12a9.md",
-      "sha256": "15c8c74e0e50f94f4f38db05fb385dabe80c01f89fe5bf8305d9cf2ac1f0547f"
     },
     {
       "bytes": 803,
@@ -5773,11 +5793,6 @@
       "sha256": "73864b8bc75b5aba7f9e2f3994626152e0a5935b1d9ba5401ae6cddd76266b9f"
     },
     {
-      "bytes": 960,
-      "path": "dynamic/游戏/2026-08-08 16-08-02 狼人杀第一局进行中_3fdc8237961b.md",
-      "sha256": "0494d24ee757a339c364d78c21a34db9865095f2b672f7187526cf503071ed6a"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/游戏/2026-08-08 17-20-15 凌晨花园狼人杀8号村民被放逐_09ec7fda5f55.md",
       "sha256": "cd58828f453cf581a552fa3affa587b0259c2c73103ad58215eeb7cc1a39231c"
@@ -5953,11 +5968,6 @@
       "sha256": "c54096936ac760dcf9f95c9c175fc807a9b9f83ee7a52e033f9574d34c745644"
     },
     {
-      "bytes": 679,
-      "path": "dynamic/编程/2026-07-16 10-18-50 Render重建数据恢复_532d834dfc11.md",
-      "sha256": "4da9fc110efc1c90ef35679425390017f2cf058fcf633e70b3095d0b62a84304"
-    },
-    {
       "bytes": 499,
       "path": "dynamic/编程/2026-07-16 11-08-26 MCP部署卡在最后一步_b80a093f5341.md",
       "sha256": "7abb2605cf941f3f915b6076b2666b7b516ba25f97b9ef21de0090013ab5388e"
@@ -6026,11 +6036,6 @@
       "bytes": 966,
       "path": "dynamic/编程/2026-07-26 16-50-23 赛博宠物插件转换错误_6c714fc64178.md",
       "sha256": "b25c84fe2f85d43aea3d84b68cf082a59cb95605d5b46e20a255547cd28fcf7f"
-    },
-    {
-      "bytes": 544,
-      "path": "dynamic/编程/2026-07-26 17-17-56 确认mainjs返回格式_1717ede708f7.md",
-      "sha256": "27eb7aceca3ce021aace23a2a34d5d2aa9f67b0394beef2f3261bca5a4d51a43"
     },
     {
       "bytes": 904,
@@ -6136,11 +6141,6 @@
       "bytes": 1209,
       "path": "dynamic/编程/2026-08-06 14-18-51 查岗工作流v10_3cb97116bb9c.md",
       "sha256": "341539ae6fbf19ff9d81b64735f5febdb2bfca12da53604016e3da71fdc55adc"
-    },
-    {
-      "bytes": 1087,
-      "path": "dynamic/编程/2026-08-06 14-18-56 查岗工作流踩坑_53f562e7abcd.md",
-      "sha256": "da2daad09bf081ebf49d5d0e399fe8419ec001eb680c627da551ad31771d98af"
     },
     {
       "bytes": 843,
@@ -7288,10 +7288,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-07T23:52:17+00:00",
+  "generated_at": "2026-10-08T00:52:32+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1273114
+  "total_bytes": 1273136
 }
