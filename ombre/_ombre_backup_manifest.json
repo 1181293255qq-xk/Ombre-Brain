@@ -3310,7 +3310,7 @@
     {
       "bytes": 2794,
       "path": "dynamic/AI/2026-08-05 16-48-08 查岗工作流方案_24219550216a.md",
-      "sha256": "e51bfe25d76910de37ade255ab50d500da94e8bdd66e4a2b59e4374db34be18c"
+      "sha256": "f800681ed4222a93e0f86ce18ed449bcb82b8b53dce931acff8921ee9489ed9c"
     },
     {
       "bytes": 709,
@@ -6850,7 +6850,7 @@
     {
       "bytes": 1406,
       "path": "dynamic/编程/2026-10-09 08-31-23 聊天端收官与AI规划_b71462cdc10a.md",
-      "sha256": "04676bc55df91b567312117c16fbdd4d7e0bb672b04a4f2a3dd3e3d4333e65f2"
+      "sha256": "58627584fabe2464917361a57617cd693897f7c63b8513db858d0c3f9d7990ec"
     },
     {
       "bytes": 1206,
@@ -7295,7 +7295,7 @@
     {
       "bytes": 1230,
       "path": "permanent/数字/2026-07-16 10-25-14 插件与工具状态_72d194c04a7f.md",
-      "sha256": "fd37a7a5d066ad4472bd9621451f296e60d24fdb960a4ba616dcd1bcf20df56c"
+      "sha256": "4c78d261fb0f0c1a6ace7a2bdbcacdca5fb680d426cb653e3ef04fafd8e729e1"
     },
     {
       "bytes": 820,
@@ -7363,7 +7363,7 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-09T08:33:03+00:00",
+  "generated_at": "2026-10-09T09:33:15+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
