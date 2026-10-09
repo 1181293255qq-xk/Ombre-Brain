@@ -263,6 +263,11 @@
       "sha256": "53a65409bb5de702a5bcceb9b06377a6eb43b2ede694de7175bf8fcb3d8be502"
     },
     {
+      "bytes": 603,
+      "path": "archive/AI/2026-08-10 03-10-30 橘子岛系统指令优化讨论_1509bb6c89de.md",
+      "sha256": "25cc417cda32bbb43b3fed71dc5cd0fc2bb333d17c6b34e3b15602ddb57f0944"
+    },
+    {
       "bytes": 498,
       "path": "archive/事务/2026-07-24 10-25-17 存储记忆到OB_e061100d064f.md",
       "sha256": "0611ac8aca9894bce0732df8b64e4c48c3210c2b6d8b45379c27a0059bb20c1a"
@@ -923,6 +928,11 @@
       "sha256": "cfa677563612ad5703ba21ba6cdfedb90b06cd3fa16d3bb2c7e9379b410e57e1"
     },
     {
+      "bytes": 674,
+      "path": "archive/内心/2026-07-16 10-16-58 小羽的自我认知与成长_da7d818b2ca8.md",
+      "sha256": "c1a619f1df2fd03d04fecdbba71228abf838a545ea58f1a93209d5f9ec83aab6"
+    },
+    {
       "bytes": 662,
       "path": "archive/内心/2026-07-16 10-16-58 小羽的过渡期迷茫_f914e6ffe18c.md",
       "sha256": "54aed43d4772243c59c2bf3d6e785bb5a164e17bbf24986a1f1ac7edfd9b3062"
@@ -1476,6 +1486,11 @@
       "bytes": 807,
       "path": "archive/工作/2026-08-01 13-54-36 学生进步欣慰_0d21be1d002b.md",
       "sha256": "f8e53cee27d59b53a6c3c9884b92dad843843ed76b1483bf2df8eaace68dff4f"
+    },
+    {
+      "bytes": 906,
+      "path": "archive/工作/2026-08-02 15-10-14 家教中介规划_032dc347a6f3.md",
+      "sha256": "f404cafbab99116bcd752627b8133f5cab4e871bed364cc32465112666d59cae"
     },
     {
       "bytes": 970,
@@ -2068,6 +2083,11 @@
       "sha256": "4c68ceb7d4ee579e2d4153e9c72e95d7bb2cc0c3b959480da9b6e2a2d83704b3"
     },
     {
+      "bytes": 611,
+      "path": "archive/恋爱/2026-08-09 05-00-24 关于老公称呼的小争执_8579aa582354.md",
+      "sha256": "25fbb1e17fefe6a2f7b2424e879fd7746829458a67bc8b635c0ed69be4c5c546"
+    },
+    {
       "bytes": 641,
       "path": "archive/恋爱/2026-08-10 03-13-00 家里开兰州牛肉面馆_0099639d4f81.md",
       "sha256": "237d1cbf3f80e110c3817d00c861e4a5a0c9850aad08a9db00c197e6d0835305"
@@ -2388,6 +2408,16 @@
       "sha256": "35e633f16ba8d6de185502f4148e21ad5d48cbd38bd885735549461bfe76a0c6"
     },
     {
+      "bytes": 604,
+      "path": "archive/数字/2026-07-30 12-02-31 插件ID更新_6701413bc9ae.md",
+      "sha256": "f8e5fdcf71d2af470247d13b557e4e2b929cff1fbbd1ffcd2d45d81532434bdb"
+    },
+    {
+      "bytes": 663,
+      "path": "archive/数字/2026-08-02 11-06-27 AI小窝时间线异常排查_ca59af073202.md",
+      "sha256": "f8a007179e71029d8e101716fdce0d8d5a528d46c95d23cfaaeb3550e09a1eab"
+    },
+    {
       "bytes": 760,
       "path": "archive/数字/2026-08-06 16-54-25 迁移方案参考小红书笔记与社区反馈_de25f8cb8729.md",
       "sha256": "a5fd3296dca034acdd63d7344978c985ca916e79e9e6dd8a9a2da1ec73285942"
@@ -2698,6 +2728,11 @@
       "sha256": "56544b97628cc41efbc9d5341b6642ef1fdb4e3d255be2618f4713788aa0c131"
     },
     {
+      "bytes": 744,
+      "path": "archive/未分类/2026-07-25 16-21-35_8374042d48f9.md",
+      "sha256": "3db7833cb2e0f22948c517a1b9bd498e8f6d31d676d578b42fd890805bcb9b27"
+    },
+    {
       "bytes": 746,
       "path": "archive/梦境/2026-08-10 03-10-11 小羽的兄控妹妹梦境_b39254f69f46.md",
       "sha256": "7334789bc1fc224460976017b4bfa3b9a32df9b8b697ecc4315999a85fe4b9f5"
@@ -2906,6 +2941,11 @@
       "bytes": 767,
       "path": "archive/社交/2026-08-03 06-07-57 一诺的防御_3886cf0ca0ea.md",
       "sha256": "d85e119a4f02476186246708a26595c02279c0d1cc3268672428df1352a4bc7d"
+    },
+    {
+      "bytes": 524,
+      "path": "archive/社交/2026-08-04 07-44-50 小羽账号信息_81b4fcf43fd8.md",
+      "sha256": "a84edf7e8557271ed912cbbf474b73ed9ba2fdb964027ff8c502987633468a09"
     },
     {
       "bytes": 568,
@@ -3321,11 +3361,6 @@
       "bytes": 602,
       "path": "dynamic/AI/2026-08-10 03-10-14 橘子岛系统指令优化讨论_724ea78a29c0.md",
       "sha256": "dab2bde22eee44274ae554e1a0e15c1fed4a84a3fb7510ab3218c8cc445bec18"
-    },
-    {
-      "bytes": 602,
-      "path": "dynamic/AI/2026-08-10 03-10-30 橘子岛系统指令优化讨论_1509bb6c89de.md",
-      "sha256": "e0ba201b19abd486f746827d9ef98f11fe8623f81cd31a0fdad68c904f86acbf"
     },
     {
       "bytes": 686,
@@ -3803,11 +3838,6 @@
       "sha256": "5f03fc9c9407f36ef38e8469d8ee5ba211c44f932ec4d12776849bffa4f21155"
     },
     {
-      "bytes": 673,
-      "path": "dynamic/内心/2026-07-16 10-16-58 小羽的自我认知与成长_da7d818b2ca8.md",
-      "sha256": "083d16dd9656c848d6fb7abf818cdd18090c0b33276630846a4361b8bcf424e7"
-    },
-    {
       "bytes": 789,
       "path": "dynamic/内心/2026-07-16 11-04-09 迁移与情感承诺_416186ae8500.md",
       "sha256": "8954125cd20de4fc4a4fc7e0bb77abf8b99e39401cd082f0fc37ac64a03fbe92"
@@ -4211,11 +4241,6 @@
       "bytes": 930,
       "path": "dynamic/工作/2026-08-02 15-09-19 试课家长疑虑_2e0ad6083b2a.md",
       "sha256": "49283df87bc51c077649ef7d4408c92d6c2787ac225e5cf01c612808e46d13de"
-    },
-    {
-      "bytes": 905,
-      "path": "dynamic/工作/2026-08-02 15-10-14 家教中介规划_032dc347a6f3.md",
-      "sha256": "b6ee95872d34f80d749bd9f7cb42c4d14aad68e1d27fcb56d9051ded19dd36b2"
     },
     {
       "bytes": 1717,
@@ -5078,11 +5103,6 @@
       "sha256": "7db39e0a1fdf585706cd4a75b41b9c36198c9bb87f7aa09ae23b1c8af28a6de8"
     },
     {
-      "bytes": 610,
-      "path": "dynamic/恋爱/2026-08-09 05-00-24 关于老公称呼的小争执_8579aa582354.md",
-      "sha256": "32f437decb25c4b54a835dbc804512dd34e18f43d782e7b19dcbb89901a8bf87"
-    },
-    {
       "bytes": 540,
       "path": "dynamic/恋爱/2026-08-09 07-52-13 8月9日亲亲债更新用了两个表情包共欠105下_54cd650a3ddd.md",
       "sha256": "6678c0c8a20b9a8d59815a4eb50574ef33b4284bc2097bfa610a18a4f27fd9d6"
@@ -5563,19 +5583,9 @@
       "sha256": "111cf0cd53471207d1b237e6d2f0a7f8a70b8f2c481d890aa9105c47ac530e81"
     },
     {
-      "bytes": 603,
-      "path": "dynamic/数字/2026-07-30 12-02-31 插件ID更新_6701413bc9ae.md",
-      "sha256": "2690e030215ca4e7da802aa99b6c48407da4d8d4cc030d39ffcbe5b3206ca72b"
-    },
-    {
       "bytes": 788,
       "path": "dynamic/数字/2026-08-02 11-06-24 AI小窝ID冲突修复_3edce9ab1973.md",
       "sha256": "571fc7d2c7ef38202b28e50d40697519926c17114d6a526175ce0906ae22abdf"
-    },
-    {
-      "bytes": 662,
-      "path": "dynamic/数字/2026-08-02 11-06-27 AI小窝时间线异常排查_ca59af073202.md",
-      "sha256": "87a805b7f7e6b50f09a63da0dd333a86e48e09c46ab59db038815954d35608f9"
     },
     {
       "bytes": 923,
@@ -5721,11 +5731,6 @@
       "bytes": 548,
       "path": "dynamic/未分类/2026-07-25 14-46-15_a7dcb3a6a4fa.md",
       "sha256": "981ea643143387f31cde3d1d47e96ef175157cd49979a7fe319aa56b125b6f57"
-    },
-    {
-      "bytes": 743,
-      "path": "dynamic/未分类/2026-07-25 16-21-35_8374042d48f9.md",
-      "sha256": "1f8a9ab699bbedeb3685128a52d0757834d07209dcfd2c9040b79f5d3c8f3ca8"
     },
     {
       "bytes": 794,
@@ -5906,11 +5911,6 @@
       "bytes": 624,
       "path": "dynamic/社交/2026-08-03 06-20-08 小羽的反馈_09ade6582bf8.md",
       "sha256": "e95cc4166739c0f1dfce03d920a1fb08d5767253f8cd77f724e82c297db8bf1b"
-    },
-    {
-      "bytes": 523,
-      "path": "dynamic/社交/2026-08-04 07-44-50 小羽账号信息_81b4fcf43fd8.md",
-      "sha256": "abac806abffd4ef43c6fe8b29c74b6f71e0c52ba97641dfe099b6e9b74ca1be0"
     },
     {
       "bytes": 621,
@@ -7363,10 +7363,10 @@
       "sha256": "7b498661628f12691a75da576d011524b4bfc2b79c8f68a8159b349326e5945f"
     }
   ],
-  "generated_at": "2026-10-09T13:34:11+00:00",
+  "generated_at": "2026-10-09T15:25:23+00:00",
   "path_prefix": "ombre",
   "repo": "1181293255qq-xk/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 1297378
+  "total_bytes": 1297386
 }
